@@ -1,5 +1,31 @@
 [
   {
+    "id": "82eaa825236d",
+    "title": "India Pharma Expo 2026 Wraps Up in Hyderabad, Spotlighting MedTech Integration and Future-Ready Healthcare Systems - eHealth Magazine",
+    "description": "Source: eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUnBiTGNmZmthczM2OWlJaVBOTHYzV3pkVlh3MmdvQVBXcXFlZzZIMG51UUQta01rTzQ0YmstQ2NqZHViMVlnNEZxRUZZRkZtY1pBNklmRHdWT2xmSHF2MTU1N0wwSjJVbWJzM1hQOHluUVBTZUFZTnpmcDlWZjlZMFZmcG1JMER3dkNWcjAzMFJrcExoQXROMWtPeC1tVERfVWdTMXZWRW81U0xGbUxDUzhLb3NidXYwU0JxMzRrem1HMlZ4S2haNWN5bkFRbEVIbnFxSEFYOTc2UXIzVk1VY0c5cjRnTThSbFE?oc=5",
+    "source": "eHealth Magazine",
+    "date": "2026-09-10",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "9613dcbc66e9",
+    "title": "New Healthcare Policy for Telangana to Be Tabled in 2026–27 Budget, Says CM Revanth Reddy - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVI0aS1vdkI4ZDhnaG56N003WXVqVzdHNFlHZHh0WFpWMXF3YU5FQXNSR0JtbGRDdG5aLWlmQ0xSclNaeERKZGhIZDBGYzRHYWRuaG9BV290ZmZZN09TWkYwN28zLTFRcXhNWHBPeDB6c21XTHJiWmtFLU9CTUsxTUxWTlRWd1lfV2Y4RmVENllRbXNKbURUT2tKdHhzUllRdW01M3ZXcXBOQW9NOVFLMjdEOW5CRFFFN3dBZEhtQQ?oc=5",
+    "source": "Digital Health News",
+    "date": "2026-09-10",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "952cdb68f29d",
     "title": "Singapore - Digital Health Laws and Regulations 2026 - ICLG",
     "description": "Source: ICLG",
@@ -13,19 +39,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "416ab6d53085",
-    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
-    "description": "Source: Cleveland Clinic",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
-    "source": "Cleveland Clinic",
-    "date": "2026-09-10",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "500a062db315",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
     "description": "Source: PIB",
@@ -37,6 +50,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "416ab6d53085",
+    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
+    "description": "Source: Cleveland Clinic",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
+    "source": "Cleveland Clinic",
+    "date": "2026-09-10",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "aa4e20aac30e",
@@ -156,11 +182,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "a3b8cbef7f86",
-    "title": "Union Minister J. P. Nadda to address India Medical Device 2026 - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qSXZuNTlzaENKLWNaYmhRdEhWTkZKUzFrZXNubjljMk05S3FobmJaVVZQWkVqelFMbjZPSXNiN19wN1g2dkI1cS1Bc1dqTFZSbG50ZlF3cnpYTDdDc2tEcHZsdFhaQUwtZ3dsNVVhRDdGS0UtZnJodEdSOA?oc=5",
-    "source": "PIB",
+    "id": "004e4f0d8633",
+    "title": "9th India Medical Device 2026 kicks off in Delhi; focus on building India as a Global MedTech Hub - ANI News",
+    "description": "Source: ANI News",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU3JKNUxyQmk5cGkta2pZR0RxVng3Rkl1b0Vkb3YyOWp2M19TaGhDeGt0dnNGVkVETTg3RkdxdFVPSk9qa0ctX1gzUF9od1ZVSEFRbDdQbEF5bjE4a05EVTh3ZmpJYWtOM2FjVXBYRmZzaUR4M2liZ3F0dkp4N0VKSEdYTXZJaG1rMGZqRW93c3A3bW9sbWtLRjRYbFNGU19wTDJtZTFCRXg4cUYyYm1ubUNlTGJLUXRlWW4yN3AwTVpuYlB0cXlHQ3lEMFRnN09xUnRaeFhHLU5OZ3dUU09iYmVrTWNRYXVVb1J0b0pZcFM3UQ?oc=5",
+    "source": "ANI News",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -260,11 +286,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "9b5fcb2eee16",
-    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - businesswire.com",
-    "description": "Source: businesswire.com",
+    "id": "4c6467f20d23",
+    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
+    "description": "Source: Business Wire",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
-    "source": "businesswire.com",
+    "source": "Business Wire",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -403,11 +429,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "e427d20c8080",
-    "title": "Indian Surgeon creates ‘World Record’ in medical history by performing World’s Longest Robot-Assisted Cardiac TeleSurgery Across 20,000 km Between Guyana and India using Made in India technology - goachronicle.com",
-    "description": "Source: goachronicle.com",
+    "id": "30b991abb63f",
+    "title": "Indian Surgeon creates ‘World Record’ in medical history by performing World’s Longest Robot-Assisted Cardiac TeleSurgery Across 20,000 km Between Guyana and India using Made in India technology - Goa Chronicle",
+    "description": "Source: Goa Chronicle",
     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS1dTODRpZUZxYjRLWjh0WXlsdjBCLWxobUI4TGFpOHlOSkVPRWtTRWhNNUk3MjZNRWJTVmIzT3piZkhMa3R2Z0RYVEt5NmdjdHY5bnNpUGZDVmN2QmpMX29fQjhGRTFwakJSZFpIek1mdnRnbS1qOGd5ZWpPc09RNG1rYkt5RkdadnZaXzVUT2ZsRG9GeVotdmphQ3BqZ1RrVXFGTG9KeHJrRnM2Y04zQnNsT3FlZ0YzREtINDFRU2JtRHZtWmVJX3EtbVVMMzRZXzM5WkVzdGVMR0YzV0d4dmx1dDVRTi1fSzlEdG5NQ2FiSTV3M0JMWGZlVEJVMGJlMHlXc05Mc0l4RVRQRFRFcHhNeDZIME5qVFdFVGZqZDRHZm1E?oc=5",
-    "source": "goachronicle.com",
+    "source": "Goa Chronicle",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -546,11 +572,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "6675534134cc",
-    "title": "Wearable Fitness Trackers Market Size & Share [2026-2035] - Market Growth Reports",
-    "description": "Source: Market Growth Reports",
+    "id": "5902de9d1b1a",
+    "title": "Wearable Fitness Trackers Market Size & Share [2026-2035] - marketgrowthreports.com",
+    "description": "Source: marketgrowthreports.com",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWk9tdlpSZmF0SXhmbnNUZG1ocnZ1Wk9hejd3YUg5M2w4NDRDLXRITDBHOW5GakJNRWh2Q0c2cVktMEUtczZDOFVXNWJPZzlYUnpiWEtOMlJCV28ySWtndVR2RF9kaGl6Y29TbXlqd2ZLUGl5R1I5VndSQ25OQzZEamNrWk1FUWZsLUYyRjBranJkWk1Y?oc=5",
-    "source": "Market Growth Reports",
+    "source": "marketgrowthreports.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
