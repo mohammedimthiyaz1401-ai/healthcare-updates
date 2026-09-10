@@ -26,30 +26,17 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "952cdb68f29d",
-    "title": "Singapore - Digital Health Laws and Regulations 2026 - ICLG",
-    "description": "Source: ICLG",
+    "id": "94cd683895ab",
+    "title": "Singapore - Digital Health Laws and Regulations 2026 - iclg.com",
+    "description": "Source: iclg.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkhKb2N2bTZER0FmNzZ3TmpzajdhSno1SlBtX1UyckNURDRSUFhYVVdPa1JhbmFTcW9LOTUtdkp4VkJ1OHZ5cVZZUktQMTFTcW5NLVlqbkp1S1lQZGNrZXJkaHU4N2ZYanlDZkZ3SVExRU5CX0ZqWE9nUWc2MjNwSkFYLWU?oc=5",
-    "source": "ICLG",
+    "source": "iclg.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
-  },
-  {
-    "id": "500a062db315",
-    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IVVAweWFmaThRVm83aFRIOTktcy15dFU0M3AtVTVTRnZzbV95ZmxBcTN5aVdHMXRLVFNjMmp4TE9felpnSHd4eEVYN3JMbjZuRmItVHB3X0RfcmxFRVZ5MVVBTENGSHFMeXVTVnV2cjF4S2xNLURFeFdIYw?oc=5",
-    "source": "PIB",
-    "date": "2026-09-10",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
   },
   {
     "id": "416ab6d53085",
@@ -63,6 +50,19 @@
     "tag_label": "AI / ML",
     "priority": "medium",
     "subcategory": "ai"
+  },
+  {
+    "id": "500a062db315",
+    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IVVAweWFmaThRVm83aFRIOTktcy15dFU0M3AtVTVTRnZzbV95ZmxBcTN5aVdHMXRLVFNjMmp4TE9felpnSHd4eEVYN3JMbjZuRmItVHB3X0RfcmxFRVZ5MVVBTENGSHFMeXVTVnV2cjF4S2xNLURFeFdIYw?oc=5",
+    "source": "PIB",
+    "date": "2026-09-10",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
   },
   {
     "id": "aa4e20aac30e",
@@ -364,19 +364,6 @@
     "subcategory": "genomics"
   },
   {
-    "id": "fb406307364f",
-    "title": "The expanding role of artificial intelligence in personalised medicine: from innovation to individualized care - Frontiers",
-    "description": "Source: Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1FOUlREeHZsa0dYeG5iMl94ZEJXZWE2SzV3RHdUQjJQcE9lRG9kbzRXeFpEeDBQWGlZY1EzRHNXMndYZWk4SXpiSEtzOTY4aGVpd25STDVvd1c2UFMwU1ltUExyeEhQV0Q1bGdfV0c3LVRPMUNMUXFUNnVoN2xXUWxtY24wZEJkVDJtY1pB?oc=5",
-    "source": "Frontiers",
-    "date": "2026-09-10",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "12f507511ea9",
     "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - The Indian Practitioner",
     "description": "Source: The Indian Practitioner",
@@ -427,6 +414,19 @@
     "tag_label": "Genomics",
     "priority": "medium",
     "subcategory": "genomics"
+  },
+  {
+    "id": "e918aaa0dd1a",
+    "title": "Personalized Medicine Market | Global Market Analysis Report - 2036 - Fact.MR",
+    "description": "Source: Fact.MR",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncHlNVlVnQ0Q2d19DT3FBZW5pSld0TXNuc1RYZ1l0b24wbGNTZkxETml4eUZPN204TVdFbF9CVlRVVEJpU2VQY0dSUnJqTUdRLWxQUlJWcHBaTVBCanVyeWtVNXFYMHNkSUE?oc=5",
+    "source": "Fact.MR",
+    "date": "2026-09-10",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "30b991abb63f",
@@ -572,11 +572,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "5902de9d1b1a",
-    "title": "Wearable Fitness Trackers Market Size & Share [2026-2035] - marketgrowthreports.com",
-    "description": "Source: marketgrowthreports.com",
+    "id": "6675534134cc",
+    "title": "Wearable Fitness Trackers Market Size & Share [2026-2035] - Market Growth Reports",
+    "description": "Source: Market Growth Reports",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWk9tdlpSZmF0SXhmbnNUZG1ocnZ1Wk9hejd3YUg5M2w4NDRDLXRITDBHOW5GakJNRWh2Q0c2cVktMEUtczZDOFVXNWJPZzlYUnpiWEtOMlJCV28ySWtndVR2RF9kaGl6Y29TbXlqd2ZLUGl5R1I5VndSQ25OQzZEamNrWk1FUWZsLUYyRjBranJkWk1Y?oc=5",
-    "source": "marketgrowthreports.com",
+    "source": "Market Growth Reports",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -611,11 +611,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "ed2a2a6e9e0f",
-    "title": "Wearable Computing Devices Market Size, Share & Forecast to 2036 - factmr.com",
-    "description": "Source: factmr.com",
+    "id": "acca9ca2ebea",
+    "title": "Wearable Computing Devices Market Size, Share & Forecast to 2036 - Fact.MR",
+    "description": "Source: Fact.MR",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fNmMxNWl2amxuS2gxaGZzc3VXSVZwMGtvRjU2T3d3dW54ZUxfa191bmJIcVBmclNWdms0UkV3cGhUVjNZSG5hdERXbVB2ZFJ6WUVuWlhYYm9iek10dXVkTjYtVDRKOUlZWE14Sy03ZXU?oc=5",
-    "source": "factmr.com",
+    "source": "Fact.MR",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
