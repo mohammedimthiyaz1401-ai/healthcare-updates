@@ -680,7 +680,7 @@
             </div>
             <div class="date-input-wrap">
                 <label>Custom:</label>
-                <input type="date" class="date-input" id="customDate" value="${new Date().toISOString().slice(0,10)}" onchange="filterByDate(this.value, this)">
+                <input type="date" class="date-input" id="customDate" onchange="filterByDate(this.value, this)">
             </div>
             <span class="date-range-info" id="dateRangeInfo">Showing: Today</span>
         </div>
@@ -963,40 +963,31 @@
             else if (dateStr === '7days') info.textContent = 'Showing: Last 7 Days';
             else info.textContent = `Showing: ${dateStr}`;
 
+            // Reset all data before loading
+            allData = { telangana: [], mci: [], regulations: [], hospitals: [], launches: [], central: [], tech: [], ticker: [] };
+
             // Load data for selected date
-            allData = await loadDateData(dateStr);
+            const loaded = await loadDateData(dateStr);
+            allData = loaded;
+            allData.ticker = [
+                ...allData.tech.filter(n => n.priority === 'high').slice(0, 3),
+                ...allData.telangana.filter(n => n.priority === 'high').slice(0, 2),
+                ...allData.mci.filter(n => n.priority === 'high').slice(0, 2),
+                ...allData.central.filter(n => n.priority === 'high').slice(0, 2),
+            ];
             renderAll();
         }
 
         // Load data from JSON files
         async function loadData() {
             try {
-                const [telRes, mciRes, regRes, hospRes, launchRes, centRes, techRes] = await Promise.all([
-                    fetch('data/telangana.json').catch(() => ({ ok: false })),
-                    fetch('data/mci.json').catch(() => ({ ok: false })),
-                    fetch('data/regulations.json').catch(() => ({ ok: false })),
-                    fetch('data/hospitals.json').catch(() => ({ ok: false })),
-                    fetch('data/launches.json').catch(() => ({ ok: false })),
-                    fetch('data/central.json').catch(() => ({ ok: false })),
-                    fetch('data/tech.json').catch(() => ({ ok: false })),
-                ]);
-
-                if (telRes.ok) allData.telangana = await telRes.json();
-                if (mciRes.ok) allData.mci = await mciRes.json();
-                if (regRes.ok) allData.regulations = await regRes.json();
-                if (hospRes.ok) allData.hospitals = await hospRes.json();
-                if (launchRes.ok) allData.launches = await launchRes.json();
-                if (centRes.ok) allData.central = await centRes.json();
-                if (techRes.ok) allData.tech = await techRes.json();
-
-                // Build ticker from top priority items
+                allData = await loadDateData('today');
                 allData.ticker = [
                     ...allData.tech.filter(n => n.priority === 'high').slice(0, 3),
                     ...allData.telangana.filter(n => n.priority === 'high').slice(0, 2),
                     ...allData.mci.filter(n => n.priority === 'high').slice(0, 2),
                     ...allData.central.filter(n => n.priority === 'high').slice(0, 2),
                 ];
-
                 renderAll();
             } catch (e) {
                 console.error('Error loading data:', e);
@@ -1126,6 +1117,7 @@
 
         // Initialize
         loadData();
+        document.getElementById('customDate').value = new Date().toISOString().slice(0,10);
     </script>
 </body>
 </html>
