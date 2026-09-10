@@ -247,6 +247,7 @@
         .section.hospitals { border-left-color: #198754; }
         .section.regulations { border-left-color: #6f42c1; }
         .section launches { border-left-color: #0dcaf0; }
+        .section.tech { border-left-color: #9c27b0; }
 
         .section-header {
             display: flex;
@@ -458,6 +459,103 @@
             border-color: #ff9800;
         }
 
+        /* Date Filter Bar */
+        .date-filter-bar {
+            background: white;
+            border-radius: 12px;
+            padding: 14px 20px;
+            margin-bottom: 20px;
+            box-shadow: var(--shadow);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .date-filter-label {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--dark);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            white-space: nowrap;
+        }
+
+        .date-chips {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+
+        .date-chip {
+            padding: 6px 14px;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            background: white;
+            color: var(--text-light);
+            font-size: 12px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+
+        .date-chip:hover { background: #f0f4f8; border-color: #adb5bd; }
+
+        .date-chip.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .date-chip .count {
+            background: rgba(255,255,255,0.25);
+            padding: 1px 6px;
+            border-radius: 10px;
+            font-size: 10px;
+            margin-left: 4px;
+        }
+
+        .date-chip.active .count {
+            background: rgba(255,255,255,0.3);
+        }
+
+        .date-input-wrap {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            margin-left: auto;
+        }
+
+        .date-input-wrap label {
+            font-size: 12px;
+            color: var(--text-light);
+            font-weight: 500;
+        }
+
+        .date-input {
+            padding: 6px 12px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 12px;
+            font-family: 'Inter', sans-serif;
+            color: var(--text);
+            background: white;
+            cursor: pointer;
+        }
+
+        .date-input:focus { outline: none; border-color: var(--primary); }
+
+        .date-range-info {
+            font-size: 11px;
+            color: var(--text-light);
+            padding: 4px 10px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            white-space: nowrap;
+        }
+
         /* Loading */
         .loading {
             text-align: center;
@@ -557,6 +655,7 @@
                 <button class="nav-btn" onclick="filterSection('regulations')">📋 Rules & Regulations</button>
                 <button class="nav-btn" onclick="filterSection('hospitals')">🏥 Hospitals</button>
                 <button class="nav-btn" onclick="filterSection('launches')">🚀 Launches</button>
+                <button class="nav-btn" onclick="filterSection('tech')">🚀 Healthcare Tech</button>
                 <button class="nav-btn" onclick="filterSection('central')">🇮🇳 Central Govt</button>
             </div>
         </nav>
@@ -570,6 +669,21 @@
 
     <!-- Main Content -->
     <div class="container">
+
+        <!-- Date Filter Bar -->
+        <div class="date-filter-bar">
+            <span class="date-filter-label">📅 Filter by Date:</span>
+            <div class="date-chips" id="dateChips">
+                <button class="date-chip active" onclick="filterByDate('today')">Today</button>
+                <button class="date-chip" onclick="filterByDate('yesterday')">Yesterday</button>
+                <button class="date-chip" onclick="filterByDate('7days')">Last 7 Days</button>
+            </div>
+            <div class="date-input-wrap">
+                <label>Custom:</label>
+                <input type="date" class="date-input" id="customDate" onchange="filterByDate(this.value)">
+            </div>
+            <span class="date-range-info" id="dateRangeInfo">Showing: Today</span>
+        </div>
 
         <!-- Stats -->
         <div class="stats-row">
@@ -592,6 +706,10 @@
             <div class="stat-card">
                 <div class="stat-icon teal">🚀</div>
                 <div><div class="stat-num" id="launchCount">0</div><div class="stat-lbl">Launches</div></div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon" style="background:rgba(156,39,176,0.1);">🤖</div>
+                <div><div class="stat-num" id="techCount">0</div><div class="stat-lbl">Health Tech</div></div>
             </div>
         </div>
 
@@ -688,6 +806,29 @@
             </div>
         </div>
 
+        <!-- Healthcare Technology Boom -->
+        <div class="section tech" id="section-tech">
+            <div class="section-header">
+                <div class="section-title">
+                    <span class="icon" style="background:#f3e5f5;">🚀</span>
+                    Healthcare Technology Boom — AI, MedTech & Innovation
+                </div>
+                <span class="section-count" id="techBadge">0</span>
+            </div>
+            <div class="filter-bar">
+                <button class="filter-btn tech-filter active" onclick="filterTech('all')">All Tech</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('ai')">🤖 AI / ML</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('medtech')">⚡ MedTech</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('telehealth')">📱 Telehealth</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('genomics')">🧬 Genomics</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('robotics')">🦾 Robotics</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('startup')">💡 Startups</button>
+            </div>
+            <div class="news-grid" id="techNews">
+                <div class="loading"><div class="spinner"></div>Loading healthcare tech updates...</div>
+            </div>
+        </div>
+
         <!-- Central Government -->
         <div class="section" id="section-central">
             <div class="section-header">
@@ -731,11 +872,101 @@
             hospitals: [],
             launches: [],
             central: [],
+            tech: [],
             ticker: []
         };
 
+        let archiveData = {};
+        let availableDates = [];
         let currentFilter = 'all';
         let currentTelanganaFilter = 'all';
+        let currentTechFilter = 'all';
+        let currentDateFilter = 'today';
+
+        // Load available dates list
+        async function loadDates() {
+            try {
+                const resp = await fetch('data/dates.json');
+                if (resp.ok) availableDates = await resp.json();
+            } catch (e) {}
+            renderDateChips();
+        }
+
+        function renderDateChips() {
+            const chips = document.getElementById('dateChips');
+            if (!chips) return;
+
+            let html = `
+                <button class="date-chip ${currentDateFilter === 'today' ? 'active' : ''}" onclick="filterByDate('today')">Today</button>
+                <button class="date-chip ${currentDateFilter === 'yesterday' ? 'active' : ''}" onclick="filterByDate('yesterday')">Yesterday</button>
+                <button class="date-chip ${currentDateFilter === '7days' ? 'active' : ''}" onclick="filterByDate('7days')">Last 7 Days</button>
+            `;
+
+            // Add individual date chips for available archive dates
+            availableDates.slice(0, 7).forEach(d => {
+                const label = new Date(d + 'T00:00:00').toLocaleDateString('en-IN', { day: 'numeric', month: 'short' });
+                const isActive = currentDateFilter === d;
+                html += `<button class="date-chip ${isActive ? 'active' : ''}" onclick="filterByDate('${d}')">${label}</button>`;
+            });
+
+            chips.innerHTML = html;
+        }
+
+        // Load data for a specific date
+        async function loadDateData(dateStr) {
+            if (dateStr === 'today') {
+                return await loadCategoryData('data/');
+            } else if (dateStr === 'yesterday') {
+                const y = new Date(); y.setDate(y.getDate() - 1);
+                constyd = y.toISOString().slice(0,10);
+                return await loadCategoryData(`data/archive/${yd}/`);
+            } else if (dateStr === '7days') {
+                // Load all dates combined
+                const result = { telangana: [], mci: [], regulations: [], hospitals: [], launches: [], central: [] };
+                const dates = availableDates.slice(0, 7);
+                for (const d of dates) {
+                    const dayData = await loadCategoryData(`data/archive/${d}/`);
+                    for (const cat of Object.keys(result)) {
+                        result[cat] = result[cat].concat(dayData[cat] || []);
+                    }
+                }
+                return result;
+            } else {
+                // Specific date
+                return await loadCategoryData(`data/archive/${dateStr}/`);
+            }
+        }
+
+        async function loadCategoryData(basePath) {
+            const data = { telangana: [], mci: [], regulations: [], hospitals: [], launches: [], central: [], tech: [] };
+            const categories = ['telangana', 'mci', 'regulations', 'hospitals', 'launches', 'central', 'tech'];
+            for (const cat of categories) {
+                try {
+                    const resp = await fetch(`${basePath}${cat}.json`);
+                    if (resp.ok) data[cat] = await resp.json();
+                } catch (e) {}
+            }
+            return data;
+        }
+
+        async function filterByDate(dateStr) {
+            currentDateFilter = dateStr;
+
+            // Update active chip
+            document.querySelectorAll('.date-chip').forEach(c => c.classList.remove('active'));
+            event.target.classList.add('active');
+
+            // Update info
+            const info = document.getElementById('dateRangeInfo');
+            if (dateStr === 'today') info.textContent = 'Showing: Today';
+            else if (dateStr === 'yesterday') info.textContent = 'Showing: Yesterday';
+            else if (dateStr === '7days') info.textContent = 'Showing: Last 7 Days';
+            else info.textContent = `Showing: ${dateStr}`;
+
+            // Load data for selected date
+            allData = await loadDateData(dateStr);
+            renderAll();
+        }
 
         // Load data from JSON files
         async function loadData() {
@@ -758,7 +989,8 @@
 
                 // Build ticker from top priority items
                 allData.ticker = [
-                    ...allData.telangana.filter(n => n.priority === 'high').slice(0, 3),
+                    ...allData.tech.filter(n => n.priority === 'high').slice(0, 3),
+                    ...allData.telangana.filter(n => n.priority === 'high').slice(0, 2),
                     ...allData.mci.filter(n => n.priority === 'high').slice(0, 2),
                     ...allData.central.filter(n => n.priority === 'high').slice(0, 2),
                 ];
@@ -778,25 +1010,28 @@
             renderSection('regulationsNews', allData.regulations);
             renderSection('hospitalsNews', allData.hospitals);
             renderSection('launchesNews', allData.launches);
+            renderSection('techNews', allData.tech, currentTechFilter);
             renderSection('centralNews', allData.central);
             document.getElementById('lastUpdate').textContent = 'Updated: ' + new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
         }
 
         function updateStats() {
             const total = allData.telangana.length + allData.mci.length + allData.regulations.length +
-                          allData.hospitals.length + allData.launches.length + allData.central.length;
+                          allData.hospitals.length + allData.launches.length + allData.central.length + allData.tech.length;
             
             animateCount('totalUpdates', total);
             animateCount('telanganaCount', allData.telangana.length);
             animateCount('mciCount', allData.mci.length);
             animateCount('hospitalCount', allData.hospitals.length);
             animateCount('launchCount', allData.launches.length);
+            animateCount('techCount', allData.tech.length);
 
             document.getElementById('telanganaBadge').textContent = allData.telangana.length;
             document.getElementById('mciBadge').textContent = allData.mci.length;
             document.getElementById('regulationsBadge').textContent = allData.regulations.length;
             document.getElementById('hospitalsBadge').textContent = allData.hospitals.length;
             document.getElementById('launchesBadge').textContent = allData.launches.length;
+            document.getElementById('techBadge').textContent = allData.tech.length;
             document.getElementById('centralBadge').textContent = allData.central.length;
         }
 
@@ -857,7 +1092,7 @@
             document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
             event.target.classList.add('active');
 
-            const sections = ['telangana', 'mci', 'regulations', 'hospitals', 'launches', 'central'];
+            const sections = ['telangana', 'mci', 'regulations', 'hospitals', 'launches', 'tech', 'central'];
             sections.forEach(s => {
                 const el = document.getElementById('section-' + s);
                 if (el) {
@@ -865,7 +1100,6 @@
                 }
             });
 
-            // Also show/hide telangana banner
             const banner = document.getElementById('telanganaBanner');
             if (banner) {
                 banner.style.display = (section === 'all' || section === 'telangana') ? 'flex' : 'none';
@@ -877,6 +1111,13 @@
             document.querySelectorAll('.telangana-filter').forEach(b => b.classList.remove('active'));
             event.target.classList.add('active');
             renderSection('telanganaNews', allData.telangana, filter);
+        }
+
+        function filterTech(filter) {
+            currentTechFilter = filter;
+            document.querySelectorAll('.tech-filter').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+            renderSection('techNews', allData.tech, filter);
         }
 
         // Initialize

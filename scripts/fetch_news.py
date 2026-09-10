@@ -29,9 +29,12 @@ except ImportError:
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
+ARCHIVE_DIR = DATA_DIR / "archive"
+ARCHIVE_DIR.mkdir(exist_ok=True)
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 YESTERDAY = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+KEEP_DAYS = 7  # Rolling window: keep last 7 days
 
 # ============================================================
 # RSS FEEDS - Healthcare Sources
@@ -143,6 +146,15 @@ GOOGLE_NEWS_RSS = {
     "telangana_medical_college": "https://news.google.com/rss/search?q=telangana+medical+college+KNRUHS+admission+2026&hl=en-IN&gl=IN&ceid=IN:en",
     "hospital_india": "https://news.google.com/rss/search?q=new+hospital+india+launch+2026&hl=en-IN&gl=IN&ceid=IN:en",
     "ayushman_bharat": "https://news.google.com/rss/search?q=ayushman+bharat+scheme+india+health+2026&hl=en-IN&gl=IN&ceid=IN:en",
+    # Healthcare Technology
+    "health_ai_ml": "https://news.google.com/rss/search?q=healthcare+AI+artificial+intelligence+medical+2026&hl=en-IN&gl=IN&ceid=IN:en",
+    "medtech_india": "https://news.google.com/rss/search?q=medtech+medical+technology+india+innovation+2026&hl=en-IN&gl=IN&ceid=IN:en",
+    "telehealth_india": "https://news.google.com/rss/search?q=telehealth+telemedicine+digital+health+india+2026&hl=en-IN&gl=IN&ceid=IN:en",
+    "genomics_india": "https://news.google.com/rss/search?q=genomics+precision+medicine+gene+therapy+india+2026&hl=en-IN&gl=IN&ceid=IN:en",
+    "surgical_robotics": "https://news.google.com/rss/search?q=surgical+robotics+robot+assisted+surgery+india+2026&hl=en-IN&gl=IN&ceid=IN:en",
+    "health_startup": "https://news.google.com/rss/search?q=healthcare+startup+funding+india+healthtech+2026&hl=en-IN&gl=IN&ceid=IN:en",
+    "wearable_health": "https://news.google.com/rss/search?q=wearable+health+device+fitness+tracker+medical+india+2026&hl=en-IN&gl=IN&ceid=IN:en",
+    "drone_delivery": "https://news.google.com/rss/search?q=drone+delivery+medicine+healthcare+india+2026&hl=en-IN&gl=IN&ceid=IN:en",
 }
 
 HOSPITAL_KEYWORDS = [
@@ -162,31 +174,68 @@ def make_id(title, source):
     return hashlib.md5(text.encode()).hexdigest()[:12]
 
 
+HEALTH_TECH_KEYWORDS = [
+    "artificial intelligence", "ai in health", "machine learning", "deep learning",
+    "medtech", "medical device", "diagnostic", "imaging", "wearable",
+    "telehealth", "telemedicine", "digital health", "health app", "remote patient",
+    "genomics", "gene therapy", "precision medicine", "personalized medicine", "genetic",
+    "robotics", "robot-assisted", "surgical robot", "da vinci",
+    "health startup", "healthtech", "health tech startup", "funding round",
+    "drone delivery", "medicine drone", "health drone",
+    "3d printing", "bioprinting", "prosthetic",
+    "blockchain health", "health blockchain",
+    "iot health", "internet of things medical",
+    "virtual reality", "vr health", "ar medical",
+    "nanotechnology", "nano medicine",
+    "crispr", "gene editing",
+    "mhealth", "m-health", "mobile health",
+    "cloud health", "health cloud",
+    "pharma tech", "pharmatech",
+]
+
+
 def classify_item(title, description, source_key):
     """Auto-classify a news item into categories."""
     text = f"{title} {description}".lower()
 
+    # Check Healthcare Tech first
+    if any(kw in text for kw in HEALTH_TECH_KEYWORDS):
+        # Sub-classify tech
+        sub = "ai"
+        tag_label = "AI / ML"
+        if any(kw in text for kw in ["medtech", "medical device", "diagnostic", "imaging", "wearable"]):
+            sub, tag_label = "medtech", "MedTech"
+        elif any(kw in text for kw in ["telehealth", "telemedicine", "digital health", "health app", "remote patient"]):
+            sub, tag_label = "telehealth", "Telehealth"
+        elif any(kw in text for kw in ["genomics", "gene therapy", "precision medicine", "genetic", "crispr"]):
+            sub, tag_label = "genomics", "Genomics"
+        elif any(kw in text for kw in ["robotics", "robot", "surgical robot"]):
+            sub, tag_label = "robotics", "Robotics"
+        elif any(kw in text for kw in ["startup", "funding", "healthtech"]):
+            sub, tag_label = "startup", "Startup"
+        return "tech", "tech", tag_label, sub
+
     # Check Telangana
     if any(kw in text for kw in TELANGANA_KEYWORDS):
-        return "telangana", "telangana", "Telangana"
+        return "telangana", "telangana", "Telangana", None
 
     # Check MCI/NMC
     if any(kw in text for kw in MCI_KEYWORDS):
-        return "mci", "mci", "NMC"
+        return "mci", "mci", "NMC", None
 
     # Check rules/regulations
     if any(kw in text for kw in RULES_KEYWORDS):
-        return "regulations", "regulation", "Regulation"
+        return "regulations", "regulation", "Regulation", None
 
     # Check launches
     if any(kw in text for kw in LAUNCH_KEYWORDS):
-        return "launches", "launch", "Launch"
+        return "launches", "launch", "Launch", None
 
     # Check hospitals
     if any(kw in text for kw in HOSPITAL_KEYWORDS):
-        return "hospitals", "hospital", "Hospital"
+        return "hospitals", "hospital", "Hospital", None
 
-    return "central", "central", "National"
+    return "central", "central", "National", None
 
 
 def is_healthcare_related(title, description, keywords):
@@ -223,9 +272,11 @@ def fetch_rss(feed_key, feed_config):
                 continue
 
             # Classify
-            cat, tag, tag_label = classify_item(title, description, feed_key)
+            result = classify_item(title, description, feed_key)
+            cat, tag, tag_label = result[0], result[1], result[2]
+            subcategory = result[3] if len(result) > 3 else None
 
-            items.append({
+            item = {
                 "id": make_id(title, feed_key),
                 "title": title,
                 "description": description,
@@ -236,7 +287,9 @@ def fetch_rss(feed_key, feed_config):
                 "tag": tag,
                 "tag_label": tag_label,
                 "priority": "high" if any(kw in title.lower() for kw in ["breaking", "urgent", "circular", "notification", "new rule"]) else "medium",
-            })
+            }
+            if subcategory:
+                item["subcategory"] = subcategory
 
         print(f"    Found {len(items)} relevant items")
     except Exception as e:
@@ -568,11 +621,50 @@ def merge_and_deduplicate(existing, new_items):
 
 
 def save_json(filename, data):
-    """Save data to JSON file."""
+    """Save data to JSON file + archive by date."""
+    # Save to main data/ folder
     filepath = DATA_DIR / filename
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     print(f"  Saved {len(data)} items to {filename}")
+
+    # Archive to data/archive/YYYY-MM-DD/
+    day_dir = ARCHIVE_DIR / TODAY
+    day_dir.mkdir(exist_ok=True)
+    archive_path = day_dir / filename
+    with open(archive_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def cleanup_old_archives():
+    """Remove archives older than KEEP_DAYS."""
+    cutoff = datetime.now() - timedelta(days=KEEP_DAYS)
+    removed = 0
+    for day_dir in ARCHIVE_DIR.iterdir():
+        if day_dir.is_dir():
+            try:
+                dir_date = datetime.strptime(day_dir.name, "%Y-%m-%d")
+                if dir_date < cutoff:
+                    import shutil
+                    shutil.rmtree(day_dir)
+                    removed += 1
+                    print(f"  Removed old archive: {day_dir.name}")
+            except ValueError:
+                pass
+    return removed
+
+
+def get_available_dates():
+    """Return list of dates that have archived data."""
+    dates = []
+    for day_dir in sorted(ARCHIVE_DIR.iterdir(), reverse=True):
+        if day_dir.is_dir():
+            try:
+                datetime.strptime(day_dir.name, "%Y-%m-%d")
+                dates.append(day_dir.name)
+            except ValueError:
+                pass
+    return dates[:KEEP_DAYS]
 
 
 def main():
@@ -588,6 +680,7 @@ def main():
         "hospitals": [],
         "launches": [],
         "central": [],
+        "tech": [],
     }
 
     # Fetch from RSS feeds
@@ -621,7 +714,9 @@ def main():
                     continue
 
                 # Classify
-                cat, tag, tag_label = classify_item(title, "", feed_key)
+                result = classify_item(title, "", feed_key)
+                cat, tag, tag_label = result[0], result[1], result[2]
+                subcategory = result[3] if len(result) > 3 else None
 
                 item = {
                     "id": make_id(title, feed_key),
@@ -635,6 +730,8 @@ def main():
                     "tag_label": tag_label,
                     "priority": "high" if any(kw in title.lower() for kw in ["breaking", "circular", "notification", "new rule", "mci", "nmc"]) else "medium",
                 }
+                if subcategory:
+                    item["subcategory"] = subcategory
                 all_items[cat].append(item)
                 count += 1
             print(f"    Found {count} items")
@@ -681,6 +778,19 @@ def main():
     for cat, items in all_items.items():
         print(f"  {cat}: {len(items)} items")
     print(f"{'=' * 60}")
+
+    # Cleanup old archives (keep 7 days)
+    print("\nCleaning up old archives...")
+    removed = cleanup_old_archives()
+    if removed:
+        print(f"  Removed {removed} old archive(s)")
+
+    # Save available dates list
+    available = get_available_dates()
+    dates_file = DATA_DIR / "dates.json"
+    with open(dates_file, "w") as f:
+        json.dump(available, f)
+    print(f"  Available dates: {available}")
 
 
 if __name__ == "__main__":
