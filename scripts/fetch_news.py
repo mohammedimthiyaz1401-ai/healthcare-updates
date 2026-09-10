@@ -282,7 +282,7 @@ def fetch_rss(feed_key, feed_config):
                 "description": description,
                 "url": link,
                 "source": feed_key.replace("_", " ").title(),
-                "date": published[:10] if published else TODAY,
+                "date": parse_date(published) if published else TODAY,
                 "category": cat,
                 "tag": tag,
                 "tag_label": tag_label,
@@ -620,15 +620,40 @@ def merge_and_deduplicate(existing, new_items):
     return merged
 
 
+def parse_date(date_str):
+    """Extract YYYY-MM-DD from various date formats."""
+    if not date_str:
+        return TODAY
+    # Already YYYY-MM-DD
+    if len(date_str) >= 10 and date_str[4] == '-' and date_str[7] == '-':
+        return date_str[:10]
+    # Try common formats
+    for fmt in ["%a, %d %b %Y", "%a, %d %B %Y", "%d %b %Y", "%d %B %Y",
+                "%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M:%SZ", "%B %d, %Y", "%b %d, %Y"]:
+        try:
+            return datetime.strptime(date_str.strip(), fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    # Try first 10 chars
+    try:
+        datetime.strptime(date_str[:10], "%Y-%m-%d")
+        return date_str[:10]
+    except ValueError:
+        pass
+    return TODAY
+
+
 def save_json(filename, data):
     """Save data to JSON file + archive by date."""
-    # Save to main data/ folder
+    today_items = [item for item in data if parse_date(item.get("date", "")) == TODAY]
+
+    # Save main data/ folder — today only
     filepath = DATA_DIR / filename
     with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f"  Saved {len(data)} items to {filename}")
+        json.dump(today_items, f, indent=2, ensure_ascii=False)
+    print(f"  Saved {len(today_items)} items to {filename} (today only)")
 
-    # Archive to data/archive/YYYY-MM-DD/
+    # Archive — all data for this run
     day_dir = ARCHIVE_DIR / TODAY
     day_dir.mkdir(exist_ok=True)
     archive_path = day_dir / filename
@@ -724,7 +749,7 @@ def main():
                     "description": f"Source: {source_name}",
                     "url": link,
                     "source": source_name,
-                    "date": published[:10] if published else TODAY,
+                    "date": parse_date(published) if published else TODAY,
                     "category": cat,
                     "tag": tag,
                     "tag_label": tag_label,
@@ -752,24 +777,19 @@ def main():
     # Save each category
     print("\nSaving data files...")
     for category, items in all_items.items():
-        # Load existing data if available
-        existing_file = DATA_DIR / f"{category}.json"
-        existing = []
-        if existing_file.exists():
-            try:
-                existing = json.loads(existing_file.read_text(encoding="utf-8"))
-            except:
-                existing = []
-
-        # Merge and deduplicate
-        merged = merge_and_deduplicate(existing, items)
+        # Deduplicate within this run
+        seen = set()
+        unique = []
+        for item in items:
+            if item["id"] not in seen:
+                seen.add(item["id"])
+                unique.append(item)
 
         # Sort by priority (high first) then date
         priority_order = {"high": 0, "medium": 1, "low": 2}
-        merged.sort(key=lambda x: (priority_order.get(x.get("priority", "low"), 2), x.get("date", "")), reverse=False)
-        merged.sort(key=lambda x: priority_order.get(x.get("priority", "low"), 2))
+        unique.sort(key=lambda x: priority_order.get(x.get("priority", "low"), 2))
 
-        save_json(f"{category}.json", merged)
+        save_json(f"{category}.json", unique)
 
     # Summary
     total = sum(len(v) for v in all_items.values())

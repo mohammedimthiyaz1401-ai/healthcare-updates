@@ -915,35 +915,50 @@
         // Load data for a specific date
         async function loadDateData(dateStr) {
             if (dateStr === 'today') {
-                return await loadCategoryData('data/');
+                const today = new Date().toISOString().slice(0,10);
+                return await loadCategoryData('data/', today);
             } else if (dateStr === 'yesterday') {
                 const y = new Date(); y.setDate(y.getDate() - 1);
                 const yd = y.toISOString().slice(0,10);
-                return await loadCategoryData(`data/archive/${yd}/`);
+                return await loadCategoryData('data/', yd);
             } else if (dateStr === '7days') {
-                // Load all dates combined
                 const result = { telangana: [], mci: [], regulations: [], hospitals: [], launches: [], central: [], tech: [] };
                 const dates = availableDates.slice(0, 7);
                 for (const d of dates) {
-                    const dayData = await loadCategoryData(`data/archive/${d}/`);
+                    const dayData = await loadCategoryData(`data/archive/${d}/`, d);
                     for (const cat of Object.keys(result)) {
                         result[cat] = result[cat].concat(dayData[cat] || []);
                     }
                 }
                 return result;
             } else {
-                // Specific date
-                return await loadCategoryData(`data/archive/${dateStr}/`);
+                return await loadCategoryData(`data/archive/${dateStr}/`, dateStr);
             }
         }
 
-        async function loadCategoryData(basePath) {
+        function parseItemDate(dateStr) {
+            if (!dateStr) return '';
+            if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) return dateStr;
+            try {
+                const d = new Date(dateStr);
+                if (!isNaN(d.getTime())) return d.toISOString().slice(0,10);
+            } catch(e) {}
+            return dateStr.slice(0,10);
+        }
+
+        async function loadCategoryData(basePath, targetDate) {
             const data = { telangana: [], mci: [], regulations: [], hospitals: [], launches: [], central: [], tech: [] };
             const categories = ['telangana', 'mci', 'regulations', 'hospitals', 'launches', 'central', 'tech'];
             for (const cat of categories) {
                 try {
                     const resp = await fetch(`${basePath}${cat}.json`);
-                    if (resp.ok) data[cat] = await resp.json();
+                    if (resp.ok) {
+                        let items = await resp.json();
+                        if (targetDate) {
+                            items = items.filter(n => parseItemDate(n.date) === targetDate);
+                        }
+                        data[cat] = items;
+                    }
                 } catch (e) {}
             }
             return data;
