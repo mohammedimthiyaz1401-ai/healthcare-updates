@@ -674,13 +674,13 @@
         <div class="date-filter-bar">
             <span class="date-filter-label">📅 Filter by Date:</span>
             <div class="date-chips" id="dateChips">
-                <button class="date-chip active" onclick="filterByDate('today')">Today</button>
-                <button class="date-chip" onclick="filterByDate('yesterday')">Yesterday</button>
-                <button class="date-chip" onclick="filterByDate('7days')">Last 7 Days</button>
+                <button class="date-chip active" onclick="filterByDate('today', this)">Today</button>
+                <button class="date-chip" onclick="filterByDate('yesterday', this)">Yesterday</button>
+                <button class="date-chip" onclick="filterByDate('7days', this)">Last 7 Days</button>
             </div>
             <div class="date-input-wrap">
                 <label>Custom:</label>
-                <input type="date" class="date-input" id="customDate" onchange="filterByDate(this.value)">
+                <input type="date" class="date-input" id="customDate" onchange="filterByDate(this.value, this)">
             </div>
             <span class="date-range-info" id="dateRangeInfo">Showing: Today</span>
         </div>
@@ -738,12 +738,12 @@
                 <span class="section-count" id="telanganaBadge">0</span>
             </div>
             <div class="filter-bar">
-                <button class="filter-btn telangana-filter active" onclick="filterTelangana('all')">All</button>
-                <button class="filter-btn telangana-filter" onclick="filterTelangana('knruhs')">KNRUHS</button>
-                <button class="filter-btn telangana-filter" onclick="filterTelangana('dmhs')">DM&HS</button>
-                <button class="filter-btn telangana-filter" onclick="filterTelangana('kaloji')">Kaloji Univ</button>
-                <button class="filter-btn telangana-filter" onclick="filterTelangana('schemes')">Schemes</button>
-                <button class="filter-btn telangana-filter" onclick="filterTelangana('hospitals')">Hospitals</button>
+                <button class="filter-btn telangana-filter active" onclick="filterTelangana('all', this)">All</button>
+                <button class="filter-btn telangana-filter" onclick="filterTelangana('knruhs', this)">KNRUHS</button>
+                <button class="filter-btn telangana-filter" onclick="filterTelangana('dmhs', this)">DM&HS</button>
+                <button class="filter-btn telangana-filter" onclick="filterTelangana('kaloji', this)">Kaloji Univ</button>
+                <button class="filter-btn telangana-filter" onclick="filterTelangana('schemes', this)">Schemes</button>
+                <button class="filter-btn telangana-filter" onclick="filterTelangana('hospitals', this)">Hospitals</button>
             </div>
             <div class="news-grid" id="telanganaNews">
                 <div class="loading"><div class="spinner"></div>Loading Telangana updates...</div>
@@ -816,13 +816,13 @@
                 <span class="section-count" id="techBadge">0</span>
             </div>
             <div class="filter-bar">
-                <button class="filter-btn tech-filter active" onclick="filterTech('all')">All Tech</button>
-                <button class="filter-btn tech-filter" onclick="filterTech('ai')">🤖 AI / ML</button>
-                <button class="filter-btn tech-filter" onclick="filterTech('medtech')">⚡ MedTech</button>
-                <button class="filter-btn tech-filter" onclick="filterTech('telehealth')">📱 Telehealth</button>
-                <button class="filter-btn tech-filter" onclick="filterTech('genomics')">🧬 Genomics</button>
-                <button class="filter-btn tech-filter" onclick="filterTech('robotics')">🦾 Robotics</button>
-                <button class="filter-btn tech-filter" onclick="filterTech('startup')">💡 Startups</button>
+                <button class="filter-btn tech-filter active" onclick="filterTech('all', this)">All Tech</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('ai', this)">🤖 AI / ML</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('medtech', this)">⚡ MedTech</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('telehealth', this)">📱 Telehealth</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('genomics', this)">🧬 Genomics</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('robotics', this)">🦾 Robotics</button>
+                <button class="filter-btn tech-filter" onclick="filterTech('startup', this)">💡 Startups</button>
             </div>
             <div class="news-grid" id="techNews">
                 <div class="loading"><div class="spinner"></div>Loading healthcare tech updates...</div>
@@ -897,16 +897,16 @@
             if (!chips) return;
 
             let html = `
-                <button class="date-chip ${currentDateFilter === 'today' ? 'active' : ''}" onclick="filterByDate('today')">Today</button>
-                <button class="date-chip ${currentDateFilter === 'yesterday' ? 'active' : ''}" onclick="filterByDate('yesterday')">Yesterday</button>
-                <button class="date-chip ${currentDateFilter === '7days' ? 'active' : ''}" onclick="filterByDate('7days')">Last 7 Days</button>
+                <button class="date-chip ${currentDateFilter === 'today' ? 'active' : ''}" onclick="filterByDate('today', this)">Today</button>
+                <button class="date-chip ${currentDateFilter === 'yesterday' ? 'active' : ''}" onclick="filterByDate('yesterday', this)">Yesterday</button>
+                <button class="date-chip ${currentDateFilter === '7days' ? 'active' : ''}" onclick="filterByDate('7days', this)">Last 7 Days</button>
             `;
 
             // Add individual date chips for available archive dates
             availableDates.slice(0, 7).forEach(d => {
                 const label = new Date(d + 'T00:00:00').toLocaleDateString('en-IN', { day: 'numeric', month: 'short' });
                 const isActive = currentDateFilter === d;
-                html += `<button class="date-chip ${isActive ? 'active' : ''}" onclick="filterByDate('${d}')">${label}</button>`;
+                html += `<button class="date-chip ${isActive ? 'active' : ''}" onclick="filterByDate('${d}', this)">${label}</button>`;
             });
 
             chips.innerHTML = html;
@@ -918,11 +918,11 @@
                 return await loadCategoryData('data/');
             } else if (dateStr === 'yesterday') {
                 const y = new Date(); y.setDate(y.getDate() - 1);
-                constyd = y.toISOString().slice(0,10);
+                const yd = y.toISOString().slice(0,10);
                 return await loadCategoryData(`data/archive/${yd}/`);
             } else if (dateStr === '7days') {
                 // Load all dates combined
-                const result = { telangana: [], mci: [], regulations: [], hospitals: [], launches: [], central: [] };
+                const result = { telangana: [], mci: [], regulations: [], hospitals: [], launches: [], central: [], tech: [] };
                 const dates = availableDates.slice(0, 7);
                 for (const d of dates) {
                     const dayData = await loadCategoryData(`data/archive/${d}/`);
@@ -949,12 +949,12 @@
             return data;
         }
 
-        async function filterByDate(dateStr) {
+        async function filterByDate(dateStr, el) {
             currentDateFilter = dateStr;
 
             // Update active chip
             document.querySelectorAll('.date-chip').forEach(c => c.classList.remove('active'));
-            event.target.classList.add('active');
+            if (el) el.classList.add('active');
 
             // Update info
             const info = document.getElementById('dateRangeInfo');
@@ -971,13 +971,14 @@
         // Load data from JSON files
         async function loadData() {
             try {
-                const [telRes, mciRes, regRes, hospRes, launchRes, centRes] = await Promise.all([
+                const [telRes, mciRes, regRes, hospRes, launchRes, centRes, techRes] = await Promise.all([
                     fetch('data/telangana.json').catch(() => ({ ok: false })),
-                    fetch('data/mci-nmc.json').catch(() => ({ ok: false })),
+                    fetch('data/mci.json').catch(() => ({ ok: false })),
                     fetch('data/regulations.json').catch(() => ({ ok: false })),
                     fetch('data/hospitals.json').catch(() => ({ ok: false })),
                     fetch('data/launches.json').catch(() => ({ ok: false })),
                     fetch('data/central.json').catch(() => ({ ok: false })),
+                    fetch('data/tech.json').catch(() => ({ ok: false })),
                 ]);
 
                 if (telRes.ok) allData.telangana = await telRes.json();
@@ -986,6 +987,7 @@
                 if (hospRes.ok) allData.hospitals = await hospRes.json();
                 if (launchRes.ok) allData.launches = await launchRes.json();
                 if (centRes.ok) allData.central = await centRes.json();
+                if (techRes.ok) allData.tech = await techRes.json();
 
                 // Build ticker from top priority items
                 allData.ticker = [
@@ -1106,17 +1108,17 @@
             }
         }
 
-        function filterTelangana(filter) {
+        function filterTelangana(filter, el) {
             currentTelanganaFilter = filter;
             document.querySelectorAll('.telangana-filter').forEach(b => b.classList.remove('active'));
-            event.target.classList.add('active');
+            if (el) el.classList.add('active');
             renderSection('telanganaNews', allData.telangana, filter);
         }
 
-        function filterTech(filter) {
+        function filterTech(filter, el) {
             currentTechFilter = filter;
             document.querySelectorAll('.tech-filter').forEach(b => b.classList.remove('active'));
-            event.target.classList.add('active');
+            if (el) el.classList.add('active');
             renderSection('techNews', allData.tech, filter);
         }
 
