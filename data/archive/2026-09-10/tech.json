@@ -13,43 +13,17 @@
     "subcategory": "medtech"
   },
   {
-    "id": "9613dcbc66e9",
-    "title": "New Healthcare Policy for Telangana to Be Tabled in 2026–27 Budget, Says CM Revanth Reddy - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVI0aS1vdkI4ZDhnaG56N003WXVqVzdHNFlHZHh0WFpWMXF3YU5FQXNSR0JtbGRDdG5aLWlmQ0xSclNaeERKZGhIZDBGYzRHYWRuaG9BV290ZmZZN09TWkYwN28zLTFRcXhNWHBPeDB6c21XTHJiWmtFLU9CTUsxTUxWTlRWd1lfV2Y4RmVENllRbXNKbURUT2tKdHhzUllRdW01M3ZXcXBOQW9NOVFLMjdEOW5CRFFFN3dBZEhtQQ?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-09-10",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "94cd683895ab",
-    "title": "Singapore - Digital Health Laws and Regulations 2026 - iclg.com",
-    "description": "Source: iclg.com",
+    "id": "952cdb68f29d",
+    "title": "Singapore - Digital Health Laws and Regulations 2026 - ICLG",
+    "description": "Source: ICLG",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkhKb2N2bTZER0FmNzZ3TmpzajdhSno1SlBtX1UyckNURDRSUFhYVVdPa1JhbmFTcW9LOTUtdkp4VkJ1OHZ5cVZZUktQMTFTcW5NLVlqbkp1S1lQZGNrZXJkaHU4N2ZYanlDZkZ3SVExRU5CX0ZqWE9nUWc2MjNwSkFYLWU?oc=5",
-    "source": "iclg.com",
+    "source": "ICLG",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
-  },
-  {
-    "id": "416ab6d53085",
-    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
-    "description": "Source: Cleveland Clinic",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
-    "source": "Cleveland Clinic",
-    "date": "2026-09-10",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   },
   {
     "id": "500a062db315",
@@ -63,6 +37,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "416ab6d53085",
+    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
+    "description": "Source: Cleveland Clinic",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
+    "source": "Cleveland Clinic",
+    "date": "2026-09-10",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "aa4e20aac30e",
@@ -351,11 +338,11 @@
     "subcategory": "ai"
   },
   {
-    "id": "1dd0d542d1fb",
-    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
-    "description": "Source: Spherical Insights",
+    "id": "8ed7cf2def04",
+    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - sphericalinsights.com",
+    "description": "Source: sphericalinsights.com",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
-    "source": "Spherical Insights",
+    "source": "sphericalinsights.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -416,11 +403,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "e918aaa0dd1a",
-    "title": "Personalized Medicine Market | Global Market Analysis Report - 2036 - Fact.MR",
-    "description": "Source: Fact.MR",
+    "id": "c55996bf84ad",
+    "title": "Personalized Medicine Market | Global Market Analysis Report - 2036 - factmr.com",
+    "description": "Source: factmr.com",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncHlNVlVnQ0Q2d19DT3FBZW5pSld0TXNuc1RYZ1l0b24wbGNTZkxETml4eUZPN204TVdFbF9CVlRVVEJpU2VQY0dSUnJqTUdRLWxQUlJWcHBaTVBCanVyeWtVNXFYMHNkSUE?oc=5",
-    "source": "Fact.MR",
+    "source": "factmr.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -481,11 +468,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "e0e664ed1bf1",
-    "title": "Top 30 Healthtech Startups In India 2026 By Funding - Inc42",
-    "description": "Source: Inc42",
+    "id": "7d7382808235",
+    "title": "Top 30 Healthtech Startups In India 2026 By Funding - inc42.com",
+    "description": "Source: inc42.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEtSbmpRencwbTc5X19BZzBkX2cyczRLTEwtWGNhSWJ0cmJJMTROQkN6S0NBTF92NEtVR0dLMWY3Q2hMZGhiSExkRlhLOEg2Z25MLU9IYUYxSXNyQ3p4THk5Y1FjS0VGcEJGRWRZVGREeUFaNTZnMENqVDRreGFER293?oc=5",
-    "source": "Inc42",
+    "source": "inc42.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -520,11 +507,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "bdb5c603f9ee",
-    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - Inc42",
-    "description": "Source: Inc42",
+    "id": "0fa8e9c3ea01",
+    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - inc42.com",
+    "description": "Source: inc42.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWNDckN1S0luSFk3clRTTFN4OE00dm1iQVVYQ3M5SHBrRHl4WTNrXzQwaW1BeEpORWxydEkyTnFuX3pUd3hPY0kzcW9sY0l0Skh6UkFUSlBick1sNXY5MUZQa3FXRU1VWGZkRXFLdF9iT3lfc21xNmN3QVpKdWd0UTR3?oc=5",
-    "source": "Inc42",
+    "source": "inc42.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -611,11 +598,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "acca9ca2ebea",
-    "title": "Wearable Computing Devices Market Size, Share & Forecast to 2036 - Fact.MR",
-    "description": "Source: Fact.MR",
+    "id": "ed2a2a6e9e0f",
+    "title": "Wearable Computing Devices Market Size, Share & Forecast to 2036 - factmr.com",
+    "description": "Source: factmr.com",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fNmMxNWl2amxuS2gxaGZzc3VXSVZwMGtvRjU2T3d3dW54ZUxfa191bmJIcVBmclNWdms0UkV3cGhUVjNZSG5hdERXbVB2ZFJ6WUVuWlhYYm9iek10dXVkTjYtVDRKOUlZWE14Sy03ZXU?oc=5",
-    "source": "Fact.MR",
+    "source": "factmr.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
