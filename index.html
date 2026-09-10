@@ -649,14 +649,14 @@
         </div>
         <nav class="nav">
             <div class="nav-inner">
-                <button class="nav-btn active" onclick="filterSection('all')">All Updates</button>
-                <button class="nav-btn" onclick="filterSection('telangana')">🏛️ Telangana</button>
-                <button class="nav-btn" onclick="filterSection('mci')">🔴 MCI/NMC</button>
-                <button class="nav-btn" onclick="filterSection('regulations')">📋 Rules & Regulations</button>
-                <button class="nav-btn" onclick="filterSection('hospitals')">🏥 Hospitals</button>
-                <button class="nav-btn" onclick="filterSection('launches')">🚀 Launches</button>
-                <button class="nav-btn" onclick="filterSection('tech')">🚀 Healthcare Tech</button>
-                <button class="nav-btn" onclick="filterSection('central')">🇮🇳 Central Govt</button>
+                <button class="nav-btn active" onclick="filterSection('all', this)">All Updates</button>
+                <button class="nav-btn" onclick="filterSection('telangana', this)">🏛️ Telangana</button>
+                <button class="nav-btn" onclick="filterSection('mci', this)">🔴 MCI/NMC</button>
+                <button class="nav-btn" onclick="filterSection('regulations', this)">📋 Rules & Regulations</button>
+                <button class="nav-btn" onclick="filterSection('hospitals', this)">🏥 Hospitals</button>
+                <button class="nav-btn" onclick="filterSection('launches', this)">🚀 Launches</button>
+                <button class="nav-btn" onclick="filterSection('tech', this)">🚀 Healthcare Tech</button>
+                <button class="nav-btn" onclick="filterSection('central', this)">🇮🇳 Central Govt</button>
             </div>
         </nav>
     </header>
@@ -680,7 +680,7 @@
             </div>
             <div class="date-input-wrap">
                 <label>Custom:</label>
-                <input type="date" class="date-input" id="customDate" onchange="filterByDate(this.value, this)">
+                <input type="date" class="date-input" id="customDate" value="${new Date().toISOString().slice(0,10)}" onchange="filterByDate(this.value, this)">
             </div>
             <span class="date-range-info" id="dateRangeInfo">Showing: Today</span>
         </div>
@@ -1037,14 +1037,16 @@
             document.getElementById('centralBadge').textContent = allData.central.length;
         }
 
+        const activeTimers = {};
         function animateCount(id, target) {
             const el = document.getElementById(id);
             if (!el) return;
+            if (activeTimers[id]) clearInterval(activeTimers[id]);
             let current = 0;
             const step = Math.max(1, Math.ceil(target / 20));
-            const timer = setInterval(() => {
+            activeTimers[id] = setInterval(() => {
                 current += step;
-                if (current >= target) { current = target; clearInterval(timer); }
+                if (current >= target) { current = target; clearInterval(activeTimers[id]); delete activeTimers[id]; }
                 el.textContent = current;
             }, 30);
         }
@@ -1089,10 +1091,10 @@
             `).join('');
         }
 
-        function filterSection(section) {
+        function filterSection(section, el) {
             currentFilter = section;
             document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-            event.target.classList.add('active');
+            if (el) el.classList.add('active');
 
             const sections = ['telangana', 'mci', 'regulations', 'hospitals', 'launches', 'tech', 'central'];
             sections.forEach(s => {
