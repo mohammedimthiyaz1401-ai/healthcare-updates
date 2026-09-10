@@ -1,10 +1,10 @@
 [
   {
-    "id": "952cdb68f29d",
-    "title": "Singapore - Digital Health Laws and Regulations 2026 - ICLG",
-    "description": "Source: ICLG",
+    "id": "94cd683895ab",
+    "title": "Singapore - Digital Health Laws and Regulations 2026 - iclg.com",
+    "description": "Source: iclg.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkhKb2N2bTZER0FmNzZ3TmpzajdhSno1SlBtX1UyckNURDRSUFhYVVdPa1JhbmFTcW9LOTUtdkp4VkJ1OHZ5cVZZUktQMTFTcW5NLVlqbkp1S1lQZGNrZXJkaHU4N2ZYanlDZkZ3SVExRU5CX0ZqWE9nUWc2MjNwSkFYLWU?oc=5",
-    "source": "ICLG",
+    "source": "iclg.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -37,6 +37,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "9eb792aef390",
+    "title": "Towards autonomous medical artificial intelligence agents - nature.com",
+    "description": "Source: nature.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+    "source": "nature.com",
+    "date": "2026-09-10",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "52d1f5afee23",
@@ -117,11 +130,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "0584592c1eb2",
-    "title": "BIRAC showcases biotech and medtech start-ups at Bharatiya Vyapar Mahotsav 2026 - expresspharma.in",
-    "description": "Source: expresspharma.in",
+    "id": "2616009b3238",
+    "title": "BIRAC showcases biotech and medtech start-ups at Bharatiya Vyapar Mahotsav 2026 - Express Pharma",
+    "description": "Source: Express Pharma",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGVUWmNySFVMLVNTVnh4amZIbDBSTEZzX3ZsQ1ROWWYyUWVmaDZtdVlCWEhOenRpZmI4NTBxVFNmMVVpdmJld1lfdnJJZldtdWNlaXFhY3dOVUxCeTFCNTdEcmpWOFhMV3dybk1qNVU5ZG1lenprUkZSX2NCLVRUaW5Wd2kxdncyVWxnbE01ajFsU0E4dlBXSkszMnNoWm5qTmc2OVJEWC1QM3RJeFE?oc=5",
-    "source": "expresspharma.in",
+    "source": "Express Pharma",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -260,11 +273,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "359c125cfff1",
-    "title": "AI in Telehealth & Telemedicine Market Size, Share, Growth 2034 - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmZjUzlrRGpOdzJJOFYyNmRLbEk0bmJ6b3lPQmpnWk1NQXduemYzcHRyMTRZMF83SnFhSVpBSnVCQXRESjZ4Z01VekxjUEJXYktLZk41eWZTNjZBcWtQbC1zMFZoNFRsSnUzTnRhMTlIeHUzVTdzQ2YwbWQ1cldvaXNaSDRPUXJoZU1F?oc=5",
-    "source": "Fortune Business Insights",
+    "id": "be1461df085d",
+    "title": "Telehealth Industry Outlook 2026-2030 [Free PDF] - StartUs Insights",
+    "description": "Source: StartUs Insights",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTE3dUFoVVo0S2t2RkViVkxGMURTdzdUU1dnbVhOU0dabWh5d3VBNVhDTjRGV2RUN1Jjb2hvXzR0cm9lYUhvdTkycTBFVi1PUjlhRmJVeGkxc1lCN3h6c2hINEdzVlIyUnVnSkdmNGhIT3dYMUVoQ0t6Q1oxQmpLZ0o4OXk?oc=5",
+    "source": "StartUs Insights",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -377,11 +390,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "86119ebe039a",
-    "title": "India Moves Closer To Indigenous Gene Therapy Cure For Sickle Cell Patients - theindiantribal.com",
-    "description": "Source: theindiantribal.com",
+    "id": "6502fad38a7a",
+    "title": "India Moves Closer To Indigenous Gene Therapy Cure For Sickle Cell Patients - The Indian Tribal",
+    "description": "Source: The Indian Tribal",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWY4ck8wd01mZk9lemI1OVdOOGlYZkRtMHhzd2tkazduWFIwbVZmc0xYdDI3Nm1vZk1nWWJlb1lLU2MzTmNVMmVRamNzNjhkUkRQaFhST2VyQlBUSFI4T3pKUnJzeHFndWpjNGxVZGx0YkZpTWdaYUtCZDUtd3J4RFlBUHc4Y21kYlRkeUxYZWZCZ2RyMVR5R1M0OUozdS1oS3IyRmlVdlRlaTVzSk9XSTB5ZWZCelA1M2p0V21ubw?oc=5",
-    "source": "theindiantribal.com",
+    "source": "The Indian Tribal",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -416,11 +429,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "f90c8dd52ac4",
-    "title": "Surgical Robot Procedures Market - Future Market Insights",
-    "description": "Source: Future Market Insights",
+    "id": "4283f3db8bd1",
+    "title": "Surgical Robot Procedures Market - futuremarketinsights.com",
+    "description": "Source: futuremarketinsights.com",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2ZJVy1TSDNvc2V6MkxOSU4tZ0loZE16aW1xbm1GVVRCUTB0b3didlBucENlZUZMU2dHcU9pVkFfZktYc0JiZVpuRGVzUlRKXzZuTVpLZnVIM2RTZlpvUHp6Vkp3WTFQVVJmbHRZUzJqRkFrVEZKZ1ZVU3Rhczl3SXE0bw?oc=5",
-    "source": "Future Market Insights",
+    "source": "futuremarketinsights.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -429,11 +442,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "9743e013ab70",
-    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
-    "description": "Source: Tracxn",
+    "id": "25580e9e628b",
+    "title": "HealthTech - 2026 Market & Investments Trends - tracxn.com",
+    "description": "Source: tracxn.com",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
-    "source": "Tracxn",
+    "source": "tracxn.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -442,11 +455,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "e0e664ed1bf1",
-    "title": "Top 30 Healthtech Startups In India 2026 By Funding - Inc42",
-    "description": "Source: Inc42",
+    "id": "7d7382808235",
+    "title": "Top 30 Healthtech Startups In India 2026 By Funding - inc42.com",
+    "description": "Source: inc42.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEtSbmpRencwbTc5X19BZzBkX2cyczRLTEwtWGNhSWJ0cmJJMTROQkN6S0NBTF92NEtVR0dLMWY3Q2hMZGhiSExkRlhLOEg2Z25MLU9IYUYxSXNyQ3p4THk5Y1FjS0VGcEJGRWRZVGREeUFaNTZnMENqVDRreGFER293?oc=5",
-    "source": "Inc42",
+    "source": "inc42.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -481,11 +494,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "bdb5c603f9ee",
-    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - Inc42",
-    "description": "Source: Inc42",
+    "id": "0fa8e9c3ea01",
+    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - inc42.com",
+    "description": "Source: inc42.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWNDckN1S0luSFk3clRTTFN4OE00dm1iQVVYQ3M5SHBrRHl4WTNrXzQwaW1BeEpORWxydEkyTnFuX3pUd3hPY0kzcW9sY0l0Skh6UkFUSlBick1sNXY5MUZQa3FXRU1VWGZkRXFLdF9iT3lfc21xNmN3QVpKdWd0UTR3?oc=5",
-    "source": "Inc42",
+    "source": "inc42.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
@@ -585,11 +598,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "c708437ae38e",
-    "title": "The All of Us Research Program’s wearables dataset - Nature",
-    "description": "Source: Nature",
+    "id": "89377b4b8921",
+    "title": "The All of Us Research Program’s wearables dataset - nature.com",
+    "description": "Source: nature.com",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BTkdZc3ZCcjFvaF9pQm1rbXBQUWxmU3h0V1FrbS1YTG5zWUFnU2ZOeXV0VFM3cGhsSkRwaTZrUDBoQmVzWUFKWmdkNk1xeGJ4TnhCcUxqQ3NKMzBfcEo4?oc=5",
-    "source": "Nature",
+    "source": "nature.com",
     "date": "2026-09-10",
     "category": "tech",
     "tag": "tech",
