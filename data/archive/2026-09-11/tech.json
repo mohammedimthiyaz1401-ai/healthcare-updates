@@ -26,11 +26,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "7a3a7b403fe0",
-    "title": "From Scale to Systems: Mapping India’s Digital Health Progress Across States, 2026 - Digital Health News",
-    "description": "Source: Digital Health News",
+    "id": "0ddf4de2955b",
+    "title": "From Scale to Systems: Mapping India’s Digital Health Progress Across States, 2026 - digitalhealthnews.com",
+    "description": "Source: digitalhealthnews.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdV9mNnVUNGJnNkI3akVHcVh1V0hkYThHNlpUN0gzc0Fvb0EwR01WWGhrdlhIV2oxUWhnRG43QXZfYldYRnhsVzljeEFCLXo5bmtGR1RsekczYmxta0lBWEFZTFpiMnQ2cEdNU0dTYWc5U2d1Y0U1WFRQUzRtUGg3aGtEMTVfV2xQVXpYZUtfVWZhaEE4UzJvdV9Wdk9LckI0WmNPOWpuRVpzaXM4RGl6aHFKRjQ?oc=5",
-    "source": "Digital Health News",
+    "source": "digitalhealthnews.com",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
@@ -39,24 +39,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "7899077d5e78",
-    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
-    "source": "PIB",
-    "date": "2026-09-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "1b7c06eae1e9",
-    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - newsroom.clevelandclinic.org",
-    "description": "Source: newsroom.clevelandclinic.org",
+    "id": "416ab6d53085",
+    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
+    "description": "Source: Cleveland Clinic",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
-    "source": "newsroom.clevelandclinic.org",
+    "source": "Cleveland Clinic",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
@@ -76,6 +63,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "aa4e20aac30e",
+    "title": "Towards autonomous medical artificial intelligence agents - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+    "source": "Nature",
+    "date": "2026-09-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "52d1f5afee23",
@@ -156,19 +156,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "004e4f0d8633",
-    "title": "9th India Medical Device 2026 kicks off in Delhi; focus on building India as a Global MedTech Hub - ANI News",
-    "description": "Source: ANI News",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU3JKNUxyQmk5cGkta2pZR0RxVng3Rkl1b0Vkb3YyOWp2M19TaGhDeGt0dnNGVkVETTg3RkdxdFVPSk9qa0ctX1gzUF9od1ZVSEFRbDdQbEF5bjE4a05EVTh3ZmpJYWtOM2FjVXBYRmZzaUR4M2liZ3F0dkp4N0VKSEdYTXZJaG1rMGZqRW93c3A3bW9sbWtLRjRYbFNGU19wTDJtZTFCRXg4cUYyYm1ubUNlTGJLUXRlWW4yN3AwTVpuYlB0cXlHQ3lEMFRnN09xUnRaeFhHLU5OZ3dUU09iYmVrTWNRYXVVb1J0b0pZcFM3UQ?oc=5",
-    "source": "ANI News",
-    "date": "2026-09-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "b559416e9cf9",
     "title": "India's Next MedTech Success Story Will Be Built on Innovation, Not Just Manufacturing | India Pharma Expo 2027 - eHealth Magazine",
     "description": "Source: eHealth Magazine",
@@ -182,11 +169,24 @@
     "subcategory": "medtech"
   },
   {
-    "id": "2616009b3238",
-    "title": "BIRAC showcases biotech and medtech start-ups at Bharatiya Vyapar Mahotsav 2026 - Express Pharma",
-    "description": "Source: Express Pharma",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGVUWmNySFVMLVNTVnh4amZIbDBSTEZzX3ZsQ1ROWWYyUWVmaDZtdVlCWEhOenRpZmI4NTBxVFNmMVVpdmJld1lfdnJJZldtdWNlaXFhY3dOVUxCeTFCNTdEcmpWOFhMV3dybk1qNVU5ZG1lenprUkZSX2NCLVRUaW5Wd2kxdncyVWxnbE01ajFsU0E4dlBXSkszMnNoWm5qTmc2OVJEWC1QM3RJeFE?oc=5",
-    "source": "Express Pharma",
+    "id": "004e4f0d8633",
+    "title": "9th India Medical Device 2026 kicks off in Delhi; focus on building India as a Global MedTech Hub - ANI News",
+    "description": "Source: ANI News",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU3JKNUxyQmk5cGkta2pZR0RxVng3Rkl1b0Vkb3YyOWp2M19TaGhDeGt0dnNGVkVETTg3RkdxdFVPSk9qa0ctX1gzUF9od1ZVSEFRbDdQbEF5bjE4a05EVTh3ZmpJYWtOM2FjVXBYRmZzaUR4M2liZ3F0dkp4N0VKSEdYTXZJaG1rMGZqRW93c3A3bW9sbWtLRjRYbFNGU19wTDJtZTFCRXg4cUYyYm1ubUNlTGJLUXRlWW4yN3AwTVpuYlB0cXlHQ3lEMFRnN09xUnRaeFhHLU5OZ3dUU09iYmVrTWNRYXVVb1J0b0pZcFM3UQ?oc=5",
+    "source": "ANI News",
+    "date": "2026-09-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "a3b8cbef7f86",
+    "title": "Union Minister J. P. Nadda to address India Medical Device 2026 - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qSXZuNTlzaENKLWNaYmhRdEhWTkZKUzFrZXNubjljMk05S3FobmJaVVZQWkVqelFMbjZPSXNiN19wN1g2dkI1cS1Bc1dqTFZSbG50ZlF3cnpYTDdDc2tEcHZsdFhaQUwtZ3dsNVVhRDdGS0UtZnJodEdSOA?oc=5",
+    "source": "PIB",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
@@ -221,11 +221,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "fbbca617fa46",
-    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - globenewswire.com",
-    "description": "Source: globenewswire.com",
+    "id": "e7e56efc36ba",
+    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - GlobeNewswire",
+    "description": "Source: GlobeNewswire",
     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNa3hVOHJGYVBiaUNuRE1fQWxQWkJHU1JvTU5XUFFYSy1sdzF1eVhWOERGNVRvbGlLT250TTNNQ2NCcUlTSnZvdjhydnlDM3I2aG9UdGIycnlpYXB6RjE0ZUp5UWFpU0RTUlhrZk5EOVd6STZlLWhkQkFYTzVFSFo2LWR1elRySjZlY3hvV1QxbVZRaDdaOExBdEVKMzVSa3Z2NWhVTzRYYkdFS1ZoNTQyMFY5d3VlZVAzNllDaHowbWJram9FcWlQWXdPRS1JUUVTTW00RFNpV2xqeVF6NGlmQXNWYmkwWmdMWEFYQkphUGFaVWZ1SFZfZ0YtQmRNNjRfdEhTd3NxdXl3UXVSR3pwZUcyWHJuUWVxMkExWlB6U1dJR2pMR2tIUXpPeDc0YXV0dVhQUHUteU1yOF9rT2ItSlhfa0EzLWRabGpjN0YwdlBvYUc1dUZ3V3dvYXVMNXF2UnRQVG1CM2pibVhJdFk5SFhR?oc=5",
-    "source": "globenewswire.com",
+    "source": "GlobeNewswire",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
@@ -247,11 +247,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "86187f98ec6d",
-    "title": "National Telemedicine Day: Tracing India’s Journey of Bridging Distance through Technology - Digital Health News",
-    "description": "Source: Digital Health News",
+    "id": "04b4bbffb88d",
+    "title": "National Telemedicine Day: Tracing India’s Journey of Bridging Distance through Technology - digitalhealthnews.com",
+    "description": "Source: digitalhealthnews.com",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ0RsU3hCd3IyNUd3eTZVX1dLSWRwcHhKQmpGR3JabGFYUlRpckZDdWhfTllWZjI1bkIxMzRqR2Y4MlZlcU04QVVxRm83aElMY3RqRG5fZTZjbHBVRHk0N0RXZmk1aWVsSUF0Y1pyZnpIbUd5VFhLZTlRMkhmd19BTnRZc3dkcnFLaVZvWWxEdDdoRFMwdjBmLUNjMFJVdlh3ZjdRY3dTdUcwc1NPVnRLZ1MzdDNSV0pJWDdjZmNHakM?oc=5",
-    "source": "Digital Health News",
+    "source": "digitalhealthnews.com",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
@@ -286,11 +286,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "9b5fcb2eee16",
-    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - businesswire.com",
-    "description": "Source: businesswire.com",
+    "id": "4c6467f20d23",
+    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
+    "description": "Source: Business Wire",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
-    "source": "businesswire.com",
+    "source": "Business Wire",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
@@ -364,11 +364,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "12f507511ea9",
-    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - The Indian Practitioner",
-    "description": "Source: The Indian Practitioner",
+    "id": "6433264b7fda",
+    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - theindianpractitioner.com",
+    "description": "Source: theindianpractitioner.com",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpwdHVpbDN2MDYyTUp5LTAyajZ3UkhXVThsQnFycUpUX1o4RDBRZW1XRWVzTHBkWF9NYW9PZmQwaGRoMmhUUTVZeGw0WFhJZkpwN3Z6NFR6UXRmcjc3V0pFVS1rX2M4UWwwbkhZanhHRjBSdWtlTjFDcjJ4N3lEWWFqQmFrdmN1Q093VVJlelFSS1VzeWhBLTc1aWswdjdOZ2VzaFQ3WGkxN1Y3akdmUw?oc=5",
-    "source": "The Indian Practitioner",
+    "source": "theindianpractitioner.com",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
@@ -442,6 +442,19 @@
     "subcategory": "robotics"
   },
   {
+    "id": "d8f5b40180b7",
+    "title": "SS Innovations announces world’s longest robot-assisted cardiac telesurgery - biospectrumindia.com",
+    "description": "Source: biospectrumindia.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYkI4eEpXWEtscGdUU2QzS25qcnF0MGQtWkRWZ3BRZ2U4cEs0QkNjcFktZXdwNTJEaE5zRlhOVEZzVWRibmliMHVPUTlkcE53SUFYLVlrdXJnQTg3YmloMjR2dXBhbDkzeFNCWXhYdGI1V2dGQ2tsNndRQm03UHRyeWxRMU4zdGtsa1RZR3IyelVTNmx4LUNWWE81WVQxc1NjVWFmZUI3RG01RjVYV0xFOUFVeXFiNUZnUHZVRWZaQzVmYTV6b0E?oc=5",
+    "source": "biospectrumindia.com",
+    "date": "2026-09-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
     "id": "f90c8dd52ac4",
     "title": "Surgical Robot Procedures Market - Future Market Insights",
     "description": "Source: Future Market Insights",
@@ -455,11 +468,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "25580e9e628b",
-    "title": "HealthTech - 2026 Market & Investments Trends - tracxn.com",
-    "description": "Source: tracxn.com",
+    "id": "9743e013ab70",
+    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
+    "description": "Source: Tracxn",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
-    "source": "tracxn.com",
+    "source": "Tracxn",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
@@ -468,11 +481,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "e0e664ed1bf1",
-    "title": "Top 30 Healthtech Startups In India 2026 By Funding - Inc42",
-    "description": "Source: Inc42",
+    "id": "7d7382808235",
+    "title": "Top 30 Healthtech Startups In India 2026 By Funding - inc42.com",
+    "description": "Source: inc42.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEtSbmpRencwbTc5X19BZzBkX2cyczRLTEwtWGNhSWJ0cmJJMTROQkN6S0NBTF92NEtVR0dLMWY3Q2hMZGhiSExkRlhLOEg2Z25MLU9IYUYxSXNyQ3p4THk5Y1FjS0VGcEJGRWRZVGREeUFaNTZnMENqVDRreGFER293?oc=5",
-    "source": "Inc42",
+    "source": "inc42.com",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
@@ -507,11 +520,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "bdb5c603f9ee",
-    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - Inc42",
-    "description": "Source: Inc42",
+    "id": "0fa8e9c3ea01",
+    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - inc42.com",
+    "description": "Source: inc42.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWNDckN1S0luSFk3clRTTFN4OE00dm1iQVVYQ3M5SHBrRHl4WTNrXzQwaW1BeEpORWxydEkyTnFuX3pUd3hPY0kzcW9sY0l0Skh6UkFUSlBick1sNXY5MUZQa3FXRU1VWGZkRXFLdF9iT3lfc21xNmN3QVpKdWd0UTR3?oc=5",
-    "source": "Inc42",
+    "source": "inc42.com",
     "date": "2026-09-11",
     "category": "tech",
     "tag": "tech",
