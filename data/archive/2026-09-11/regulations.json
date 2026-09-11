@@ -48,6 +48,18 @@
     "priority": "medium"
   },
   {
+    "id": "9bdc96b1d000",
+    "title": "U.K. unveils recommendations for regulation of AI in medicine - STAT",
+    "description": "Source: STAT",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzFCUTFuRHNkbGlmdUpxcUVzTnVuWU4wNk01Y1lqM0h4Wnl2NFJhN29RZVBiNkNiZ3pyYmFVMkpVRjJRNFZFbGlxcFh2NS1pTlNoSjZ3WlB0dEZUc21MTDJKWk9zMGlxUHBLeUtMZWdwejY0VkNoZFdtbnQzNEd5WEtteGxQUG5PcUE4OWFfMA?oc=5",
+    "source": "STAT",
+    "date": "2026-09-11",
+    "category": "regulations",
+    "tag": "regulation",
+    "tag_label": "Regulation",
+    "priority": "medium"
+  },
+  {
     "id": "43839c723a21",
     "title": "Epsilon Health raises $27.6M for AI-native radiology practice - AuntMinnie",
     "description": "Source: AuntMinnie",
@@ -84,11 +96,11 @@
     "priority": "medium"
   },
   {
-    "id": "d7e214a092ea",
-    "title": "Digital first primary care in NHS England: evaluating alignment with patient-centered care and implications for future practice - Frontiers",
-    "description": "Source: Frontiers",
+    "id": "96ad93f75ee7",
+    "title": "Digital first primary care in NHS England: evaluating alignment with patient-centered care and implications for future practice - frontiersin.org",
+    "description": "Source: frontiersin.org",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjZDc084Mk9UUFJsSmxVdXFkdUtpME4wRlNwMWZza3RHcHotdmxXZXgtLW02Zjhha3VUYjVuWXJ0bDBNVGpzcllMZmphU1NtdE40d3pybmEwdmdZcHliMVU0al9tYURNTEpmVnY0aFJtUGlCc3pVN001S1Y5bEFfZmV2azhYOE12bUJYMnRVaTk2b2M4Tmhz?oc=5",
-    "source": "Frontiers",
+    "source": "frontiersin.org",
     "date": "2026-09-11",
     "category": "regulations",
     "tag": "regulation",
