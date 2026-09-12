@@ -13,6 +13,19 @@
     "subcategory": "medtech"
   },
   {
+    "id": "9613dcbc66e9",
+    "title": "New Healthcare Policy for Telangana to Be Tabled in 2026–27 Budget, Says CM Revanth Reddy - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVI0aS1vdkI4ZDhnaG56N003WXVqVzdHNFlHZHh0WFpWMXF3YU5FQXNSR0JtbGRDdG5aLWlmQ0xSclNaeERKZGhIZDBGYzRHYWRuaG9BV290ZmZZN09TWkYwN28zLTFRcXhNWHBPeDB6c21XTHJiWmtFLU9CTUsxTUxWTlRWd1lfV2Y4RmVENllRbXNKbURUT2tKdHhzUllRdW01M3ZXcXBOQW9NOVFLMjdEOW5CRFFFN3dBZEhtQQ?oc=5",
+    "source": "Digital Health News",
+    "date": "2026-09-12",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "952cdb68f29d",
     "title": "Singapore - Digital Health Laws and Regulations 2026 - ICLG",
     "description": "Source: ICLG",
@@ -76,6 +89,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "aa4e20aac30e",
+    "title": "Towards autonomous medical artificial intelligence agents - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+    "source": "Nature",
+    "date": "2026-09-12",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "52d1f5afee23",
@@ -429,11 +455,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "f90c8dd52ac4",
-    "title": "Surgical Robot Procedures Market - Future Market Insights",
-    "description": "Source: Future Market Insights",
+    "id": "4283f3db8bd1",
+    "title": "Surgical Robot Procedures Market - futuremarketinsights.com",
+    "description": "Source: futuremarketinsights.com",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2ZJVy1TSDNvc2V6MkxOSU4tZ0loZE16aW1xbm1GVVRCUTB0b3didlBucENlZUZMU2dHcU9pVkFfZktYc0JiZVpuRGVzUlRKXzZuTVpLZnVIM2RTZlpvUHp6Vkp3WTFQVVJmbHRZUzJqRkFrVEZKZ1ZVU3Rhczl3SXE0bw?oc=5",
-    "source": "Future Market Insights",
+    "source": "futuremarketinsights.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -455,11 +481,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "7d7382808235",
-    "title": "Top 30 Healthtech Startups In India 2026 By Funding - inc42.com",
-    "description": "Source: inc42.com",
+    "id": "e0e664ed1bf1",
+    "title": "Top 30 Healthtech Startups In India 2026 By Funding - Inc42",
+    "description": "Source: Inc42",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEtSbmpRencwbTc5X19BZzBkX2cyczRLTEwtWGNhSWJ0cmJJMTROQkN6S0NBTF92NEtVR0dLMWY3Q2hMZGhiSExkRlhLOEg2Z25MLU9IYUYxSXNyQ3p4THk5Y1FjS0VGcEJGRWRZVGREeUFaNTZnMENqVDRreGFER293?oc=5",
-    "source": "inc42.com",
+    "source": "Inc42",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -494,11 +520,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "0fa8e9c3ea01",
-    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - inc42.com",
-    "description": "Source: inc42.com",
+    "id": "bdb5c603f9ee",
+    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - Inc42",
+    "description": "Source: Inc42",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWNDckN1S0luSFk3clRTTFN4OE00dm1iQVVYQ3M5SHBrRHl4WTNrXzQwaW1BeEpORWxydEkyTnFuX3pUd3hPY0kzcW9sY0l0Skh6UkFUSlBick1sNXY5MUZQa3FXRU1VWGZkRXFLdF9iT3lfc21xNmN3QVpKdWd0UTR3?oc=5",
-    "source": "inc42.com",
+    "source": "Inc42",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -598,11 +624,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "89377b4b8921",
-    "title": "The All of Us Research Program’s wearables dataset - nature.com",
-    "description": "Source: nature.com",
+    "id": "c708437ae38e",
+    "title": "The All of Us Research Program’s wearables dataset - Nature",
+    "description": "Source: Nature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BTkdZc3ZCcjFvaF9pQm1rbXBQUWxmU3h0V1FrbS1YTG5zWUFnU2ZOeXV0VFM3cGhsSkRwaTZrUDBoQmVzWUFKWmdkNk1xeGJ4TnhCcUxqQ3NKMzBfcEo4?oc=5",
-    "source": "nature.com",
+    "source": "Nature",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
