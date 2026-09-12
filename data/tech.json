@@ -13,17 +13,17 @@
     "subcategory": "medtech"
   },
   {
-    "id": "ca237304e862",
-    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
-    "description": "Source: Telangana Today",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
-    "source": "Telangana Today",
+    "id": "9613dcbc66e9",
+    "title": "New Healthcare Policy for Telangana to Be Tabled in 2026–27 Budget, Says CM Revanth Reddy - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVI0aS1vdkI4ZDhnaG56N003WXVqVzdHNFlHZHh0WFpWMXF3YU5FQXNSR0JtbGRDdG5aLWlmQ0xSclNaeERKZGhIZDBGYzRHYWRuaG9BV290ZmZZN09TWkYwN28zLTFRcXhNWHBPeDB6c21XTHJiWmtFLU9CTUsxTUxWTlRWd1lfV2Y4RmVENllRbXNKbURUT2tKdHhzUllRdW01M3ZXcXBOQW9NOVFLMjdEOW5CRFFFN3dBZEhtQQ?oc=5",
+    "source": "Digital Health News",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "AI / ML",
+    "tag_label": "Telehealth",
     "priority": "medium",
-    "subcategory": "ai"
+    "subcategory": "telehealth"
   },
   {
     "id": "952cdb68f29d",
@@ -37,6 +37,19 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "44d8e449758c",
+    "title": "Zydus and Apollo Hospitals sign MoU to launch MCD test in India - Medical Device Network",
+    "description": "Source: Medical Device Network",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdV9PZ0NKdHNkUUdYWktpb0hLSmhmaHIwS2J0U3VURE13dEc0ekNmMDVuazBZam5TVXNNTnFyU2FxUXVqZzVQWWQ4SnV2aENnQ2hnV0JFNkJXSVc4UUJjbEd4b0QwRV9lbnRybS1xU2w1SVA5Unl1Z052M05EZ1h2R2ZQdEVCTkc5?oc=5",
+    "source": "Medical Device Network",
+    "date": "2026-09-12",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
   },
   {
     "id": "87e7e59e51db",
@@ -63,19 +76,6 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
-  },
-  {
-    "id": "7899077d5e78",
-    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
-    "source": "PIB",
-    "date": "2026-09-12",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
   },
   {
     "id": "416ab6d53085",
@@ -247,11 +247,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "fbbca617fa46",
-    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - globenewswire.com",
-    "description": "Source: globenewswire.com",
+    "id": "e7e56efc36ba",
+    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - GlobeNewswire",
+    "description": "Source: GlobeNewswire",
     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNa3hVOHJGYVBiaUNuRE1fQWxQWkJHU1JvTU5XUFFYSy1sdzF1eVhWOERGNVRvbGlLT250TTNNQ2NCcUlTSnZvdjhydnlDM3I2aG9UdGIycnlpYXB6RjE0ZUp5UWFpU0RTUlhrZk5EOVd6STZlLWhkQkFYTzVFSFo2LWR1elRySjZlY3hvV1QxbVZRaDdaOExBdEVKMzVSa3Z2NWhVTzRYYkdFS1ZoNTQyMFY5d3VlZVAzNllDaHowbWJram9FcWlQWXdPRS1JUUVTTW00RFNpV2xqeVF6NGlmQXNWYmkwWmdMWEFYQkphUGFaVWZ1SFZfZ0YtQmRNNjRfdEhTd3NxdXl3UXVSR3pwZUcyWHJuUWVxMkExWlB6U1dJR2pMR2tIUXpPeDc0YXV0dVhQUHUteU1yOF9rT2ItSlhfa0EzLWRabGpjN0YwdlBvYUc1dUZ3V3dvYXVMNXF2UnRQVG1CM2pibVhJdFk5SFhR?oc=5",
-    "source": "globenewswire.com",
+    "source": "GlobeNewswire",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -390,11 +390,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "1dd0d542d1fb",
-    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
-    "description": "Source: Spherical Insights",
+    "id": "8ed7cf2def04",
+    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - sphericalinsights.com",
+    "description": "Source: sphericalinsights.com",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
-    "source": "Spherical Insights",
+    "source": "sphericalinsights.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -508,10 +508,10 @@
   },
   {
     "id": "09187759d863",
-    "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - YourStory.com",
-    "description": "Source: YourStory.com",
+    "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - yourstory.com",
+    "description": "Source: yourstory.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDhmZXY3NXlDSXpVNFZpaTJXWjEzY2NJNUFfQVh5cXpUdmlSMGVyeXRGYVRsOGVXR0xqUTRna2lFQjE4blNhMzhaWkJfbHZ4OEtfdXFrWjcyQ01GbjR6T3Z5SXpxa1NyMWRlSmo1M3lnNzlIazF3dGxmcnEwOWp4b0YwUGNWcDZTNHNSeUtSVDFRdw?oc=5",
-    "source": "YourStory.com",
+    "source": "yourstory.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -624,10 +624,10 @@
     "subcategory": "medtech"
   },
   {
-    "id": "acca9ca2ebea",
-    "title": "Wearable Computing Devices Market Size, Share & Forecast to 2036 - Fact.MR",
+    "id": "01099b0f0c2b",
+    "title": "Wearable Healthcare Devices Market Size, Share & Forecast to 2036 - Fact.MR",
     "description": "Source: Fact.MR",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fNmMxNWl2amxuS2gxaGZzc3VXSVZwMGtvRjU2T3d3dW54ZUxfa191bmJIcVBmclNWdms0UkV3cGhUVjNZSG5hdERXbVB2ZFJ6WUVuWlhYYm9iek10dXVkTjYtVDRKOUlZWE14Sy03ZXU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ZUo4aTV1dlhTVnhXTFIwMGsxYVdQTUFNWno5OGlzRjBDV2JsQWVlS190ZGVDVnJxbEpuTDZSZWlRV3VodVE2c01SZ2FxNEZvNmFCRk5fTTlRVVdHZzQtUHF4ZTc5UHl6UGpNbjhNNVEwQQ?oc=5",
     "source": "Fact.MR",
     "date": "2026-09-12",
     "category": "tech",
