@@ -65,6 +65,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "7899077d5e78",
+    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
+    "source": "PIB",
+    "date": "2026-09-12",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
     "id": "416ab6d53085",
     "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
     "description": "Source: Cleveland Clinic",
@@ -89,19 +102,6 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
-  },
-  {
-    "id": "aa4e20aac30e",
-    "title": "Towards autonomous medical artificial intelligence agents - Nature",
-    "description": "Source: Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
-    "source": "Nature",
-    "date": "2026-09-12",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   },
   {
     "id": "52d1f5afee23",
@@ -234,11 +234,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "5e5060e5d8d8",
-    "title": "Digital Health Market Size, Growth Forecasts 2035 - Research Nester",
-    "description": "Source: Research Nester",
+    "id": "8f6bee5904a8",
+    "title": "Digital Health Market Size, Growth Forecasts 2035 - researchnester.com",
+    "description": "Source: researchnester.com",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRzluWkxnZHpTMFVKOTh2dDhrVkh6eDV0T2llSWhWVkcwSUVDS1dObloxZ1FXRWhZYXljQnlnNDNoLU02bjhCNG0tQWc1T05WTmR3RGZRNW1DOWJXVU93QkJMdjEzUktjbmNHaUZVdW5xdw?oc=5",
-    "source": "Research Nester",
+    "source": "researchnester.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -247,11 +247,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "e7e56efc36ba",
-    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - GlobeNewswire",
-    "description": "Source: GlobeNewswire",
+    "id": "fbbca617fa46",
+    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - globenewswire.com",
+    "description": "Source: globenewswire.com",
     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNa3hVOHJGYVBiaUNuRE1fQWxQWkJHU1JvTU5XUFFYSy1sdzF1eVhWOERGNVRvbGlLT250TTNNQ2NCcUlTSnZvdjhydnlDM3I2aG9UdGIycnlpYXB6RjE0ZUp5UWFpU0RTUlhrZk5EOVd6STZlLWhkQkFYTzVFSFo2LWR1elRySjZlY3hvV1QxbVZRaDdaOExBdEVKMzVSa3Z2NWhVTzRYYkdFS1ZoNTQyMFY5d3VlZVAzNllDaHowbWJram9FcWlQWXdPRS1JUUVTTW00RFNpV2xqeVF6NGlmQXNWYmkwWmdMWEFYQkphUGFaVWZ1SFZfZ0YtQmRNNjRfdEhTd3NxdXl3UXVSR3pwZUcyWHJuUWVxMkExWlB6U1dJR2pMR2tIUXpPeDc0YXV0dVhQUHUteU1yOF9rT2ItSlhfa0EzLWRabGpjN0YwdlBvYUc1dUZ3V3dvYXVMNXF2UnRQVG1CM2pibVhJdFk5SFhR?oc=5",
-    "source": "GlobeNewswire",
+    "source": "globenewswire.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -260,11 +260,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "192de35aebc0",
-    "title": "Telemedicine Market Size Hit USD 806.89 Bn by 2035 - Precedence Research",
-    "description": "Source: Precedence Research",
+    "id": "fb48dca7cced",
+    "title": "Telemedicine Market Size Hit USD 806.89 Bn by 2035 - precedenceresearch.com",
+    "description": "Source: precedenceresearch.com",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
-    "source": "Precedence Research",
+    "source": "precedenceresearch.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -351,19 +351,6 @@
     "subcategory": "genomics"
   },
   {
-    "id": "3bf260e915e0",
-    "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - DD India",
-    "description": "Source: DD India",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVV2Zks4MnIyUGdLUkhRbzVQNGVFQjFKeER6VWJZTXdEWC1XMnRCcEpwSlhpQUYwZVRtZjRRMDVPVm5sODNfLVFtbGpZYi00R3RmZlFzaE5Wd2xaVzVBbXNYTUVzYVdBYWhHenp6V2dhZWEyLWxtMm5HXzFCUjRqV3NyZEZ1T184WW1iMjd4STJoOW9fQWhpVnJ1MWY0SUtEMm13RENSaw?oc=5",
-    "source": "DD India",
-    "date": "2026-09-12",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
     "id": "2fcce0f9f64d",
     "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - Fortune Business Insights",
     "description": "Source: Fortune Business Insights",
@@ -390,11 +377,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "8ed7cf2def04",
-    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - sphericalinsights.com",
-    "description": "Source: sphericalinsights.com",
+    "id": "1dd0d542d1fb",
+    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
+    "description": "Source: Spherical Insights",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
-    "source": "sphericalinsights.com",
+    "source": "Spherical Insights",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -416,11 +403,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "911a14371074",
-    "title": "Precision medicine | The cure is in your genes - India Today",
-    "description": "Source: India Today",
+    "id": "0a0d1285f498",
+    "title": "Precision medicine | The cure is in your genes - indiatoday.in",
+    "description": "Source: indiatoday.in",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSk45aHJ1dDhld2lFZTdTU2EzWVdUM1RfTVBSS2xPTlk1cUlPMXlQOENXVnJ0Y2hrZW1ERGRHNnBxOEw2Y0dmaDNTV01oVTlRQm51SXR2Z3Z1WEU4RlNGcVFHejU5SFI5LVpkYWVkclpJUDFsWEVlTDNUUGZjZ1dxN2N1aVE2S0Q4RG9IbkJXRUZxN0dVTS0wRVdBMXE3S0JQcXVlUFB1QWdZYWJYQnNkU0FrQnE4Qk1Lb2owUk1TTnZJR3pwRHhQRkpfRFMtZ29sbGfSAdcBQVVfeXFMT2t2a3M3YzJXV0xrNTNwck91MjhzWDBoQVBuUGlvNHhURzRab3hTd05zVk9RaEgxaFJSakZJZjN0Wk5OaXZBak41Q3ZKSWtKOFZLNFJIbGo1QzhHdTFwVHZfeXZuNUw4NHQ4NTNHTjN3VzlWRGZuX2FjN1hubVJkVXZfNW1YT1o4QnR6bnBRMi1PVFRUWHRpWE5rMjlFLVo3TEdEZFRNMGhxSkJqbWdqWkhiS2tjTi04SVdwV3d3eG9oZElLT3RBeWV3ZVNnYWdaUUpMRkRXRUE?oc=5",
-    "source": "India Today",
+    "source": "indiatoday.in",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -442,6 +429,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "6502fad38a7a",
+    "title": "India Moves Closer To Indigenous Gene Therapy Cure For Sickle Cell Patients - The Indian Tribal",
+    "description": "Source: The Indian Tribal",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWY4ck8wd01mZk9lemI1OVdOOGlYZkRtMHhzd2tkazduWFIwbVZmc0xYdDI3Nm1vZk1nWWJlb1lLU2MzTmNVMmVRamNzNjhkUkRQaFhST2VyQlBUSFI4T3pKUnJzeHFndWpjNGxVZGx0YkZpTWdaYUtCZDUtd3J4RFlBUHc4Y21kYlRkeUxYZWZCZ2RyMVR5R1M0OUozdS1oS3IyRmlVdlRlaTVzSk9XSTB5ZWZCelA1M2p0V21ubw?oc=5",
+    "source": "The Indian Tribal",
+    "date": "2026-09-12",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "30b991abb63f",
     "title": "Indian Surgeon creates ‘World Record’ in medical history by performing World’s Longest Robot-Assisted Cardiac TeleSurgery Across 20,000 km Between Guyana and India using Made in India technology - Goa Chronicle",
     "description": "Source: Goa Chronicle",
@@ -455,11 +455,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "4283f3db8bd1",
-    "title": "Surgical Robot Procedures Market - futuremarketinsights.com",
-    "description": "Source: futuremarketinsights.com",
+    "id": "f90c8dd52ac4",
+    "title": "Surgical Robot Procedures Market - Future Market Insights",
+    "description": "Source: Future Market Insights",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2ZJVy1TSDNvc2V6MkxOSU4tZ0loZE16aW1xbm1GVVRCUTB0b3didlBucENlZUZMU2dHcU9pVkFfZktYc0JiZVpuRGVzUlRKXzZuTVpLZnVIM2RTZlpvUHp6Vkp3WTFQVVJmbHRZUzJqRkFrVEZKZ1ZVU3Rhczl3SXE0bw?oc=5",
-    "source": "futuremarketinsights.com",
+    "source": "Future Market Insights",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -598,11 +598,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "e206b371e0f3",
-    "title": "Wearable devices help build healthy habits, but cannot replace doctors - India Today",
-    "description": "Source: India Today",
+    "id": "400fae738ddc",
+    "title": "Wearable devices help build healthy habits, but cannot replace doctors - indiatoday.in",
+    "description": "Source: indiatoday.in",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmRrc3VrekZBRkFzQ2s3N0MzT19iZFBPSzFfODQ5a1dCQmtFWml4SU8tcnRyZk1MQVQ0S0l2dnRVcHhXOExtbFNmNFhnRUdVeWVtTmRFdVdwaU1JMXlmbGVGc3ZFTGo4UTdqSHB4MThMWUVObjlFcjIwY0RYVGtVdGIxUEVvaHJjRmZzV0lfRTZXQ21FdGR5WHg4Z3NJVUxFbW91dm1vbm0zNDhDM1FpRlRQcFlsUmczWTJocV9mdkhDU0NMY3F0aVln0gHPAUFVX3lxTE85R2pJc25uZWhINTZ1dG1HRDFLVzlLbGxEVDFpSVVnTTMtMkVEd2kyMTRMQ052aFd0NU4yekJjdXBSR2hSX01ZQmIteVREX2VCMG80RkxfalFrZG04ODJTR1JGY2prR3A0WWxLc0xLMDhSX2xJV2RUdHEzM1UtaXZtQ1BNb3RzdS1wcVRMWVJGZWRxS3BMNWlQdHNMT1p0TXh6TVUtZ2pFWU5QakV5ZXhwOE1vSkhxT2MyaXhSU19xX05JdzhlN052T2JkaXRzSQ?oc=5",
-    "source": "India Today",
+    "source": "indiatoday.in",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
