@@ -13,17 +13,17 @@
     "subcategory": "medtech"
   },
   {
-    "id": "ca237304e862",
-    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
-    "description": "Source: Telangana Today",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
-    "source": "Telangana Today",
+    "id": "9613dcbc66e9",
+    "title": "New Healthcare Policy for Telangana to Be Tabled in 2026–27 Budget, Says CM Revanth Reddy - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVI0aS1vdkI4ZDhnaG56N003WXVqVzdHNFlHZHh0WFpWMXF3YU5FQXNSR0JtbGRDdG5aLWlmQ0xSclNaeERKZGhIZDBGYzRHYWRuaG9BV290ZmZZN09TWkYwN28zLTFRcXhNWHBPeDB6c21XTHJiWmtFLU9CTUsxTUxWTlRWd1lfV2Y4RmVENllRbXNKbURUT2tKdHhzUllRdW01M3ZXcXBOQW9NOVFLMjdEOW5CRFFFN3dBZEhtQQ?oc=5",
+    "source": "Digital Health News",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "AI / ML",
+    "tag_label": "Telehealth",
     "priority": "medium",
-    "subcategory": "ai"
+    "subcategory": "telehealth"
   },
   {
     "id": "952cdb68f29d",
@@ -65,19 +65,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "7899077d5e78",
-    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
-    "source": "PIB",
-    "date": "2026-09-12",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "416ab6d53085",
     "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
     "description": "Source: Cleveland Clinic",
@@ -102,6 +89,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "aa4e20aac30e",
+    "title": "Towards autonomous medical artificial intelligence agents - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+    "source": "Nature",
+    "date": "2026-09-12",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "52d1f5afee23",
@@ -156,11 +156,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "580de742576f",
-    "title": "India Medical Device 2026 to spotlight self-reliance, innovation and global partnerships in MedTech sector - DD News",
-    "description": "Source: DD News",
+    "id": "c9420e4f3965",
+    "title": "India Medical Device 2026 to spotlight self-reliance, innovation and global partnerships in MedTech sector - ddnews.gov.in",
+    "description": "Source: ddnews.gov.in",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLV9xZ0JfLU13YXBzTTVqX2l6TlBQbklsdjhpY3VFMXYyTjRYLXBwSkFEYUZVdHdtVWxlcFFpRWVIc1l0aVZlY2swNUJqX183Z2RHMkg3T3lsQXZKYlVESHR1M1pqQWJXT2tYV1B3UEJXWjdhUzAwSHNXOUFia3NsUjNWQmJxTWRKeVVNTVRPNG5rOFl3UVNwWE0xcEtfZ2FES2VUUlBCdDRnVlBJZi1NbHBZc2hFR0tQYm9GVllDTjBoeEwteXh4Z2FoVQ?oc=5",
-    "source": "DD News",
+    "source": "ddnews.gov.in",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -234,11 +234,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "5e5060e5d8d8",
-    "title": "Digital Health Market Size, Growth Forecasts 2035 - Research Nester",
-    "description": "Source: Research Nester",
+    "id": "8f6bee5904a8",
+    "title": "Digital Health Market Size, Growth Forecasts 2035 - researchnester.com",
+    "description": "Source: researchnester.com",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRzluWkxnZHpTMFVKOTh2dDhrVkh6eDV0T2llSWhWVkcwSUVDS1dObloxZ1FXRWhZYXljQnlnNDNoLU02bjhCNG0tQWc1T05WTmR3RGZRNW1DOWJXVU93QkJMdjEzUktjbmNHaUZVdW5xdw?oc=5",
-    "source": "Research Nester",
+    "source": "researchnester.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -325,11 +325,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "4c6467f20d23",
-    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
-    "description": "Source: Business Wire",
+    "id": "9b5fcb2eee16",
+    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - businesswire.com",
+    "description": "Source: businesswire.com",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -343,6 +343,19 @@
     "description": "Source: orfonline.org",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
     "source": "orfonline.org",
+    "date": "2026-09-12",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
+    "id": "3bf260e915e0",
+    "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - DD India",
+    "description": "Source: DD India",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVV2Zks4MnIyUGdLUkhRbzVQNGVFQjFKeER6VWJZTXdEWC1XMnRCcEpwSlhpQUYwZVRtZjRRMDVPVm5sODNfLVFtbGpZYi00R3RmZlFzaE5Wd2xaVzVBbXNYTUVzYVdBYWhHenp6V2dhZWEyLWxtMm5HXzFCUjRqV3NyZEZ1T184WW1iMjd4STJoOW9fQWhpVnJ1MWY0SUtEMm13RENSaw?oc=5",
+    "source": "DD India",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -416,24 +429,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "29180101239d",
-    "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - DD News",
-    "description": "Source: DD News",
+    "id": "0943672aae3b",
+    "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - ddnews.gov.in",
+    "description": "Source: ddnews.gov.in",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3FYWUVhM0ZuRlRrZFhlTlBWZEdrNnYtV3dSQ3VrRWZGMWlldHoxTjhyRWF0VVFCbjIyUVkxQ1V0djlZUmpGRC0xOGlpenpfMkZNLXNKUHJPZHdtSmVld29kWjFxaFJ5WmtsS085MlRRemNrNS1JMnA0YkNHVXFWRENDSUpJQk1PZFZpeXlMNU5fN1hyaERaUlgxeTNtYXp4MnBGYk53VmRwT2JOYmdmWFN5dWlNM0RhM3Z6cHp3NllHQQ?oc=5",
-    "source": "DD News",
-    "date": "2026-09-12",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "6502fad38a7a",
-    "title": "India Moves Closer To Indigenous Gene Therapy Cure For Sickle Cell Patients - The Indian Tribal",
-    "description": "Source: The Indian Tribal",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWY4ck8wd01mZk9lemI1OVdOOGlYZkRtMHhzd2tkazduWFIwbVZmc0xYdDI3Nm1vZk1nWWJlb1lLU2MzTmNVMmVRamNzNjhkUkRQaFhST2VyQlBUSFI4T3pKUnJzeHFndWpjNGxVZGx0YkZpTWdaYUtCZDUtd3J4RFlBUHc4Y21kYlRkeUxYZWZCZ2RyMVR5R1M0OUozdS1oS3IyRmlVdlRlaTVzSk9XSTB5ZWZCelA1M2p0V21ubw?oc=5",
-    "source": "The Indian Tribal",
+    "source": "ddnews.gov.in",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -455,11 +455,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "30b991abb63f",
-    "title": "Indian Surgeon creates ‘World Record’ in medical history by performing World’s Longest Robot-Assisted Cardiac TeleSurgery Across 20,000 km Between Guyana and India using Made in India technology - Goa Chronicle",
-    "description": "Source: Goa Chronicle",
+    "id": "e427d20c8080",
+    "title": "Indian Surgeon creates ‘World Record’ in medical history by performing World’s Longest Robot-Assisted Cardiac TeleSurgery Across 20,000 km Between Guyana and India using Made in India technology - goachronicle.com",
+    "description": "Source: goachronicle.com",
     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS1dTODRpZUZxYjRLWjh0WXlsdjBCLWxobUI4TGFpOHlOSkVPRWtTRWhNNUk3MjZNRWJTVmIzT3piZkhMa3R2Z0RYVEt5NmdjdHY5bnNpUGZDVmN2QmpMX29fQjhGRTFwakJSZFpIek1mdnRnbS1qOGd5ZWpPc09RNG1rYkt5RkdadnZaXzVUT2ZsRG9GeVotdmphQ3BqZ1RrVXFGTG9KeHJrRnM2Y04zQnNsT3FlZ0YzREtINDFRU2JtRHZtWmVJX3EtbVVMMzRZXzM5WkVzdGVMR0YzV0d4dmx1dDVRTi1fSzlEdG5NQ2FiSTV3M0JMWGZlVEJVMGJlMHlXc05Mc0l4RVRQRFRFcHhNeDZIME5qVFdFVGZqZDRHZm1E?oc=5",
-    "source": "Goa Chronicle",
+    "source": "goachronicle.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
