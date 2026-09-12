@@ -13,17 +13,17 @@
     "subcategory": "medtech"
   },
   {
-    "id": "9613dcbc66e9",
-    "title": "New Healthcare Policy for Telangana to Be Tabled in 2026–27 Budget, Says CM Revanth Reddy - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVI0aS1vdkI4ZDhnaG56N003WXVqVzdHNFlHZHh0WFpWMXF3YU5FQXNSR0JtbGRDdG5aLWlmQ0xSclNaeERKZGhIZDBGYzRHYWRuaG9BV290ZmZZN09TWkYwN28zLTFRcXhNWHBPeDB6c21XTHJiWmtFLU9CTUsxTUxWTlRWd1lfV2Y4RmVENllRbXNKbURUT2tKdHhzUllRdW01M3ZXcXBOQW9NOVFLMjdEOW5CRFFFN3dBZEhtQQ?oc=5",
-    "source": "Digital Health News",
+    "id": "ca237304e862",
+    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
+    "description": "Source: Telangana Today",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
+    "source": "Telangana Today",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Telehealth",
+    "tag_label": "AI / ML",
     "priority": "medium",
-    "subcategory": "telehealth"
+    "subcategory": "ai"
   },
   {
     "id": "952cdb68f29d",
@@ -65,10 +65,10 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "500a062db315",
+    "id": "7899077d5e78",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
     "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IVVAweWFmaThRVm83aFRIOTktcy15dFU0M3AtVTVTRnZzbV95ZmxBcTN5aVdHMXRLVFNjMmp4TE9felpnSHd4eEVYN3JMbjZuRmItVHB3X0RfcmxFRVZ5MVVBTENGSHFMeXVTVnV2cjF4S2xNLURFeFdIYw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
     "source": "PIB",
     "date": "2026-09-12",
     "category": "tech",
@@ -91,17 +91,17 @@
     "subcategory": "ai"
   },
   {
-    "id": "aa4e20aac30e",
-    "title": "Towards autonomous medical artificial intelligence agents - Nature",
-    "description": "Source: Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
-    "source": "Nature",
+    "id": "500a062db315",
+    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IVVAweWFmaThRVm83aFRIOTktcy15dFU0M3AtVTVTRnZzbV95ZmxBcTN5aVdHMXRLVFNjMmp4TE9felpnSHd4eEVYN3JMbjZuRmItVHB3X0RfcmxFRVZ5MVVBTENGSHFMeXVTVnV2cjF4S2xNLURFeFdIYw?oc=5",
+    "source": "PIB",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "AI / ML",
+    "tag_label": "MedTech",
     "priority": "medium",
-    "subcategory": "ai"
+    "subcategory": "medtech"
   },
   {
     "id": "52d1f5afee23",
@@ -182,11 +182,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "ed3e389b86ba",
-    "title": "9th India Medical Device 2026 kicks off in Delhi; focus on building India as a Global MedTech Hub - aninews.in",
-    "description": "Source: aninews.in",
+    "id": "004e4f0d8633",
+    "title": "9th India Medical Device 2026 kicks off in Delhi; focus on building India as a Global MedTech Hub - ANI News",
+    "description": "Source: ANI News",
     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU3JKNUxyQmk5cGkta2pZR0RxVng3Rkl1b0Vkb3YyOWp2M19TaGhDeGt0dnNGVkVETTg3RkdxdFVPSk9qa0ctX1gzUF9od1ZVSEFRbDdQbEF5bjE4a05EVTh3ZmpJYWtOM2FjVXBYRmZzaUR4M2liZ3F0dkp4N0VKSEdYTXZJaG1rMGZqRW93c3A3bW9sbWtLRjRYbFNGU19wTDJtZTFCRXg4cUYyYm1ubUNlTGJLUXRlWW4yN3AwTVpuYlB0cXlHQ3lEMFRnN09xUnRaeFhHLU5OZ3dUU09iYmVrTWNRYXVVb1J0b0pZcFM3UQ?oc=5",
-    "source": "aninews.in",
+    "source": "ANI News",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -247,11 +247,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "e7e56efc36ba",
-    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - GlobeNewswire",
-    "description": "Source: GlobeNewswire",
+    "id": "fbbca617fa46",
+    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - globenewswire.com",
+    "description": "Source: globenewswire.com",
     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNa3hVOHJGYVBiaUNuRE1fQWxQWkJHU1JvTU5XUFFYSy1sdzF1eVhWOERGNVRvbGlLT250TTNNQ2NCcUlTSnZvdjhydnlDM3I2aG9UdGIycnlpYXB6RjE0ZUp5UWFpU0RTUlhrZk5EOVd6STZlLWhkQkFYTzVFSFo2LWR1elRySjZlY3hvV1QxbVZRaDdaOExBdEVKMzVSa3Z2NWhVTzRYYkdFS1ZoNTQyMFY5d3VlZVAzNllDaHowbWJram9FcWlQWXdPRS1JUUVTTW00RFNpV2xqeVF6NGlmQXNWYmkwWmdMWEFYQkphUGFaVWZ1SFZfZ0YtQmRNNjRfdEhTd3NxdXl3UXVSR3pwZUcyWHJuUWVxMkExWlB6U1dJR2pMR2tIUXpPeDc0YXV0dVhQUHUteU1yOF9rT2ItSlhfa0EzLWRabGpjN0YwdlBvYUc1dUZ3V3dvYXVMNXF2UnRQVG1CM2pibVhJdFk5SFhR?oc=5",
-    "source": "GlobeNewswire",
+    "source": "globenewswire.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -286,11 +286,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "9b5fcb2eee16",
-    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - businesswire.com",
-    "description": "Source: businesswire.com",
+    "id": "4c6467f20d23",
+    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
+    "description": "Source: Business Wire",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
-    "source": "businesswire.com",
+    "source": "Business Wire",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -325,11 +325,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "be1461df085d",
-    "title": "Telehealth Industry Outlook 2026-2030 [Free PDF] - StartUs Insights",
-    "description": "Source: StartUs Insights",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTE3dUFoVVo0S2t2RkViVkxGMURTdzdUU1dnbVhOU0dabWh5d3VBNVhDTjRGV2RUN1Jjb2hvXzR0cm9lYUhvdTkycTBFVi1PUjlhRmJVeGkxc1lCN3h6c2hINEdzVlIyUnVnSkdmNGhIT3dYMUVoQ0t6Q1oxQmpLZ0o4OXk?oc=5",
-    "source": "StartUs Insights",
+    "id": "359c125cfff1",
+    "title": "AI in Telehealth & Telemedicine Market Size, Share, Growth 2034 - Fortune Business Insights",
+    "description": "Source: Fortune Business Insights",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmZjUzlrRGpOdzJJOFYyNmRLbEk0bmJ6b3lPQmpnWk1NQXduemYzcHRyMTRZMF83SnFhSVpBSnVCQXRESjZ4Z01VekxjUEJXYktLZk41eWZTNjZBcWtQbC1zMFZoNFRsSnUzTnRhMTlIeHUzVTdzQ2YwbWQ1cldvaXNaSDRPUXJoZU1F?oc=5",
+    "source": "Fortune Business Insights",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -403,11 +403,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "6433264b7fda",
-    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - theindianpractitioner.com",
-    "description": "Source: theindianpractitioner.com",
+    "id": "12f507511ea9",
+    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - The Indian Practitioner",
+    "description": "Source: The Indian Practitioner",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpwdHVpbDN2MDYyTUp5LTAyajZ3UkhXVThsQnFycUpUX1o4RDBRZW1XRWVzTHBkWF9NYW9PZmQwaGRoMmhUUTVZeGw0WFhJZkpwN3Z6NFR6UXRmcjc3V0pFVS1rX2M4UWwwbkhZanhHRjBSdWtlTjFDcjJ4N3lEWWFqQmFrdmN1Q093VVJlelFSS1VzeWhBLTc1aWswdjdOZ2VzaFQ3WGkxN1Y3akdmUw?oc=5",
-    "source": "theindianpractitioner.com",
+    "source": "The Indian Practitioner",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -468,11 +468,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "4283f3db8bd1",
-    "title": "Surgical Robot Procedures Market - futuremarketinsights.com",
-    "description": "Source: futuremarketinsights.com",
+    "id": "f90c8dd52ac4",
+    "title": "Surgical Robot Procedures Market - Future Market Insights",
+    "description": "Source: Future Market Insights",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2ZJVy1TSDNvc2V6MkxOSU4tZ0loZE16aW1xbm1GVVRCUTB0b3didlBucENlZUZMU2dHcU9pVkFfZktYc0JiZVpuRGVzUlRKXzZuTVpLZnVIM2RTZlpvUHp6Vkp3WTFQVVJmbHRZUzJqRkFrVEZKZ1ZVU3Rhczl3SXE0bw?oc=5",
-    "source": "futuremarketinsights.com",
+    "source": "Future Market Insights",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -508,10 +508,10 @@
   },
   {
     "id": "09187759d863",
-    "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - yourstory.com",
-    "description": "Source: yourstory.com",
+    "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - YourStory.com",
+    "description": "Source: YourStory.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDhmZXY3NXlDSXpVNFZpaTJXWjEzY2NJNUFfQVh5cXpUdmlSMGVyeXRGYVRsOGVXR0xqUTRna2lFQjE4blNhMzhaWkJfbHZ4OEtfdXFrWjcyQ01GbjR6T3Z5SXpxa1NyMWRlSmo1M3lnNzlIazF3dGxmcnEwOWp4b0YwUGNWcDZTNHNSeUtSVDFRdw?oc=5",
-    "source": "yourstory.com",
+    "source": "YourStory.com",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
@@ -572,11 +572,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "febf932dc4be",
-    "title": "India Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com",
-    "description": "Source: marketsandmarkets.com",
+    "id": "37bfcd403d06",
+    "title": "India Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+    "description": "Source: MarketsandMarkets",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkNYUWdsVmxuYldGTVVlSmhfVVJoeDlQWURLdGJ3bGVMV1c4Q1JqUGFidTlPZ1g2aklFOHA5aThqRmtzQU1yaDQ2SjlPNDIyc09Qb1BYbVZkSHUxcVMwb3RSMFd4d0ZfU2k2WVJFZXlyMUNuVXJoM1lxSEFlNXVud1dUbF9DbXZMb2xoeFplZlZFS1YwNkJv?oc=5",
-    "source": "marketsandmarkets.com",
+    "source": "MarketsandMarkets",
     "date": "2026-09-12",
     "category": "tech",
     "tag": "tech",
