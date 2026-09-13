@@ -24,18 +24,6 @@
     "priority": "medium"
   },
   {
-    "id": "e29b68189be4",
-    "title": "Health Sector Budget 2026 Live Updates: Biotech booster, Regulatory reset and Allied care push steals the show for Healthcare - ET HealthWorld",
-    "description": "Source: ET HealthWorld",
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSnlkdWp4TFVmaVRsOWdYWHhkdGxGaXVRd3pwQUhJaU1UWmc3VkVXRFNyaGtKZ1ZzY2dHc3ZTRWNWdXJFNmU2UVhNVG80bTI4QWtfTjVkMnJaZmdmTFdneUVfTmFXYi1hR29wdnBHeEVrUVRCWE9TMDNwS0dqTnV4ZGdXcGFSak9teF94cktvTURBTTJzcno2YzVTeVdaRWhqLUhfR3NKZ2h4M0tSREJDOW5IZE4wRGNZQnRfY3JlckxIdU4xaGxrZ3pMOU1rTjEzRk8tQ0xkLVJGbFhfUUNJNTRuOTQwZXJVaFpHaDNNbm9Db3BpdzNEYVlqclVVNUZyUEZUSW0wNGt5NHZZM0VYaFY4Q0hMQQ?oc=5",
-    "source": "ET HealthWorld",
-    "date": "2026-09-13",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "93b9f57571da",
     "title": "Healthcare Leaders Call For National Patient Charter - BW Healthcare World",
     "description": "Source: BW Healthcare World",
@@ -216,23 +204,11 @@
     "priority": "medium"
   },
   {
-    "id": "8376c9cd0923",
-    "title": "Trump officials say AI will help save rural health care. Some leaders in the field don’t believe it - statnews.com",
-    "description": "Source: statnews.com",
+    "id": "c851b34ed866",
+    "title": "Trump officials say AI will help save rural health care. Some leaders in the field don’t believe it - STAT",
+    "description": "Source: STAT",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDlBVFZnRi1XNmNmWjdmeUQ5NXVzTDhUTUtZT2c1MWhXbUFYTjZHT2txV2FzUzBDRS1PNTk1M2lGTC16blF5aS1wWWxoZkwtWG9NdGJiSnNfYXliRDk3WGNBVE5KRWhZZHNzdG52UkNnUlllWWZRVkgwQUpNbUIzZW1zNkZFRHR1clRtRG1uZ3JTQkI2RkxnSFNIdDNFQTFvVVpr?oc=5",
-    "source": "statnews.com",
-    "date": "2026-09-13",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "0c45cab5ae6e",
-    "title": "As AI advances, a debate grows over the future role of physicians - fiercehealthcare.com",
-    "description": "Source: fiercehealthcare.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFpCRUVibmYzMVBBY3ZIRGI1ZzFXaTNfUFA2MmQ0QUNlOWNBcGczSGd1VVVtdjlxeDZzZi1uNklTMVNOQk9rdG1XQUQwSENjUFdlQmU5N1NaZ2hDNnFYYzNTU0tnZnZLbVV5WDZzTlQ4bFdXdk1rTXFxWXR3Y1ZqZDNDUThudmh5NllFdHFVQjA0Qm41WC1oS0FvRHBGZ0cyd3JqZVkzN3Y2WG5NaHc?oc=5",
-    "source": "fiercehealthcare.com",
+    "source": "STAT",
     "date": "2026-09-13",
     "category": "central",
     "tag": "central",
@@ -245,6 +221,18 @@
     "description": "Source: Pew Research Center",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXZJdmVxbmMxNTN3WVBobWl6T2JvdTV2TGh0dUtmUGl5NFlYRGpMcGV6b0s2Y1NxNk9WWV9wQ2JfaUV6aF9jdnZqNTJJVl9PeDQwZlRNMF9zTTNtdldTQmFnQ1dpbF9lMnFmRGdWc2ZWbnNpVjlYX0R6M0ZScHBTN0lDYks2dURFaVFwYlgzNER0NUYtWFREemxGZmVSSHYwY0Z5bHJRdGdBNzYxYWpfUmo4YUhudw?oc=5",
     "source": "Pew Research Center",
+    "date": "2026-09-13",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "5af7a17310af",
+    "title": "As AI advances, a debate grows over the future role of physicians - Fierce Healthcare",
+    "description": "Source: Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFpCRUVibmYzMVBBY3ZIRGI1ZzFXaTNfUFA2MmQ0QUNlOWNBcGczSGd1VVVtdjlxeDZzZi1uNklTMVNOQk9rdG1XQUQwSENjUFdlQmU5N1NaZ2hDNnFYYzNTU0tnZnZLbVV5WDZzTlQ4bFdXdk1rTXFxWXR3Y1ZqZDNDUThudmh5NllFdHFVQjA0Qm41WC1oS0FvRHBGZ0cyd3JqZVkzN3Y2WG5NaHc?oc=5",
+    "source": "Fierce Healthcare",
     "date": "2026-09-13",
     "category": "central",
     "tag": "central",
@@ -300,11 +288,11 @@
     "priority": "medium"
   },
   {
-    "id": "37f6445a40b2",
-    "title": "SS Innovations Reports Global Expansion, Pediatric Robotic Surgery and Telesurgery Milestones for SSi Mantra - quiverquant.com",
-    "description": "Source: quiverquant.com",
+    "id": "81cbf242c4b8",
+    "title": "SS Innovations Reports Global Expansion, Pediatric Robotic Surgery and Telesurgery Milestones for SSi Mantra - Quiver Quantitative",
+    "description": "Source: Quiver Quantitative",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYVVoYWFwT21VWTRsUlR2NGJWaUZSaEJaSWhoUU1DY3VvbGdzZmVCVXUxNVk5dlN4Uk1MS1hrQWpzN3d0eTM1d3hnZVprb1RCZmVkeTM3Ymx3RGc1Snp6TU1BN0JWNWRnSDZIY1l0SzUyWHA2VnFIMGJ6Z3V3UC1nM0RmUkJxcTVHdFFpZXVtbmFDWVNsVlBGZXpIMWVGaFFYX2FkN2dvZ0hBem1hU3VKYTVQa1RTdjhSUThPaG9aWU1yZWhab2c2WmlXNnl3dENXakxDRUhJWU5pNHc?oc=5",
-    "source": "quiverquant.com",
+    "source": "Quiver Quantitative",
     "date": "2026-09-13",
     "category": "central",
     "tag": "central",
@@ -372,11 +360,11 @@
     "priority": "medium"
   },
   {
-    "id": "0e30177b41bc",
-    "title": "Health-tech start-up SuperLiving raises $7 million led by Lightspeed - business-standard.com",
-    "description": "Source: business-standard.com",
+    "id": "d1a6dbbc2b43",
+    "title": "Health-tech start-up SuperLiving raises $7 million led by Lightspeed - Business Standard",
+    "description": "Source: Business Standard",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjVreUgzZml4Z3VaRnFiRjVNbW9FNDNxdWFBVW11eTdmU0htYlZsTDZHT2tPeVdmcU81eTRjei1oLV9IaHRNMGYwMm96REJYVDdWSmdXcGJ4MER1NEJwY0UxdHFOdGcxU3lJNWxsV2NVdHlod2RXTWcybFlUR1lNTVAxbnRsN3RWaW9fd29iQm1qWjRudFBCNGdCZm5aUFk1Y1lwVERPeTNzRGJuQ2k4SHdqbGh6RG9KS19xZXR3T1JjeXZmX2Y4UnhyRUJibzExNkpITFpDeWnSAd4BQVVfeXFMUGlVNGxHaWZFNU5mQXM3QXI5YVdTSmpKLWx6MWpBSmJmRW52YTUzSmFkYkhrRkc4c192YVJKbVBNeVd1ZXZvYjJGVDNpRFJLdkg0QVRKdW9MeUxMLUV0RDdybkRsOWVwako2NUE3bmpJVUN0bVJvYVgwa3MwUHROUXlWYVIwOVRYVGtDMVJuckhSd3p3NThYY3BNTUFFWjdfN2txUHMzNHRGZVlXMXNaS2E3bU84SmlteFQxQnl0bHo3NVI2V3hNN1Q5WjIyUEVVeVd3U3ltMmFZcllNZl9n?oc=5",
-    "source": "business-standard.com",
+    "source": "Business Standard",
     "date": "2026-09-13",
     "category": "central",
     "tag": "central",
