@@ -1,10 +1,10 @@
 [
   {
-    "id": "82eaa825236d",
-    "title": "India Pharma Expo 2026 Wraps Up in Hyderabad, Spotlighting MedTech Integration and Future-Ready Healthcare Systems - eHealth Magazine",
-    "description": "Source: eHealth Magazine",
+    "id": "04050195d1c6",
+    "title": "India Pharma Expo 2026 Wraps Up in Hyderabad, Spotlighting MedTech Integration and Future-Ready Healthcare Systems - ehealth.eletsonline.com",
+    "description": "Source: ehealth.eletsonline.com",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUnBiTGNmZmthczM2OWlJaVBOTHYzV3pkVlh3MmdvQVBXcXFlZzZIMG51UUQta01rTzQ0YmstQ2NqZHViMVlnNEZxRUZZRkZtY1pBNklmRHdWT2xmSHF2MTU1N0wwSjJVbWJzM1hQOHluUVBTZUFZTnpmcDlWZjlZMFZmcG1JMER3dkNWcjAzMFJrcExoQXROMWtPeC1tVERfVWdTMXZWRW81U0xGbUxDUzhLb3NidXYwU0JxMzRrem1HMlZ4S2haNWN5bkFRbEVIbnFxSEFYOTc2UXIzVk1VY0c5cjRnTThSbFE?oc=5",
-    "source": "eHealth Magazine",
+    "source": "ehealth.eletsonline.com",
     "date": "2026-09-13",
     "category": "tech",
     "tag": "tech",
@@ -78,19 +78,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "1b7c06eae1e9",
-    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - newsroom.clevelandclinic.org",
-    "description": "Source: newsroom.clevelandclinic.org",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
-    "source": "newsroom.clevelandclinic.org",
-    "date": "2026-09-13",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "500a062db315",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
     "description": "Source: PIB",
@@ -104,17 +91,30 @@
     "subcategory": "medtech"
   },
   {
-    "id": "15fb4f59c0d4",
-    "title": "The Insight Series: AI & Digital Health with Kelly Huang - AdvaMed® - Advanced Medical Technology Association®",
-    "description": "Source: AdvaMed® - Advanced Medical Technology Association®",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSkdydktlZi1NSHlic004RnR0bE1kUUVBR09kTHgzMktlMUhUTXNCTjR6Y1ZTTFZiSzRaQ3dkWVh2THkyN2k2bXh6LUtYd2V0STBYVnZRcDlvaDlhTkhMZFlIWEFLV2ZOeC1pZTkzV1lVek9wN3djbkJTOEZ5bTE1M0VLWFJCQXNzRU44eXI2clFzMUE?oc=5",
-    "source": "AdvaMed® - Advanced Medical Technology Association®",
+    "id": "1b7c06eae1e9",
+    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - newsroom.clevelandclinic.org",
+    "description": "Source: newsroom.clevelandclinic.org",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
+    "source": "newsroom.clevelandclinic.org",
     "date": "2026-09-13",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Telehealth",
+    "tag_label": "AI / ML",
     "priority": "medium",
-    "subcategory": "telehealth"
+    "subcategory": "ai"
+  },
+  {
+    "id": "aa4e20aac30e",
+    "title": "Towards autonomous medical artificial intelligence agents - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+    "source": "Nature",
+    "date": "2026-09-13",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "52d1f5afee23",
@@ -208,11 +208,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "b559416e9cf9",
-    "title": "India's Next MedTech Success Story Will Be Built on Innovation, Not Just Manufacturing | India Pharma Expo 2027 - eHealth Magazine",
-    "description": "Source: eHealth Magazine",
+    "id": "d38138bad9d6",
+    "title": "India's Next MedTech Success Story Will Be Built on Innovation, Not Just Manufacturing | India Pharma Expo 2027 - ehealth.eletsonline.com",
+    "description": "Source: ehealth.eletsonline.com",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaTlRbWVXOVZmYmJycEtyTklCVmV1WGZKX1NmaFBTakV6X3EyMksyMGtjeDhYTWlNbERPR3VuVWhVbjlVSTNUUVh2SzNTZjI1SXFFSC1pVDdMdHRnbjloSHc3V09sRkljYlk1ZVVuQm4xbk1LakhrdGhtTDNhbFI5WElaRzZkME12cTRqM2VpbV9TMjA4Rnl5ZG9RdHg0Skk3dFFVSEJEcVZ6dWJfOXNCdzlqZUJsTS1qb3FNSHVqLTlYc2wwTkVHU0lpM2c1T0JwV1dZdG5wbWpwWTR1azk0RFJR?oc=5",
-    "source": "eHealth Magazine",
+    "source": "ehealth.eletsonline.com",
     "date": "2026-09-13",
     "category": "tech",
     "tag": "tech",
@@ -325,11 +325,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "0e762d282819",
-    "title": "India’s Healthcare Revolution Through Telemedicine - ibef.org",
-    "description": "Source: ibef.org",
+    "id": "1803d0286055",
+    "title": "India’s Healthcare Revolution Through Telemedicine - IBEF",
+    "description": "Source: IBEF",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmM4Z0dETXg1WkhfSFhmTVNOMXA1Zk83U2pUaUZSdXNmZFViTm9wT2dZeVRNVW1FaFdYUDRsLXBQSnBBbUYyMndnY1dDZjRIOU45azBQdXB2bW9mUVRXUzh1WTdUbWZ6Z19zaEw4QkFaY1NGTzVvM19vNXo5SnRkeDZLb2ZvMG5tVmpxS1lFQld1SGhUMV95S253aWJhaHB0eUxSSkJVRFBHMnFhZ25RYzNTNm9yNGN4Skg4YkpfZE0?oc=5",
-    "source": "ibef.org",
+    "source": "IBEF",
     "date": "2026-09-13",
     "category": "tech",
     "tag": "tech",
@@ -494,11 +494,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "9743e013ab70",
-    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
-    "description": "Source: Tracxn",
+    "id": "25580e9e628b",
+    "title": "HealthTech - 2026 Market & Investments Trends - tracxn.com",
+    "description": "Source: tracxn.com",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
-    "source": "Tracxn",
+    "source": "tracxn.com",
     "date": "2026-09-13",
     "category": "tech",
     "tag": "tech",
@@ -546,11 +546,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "35e2177f12db",
-    "title": "Healthtech in Asia 2026: The Digital Health Leap - digitalinasia.com",
-    "description": "Source: digitalinasia.com",
+    "id": "ac6f3b0ff0d3",
+    "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
+    "description": "Source: Digital in Asia",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
-    "source": "digitalinasia.com",
+    "source": "Digital in Asia",
     "date": "2026-09-13",
     "category": "tech",
     "tag": "tech",
@@ -611,11 +611,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "cee974d0d3ab",
-    "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - ibef.org",
-    "description": "Source: ibef.org",
+    "id": "d38d0e24f973",
+    "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - IBEF",
+    "description": "Source: IBEF",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTNadjJhbnJKZS1oVVJkOXRVQnlGazVCay0wZzRYa0ZDUTVnZUZ0V2ZvdEZVQk9PY2RTSmJlZXNiWWJtZlF2OWdsbnA5NjFXM21mTEQ1N1R1TmpPYXdrdGNPWUVOWGZZbkcxQnJXQXJDQmp0VEhmd0ZZUlNMWkRrX1h6QjkxbExKWGhDSlZSM1BYZ0s3RlB3bkwxSXROOHN2Sk1OU2xCenVFNEI3Qmc?oc=5",
-    "source": "ibef.org",
+    "source": "IBEF",
     "date": "2026-09-13",
     "category": "tech",
     "tag": "tech",
@@ -637,11 +637,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "01099b0f0c2b",
-    "title": "Wearable Healthcare Devices Market Size, Share & Forecast to 2036 - Fact.MR",
-    "description": "Source: Fact.MR",
+    "id": "d9ef7cf1524f",
+    "title": "Wearable Healthcare Devices Market Size, Share & Forecast to 2036 - factmr.com",
+    "description": "Source: factmr.com",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ZUo4aTV1dlhTVnhXTFIwMGsxYVdQTUFNWno5OGlzRjBDV2JsQWVlS190ZGVDVnJxbEpuTDZSZWlRV3VodVE2c01SZ2FxNEZvNmFCRk5fTTlRVVdHZzQtUHF4ZTc5UHl6UGpNbjhNNVEwQQ?oc=5",
-    "source": "Fact.MR",
+    "source": "factmr.com",
     "date": "2026-09-13",
     "category": "tech",
     "tag": "tech",
