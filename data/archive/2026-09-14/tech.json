@@ -1,18 +1,5 @@
 [
   {
-    "id": "82eaa825236d",
-    "title": "India Pharma Expo 2026 Wraps Up in Hyderabad, Spotlighting MedTech Integration and Future-Ready Healthcare Systems - eHealth Magazine",
-    "description": "Source: eHealth Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUnBiTGNmZmthczM2OWlJaVBOTHYzV3pkVlh3MmdvQVBXcXFlZzZIMG51UUQta01rTzQ0YmstQ2NqZHViMVlnNEZxRUZZRkZtY1pBNklmRHdWT2xmSHF2MTU1N0wwSjJVbWJzM1hQOHluUVBTZUFZTnpmcDlWZjlZMFZmcG1JMER3dkNWcjAzMFJrcExoQXROMWtPeC1tVERfVWdTMXZWRW81U0xGbUxDUzhLb3NidXYwU0JxMzRrem1HMlZ4S2haNWN5bkFRbEVIbnFxSEFYOTc2UXIzVk1VY0c5cjRnTThSbFE?oc=5",
-    "source": "eHealth Magazine",
-    "date": "2026-09-14",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "9613dcbc66e9",
     "title": "New Healthcare Policy for Telangana to Be Tabled in 2026–27 Budget, Says CM Revanth Reddy - Digital Health News",
     "description": "Source: Digital Health News",
@@ -24,6 +11,19 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "82eaa825236d",
+    "title": "India Pharma Expo 2026 Wraps Up in Hyderabad, Spotlighting MedTech Integration and Future-Ready Healthcare Systems - eHealth Magazine",
+    "description": "Source: eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUnBiTGNmZmthczM2OWlJaVBOTHYzV3pkVlh3MmdvQVBXcXFlZzZIMG51UUQta01rTzQ0YmstQ2NqZHViMVlnNEZxRUZZRkZtY1pBNklmRHdWT2xmSHF2MTU1N0wwSjJVbWJzM1hQOHluUVBTZUFZTnpmcDlWZjlZMFZmcG1JMER3dkNWcjAzMFJrcExoQXROMWtPeC1tVERfVWdTMXZWRW81U0xGbUxDUzhLb3NidXYwU0JxMzRrem1HMlZ4S2haNWN5bkFRbEVIbnFxSEFYOTc2UXIzVk1VY0c5cjRnTThSbFE?oc=5",
+    "source": "eHealth Magazine",
+    "date": "2026-09-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
   },
   {
     "id": "952cdb68f29d",
@@ -78,19 +78,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "416ab6d53085",
-    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
-    "description": "Source: Cleveland Clinic",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
-    "source": "Cleveland Clinic",
-    "date": "2026-09-14",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "500a062db315",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
     "description": "Source: PIB",
@@ -104,24 +91,24 @@
     "subcategory": "medtech"
   },
   {
-    "id": "15fb4f59c0d4",
-    "title": "The Insight Series: AI & Digital Health with Kelly Huang - AdvaMed® - Advanced Medical Technology Association®",
-    "description": "Source: AdvaMed® - Advanced Medical Technology Association®",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSkdydktlZi1NSHlic004RnR0bE1kUUVBR09kTHgzMktlMUhUTXNCTjR6Y1ZTTFZiSzRaQ3dkWVh2THkyN2k2bXh6LUtYd2V0STBYVnZRcDlvaDlhTkhMZFlIWEFLV2ZOeC1pZTkzV1lVek9wN3djbkJTOEZ5bTE1M0VLWFJCQXNzRU44eXI2clFzMUE?oc=5",
-    "source": "AdvaMed® - Advanced Medical Technology Association®",
+    "id": "416ab6d53085",
+    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
+    "description": "Source: Cleveland Clinic",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
+    "source": "Cleveland Clinic",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Telehealth",
+    "tag_label": "AI / ML",
     "priority": "medium",
-    "subcategory": "telehealth"
+    "subcategory": "ai"
   },
   {
-    "id": "aa4e20aac30e",
-    "title": "Towards autonomous medical artificial intelligence agents - Nature",
-    "description": "Source: Nature",
+    "id": "9eb792aef390",
+    "title": "Towards autonomous medical artificial intelligence agents - nature.com",
+    "description": "Source: nature.com",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
-    "source": "Nature",
+    "source": "nature.com",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -273,11 +260,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "5e5060e5d8d8",
-    "title": "Digital Health Market Size, Growth Forecasts 2035 - Research Nester",
-    "description": "Source: Research Nester",
+    "id": "8f6bee5904a8",
+    "title": "Digital Health Market Size, Growth Forecasts 2035 - researchnester.com",
+    "description": "Source: researchnester.com",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRzluWkxnZHpTMFVKOTh2dDhrVkh6eDV0T2llSWhWVkcwSUVDS1dObloxZ1FXRWhZYXljQnlnNDNoLU02bjhCNG0tQWc1T05WTmR3RGZRNW1DOWJXVU93QkJMdjEzUktjbmNHaUZVdW5xdw?oc=5",
-    "source": "Research Nester",
+    "source": "researchnester.com",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -299,11 +286,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "192de35aebc0",
-    "title": "Telemedicine Market Size Hit USD 806.89 Bn by 2035 - Precedence Research",
-    "description": "Source: Precedence Research",
+    "id": "fb48dca7cced",
+    "title": "Telemedicine Market Size Hit USD 806.89 Bn by 2035 - precedenceresearch.com",
+    "description": "Source: precedenceresearch.com",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
-    "source": "Precedence Research",
+    "source": "precedenceresearch.com",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -351,11 +338,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "1803d0286055",
-    "title": "India’s Healthcare Revolution Through Telemedicine - IBEF",
-    "description": "Source: IBEF",
+    "id": "0e762d282819",
+    "title": "India’s Healthcare Revolution Through Telemedicine - ibef.org",
+    "description": "Source: ibef.org",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmM4Z0dETXg1WkhfSFhmTVNOMXA1Zk83U2pUaUZSdXNmZFViTm9wT2dZeVRNVW1FaFdYUDRsLXBQSnBBbUYyMndnY1dDZjRIOU45azBQdXB2bW9mUVRXUzh1WTdUbWZ6Z19zaEw4QkFaY1NGTzVvM19vNXo5SnRkeDZLb2ZvMG5tVmpxS1lFQld1SGhUMV95S253aWJhaHB0eUxSSkJVRFBHMnFhZ25RYzNTNm9yNGN4Skg4YkpfZE0?oc=5",
-    "source": "IBEF",
+    "source": "ibef.org",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -429,11 +416,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "12f507511ea9",
-    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - The Indian Practitioner",
-    "description": "Source: The Indian Practitioner",
+    "id": "6433264b7fda",
+    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - theindianpractitioner.com",
+    "description": "Source: theindianpractitioner.com",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpwdHVpbDN2MDYyTUp5LTAyajZ3UkhXVThsQnFycUpUX1o4RDBRZW1XRWVzTHBkWF9NYW9PZmQwaGRoMmhUUTVZeGw0WFhJZkpwN3Z6NFR6UXRmcjc3V0pFVS1rX2M4UWwwbkhZanhHRjBSdWtlTjFDcjJ4N3lEWWFqQmFrdmN1Q093VVJlelFSS1VzeWhBLTc1aWswdjdOZ2VzaFQ3WGkxN1Y3akdmUw?oc=5",
-    "source": "The Indian Practitioner",
+    "source": "theindianpractitioner.com",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -494,11 +481,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "f90c8dd52ac4",
-    "title": "Surgical Robot Procedures Market - Future Market Insights",
-    "description": "Source: Future Market Insights",
+    "id": "4283f3db8bd1",
+    "title": "Surgical Robot Procedures Market - futuremarketinsights.com",
+    "description": "Source: futuremarketinsights.com",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2ZJVy1TSDNvc2V6MkxOSU4tZ0loZE16aW1xbm1GVVRCUTB0b3didlBucENlZUZMU2dHcU9pVkFfZktYc0JiZVpuRGVzUlRKXzZuTVpLZnVIM2RTZlpvUHp6Vkp3WTFQVVJmbHRZUzJqRkFrVEZKZ1ZVU3Rhczl3SXE0bw?oc=5",
-    "source": "Future Market Insights",
+    "source": "futuremarketinsights.com",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -507,11 +494,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "9743e013ab70",
-    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
-    "description": "Source: Tracxn",
+    "id": "25580e9e628b",
+    "title": "HealthTech - 2026 Market & Investments Trends - tracxn.com",
+    "description": "Source: tracxn.com",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
-    "source": "Tracxn",
+    "source": "tracxn.com",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -559,19 +546,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "bdb5c603f9ee",
-    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - Inc42",
-    "description": "Source: Inc42",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWNDckN1S0luSFk3clRTTFN4OE00dm1iQVVYQ3M5SHBrRHl4WTNrXzQwaW1BeEpORWxydEkyTnFuX3pUd3hPY0kzcW9sY0l0Skh6UkFUSlBick1sNXY5MUZQa3FXRU1VWGZkRXFLdF9iT3lfc21xNmN3QVpKdWd0UTR3?oc=5",
-    "source": "Inc42",
-    "date": "2026-09-14",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
     "id": "ac6f3b0ff0d3",
     "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
     "description": "Source: Digital in Asia",
@@ -583,6 +557,19 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "bdb5c603f9ee",
+    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - Inc42",
+    "description": "Source: Inc42",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWNDckN1S0luSFk3clRTTFN4OE00dm1iQVVYQ3M5SHBrRHl4WTNrXzQwaW1BeEpORWxydEkyTnFuX3pUd3hPY0kzcW9sY0l0Skh6UkFUSlBick1sNXY5MUZQa3FXRU1VWGZkRXFLdF9iT3lfc21xNmN3QVpKdWd0UTR3?oc=5",
+    "source": "Inc42",
+    "date": "2026-09-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
   },
   {
     "id": "cd26707ec565",
@@ -598,11 +585,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "febf932dc4be",
-    "title": "India Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com",
-    "description": "Source: marketsandmarkets.com",
+    "id": "37bfcd403d06",
+    "title": "India Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+    "description": "Source: MarketsandMarkets",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkNYUWdsVmxuYldGTVVlSmhfVVJoeDlQWURLdGJ3bGVMV1c4Q1JqUGFidTlPZ1g2aklFOHA5aThqRmtzQU1yaDQ2SjlPNDIyc09Qb1BYbVZkSHUxcVMwb3RSMFd4d0ZfU2k2WVJFZXlyMUNuVXJoM1lxSEFlNXVud1dUbF9DbXZMb2xoeFplZlZFS1YwNkJv?oc=5",
-    "source": "marketsandmarkets.com",
+    "source": "MarketsandMarkets",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -624,11 +611,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "d38d0e24f973",
-    "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - IBEF",
-    "description": "Source: IBEF",
+    "id": "cee974d0d3ab",
+    "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - ibef.org",
+    "description": "Source: ibef.org",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTNadjJhbnJKZS1oVVJkOXRVQnlGazVCay0wZzRYa0ZDUTVnZUZ0V2ZvdEZVQk9PY2RTSmJlZXNiWWJtZlF2OWdsbnA5NjFXM21mTEQ1N1R1TmpPYXdrdGNPWUVOWGZZbkcxQnJXQXJDQmp0VEhmd0ZZUlNMWkRrX1h6QjkxbExKWGhDSlZSM1BYZ0s3RlB3bkwxSXROOHN2Sk1OU2xCenVFNEI3Qmc?oc=5",
-    "source": "IBEF",
+    "source": "ibef.org",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -663,11 +650,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "c708437ae38e",
-    "title": "The All of Us Research Program’s wearables dataset - Nature",
-    "description": "Source: Nature",
+    "id": "89377b4b8921",
+    "title": "The All of Us Research Program’s wearables dataset - nature.com",
+    "description": "Source: nature.com",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BTkdZc3ZCcjFvaF9pQm1rbXBQUWxmU3h0V1FrbS1YTG5zWUFnU2ZOeXV0VFM3cGhsSkRwaTZrUDBoQmVzWUFKWmdkNk1xeGJ4TnhCcUxqQ3NKMzBfcEo4?oc=5",
-    "source": "Nature",
+    "source": "nature.com",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
