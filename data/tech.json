@@ -130,11 +130,11 @@
     "subcategory": "ai"
   },
   {
-    "id": "52d1f5afee23",
-    "title": "India Health 2026 Concludes Successfully, Showcasing India’s Expanding MedTech Manufacturing and Healthcare Innovation Landscape - healthcareexecutive.in",
-    "description": "Source: healthcareexecutive.in",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZSDNwcVpmc3pZTU4zcENLLW9sel9UOFk4ams0SVAtUi14VmJFQXpHa3kyRUdFM3BlMGRMaTlER3dkZWhyV0xQeHRnM3JCVDBsRC1FQ2p5UlN2djhVOU95Y0sxSFlUUDZXMkx4V2dB?oc=5",
-    "source": "healthcareexecutive.in",
+    "id": "b304cc557e25",
+    "title": "Government and Industry Join Hands to Accelerate Investment, Innovation and Manufacturing in India’s MedTech Sector - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCU0syYTVGS1JuYlowOFNwQmVzajFYa2tNd2xmZ2NBV0JKeW1yZGwtaFJUSGtZenFORmNvMWxUNUNOMHJFdnZucWdhWnR1aW1pNkF4b0UtaXlISDZGVy1ERkF0NGFTOEdpaG45UGRaLVdhTW1kUmlMUlpnMA?oc=5",
+    "source": "PIB",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -143,11 +143,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "b304cc557e25",
-    "title": "Government and Industry Join Hands to Accelerate Investment, Innovation and Manufacturing in India’s MedTech Sector - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCU0syYTVGS1JuYlowOFNwQmVzajFYa2tNd2xmZ2NBV0JKeW1yZGwtaFJUSGtZenFORmNvMWxUNUNOMHJFdnZucWdhWnR1aW1pNkF4b0UtaXlISDZGVy1ERkF0NGFTOEdpaG45UGRaLVdhTW1kUmlMUlpnMA?oc=5",
-    "source": "PIB",
+    "id": "52d1f5afee23",
+    "title": "India Health 2026 Concludes Successfully, Showcasing India’s Expanding MedTech Manufacturing and Healthcare Innovation Landscape - healthcareexecutive.in",
+    "description": "Source: healthcareexecutive.in",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZSDNwcVpmc3pZTU4zcENLLW9sel9UOFk4ams0SVAtUi14VmJFQXpHa3kyRUdFM3BlMGRMaTlER3dkZWhyV0xQeHRnM3JCVDBsRC1FQ2p5UlN2djhVOU95Y0sxSFlUUDZXMkx4V2dB?oc=5",
+    "source": "healthcareexecutive.in",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -195,11 +195,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "f28f508886ff",
-    "title": "Health Minister Nadda chairs MedTech CEO roundtable, unveils roadmap for responsible AI adoption in healthcare - ddindia.co.in",
-    "description": "Source: ddindia.co.in",
+    "id": "eae76446cee4",
+    "title": "Health Minister Nadda chairs MedTech CEO roundtable, unveils roadmap for responsible AI adoption in healthcare - DD India",
+    "description": "Source: DD India",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVRRbTNlX1VDaEZfNlVaZGs2UDladHp2dVRwaElOUUItUkJzbG42UFVuN2gtcHhYZVJINEgzb0xFNEFzblo4dlZHNzZnS0pWTzV0WDVYZ19pNkpZc3BxT05KUGx4NlI5M3NVWGdQa25uVW1mOUJZSjNRcENEdUcxaHFYYzhKREdqTjgwb0hTYTYtdGpPNnprT0VZMWdXanZMTzhPX05IZVpLeno4a2Y1eGQzUmlnYlJVOGxzdkF3ZGNONnF1cVZLOUhNMFJwYngxWWNPak5aUQ?oc=5",
-    "source": "ddindia.co.in",
+    "source": "DD India",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -245,6 +245,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "b01c2d4a794d",
+    "title": "Telehealth Market Size, Share & Growth Report | MRFR - Market Research Future",
+    "description": "Source: Market Research Future",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNGktRThrNE1tNjlpYXhpMVVpZ0pPeG5LdnZxWGpYM3N5YllkTXhpSDVDZFE2ZUt3d3ExbjJlalJMVVBxU2lsdWZUZTZ2Z0NJaWtJcG10N1RMVlh4NzRJQTRrQTk4eXhYMHJGSGVPVENMXzgz?oc=5",
+    "source": "Market Research Future",
+    "date": "2026-09-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
   },
   {
     "id": "6ada2a5ca679",
@@ -351,19 +364,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "359c125cfff1",
-    "title": "AI in Telehealth & Telemedicine Market Size, Share, Growth 2034 - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmZjUzlrRGpOdzJJOFYyNmRLbEk0bmJ6b3lPQmpnWk1NQXduemYzcHRyMTRZMF83SnFhSVpBSnVCQXRESjZ4Z01VekxjUEJXYktLZk41eWZTNjZBcWtQbC1zMFZoNFRsSnUzTnRhMTlIeHUzVTdzQ2YwbWQ1cldvaXNaSDRPUXJoZU1F?oc=5",
-    "source": "Fortune Business Insights",
-    "date": "2026-09-14",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "712788389102",
     "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
     "description": "Source: orfonline.org",
@@ -377,11 +377,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "d59ee993de25",
-    "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - ddindia.co.in",
-    "description": "Source: ddindia.co.in",
+    "id": "3bf260e915e0",
+    "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - DD India",
+    "description": "Source: DD India",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVV2Zks4MnIyUGdLUkhRbzVQNGVFQjFKeER6VWJZTXdEWC1XMnRCcEpwSlhpQUYwZVRtZjRRMDVPVm5sODNfLVFtbGpZYi00R3RmZlFzaE5Wd2xaVzVBbXNYTUVzYVdBYWhHenp6V2dhZWEyLWxtMm5HXzFCUjRqV3NyZEZ1T184WW1iMjd4STJoOW9fQWhpVnJ1MWY0SUtEMm13RENSaw?oc=5",
-    "source": "ddindia.co.in",
+    "source": "DD India",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -442,11 +442,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "0a0d1285f498",
-    "title": "Precision medicine | The cure is in your genes - indiatoday.in",
-    "description": "Source: indiatoday.in",
+    "id": "911a14371074",
+    "title": "Precision medicine | The cure is in your genes - India Today",
+    "description": "Source: India Today",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSk45aHJ1dDhld2lFZTdTU2EzWVdUM1RfTVBSS2xPTlk1cUlPMXlQOENXVnJ0Y2hrZW1ERGRHNnBxOEw2Y0dmaDNTV01oVTlRQm51SXR2Z3Z1WEU4RlNGcVFHejU5SFI5LVpkYWVkclpJUDFsWEVlTDNUUGZjZ1dxN2N1aVE2S0Q4RG9IbkJXRUZxN0dVTS0wRVdBMXE3S0JQcXVlUFB1QWdZYWJYQnNkU0FrQnE4Qk1Lb2owUk1TTnZJR3pwRHhQRkpfRFMtZ29sbGfSAdcBQVVfeXFMT2t2a3M3YzJXV0xrNTNwck91MjhzWDBoQVBuUGlvNHhURzRab3hTd05zVk9RaEgxaFJSakZJZjN0Wk5OaXZBak41Q3ZKSWtKOFZLNFJIbGo1QzhHdTFwVHZfeXZuNUw4NHQ4NTNHTjN3VzlWRGZuX2FjN1hubVJkVXZfNW1YT1o4QnR6bnBRMi1PVFRUWHRpWE5rMjlFLVo3TEdEZFRNMGhxSkJqbWdqWkhiS2tjTi04SVdwV3d3eG9oZElLT3RBeWV3ZVNnYWdaUUpMRkRXRUE?oc=5",
-    "source": "indiatoday.in",
+    "source": "India Today",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -559,19 +559,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "ac6f3b0ff0d3",
-    "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
-    "description": "Source: Digital in Asia",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
-    "source": "Digital in Asia",
-    "date": "2026-09-14",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "bdb5c603f9ee",
     "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - Inc42",
     "description": "Source: Inc42",
@@ -583,6 +570,19 @@
     "tag_label": "Startup",
     "priority": "medium",
     "subcategory": "startup"
+  },
+  {
+    "id": "ac6f3b0ff0d3",
+    "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
+    "description": "Source: Digital in Asia",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
+    "source": "Digital in Asia",
+    "date": "2026-09-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
   },
   {
     "id": "cd26707ec565",
@@ -598,11 +598,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "37bfcd403d06",
-    "title": "India Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-    "description": "Source: MarketsandMarkets",
+    "id": "febf932dc4be",
+    "title": "India Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com",
+    "description": "Source: marketsandmarkets.com",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkNYUWdsVmxuYldGTVVlSmhfVVJoeDlQWURLdGJ3bGVMV1c4Q1JqUGFidTlPZ1g2aklFOHA5aThqRmtzQU1yaDQ2SjlPNDIyc09Qb1BYbVZkSHUxcVMwb3RSMFd4d0ZfU2k2WVJFZXlyMUNuVXJoM1lxSEFlNXVud1dUbF9DbXZMb2xoeFplZlZFS1YwNkJv?oc=5",
-    "source": "MarketsandMarkets",
+    "source": "marketsandmarkets.com",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
@@ -637,11 +637,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "400fae738ddc",
-    "title": "Wearable devices help build healthy habits, but cannot replace doctors - indiatoday.in",
-    "description": "Source: indiatoday.in",
+    "id": "e206b371e0f3",
+    "title": "Wearable devices help build healthy habits, but cannot replace doctors - India Today",
+    "description": "Source: India Today",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmRrc3VrekZBRkFzQ2s3N0MzT19iZFBPSzFfODQ5a1dCQmtFWml4SU8tcnRyZk1MQVQ0S0l2dnRVcHhXOExtbFNmNFhnRUdVeWVtTmRFdVdwaU1JMXlmbGVGc3ZFTGo4UTdqSHB4MThMWUVObjlFcjIwY0RYVGtVdGIxUEVvaHJjRmZzV0lfRTZXQ21FdGR5WHg4Z3NJVUxFbW91dm1vbm0zNDhDM1FpRlRQcFlsUmczWTJocV9mdkhDU0NMY3F0aVln0gHPAUFVX3lxTE85R2pJc25uZWhINTZ1dG1HRDFLVzlLbGxEVDFpSVVnTTMtMkVEd2kyMTRMQ052aFd0NU4yekJjdXBSR2hSX01ZQmIteVREX2VCMG80RkxfalFrZG04ODJTR1JGY2prR3A0WWxLc0xLMDhSX2xJV2RUdHEzM1UtaXZtQ1BNb3RzdS1wcVRMWVJGZWRxS3BMNWlQdHNMT1p0TXh6TVUtZ2pFWU5QakV5ZXhwOE1vSkhxT2MyaXhSU19xX05JdzhlN052T2JkaXRzSQ?oc=5",
-    "source": "indiatoday.in",
+    "source": "India Today",
     "date": "2026-09-14",
     "category": "tech",
     "tag": "tech",
