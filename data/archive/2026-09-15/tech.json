@@ -1,18 +1,5 @@
 [
   {
-    "id": "ca237304e862",
-    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
-    "description": "Source: Telangana Today",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
-    "source": "Telangana Today",
-    "date": "2026-09-15",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "952cdb68f29d",
     "title": "Singapore - Digital Health Laws and Regulations 2026 - ICLG",
     "description": "Source: ICLG",
@@ -24,19 +11,6 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
-  },
-  {
-    "id": "44d8e449758c",
-    "title": "Zydus and Apollo Hospitals sign MoU to launch MCD test in India - Medical Device Network",
-    "description": "Source: Medical Device Network",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdV9PZ0NKdHNkUUdYWktpb0hLSmhmaHIwS2J0U3VURE13dEc0ekNmMDVuazBZam5TVXNNTnFyU2FxUXVqZzVQWWQ4SnV2aENnQ2hnV0JFNkJXSVc4UUJjbEd4b0QwRV9lbnRybS1xU2w1SVA5Unl1Z052M05EZ1h2R2ZQdEVCTkc5?oc=5",
-    "source": "Medical Device Network",
-    "date": "2026-09-15",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
   },
   {
     "id": "87e7e59e51db",
@@ -78,11 +52,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "416ab6d53085",
-    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
-    "description": "Source: Cleveland Clinic",
+    "id": "1b7c06eae1e9",
+    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - newsroom.clevelandclinic.org",
+    "description": "Source: newsroom.clevelandclinic.org",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
-    "source": "Cleveland Clinic",
+    "source": "newsroom.clevelandclinic.org",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -115,19 +89,6 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
-  },
-  {
-    "id": "aa4e20aac30e",
-    "title": "Towards autonomous medical artificial intelligence agents - Nature",
-    "description": "Source: Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
-    "source": "Nature",
-    "date": "2026-09-15",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   },
   {
     "id": "b304cc557e25",
@@ -182,11 +143,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "c9420e4f3965",
-    "title": "India Medical Device 2026 to spotlight self-reliance, innovation and global partnerships in MedTech sector - ddnews.gov.in",
-    "description": "Source: ddnews.gov.in",
+    "id": "580de742576f",
+    "title": "India Medical Device 2026 to spotlight self-reliance, innovation and global partnerships in MedTech sector - DD News",
+    "description": "Source: DD News",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLV9xZ0JfLU13YXBzTTVqX2l6TlBQbklsdjhpY3VFMXYyTjRYLXBwSkFEYUZVdHdtVWxlcFFpRWVIc1l0aVZlY2swNUJqX183Z2RHMkg3T3lsQXZKYlVESHR1M1pqQWJXT2tYV1B3UEJXWjdhUzAwSHNXOUFia3NsUjNWQmJxTWRKeVVNTVRPNG5rOFl3UVNwWE0xcEtfZ2FES2VUUlBCdDRnVlBJZi1NbHBZc2hFR0tQYm9GVllDTjBoeEwteXh4Z2FoVQ?oc=5",
-    "source": "ddnews.gov.in",
+    "source": "DD News",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -195,11 +156,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "f28f508886ff",
-    "title": "Health Minister Nadda chairs MedTech CEO roundtable, unveils roadmap for responsible AI adoption in healthcare - ddindia.co.in",
-    "description": "Source: ddindia.co.in",
+    "id": "eae76446cee4",
+    "title": "Health Minister Nadda chairs MedTech CEO roundtable, unveils roadmap for responsible AI adoption in healthcare - DD India",
+    "description": "Source: DD India",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVRRbTNlX1VDaEZfNlVaZGs2UDladHp2dVRwaElOUUItUkJzbG42UFVuN2gtcHhYZVJINEgzb0xFNEFzblo4dlZHNzZnS0pWTzV0WDVYZ19pNkpZc3BxT05KUGx4NlI5M3NVWGdQa25uVW1mOUJZSjNRcENEdUcxaHFYYzhKREdqTjgwb0hTYTYtdGpPNnprT0VZMWdXanZMTzhPX05IZVpLeno4a2Y1eGQzUmlnYlJVOGxzdkF3ZGNONnF1cVZLOUhNMFJwYngxWWNPak5aUQ?oc=5",
-    "source": "ddindia.co.in",
+    "source": "DD India",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -273,24 +234,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "5e5060e5d8d8",
-    "title": "Digital Health Market Size, Growth Forecasts 2035 - Research Nester",
-    "description": "Source: Research Nester",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRzluWkxnZHpTMFVKOTh2dDhrVkh6eDV0T2llSWhWVkcwSUVDS1dObloxZ1FXRWhZYXljQnlnNDNoLU02bjhCNG0tQWc1T05WTmR3RGZRNW1DOWJXVU93QkJMdjEzUktjbmNHaUZVdW5xdw?oc=5",
-    "source": "Research Nester",
-    "date": "2026-09-15",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "fbbca617fa46",
-    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - globenewswire.com",
-    "description": "Source: globenewswire.com",
+    "id": "e7e56efc36ba",
+    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - GlobeNewswire",
+    "description": "Source: GlobeNewswire",
     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNa3hVOHJGYVBiaUNuRE1fQWxQWkJHU1JvTU5XUFFYSy1sdzF1eVhWOERGNVRvbGlLT250TTNNQ2NCcUlTSnZvdjhydnlDM3I2aG9UdGIycnlpYXB6RjE0ZUp5UWFpU0RTUlhrZk5EOVd6STZlLWhkQkFYTzVFSFo2LWR1elRySjZlY3hvV1QxbVZRaDdaOExBdEVKMzVSa3Z2NWhVTzRYYkdFS1ZoNTQyMFY5d3VlZVAzNllDaHowbWJram9FcWlQWXdPRS1JUUVTTW00RFNpV2xqeVF6NGlmQXNWYmkwWmdMWEFYQkphUGFaVWZ1SFZfZ0YtQmRNNjRfdEhTd3NxdXl3UXVSR3pwZUcyWHJuUWVxMkExWlB6U1dJR2pMR2tIUXpPeDc0YXV0dVhQUHUteU1yOF9rT2ItSlhfa0EzLWRabGpjN0YwdlBvYUc1dUZ3V3dvYXVMNXF2UnRQVG1CM2pibVhJdFk5SFhR?oc=5",
-    "source": "globenewswire.com",
+    "source": "GlobeNewswire",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -325,11 +273,24 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "4c6467f20d23",
-    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
-    "description": "Source: Business Wire",
+    "id": "55da6c2d6e84",
+    "title": "The UAE Telehealth Market Size & Outlook, 2033 - Grand View Research",
+    "description": "Source: Grand View Research",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtVU1sRGg1U0pyVlRYTm03QWwwY0piWi15U1JNd0JwQldXNnVuQTd3LUJjTWdlbEhaMDNmM2szb3dURGJUR25jdDBoWm9ac3p0aEJzcDZvVFJIU3JWSmlKVFJVT3FsMVVubHVzdEZFOF9BbDlVLThOQWNzbw?oc=5",
+    "source": "Grand View Research",
+    "date": "2026-09-15",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
+    "id": "9b5fcb2eee16",
+    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - businesswire.com",
+    "description": "Source: businesswire.com",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -351,19 +312,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "0c16bf0cb52f",
-    "title": "Evaluating health equity in Australian telehealth policies: a policy review - Nature",
-    "description": "Source: Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qZEtmU2RGTGhVVV9Bd3Vnb2p5a05QcGpHUnIzQTVfTy1LZXdFc3JvXzVpcldTZmk3UkoxNUpyZUtWOUNQNnRveUV6NWlSbkg2MFBVbFBySnMwVXVpeXFj?oc=5",
-    "source": "Nature",
-    "date": "2026-09-15",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "712788389102",
     "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
     "description": "Source: orfonline.org",
@@ -377,11 +325,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "d59ee993de25",
-    "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - ddindia.co.in",
-    "description": "Source: ddindia.co.in",
+    "id": "3bf260e915e0",
+    "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - DD India",
+    "description": "Source: DD India",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVV2Zks4MnIyUGdLUkhRbzVQNGVFQjFKeER6VWJZTXdEWC1XMnRCcEpwSlhpQUYwZVRtZjRRMDVPVm5sODNfLVFtbGpZYi00R3RmZlFzaE5Wd2xaVzVBbXNYTUVzYVdBYWhHenp6V2dhZWEyLWxtMm5HXzFCUjRqV3NyZEZ1T184WW1iMjd4STJoOW9fQWhpVnJ1MWY0SUtEMm13RENSaw?oc=5",
-    "source": "ddindia.co.in",
+    "source": "DD India",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -403,11 +351,11 @@
     "subcategory": "ai"
   },
   {
-    "id": "86229fc23241",
-    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - News On AIR",
-    "description": "Source: News On AIR",
+    "id": "fd67a15fdf1d",
+    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - newsonair.gov.in",
+    "description": "Source: newsonair.gov.in",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5ZbTgtaG1jaGhzSlMwRFhfT0JzUnJ2OXh5d2V3c09WTm1nQmxoV0lLS2FvRHZ4dXZQbVU4ajVnNkkzYzlKWTh6YkFRSTMtTUV3UHExVzZKR1RCTDI3QVZNRElTaWROaUgyRld2MmhXVFBBSmhTVDJtdTYxMnBGeXhVbjZ4ZzZfazlRU0RBRkVqSFMzcnNEeXAwSFk2bWVvZkllcUNGOE1Sd3d0aElUcHJ2VW9mRlNz?oc=5",
-    "source": "News On AIR",
+    "source": "newsonair.gov.in",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -455,11 +403,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "0943672aae3b",
-    "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - ddnews.gov.in",
-    "description": "Source: ddnews.gov.in",
+    "id": "29180101239d",
+    "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - DD News",
+    "description": "Source: DD News",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3FYWUVhM0ZuRlRrZFhlTlBWZEdrNnYtV3dSQ3VrRWZGMWlldHoxTjhyRWF0VVFCbjIyUVkxQ1V0djlZUmpGRC0xOGlpenpfMkZNLXNKUHJPZHdtSmVld29kWjFxaFJ5WmtsS085MlRRemNrNS1JMnA0YkNHVXFWRENDSUpJQk1PZFZpeXlMNU5fN1hyaERaUlgxeTNtYXp4MnBGYk53VmRwT2JOYmdmWFN5dWlNM0RhM3Z6cHp3NllHQQ?oc=5",
-    "source": "ddnews.gov.in",
+    "source": "DD News",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -507,11 +455,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "f90c8dd52ac4",
-    "title": "Surgical Robot Procedures Market - Future Market Insights",
-    "description": "Source: Future Market Insights",
+    "id": "4283f3db8bd1",
+    "title": "Surgical Robot Procedures Market - futuremarketinsights.com",
+    "description": "Source: futuremarketinsights.com",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2ZJVy1TSDNvc2V6MkxOSU4tZ0loZE16aW1xbm1GVVRCUTB0b3didlBucENlZUZMU2dHcU9pVkFfZktYc0JiZVpuRGVzUlRKXzZuTVpLZnVIM2RTZlpvUHp6Vkp3WTFQVVJmbHRZUzJqRkFrVEZKZ1ZVU3Rhczl3SXE0bw?oc=5",
-    "source": "Future Market Insights",
+    "source": "futuremarketinsights.com",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -520,11 +468,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "e0e664ed1bf1",
-    "title": "Top 30 Healthtech Startups In India 2026 By Funding - Inc42",
-    "description": "Source: Inc42",
+    "id": "7d7382808235",
+    "title": "Top 30 Healthtech Startups In India 2026 By Funding - inc42.com",
+    "description": "Source: inc42.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEtSbmpRencwbTc5X19BZzBkX2cyczRLTEwtWGNhSWJ0cmJJMTROQkN6S0NBTF92NEtVR0dLMWY3Q2hMZGhiSExkRlhLOEg2Z25MLU9IYUYxSXNyQ3p4THk5Y1FjS0VGcEJGRWRZVGREeUFaNTZnMENqVDRreGFER293?oc=5",
-    "source": "Inc42",
+    "source": "inc42.com",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -585,11 +533,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "bdb5c603f9ee",
-    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - Inc42",
-    "description": "Source: Inc42",
+    "id": "0fa8e9c3ea01",
+    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - inc42.com",
+    "description": "Source: inc42.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWNDckN1S0luSFk3clRTTFN4OE00dm1iQVVYQ3M5SHBrRHl4WTNrXzQwaW1BeEpORWxydEkyTnFuX3pUd3hPY0kzcW9sY0l0Skh6UkFUSlBick1sNXY5MUZQa3FXRU1VWGZkRXFLdF9iT3lfc21xNmN3QVpKdWd0UTR3?oc=5",
-    "source": "Inc42",
+    "source": "inc42.com",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -637,11 +585,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "d38d0e24f973",
-    "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - IBEF",
-    "description": "Source: IBEF",
+    "id": "cee974d0d3ab",
+    "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - ibef.org",
+    "description": "Source: ibef.org",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTNadjJhbnJKZS1oVVJkOXRVQnlGazVCay0wZzRYa0ZDUTVnZUZ0V2ZvdEZVQk9PY2RTSmJlZXNiWWJtZlF2OWdsbnA5NjFXM21mTEQ1N1R1TmpPYXdrdGNPWUVOWGZZbkcxQnJXQXJDQmp0VEhmd0ZZUlNMWkRrX1h6QjkxbExKWGhDSlZSM1BYZ0s3RlB3bkwxSXROOHN2Sk1OU2xCenVFNEI3Qmc?oc=5",
-    "source": "IBEF",
+    "source": "ibef.org",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -676,11 +624,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "c708437ae38e",
-    "title": "The All of Us Research Program’s wearables dataset - Nature",
-    "description": "Source: Nature",
+    "id": "89377b4b8921",
+    "title": "The All of Us Research Program’s wearables dataset - nature.com",
+    "description": "Source: nature.com",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BTkdZc3ZCcjFvaF9pQm1rbXBQUWxmU3h0V1FrbS1YTG5zWUFnU2ZOeXV0VFM3cGhsSkRwaTZrUDBoQmVzWUFKWmdkNk1xeGJ4TnhCcUxqQ3NKMzBfcEo4?oc=5",
-    "source": "Nature",
+    "source": "nature.com",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
