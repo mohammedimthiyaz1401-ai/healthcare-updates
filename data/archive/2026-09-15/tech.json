@@ -1,16 +1,29 @@
 [
   {
-    "id": "9613dcbc66e9",
-    "title": "New Healthcare Policy for Telangana to Be Tabled in 2026–27 Budget, Says CM Revanth Reddy - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVI0aS1vdkI4ZDhnaG56N003WXVqVzdHNFlHZHh0WFpWMXF3YU5FQXNSR0JtbGRDdG5aLWlmQ0xSclNaeERKZGhIZDBGYzRHYWRuaG9BV290ZmZZN09TWkYwN28zLTFRcXhNWHBPeDB6c21XTHJiWmtFLU9CTUsxTUxWTlRWd1lfV2Y4RmVENllRbXNKbURUT2tKdHhzUllRdW01M3ZXcXBOQW9NOVFLMjdEOW5CRFFFN3dBZEhtQQ?oc=5",
-    "source": "Digital Health News",
+    "id": "82eaa825236d",
+    "title": "India Pharma Expo 2026 Wraps Up in Hyderabad, Spotlighting MedTech Integration and Future-Ready Healthcare Systems - eHealth Magazine",
+    "description": "Source: eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUnBiTGNmZmthczM2OWlJaVBOTHYzV3pkVlh3MmdvQVBXcXFlZzZIMG51UUQta01rTzQ0YmstQ2NqZHViMVlnNEZxRUZZRkZtY1pBNklmRHdWT2xmSHF2MTU1N0wwSjJVbWJzM1hQOHluUVBTZUFZTnpmcDlWZjlZMFZmcG1JMER3dkNWcjAzMFJrcExoQXROMWtPeC1tVERfVWdTMXZWRW81U0xGbUxDUzhLb3NidXYwU0JxMzRrem1HMlZ4S2haNWN5bkFRbEVIbnFxSEFYOTc2UXIzVk1VY0c5cjRnTThSbFE?oc=5",
+    "source": "eHealth Magazine",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Telehealth",
+    "tag_label": "MedTech",
     "priority": "medium",
-    "subcategory": "telehealth"
+    "subcategory": "medtech"
+  },
+  {
+    "id": "ca237304e862",
+    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
+    "description": "Source: Telangana Today",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
+    "source": "Telangana Today",
+    "date": "2026-09-15",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "952cdb68f29d",
@@ -104,17 +117,17 @@
     "subcategory": "medtech"
   },
   {
-    "id": "a1d263611317",
-    "title": "Health Systems Can Look to Their Peers for AI Inspiration - HealthTech Magazine",
-    "description": "Source: HealthTech Magazine",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWG9pQlh2Y3ZlVkwzcHo2Zkp4cDZBV3ozczV0dGRtS3BJTXByTU1ndzYwUjZhOVJDbzFNSlBBYWcxd3FFWERrZVQ0M3hlR1JqX1BQZkotQ1pLSWczXzZTdy1wcFBLSHJaRDRsWGtQU0Q0OHM5c1l3RWpHYVNWdEJYMXBjS1BqRUQzcWJERkpxZ21DUkJpXzNkaG5GNjA2UQ?oc=5",
-    "source": "HealthTech Magazine",
+    "id": "aa4e20aac30e",
+    "title": "Towards autonomous medical artificial intelligence agents - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+    "source": "Nature",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Startup",
+    "tag_label": "AI / ML",
     "priority": "medium",
-    "subcategory": "startup"
+    "subcategory": "ai"
   },
   {
     "id": "b304cc557e25",
@@ -234,6 +247,19 @@
     "subcategory": "medtech"
   },
   {
+    "id": "b01c2d4a794d",
+    "title": "Telehealth Market Size, Share & Growth Report | MRFR - Market Research Future",
+    "description": "Source: Market Research Future",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNGktRThrNE1tNjlpYXhpMVVpZ0pPeG5LdnZxWGpYM3N5YllkTXhpSDVDZFE2ZUt3d3ExbjJlalJMVVBxU2lsdWZUZTZ2Z0NJaWtJcG10N1RMVlh4NzRJQTRrQTk4eXhYMHJGSGVPVENMXzgz?oc=5",
+    "source": "Market Research Future",
+    "date": "2026-09-15",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "6ada2a5ca679",
     "title": "Telemedicine Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
     "description": "Source: Fortune Business Insights",
@@ -273,10 +299,10 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "93ed195525a2",
-    "title": "Remote Patient Monitoring Systems Market Size to Hit USD 43.88 bn by 2035 - Precedence Research",
+    "id": "192de35aebc0",
+    "title": "Telemedicine Market Size Hit USD 806.89 Bn by 2035 - Precedence Research",
     "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRm5lYk5wMDBhSEZJdElJU1RYLWJaWnBFMUpKM04wMXVEZVBsd055V28weTJLdnE5UTBoZW5sS3VoSXZtUDd5R295MjlVNjV4ZXlab3VCVjdRa3FXbWx2bWJMZkxCRVhOUmU2NDlHc05wamN3aFozaWZhbEFfVXdwMA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
     "source": "Precedence Research",
     "date": "2026-09-15",
     "category": "tech",
@@ -338,19 +364,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "1803d0286055",
-    "title": "India’s Healthcare Revolution Through Telemedicine - IBEF",
-    "description": "Source: IBEF",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmM4Z0dETXg1WkhfSFhmTVNOMXA1Zk83U2pUaUZSdXNmZFViTm9wT2dZeVRNVW1FaFdYUDRsLXBQSnBBbUYyMndnY1dDZjRIOU45azBQdXB2bW9mUVRXUzh1WTdUbWZ6Z19zaEw4QkFaY1NGTzVvM19vNXo5SnRkeDZLb2ZvMG5tVmpxS1lFQld1SGhUMV95S253aWJhaHB0eUxSSkJVRFBHMnFhZ25RYzNTNm9yNGN4Skg4YkpfZE0?oc=5",
-    "source": "IBEF",
-    "date": "2026-09-15",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "712788389102",
     "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
     "description": "Source: orfonline.org",
@@ -403,11 +416,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "1dd0d542d1fb",
-    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
-    "description": "Source: Spherical Insights",
+    "id": "8ed7cf2def04",
+    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - sphericalinsights.com",
+    "description": "Source: sphericalinsights.com",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
-    "source": "Spherical Insights",
+    "source": "sphericalinsights.com",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -479,19 +492,6 @@
     "tag_label": "AI / ML",
     "priority": "medium",
     "subcategory": "ai"
-  },
-  {
-    "id": "7abc7fdd6efc",
-    "title": "Surgical Robotics in India: Mapping the Robotic Surgery Ecosystem & Evolving Market - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFhPSGZydlNYVzJTRi1wMEIxakJnOGZlaFVKMlA4XzdwRHNwNTBRTS1WYl9IaGJxNjNIMzBRbVNGaF9kZ3p6V202V2dBZXp4ck92cjhSYXNSME9XUmZibE5zc0Mwal9BZGRrdWI0X0p2YXR4aTJqQy1JLWswZjZjQ0VzVGVqTTdDa0NEUVJnZkRISkl4RXc?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-09-15",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
   },
   {
     "id": "30b991abb63f",
@@ -611,11 +611,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "6675534134cc",
-    "title": "Wearable Fitness Trackers Market Size & Share [2026-2035] - Market Growth Reports",
-    "description": "Source: Market Growth Reports",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWk9tdlpSZmF0SXhmbnNUZG1ocnZ1Wk9hejd3YUg5M2w4NDRDLXRITDBHOW5GakJNRWh2Q0c2cVktMEUtczZDOFVXNWJPZzlYUnpiWEtOMlJCV28ySWtndVR2RF9kaGl6Y29TbXlqd2ZLUGl5R1I5VndSQ25OQzZEamNrWk1FUWZsLUYyRjBranJkWk1Y?oc=5",
-    "source": "Market Growth Reports",
+    "id": "37bfcd403d06",
+    "title": "India Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+    "description": "Source: MarketsandMarkets",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkNYUWdsVmxuYldGTVVlSmhfVVJoeDlQWURLdGJ3bGVMV1c4Q1JqUGFidTlPZ1g2aklFOHA5aThqRmtzQU1yaDQ2SjlPNDIyc09Qb1BYbVZkSHUxcVMwb3RSMFd4d0ZfU2k2WVJFZXlyMUNuVXJoM1lxSEFlNXVud1dUbF9DbXZMb2xoeFplZlZFS1YwNkJv?oc=5",
+    "source": "MarketsandMarkets",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
@@ -624,11 +624,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "37bfcd403d06",
-    "title": "India Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-    "description": "Source: MarketsandMarkets",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkNYUWdsVmxuYldGTVVlSmhfVVJoeDlQWURLdGJ3bGVMV1c4Q1JqUGFidTlPZ1g2aklFOHA5aThqRmtzQU1yaDQ2SjlPNDIyc09Qb1BYbVZkSHUxcVMwb3RSMFd4d0ZfU2k2WVJFZXlyMUNuVXJoM1lxSEFlNXVud1dUbF9DbXZMb2xoeFplZlZFS1YwNkJv?oc=5",
-    "source": "MarketsandMarkets",
+    "id": "6675534134cc",
+    "title": "Wearable Fitness Trackers Market Size & Share [2026-2035] - Market Growth Reports",
+    "description": "Source: Market Growth Reports",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWk9tdlpSZmF0SXhmbnNUZG1ocnZ1Wk9hejd3YUg5M2w4NDRDLXRITDBHOW5GakJNRWh2Q0c2cVktMEUtczZDOFVXNWJPZzlYUnpiWEtOMlJCV28ySWtndVR2RF9kaGl6Y29TbXlqd2ZLUGl5R1I5VndSQ25OQzZEamNrWk1FUWZsLUYyRjBranJkWk1Y?oc=5",
+    "source": "Market Growth Reports",
     "date": "2026-09-15",
     "category": "tech",
     "tag": "tech",
