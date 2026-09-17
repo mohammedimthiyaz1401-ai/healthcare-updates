@@ -13,11 +13,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "44d8e449758c",
-    "title": "Zydus and Apollo Hospitals sign MoU to launch MCD test in India - Medical Device Network",
-    "description": "Source: Medical Device Network",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdV9PZ0NKdHNkUUdYWktpb0hLSmhmaHIwS2J0U3VURE13dEc0ekNmMDVuazBZam5TVXNNTnFyU2FxUXVqZzVQWWQ4SnV2aENnQ2hnV0JFNkJXSVc4UUJjbEd4b0QwRV9lbnRybS1xU2w1SVA5Unl1Z052M05EZ1h2R2ZQdEVCTkc5?oc=5",
-    "source": "Medical Device Network",
+    "id": "2cbfdf0ce70c",
+    "title": "From Code to Compliance: Decoding India’s Medical Device Software Guidance - The National Law Review",
+    "description": "Source: The National Law Review",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmwwalZtVTM5bWtfd002bkR5WWpEOXEtYlN4aTQ3Z05fUVJvM0JTcTc5RkM0X1JmSWpYanhzeEhkS1E0WFBrY2pZc2pVMUxRZ3RxZXdxMlEzdHloMkJzVnJyY2JYNzBjaUdoTFZOYjZzWnRoSnNjSTZDNmdjNC1VcGRZVnBLUU5DUkpKaTBlN3A0RmNSTHV5ZVN0TTdhQdIBowFBVV95cUxNQkFXVFdOZXpqVUJYRTZKV3RYcDFtN3drc3hQQjRTMTRYU2psc2xyVlVFQVBsU25LN3hyMG1vZ3VicnhzLW5WTTQwQXlMbHhZcHJMd09MSVVCV1E2MDh1U1d4ZC1rV3V6Vlk4WE1weGs5RmJyeEVWUWN4Y1hSclNrdzdGY3d5VUdhUFFjMXRmRF8tM2lpbzYxV0JUSU4yXzhGbkRB?oc=5",
+    "source": "The National Law Review",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -26,17 +26,17 @@
     "subcategory": "medtech"
   },
   {
-    "id": "d6d333174025",
-    "title": "Top 5 HealthTech Trends Shaping India in 2026 - Digital Health News",
-    "description": "Source: Digital Health News",
+    "id": "aa32845a8193",
+    "title": "Top 5 HealthTech Trends Shaping India in 2026 - digitalhealthnews.com",
+    "description": "Source: digitalhealthnews.com",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOV9TelBMSlZIME15WjRrZHdUTXZNS2d4azdoN0lxMS16WWJDNHlRMWtaSDdPRDJhdnlaQzVITlpWd2U0RUlhbmU1ZTJfUG15VnFCclB0RWJxX0otSmhXS0VzXzMzVWtVTDBDbVg1M3lQVzltOEZmTWlOb0U1emVHcUIwNDZtdw?oc=5",
-    "source": "Digital Health News",
+    "source": "digitalhealthnews.com",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Telehealth",
+    "tag_label": "Startup",
     "priority": "medium",
-    "subcategory": "telehealth"
+    "subcategory": "startup"
   },
   {
     "id": "7899077d5e78",
@@ -63,6 +63,19 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "8f169b1042ea",
+    "title": "SIU’s Ryan Bioethicist lecture focuses on using artificial intelligence in health care - Southern Illinoisan",
+    "description": "Source: Southern Illinoisan",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVFNJTWg5RmNxZ1htVHlHQWVCMmhZMURTR1VCUnBMcEsyWEJqd0ZSem1qQzVaRzNjMHpQeHhQVjhKQUh6aHAwWDJVaGZrZ2hJMURTMkMyWXluRjNvNVNGSUVDRS1aZ0pXd1Bqb2lid1dUejhEbWljNVBGRU1sYk5sZ0hwSWk3VHM4TktUaHdnVWw4bkxMSGVyOU8wNVNiYnFWZ2VwdG9qOU0zTEVtUFhPZmZoUmlBUksyTGJLUVh4VTRTdkctRHk2b29QVm5WMUIwYlRMMGRsck5uN0VZVVBNOXhUMF9rQnZ0SC03OW02dEp6LU4zUVE1MWdOUFFJNzRvMVB2dXBQemRkLVBIZE5rZEQ0bmQ?oc=5",
+    "source": "Southern Illinoisan",
+    "date": "2026-09-17",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "416ab6d53085",
@@ -195,11 +208,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "711ea95096b5",
-    "title": "Medtech Regulatory Debate Set To Echo At India Health 2026 - outlookindia.com",
-    "description": "Source: outlookindia.com",
+    "id": "889f280cbacf",
+    "title": "Medtech Regulatory Debate Set To Echo At India Health 2026 - Outlook India",
+    "description": "Source: Outlook India",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjVucDdweUV4eG8yX18xa2U5VGNpTWlUVHAxdjBqT3l6TndmQTdqN3UyM3JPeFgycmFMMlNsSHpwNVFFMTJ2N3d0M1ZDcEdISzBwQUFEbHNKUm5ubzJ1OVg0REE2QnFoMFktYklVaXI4bjJXNDlhQnlFcUVsbXpILXJNc20yNHVWRmNfbnpBQVJOdFdfLXg2TnBYWmMwS0UtOE85MDZ4TGMzdjgw?oc=5",
-    "source": "outlookindia.com",
+    "source": "Outlook India",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -208,11 +221,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "22c04232975d",
-    "title": "Rs 70,000 Cr MedTech ecosystem takes centre-stage at India Health 2026 - biospectrumindia.com",
-    "description": "Source: biospectrumindia.com",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2Q2RTVjcnVmVlRxc0FQZzJ5VFdlQVJUakxCXzRpenRYSTJFS1Z2cXg4WGI3MEg1alZTSGY5WTc4aTRwVGNyUFF1YWk2N2lNd3ROSWdkVVNlNzdOb3Bwcm9mN084aEVtWEVGTW4ySlNfdDBkRHFYNW11NGNNbWZPVHhCNVQwYVZ4dThJU3o4cVRVaDFTdko5R1dLOHl5ZWtBN0xjRGZXV0lxM3BzemxORGU1REdEaTh4Y1pxNF9B?oc=5",
-    "source": "biospectrumindia.com",
+    "id": "ab843692199e",
+    "title": "India’s MedTech Sector: Consolidation, Innovation and Global Ambition in 2026 - ET HealthWorld",
+    "description": "Source: ET HealthWorld",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSGltRjNkQ0tpclcyMVJhNXNXbXpsRmtzTzY4NkVGS3BRN2hMQjNNa2cxOEtVQTJCcFc1bjZGT1NfQWs3RUwwWDdXZURXaldUU1hHcG5xYm9GY0JBYnRuMzJzU1dHNHlwRWZ6ZG9pZTNkZGdVUzNVYUY4T1A3NFl0MV9lbnkxejQxYUQxaFdmbHVkakFTYlFvdW93dDdFcXVKcXB1enJ4akNsY29tZ2sxZlNrQ0RqM3NETFlwRFpWRms3YXdRODJSbGxZeS14YUdxRzVDM1YzaTkwNjdzd29QRU9jVdIB6AFBVV95cUxOMHd1QkJ5aVEtN1h3dFJwNjk5X0xqNlpaSkJfZEM1WDJ0MXFQX0Y3LXBnN0laTXg3WDVzRjcza3BINzl0YjhBTmVXU3d4VnRQS2p3cUxyNDVjVzUtalRvQTN5aTZFWUxOeXZ0aGUzZk11VTd6dkNtVDZndkVja3ljOVc1em5RWjBvbU90REVuV1VNb2tJTUpLLWtCNnNsQW1mc0hXWWtSVlNzUnFFS3B4R3lDam9vOTBURXB3OEpQV2dPcW9TWXBJWkdyVWNwUVJzNzhhZDFjUVN5ZXZVeDhOQXZ6alFBck5y?oc=5",
+    "source": "ET HealthWorld",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -234,24 +247,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "b01c2d4a794d",
-    "title": "Telehealth Market Size, Share & Growth Report | MRFR - Market Research Future",
-    "description": "Source: Market Research Future",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNGktRThrNE1tNjlpYXhpMVVpZ0pPeG5LdnZxWGpYM3N5YllkTXhpSDVDZFE2ZUt3d3ExbjJlalJMVVBxU2lsdWZUZTZ2Z0NJaWtJcG10N1RMVlh4NzRJQTRrQTk4eXhYMHJGSGVPVENMXzgz?oc=5",
-    "source": "Market Research Future",
-    "date": "2026-09-17",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "b62ec82bf0fe",
-    "title": "Telemedicine Market Size, Share | Industry Report [2026-2034] - fortunebusinessinsights.com",
-    "description": "Source: fortunebusinessinsights.com",
+    "id": "6ada2a5ca679",
+    "title": "Telemedicine Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
+    "description": "Source: Fortune Business Insights",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWQ3SWFqc3hNVTRsV1gxWmw1WDA4eF9SY0FrVUQ0YTFUbXJMcW5vUHBlM2twNnkxendCdEtta3lyc1JXd3JqaS0yYjl5bXZlSE1Jak9MN3VwX1VSaUNoWXY4cVZ1a3BFS2pJbnBfQW1oNW9wUUh3TWd0RjZyWUVHcEJzM09xZFliOVU4?oc=5",
-    "source": "fortunebusinessinsights.com",
+    "source": "Fortune Business Insights",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -273,11 +273,24 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "86187f98ec6d",
-    "title": "National Telemedicine Day: Tracing India’s Journey of Bridging Distance through Technology - Digital Health News",
-    "description": "Source: Digital Health News",
+    "id": "04b4bbffb88d",
+    "title": "National Telemedicine Day: Tracing India’s Journey of Bridging Distance through Technology - digitalhealthnews.com",
+    "description": "Source: digitalhealthnews.com",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ0RsU3hCd3IyNUd3eTZVX1dLSWRwcHhKQmpGR3JabGFYUlRpckZDdWhfTllWZjI1bkIxMzRqR2Y4MlZlcU04QVVxRm83aElMY3RqRG5fZTZjbHBVRHk0N0RXZmk1aWVsSUF0Y1pyZnpIbUd5VFhLZTlRMkhmd19BTnRZc3dkcnFLaVZvWWxEdDdoRFMwdjBmLUNjMFJVdlh3ZjdRY3dTdUcwc1NPVnRLZ1MzdDNSV0pJWDdjZmNHakM?oc=5",
-    "source": "Digital Health News",
+    "source": "digitalhealthnews.com",
+    "date": "2026-09-17",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
+    "id": "55da6c2d6e84",
+    "title": "The UAE Telehealth Market Size & Outlook, 2033 - Grand View Research",
+    "description": "Source: Grand View Research",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtVU1sRGg1U0pyVlRYTm03QWwwY0piWi15U1JNd0JwQldXNnVuQTd3LUJjTWdlbEhaMDNmM2szb3dURGJUR25jdDBoWm9ac3p0aEJzcDZvVFJIU3JWSmlKVFJVT3FsMVVubHVzdEZFOF9BbDlVLThOQWNzbw?oc=5",
+    "source": "Grand View Research",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -312,11 +325,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "0c16bf0cb52f",
-    "title": "Evaluating health equity in Australian telehealth policies: a policy review - Nature",
-    "description": "Source: Nature",
+    "id": "7071b073662e",
+    "title": "Evaluating health equity in Australian telehealth policies: a policy review - nature.com",
+    "description": "Source: nature.com",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qZEtmU2RGTGhVVV9Bd3Vnb2p5a05QcGpHUnIzQTVfTy1LZXdFc3JvXzVpcldTZmk3UkoxNUpyZUtWOUNQNnRveUV6NWlSbkg2MFBVbFBySnMwVXVpeXFj?oc=5",
-    "source": "Nature",
+    "source": "nature.com",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -364,11 +377,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "d15c12d6c7aa",
-    "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - fortunebusinessinsights.com",
-    "description": "Source: fortunebusinessinsights.com",
+    "id": "2fcce0f9f64d",
+    "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - Fortune Business Insights",
+    "description": "Source: Fortune Business Insights",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWYzT1MtM1NmWW84V3AyNWk1V0h0eTh0ZFE5eXhzeXQ2c0sxaFFRdHBaMDhhZXZaS29EaWdjdHRvdTRybER1aEJzNEN0NzRfTThIWlZIREFvM0NPMGFvbGhCVHNIcHpuWUtqaVluUUU5LXRGMlhfOWNGTGRnWWc5NnoxdllVYnY5TFZOZEJjNVh1UkJGWno4?oc=5",
-    "source": "fortunebusinessinsights.com",
+    "source": "Fortune Business Insights",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -442,6 +455,19 @@
     "subcategory": "ai"
   },
   {
+    "id": "97f090e1f222",
+    "title": "Personalized Medicine Market Size Worth USD 1,397.63 Bn by 2035 Rising Use of Genomics Enables More Precise, Patient-specific Treatments - BioSpace",
+    "description": "Source: BioSpace",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU3RCNlk1RTROdXp0RnVYbnNQM2JFYXlvMlNMU3ZHQkJPa3lrcTNiX2M5V095YkRnaHpHU2FaZk83Rm1KMHluV0VZZUJjaWhvZmVxS2VDcFFmLVFUU0d6QURKWlNZREVWZ09kSXF1Wjl3b1NLTHhaYWYyS0Y3WU54OE5wYUhfMFVZNndGc1hUWldmM0l4bnN2Q1NTdmFhWGVqX0diNjJFRWNHRmVlMGdoQ3BUcHlXazdEdUVFT2VfSGtnamhNTkFQc21zQXRWNFRGZlFBaXVUdDRvdUxIQ1BweWRjd0x2OEhnaFIxVXpMUmczU29RN0dIbzF1QWstZEF1UlJoeERB?oc=5",
+    "source": "BioSpace",
+    "date": "2026-09-17",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "30b991abb63f",
     "title": "Indian Surgeon creates ‘World Record’ in medical history by performing World’s Longest Robot-Assisted Cardiac TeleSurgery Across 20,000 km Between Guyana and India using Made in India technology - Goa Chronicle",
     "description": "Source: Goa Chronicle",
@@ -481,11 +507,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "25580e9e628b",
-    "title": "HealthTech - 2026 Market & Investments Trends - tracxn.com",
-    "description": "Source: tracxn.com",
+    "id": "9743e013ab70",
+    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
+    "description": "Source: Tracxn",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
-    "source": "tracxn.com",
+    "source": "Tracxn",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -559,11 +585,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "7f13c1093ebe",
-    "title": "US Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-    "description": "Source: MarketsandMarkets",
+    "id": "29e25a37b882",
+    "title": "US Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com",
+    "description": "Source: marketsandmarkets.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbzd0M3I2U2Y5bHFULUxtdmE2eXNORzhRNU91M2kwZ083eFh3VUJuT1pidlRMOUV4RndLNlpLQ0VJQ2FDMDRiU1p0LW9ZaWduajZUMlFqOElFYlZsSFZMalNYWVBIZlFoa1lpclhlZHdQOE5RYXFwN1RadlhkTFBmMEZPYkNIaDZMNDV2WVRpdnlTRkk?oc=5",
-    "source": "MarketsandMarkets",
+    "source": "marketsandmarkets.com",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -611,11 +637,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "f16ddb503d81",
-    "title": "Is Temple wearable coming to India? Deepinder Goyal says pre-orders will open soon - Firstpost",
-    "description": "Source: Firstpost",
+    "id": "dfe79cb2f8bc",
+    "title": "Is Temple wearable coming to India? Deepinder Goyal says pre-orders will open soon - firstpost.com",
+    "description": "Source: firstpost.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWY5WHhXM1VoU0xPTnhuQ3djY21ibjY1d3hlVDJsWG1YcWt3NnJXcWZVRVdYZHF3Z1hISFIzV2Y0MC1XQWJDSFJOcHk0R0tIY3BrbWU0ZTBtN3RHWW83RWU2ZnpRUkEzMUg1WDZ0OGQxS0ZIeXBXNGJkRmJVeHZPS0lEczlNSE1WM05VSW1sZUl2Tzk5c3NwVmJBcGV5Tmdydmx0c3hfRWIzT05WRWVsMUtWYzhsSEdzT3F4Y2R5RFV3bWoy0gHKAUFVX3lxTE9SR0FOazY5SnlxYm1XOTlLZ2JwclJLc1Zzd3JRR3ZDcmZESS13dm9JMVNCWVFDVVQtOGU2d25sbldHaEpldElwa3J5MVNNV3g0QXFEN2JQRUJ2c1BoVElkTWU2d1VhX1ZXbXNmY0RINkVwTHRWTzg4Z3pqdkEwZ3QwYWF5U3hQMlBpWThPNzZnd250V1VzUTZuZWNMaTY4c3BCU01BdVJuX1hCNU5sZUdPS2JSLU9xd3M1MGQ4Y3pjNHNGcE9FNEhYcHc?oc=5",
-    "source": "Firstpost",
+    "source": "firstpost.com",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -624,11 +650,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "c708437ae38e",
-    "title": "The All of Us Research Program’s wearables dataset - Nature",
-    "description": "Source: Nature",
+    "id": "89377b4b8921",
+    "title": "The All of Us Research Program’s wearables dataset - nature.com",
+    "description": "Source: nature.com",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BTkdZc3ZCcjFvaF9pQm1rbXBQUWxmU3h0V1FrbS1YTG5zWUFnU2ZOeXV0VFM3cGhsSkRwaTZrUDBoQmVzWUFKWmdkNk1xeGJ4TnhCcUxqQ3NKMzBfcEo4?oc=5",
-    "source": "Nature",
+    "source": "nature.com",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
