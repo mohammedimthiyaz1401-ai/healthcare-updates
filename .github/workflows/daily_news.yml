@@ -34,3 +34,10 @@ jobs:
           git add data/
           git diff --cached --quiet || git commit -m "Auto: update healthcare news $(date +\%Y-\%m-\%d)"
           git push
+
+      - name: Verify Vercel Deployment
+        if: success()
+        run: |
+          echo "Data pushed to master. Vercel should auto-deploy via Git Integration."
+          echo "If Vercel is not deploying, reconnect Git Integration at:"
+          echo "https://vercel.com/dashboard → healthcare-updates → Settings → Git"
