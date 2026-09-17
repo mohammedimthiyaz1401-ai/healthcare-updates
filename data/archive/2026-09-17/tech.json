@@ -26,19 +26,6 @@
     "subcategory": "ai"
   },
   {
-    "id": "500a062db315",
-    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IVVAweWFmaThRVm83aFRIOTktcy15dFU0M3AtVTVTRnZzbV95ZmxBcTN5aVdHMXRLVFNjMmp4TE9felpnSHd4eEVYN3JMbjZuRmItVHB3X0RfcmxFRVZ5MVVBTENGSHFMeXVTVnV2cjF4S2xNLURFeFdIYw?oc=5",
-    "source": "PIB",
-    "date": "2026-09-17",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "416ab6d53085",
     "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
     "description": "Source: Cleveland Clinic",
@@ -63,6 +50,19 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "500a062db315",
+    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IVVAweWFmaThRVm83aFRIOTktcy15dFU0M3AtVTVTRnZzbV95ZmxBcTN5aVdHMXRLVFNjMmp4TE9felpnSHd4eEVYN3JMbjZuRmItVHB3X0RfcmxFRVZ5MVVBTENGSHFMeXVTVnV2cjF4S2xNLURFeFdIYw?oc=5",
+    "source": "PIB",
+    "date": "2026-09-17",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
   },
   {
     "id": "31c252d19f81",
@@ -208,19 +208,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "a9225b48d5d0",
-    "title": "Telehealth Market Size, Share & Growth Report | MRFR - marketresearchfuture.com",
-    "description": "Source: marketresearchfuture.com",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNGktRThrNE1tNjlpYXhpMVVpZ0pPeG5LdnZxWGpYM3N5YllkTXhpSDVDZFE2ZUt3d3ExbjJlalJMVVBxU2lsdWZUZTZ2Z0NJaWtJcG10N1RMVlh4NzRJQTRrQTk4eXhYMHJGSGVPVENMXzgz?oc=5",
-    "source": "marketresearchfuture.com",
-    "date": "2026-09-17",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "6ada2a5ca679",
     "title": "Telemedicine Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
     "description": "Source: Fortune Business Insights",
@@ -273,11 +260,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "4c6467f20d23",
-    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
-    "description": "Source: Business Wire",
+    "id": "9b5fcb2eee16",
+    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - businesswire.com",
+    "description": "Source: businesswire.com",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -291,6 +278,19 @@
     "description": "Source: Medical Buyer",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGlrd3JnWll1V1YtUWFMLVRJUVVkR01hQ3kxR2ppLW5JQkQ5alNCZGNCYmpEOUFhZjA4bGEyXzFQT0FRTU9lcmR2amJtcVJEdEpGN0pfajgyd3BRVHhDTmlRLTMwV3I3NlRVNkhoemZYaU43Q1Ywejd2QmtmT1VSX0dJUFFpVC1PX0FrMVdHTm96bUIwaWpTVA?oc=5",
     "source": "Medical Buyer",
+    "date": "2026-09-17",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
+    "id": "0c16bf0cb52f",
+    "title": "Evaluating health equity in Australian telehealth policies: a policy review - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qZEtmU2RGTGhVVV9Bd3Vnb2p5a05QcGpHUnIzQTVfTy1LZXdFc3JvXzVpcldTZmk3UkoxNUpyZUtWOUNQNnRveUV6NWlSbkg2MFBVbFBySnMwVXVpeXFj?oc=5",
+    "source": "Nature",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -416,6 +416,19 @@
     "subcategory": "ai"
   },
   {
+    "id": "97f090e1f222",
+    "title": "Personalized Medicine Market Size Worth USD 1,397.63 Bn by 2035 Rising Use of Genomics Enables More Precise, Patient-specific Treatments - BioSpace",
+    "description": "Source: BioSpace",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU3RCNlk1RTROdXp0RnVYbnNQM2JFYXlvMlNMU3ZHQkJPa3lrcTNiX2M5V095YkRnaHpHU2FaZk83Rm1KMHluV0VZZUJjaWhvZmVxS2VDcFFmLVFUU0d6QURKWlNZREVWZ09kSXF1Wjl3b1NLTHhaYWYyS0Y3WU54OE5wYUhfMFVZNndGc1hUWldmM0l4bnN2Q1NTdmFhWGVqX0diNjJFRWNHRmVlMGdoQ3BUcHlXazdEdUVFT2VfSGtnamhNTkFQc21zQXRWNFRGZlFBaXVUdDRvdUxIQ1BweWRjd0x2OEhnaFIxVXpMUmczU29RN0dIbzF1QWstZEF1UlJoeERB?oc=5",
+    "source": "BioSpace",
+    "date": "2026-09-17",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "f90c8dd52ac4",
     "title": "Surgical Robot Procedures Market - Future Market Insights",
     "description": "Source: Future Market Insights",
@@ -429,11 +442,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "4d4168d39b98",
-    "title": "Robotics Integration Is Transforming Global Surgical Care - facs.org",
-    "description": "Source: facs.org",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUtxdEYzT0VIOXFybG02R0VWOHV5ZnhSN2hWSEprbDRubUhnY2JyblB6VDU2enZ1N2tBM1lXYmtMNWplN3NrcFNfa0ZuT1BQTHVyM2hobmpYRjl4Y2wxT0VWTXlYc1BqaThWTmJFUDZPTUllbHo2MHNSdUd5R09oMTJ3a1VuaDZnOXdONFZMVkVGS1JjbTJaQ1N5ODFjcnV3ek5iOFo5M1R1ajM4UWVzMVRObFJ0TVJHRkFyM2lGZVFMQVZyVlRNX2l0NFVRWXdyUWVjcENLYmI0ZWNfdFhnMEtNaWZGS0xkTmw3M2hDcEEtNjdyQ3NGSC05Qmw4RGJ4OFF5d0NnVWhyUVdzVkxWa0FuTlVmUHc?oc=5",
-    "source": "facs.org",
+    "id": "30b991abb63f",
+    "title": "Indian Surgeon creates ‘World Record’ in medical history by performing World’s Longest Robot-Assisted Cardiac TeleSurgery Across 20,000 km Between Guyana and India using Made in India technology - Goa Chronicle",
+    "description": "Source: Goa Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS1dTODRpZUZxYjRLWjh0WXlsdjBCLWxobUI4TGFpOHlOSkVPRWtTRWhNNUk3MjZNRWJTVmIzT3piZkhMa3R2Z0RYVEt5NmdjdHY5bnNpUGZDVmN2QmpMX29fQjhGRTFwakJSZFpIek1mdnRnbS1qOGd5ZWpPc09RNG1rYkt5RkdadnZaXzVUT2ZsRG9GeVotdmphQ3BqZ1RrVXFGTG9KeHJrRnM2Y04zQnNsT3FlZ0YzREtINDFRU2JtRHZtWmVJX3EtbVVMMzRZXzM5WkVzdGVMR0YzV0d4dmx1dDVRTi1fSzlEdG5NQ2FiSTV3M0JMWGZlVEJVMGJlMHlXc05Mc0l4RVRQRFRFcHhNeDZIME5qVFdFVGZqZDRHZm1E?oc=5",
+    "source": "Goa Chronicle",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
@@ -442,17 +455,17 @@
     "subcategory": "robotics"
   },
   {
-    "id": "5bec1477615c",
-    "title": "Indian MedTech Company SS Innovations International Beats Global Surgical Robotics Giants to win outstanding company award in surgical robotics technology awards 2026 - Goa Chronicle",
-    "description": "Source: Goa Chronicle",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZVFJRkhnT2t6cEkxNjZZT0NWaWs1UGFkZ0o4STh6eXNLTzZUNDc5ZExWbFFjUzJYaWtKUV9BeU1mVDFOSGxBVTNvTFpaYkk0clJCeldzaFBabG9zdUJnUGJWMkY0Vm9ZQnYxVXN5TTBkRnJkbE9seUkxYWo3Zm1QVTRZWmpCbUlBNDJIUnJSNTNhenBkdVBwam1aSjVjMW5pSUdPeVVPcHl3RUZoelIzdE8wQ1lMa0xuYnJqV2VySTR2UTFyVFBWUTIzQ2hyS2o1NGVEVTVyUkh5VWtmV0VVOFYzR0FmR2xHa3BlRjBYamgtV1dxeTlObHRLbDVVa2g2NUU4aXgtaTlueTAwcW1meVNtV1llUjc5SDBMVw?oc=5",
-    "source": "Goa Chronicle",
+    "id": "018870359d6f",
+    "title": "Robotics Integration Is Transforming Global Surgical Care - The American College of Surgeons",
+    "description": "Source: The American College of Surgeons",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUtxdEYzT0VIOXFybG02R0VWOHV5ZnhSN2hWSEprbDRubUhnY2JyblB6VDU2enZ1N2tBM1lXYmtMNWplN3NrcFNfa0ZuT1BQTHVyM2hobmpYRjl4Y2wxT0VWTXlYc1BqaThWTmJFUDZPTUllbHo2MHNSdUd5R09oMTJ3a1VuaDZnOXdONFZMVkVGS1JjbTJaQ1N5ODFjcnV3ek5iOFo5M1R1ajM4UWVzMVRObFJ0TVJHRkFyM2lGZVFMQVZyVlRNX2l0NFVRWXdyUWVjcENLYmI0ZWNfdFhnMEtNaWZGS0xkTmw3M2hDcEEtNjdyQ3NGSC05Qmw4RGJ4OFF5d0NnVWhyUVdzVkxWa0FuTlVmUHc?oc=5",
+    "source": "The American College of Surgeons",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "MedTech",
+    "tag_label": "Robotics",
     "priority": "medium",
-    "subcategory": "medtech"
+    "subcategory": "robotics"
   },
   {
     "id": "e0e664ed1bf1",
@@ -468,10 +481,23 @@
     "subcategory": "startup"
   },
   {
-    "id": "9743e013ab70",
-    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
+    "id": "1e5c19a46c25",
+    "title": "Between August 17 and August 22, 2026, as many as 20 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Fintech, Quick commerce, Skincare, Healthtech, Healthcare, Cleantech, Robotics, Foodte - instagram.com",
+    "description": "Source: instagram.com",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFbVBNQmFkWldnT0ozU2oxUXdKMHJ6LXB4ZnFnOWJBVTlPd01oUzQ5NXY1NjB2MzVOWmFZQUk3WWVQNGxaOHlENFh5alF2YkZBUmc?oc=5",
+    "source": "instagram.com",
+    "date": "2026-09-17",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
+    "id": "21ceee4b12b4",
+    "title": "List of 2,025 HealthTech SaaS Startups in India & Market Trends (Aug 2026) - Tracxn",
     "description": "Source: Tracxn",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWNFUUFkYld5LTNtYkJ2OTI1WW1sZVFUbTh4Z25vYzZOSUxqSWhoV3lKTENteURxYlpjY2w4c3EtOU5Zb0NBVjJTUm9seGNtSDhucDRoSWlIb2V3ODBTOG0tLWdmR3YzS3o0Vk9GTkNKS09JcUxlQW4yVFBsT0g1dEhUdlBZVE9Jb2xWOFFOS3pRR1ZTd2tteTlzWHlEN2pmN1ZvVXI3WkdtN0th?oc=5",
     "source": "Tracxn",
     "date": "2026-09-17",
     "category": "tech",
@@ -494,19 +520,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "f66671de571e",
-    "title": "Between June 15 and June 20, 2026, as many as 19 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Deeptech, Foodtech, Cleantech, Insurtech, FMCG, Wealthtech, Healthtech, B2B, Creatortech, - instagram.com",
-    "description": "Source: instagram.com",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyUjlaSlMxZkFCTFJ1TDZJVDJ0WWc4Mnh3UWlvdGF2UXpNT3pleC1vYjFlV2RZT2k0bG1YYlpCQXNXdVd0SVI4SjM2TUVTUEQzM2c?oc=5",
-    "source": "instagram.com",
-    "date": "2026-09-17",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
     "id": "ac6f3b0ff0d3",
     "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
     "description": "Source: Digital in Asia",
@@ -518,19 +531,6 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
-  },
-  {
-    "id": "bdb5c603f9ee",
-    "title": "Top 30 Funded Healthtech Startups In Hyderabad 2026 - Inc42",
-    "description": "Source: Inc42",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWNDckN1S0luSFk3clRTTFN4OE00dm1iQVVYQ3M5SHBrRHl4WTNrXzQwaW1BeEpORWxydEkyTnFuX3pUd3hPY0kzcW9sY0l0Skh6UkFUSlBick1sNXY5MUZQa3FXRU1VWGZkRXFLdF9iT3lfc21xNmN3QVpKdWd0UTR3?oc=5",
-    "source": "Inc42",
-    "date": "2026-09-17",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
   },
   {
     "id": "e824341ebb0e",
@@ -546,6 +546,19 @@
     "subcategory": "medtech"
   },
   {
+    "id": "19e529f74804",
+    "title": "Top 30 Funded Healthtech Startups In Gurugram (2026) - Inc42",
+    "description": "Source: Inc42",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHNieXdtd0JWVFN1bjNzZ09URWc5VFNidDBYdTJZNk52RTY4YUFHQTF3RXpLaVVjMjBRd0dRX3I3Q19sMFBmUFdWZjFzNlQ0M1BCR19hZXpNckJxQ1ZhRDhaTEFaaVJWaVNKU21ya1VtcTUyMS04VlpJVm9La1ZwVA?oc=5",
+    "source": "Inc42",
+    "date": "2026-09-17",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
     "id": "d38d0e24f973",
     "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - IBEF",
     "description": "Source: IBEF",
@@ -559,11 +572,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "7f13c1093ebe",
-    "title": "US Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-    "description": "Source: MarketsandMarkets",
+    "id": "29e25a37b882",
+    "title": "US Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com",
+    "description": "Source: marketsandmarkets.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbzd0M3I2U2Y5bHFULUxtdmE2eXNORzhRNU91M2kwZ083eFh3VUJuT1pidlRMOUV4RndLNlpLQ0VJQ2FDMDRiU1p0LW9ZaWduajZUMlFqOElFYlZsSFZMalNYWVBIZlFoa1lpclhlZHdQOE5RYXFwN1RadlhkTFBmMEZPYkNIaDZMNDV2WVRpdnlTRkk?oc=5",
-    "source": "MarketsandMarkets",
+    "source": "marketsandmarkets.com",
     "date": "2026-09-17",
     "category": "tech",
     "tag": "tech",
