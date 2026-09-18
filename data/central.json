@@ -108,6 +108,18 @@
     "priority": "medium"
   },
   {
+    "id": "04380087c45e",
+    "title": "Ayushman Bharat Digital Mission - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TTWdhU0FUbnZfQlBkWXo3bU5CYUdEQU41UjBMVTRwVjlWTzFHdEJ3ZmljZHJ2cnloM0xYa2VFazZjVl8zUldILWhUZHZMaGdsa2dodGpiUHBvYVctYkVHSks0TWJSdXBBS0k5RFUySlVncDk3SEhmR2ZB?oc=5",
+    "source": "PIB",
+    "date": "2026-09-18",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "3894221afbba",
     "title": "Affordable and Accessible Healthcare for All - PIB",
     "description": "Source: PIB",
@@ -192,18 +204,6 @@
     "priority": "medium"
   },
   {
-    "id": "eff24597e669",
-    "title": "U.S. Health Officials Move Quickly to Deploy Medical A.I. Despite Concerns - The New York Times",
-    "description": "Source: The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtWHhOYkNKZXNHYlRzRThHNDVCc29vZXMyeG52blhXWXJnc3ZpU21SNk9CVVV5ZjN0RWpqa1RjV0lQM1FnWGFrczZfSk5yQ3NPRkRDN1ptbGZRMVNlUXV3RFFCRUJRYW5JWEZJbFhsd1p6bXhVSUhsVmt3?oc=5",
-    "source": "The New York Times",
-    "date": "2026-09-18",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "42737cfac01f",
     "title": "Medicine Needs to Get Serious About AI - The Atlantic",
     "description": "Source: The Atlantic",
@@ -216,11 +216,11 @@
     "priority": "medium"
   },
   {
-    "id": "8130328c53fe",
-    "title": "Sentara Health pilots GW RhythmX's AI precision care platform to support emerging primary care models - Fierce Healthcare",
-    "description": "Source: Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMC1WTG9qXzVfX3B6SVAzczBNeWhWcjd4WGtoSzg2MU5SQml6em9feDd4NnZpUDhjZndsazJtdjRaZDFtdWhzRGx2eWNYbDJ4RXRPZVBiSlc2V01vdldWeTJiZS11U1hqTXRGbFNmMUV1OXdod1NHcU9Uc2dzbjRuN2pFdlVqZDZSLXFtbnU3Nmg3alVwYkRRSGx4WnF1TTktenZmRGkzXzlEYm5vVlI4RlAyN0lTR1ZGZWc5SW5yZ3FDUjZBdGhfeW5MWE8?oc=5",
-    "source": "Fierce Healthcare",
+    "id": "42d1fed45f1b",
+    "title": "The Healthcare Inflection Point: AI Can’t Fix 1990s Technology - MedCity News",
+    "description": "Source: MedCity News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFozUXk1X214aXdzNFhMemdBU3pZd3RYQ2k1Xy1BVTBweWxsdktwSkpPbER1WFRkRVNUR0tsckhCeWpFYjJJeGdQdHUzQzBVRW1uU3Bib2lXOEVvQy1TbXhia1YxWmJnaHV1blhScmJjX1I5eXg0SVZnNHh3N3JtQ1VVSW1KWThwNHgxREV0dU5ickR5QlJzWg?oc=5",
+    "source": "MedCity News",
     "date": "2026-09-18",
     "category": "central",
     "tag": "central",
@@ -228,11 +228,11 @@
     "priority": "medium"
   },
   {
-    "id": "42d1fed45f1b",
-    "title": "The Healthcare Inflection Point: AI Can’t Fix 1990s Technology - MedCity News",
-    "description": "Source: MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFozUXk1X214aXdzNFhMemdBU3pZd3RYQ2k1Xy1BVTBweWxsdktwSkpPbER1WFRkRVNUR0tsckhCeWpFYjJJeGdQdHUzQzBVRW1uU3Bib2lXOEVvQy1TbXhia1YxWmJnaHV1blhScmJjX1I5eXg0SVZnNHh3N3JtQ1VVSW1KWThwNHgxREV0dU5ickR5QlJzWg?oc=5",
-    "source": "MedCity News",
+    "id": "8130328c53fe",
+    "title": "Sentara Health pilots GW RhythmX's AI precision care platform to support emerging primary care models - Fierce Healthcare",
+    "description": "Source: Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMC1WTG9qXzVfX3B6SVAzczBNeWhWcjd4WGtoSzg2MU5SQml6em9feDd4NnZpUDhjZndsazJtdjRaZDFtdWhzRGx2eWNYbDJ4RXRPZVBiSlc2V01vdldWeTJiZS11U1hqTXRGbFNmMUV1OXdod1NHcU9Uc2dzbjRuN2pFdlVqZDZSLXFtbnU3Nmg3alVwYkRRSGx4WnF1TTktenZmRGkzXzlEYm5vVlI4RlAyN0lTR1ZGZWc5SW5yZ3FDUjZBdGhfeW5MWE8?oc=5",
+    "source": "Fierce Healthcare",
     "date": "2026-09-18",
     "category": "central",
     "tag": "central",
@@ -288,6 +288,18 @@
     "priority": "medium"
   },
   {
+    "id": "b243708c4328",
+    "title": "SS Innovations Provides Update on Continuing Progress and Milestones - GlobeNewswire",
+    "description": "Source: GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUW03S0Yxa3hCQ2FVbDVnaG04NWNuZERsSHQtZFRrMTdHY0c2NHBWcXJETEJoZHFtZHk4MTdXZG81TTg0T0JUd25wa0lkUjdpTmJGQUtIODFKSndxOWh5d3VtYmtDTlZQd2RFQUVRLUdEOXgzclktRUtVcnN1SFdIZXJDTlYzVmtpOHlsU2VlRE9hWUpmZy1OaGlTUG5JWVJybFZDVmRvY1RaQmU3Q0NWYXV1Ni1ad2hJTDlsTm53SENoVzZWNzE2WDFYckNwTFBrSzdjTWQ0cw?oc=5",
+    "source": "GlobeNewswire",
+    "date": "2026-09-18",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "4671dc647517",
     "title": "Surgeons operated across 13,600 miles. A robot linked Colombia and India. - Stock Titan",
     "description": "Source: Stock Titan",
@@ -336,11 +348,23 @@
     "priority": "medium"
   },
   {
-    "id": "22ed58192a9e",
-    "title": "Healthcare Startups Selected for the Google for Startups Accelerator: India 2026 - ehealth.eletsonline.com",
-    "description": "Source: ehealth.eletsonline.com",
+    "id": "cb70a7afbc72",
+    "title": "Healthcare Startups Selected for the Google for Startups Accelerator: India 2026 - eHealth Magazine",
+    "description": "Source: eHealth Magazine",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGpZYUtiUXkxQnp4VXJ0UVRsMzYyZDZJcDFIVkt1UHpPbkxhNjZ3dWN3a1NheUs3TW5RZjN1Qk44cGxub2UzYTBIdjh1cGxmVXZtem5VNERsYy1zdUNHeXpRMV9DUDdJc1JKV0szQWttbDVxRWhBMnBQVXZfcjBBR0E1MEhuRllFT01jbUU3RE1xWFA0MEN4dmd3b2dJSmxsVzZuWTJsQk9GeWFNdmxyQkNBNnFhelNqell5bw?oc=5",
-    "source": "ehealth.eletsonline.com",
+    "source": "eHealth Magazine",
+    "date": "2026-09-18",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "a0a2ba59f9b1",
+    "title": "Mykare.ai Raises $3.2 Mn To Expand AI Healthcare Platform - BW Disrupt",
+    "description": "Source: BW Disrupt",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTU1ZQjZaaXBlaGZKcC1zcVFFd3prRkN3clFlZTVHUXlSa1RDRFcwNkE0ZmUxbWR2VE16T1oxblFHQjZ4OEFBRlpEUExFRW5walNORG1BNzlLUVBBdDEwVnNOQjg0cW5lLS0yNkNCLWU3NE9wTEJlcmRLZjZXUWZ6QjN4YXJXRnpMd1hubTZIVTVITGVNU29GUkcxZ2JNZw?oc=5",
+    "source": "BW Disrupt",
     "date": "2026-09-18",
     "category": "central",
     "tag": "central",
@@ -480,11 +504,11 @@
     "priority": "medium"
   },
   {
-    "id": "3475d2627a54",
-    "title": "Medical Drone Market Size, Share, Growth, 2034 - straitsresearch.com",
-    "description": "Source: straitsresearch.com",
+    "id": "139066e5d0e1",
+    "title": "Medical Drone Market Size, Share, Growth, 2034 - Straits Research",
+    "description": "Source: Straits Research",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12UkJUVWNCRmlNT25WTGlLR29zRENIaUphVjlzcWc5b2NoS3YzQWN1bjBfcVBYeVBmcm9Jclp6dXNwUXdnVC1oRl83MWFMNDFaT3d1WTFiZUFZSkVnam9vQ2gtRHlOZw?oc=5",
-    "source": "straitsresearch.com",
+    "source": "Straits Research",
     "date": "2026-09-18",
     "category": "central",
     "tag": "central",
