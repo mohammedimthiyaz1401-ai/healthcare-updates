@@ -1,23 +1,10 @@
 [
   {
-    "id": "82eaa825236d",
-    "title": "India Pharma Expo 2026 Wraps Up in Hyderabad, Spotlighting MedTech Integration and Future-Ready Healthcare Systems - eHealth Magazine",
-    "description": "Source: eHealth Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUnBiTGNmZmthczM2OWlJaVBOTHYzV3pkVlh3MmdvQVBXcXFlZzZIMG51UUQta01rTzQ0YmstQ2NqZHViMVlnNEZxRUZZRkZtY1pBNklmRHdWT2xmSHF2MTU1N0wwSjJVbWJzM1hQOHluUVBTZUFZTnpmcDlWZjlZMFZmcG1JMER3dkNWcjAzMFJrcExoQXROMWtPeC1tVERfVWdTMXZWRW81U0xGbUxDUzhLb3NidXYwU0JxMzRrem1HMlZ4S2haNWN5bkFRbEVIbnFxSEFYOTc2UXIzVk1VY0c5cjRnTThSbFE?oc=5",
-    "source": "eHealth Magazine",
-    "date": "2026-09-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "ca237304e862",
-    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
-    "description": "Source: Telangana Today",
+    "id": "e345014f37da",
+    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - telanganatoday.com",
+    "description": "Source: telanganatoday.com",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
-    "source": "Telangana Today",
+    "source": "telanganatoday.com",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
@@ -26,17 +13,17 @@
     "subcategory": "ai"
   },
   {
-    "id": "aa32845a8193",
-    "title": "Top 5 HealthTech Trends Shaping India in 2026 - digitalhealthnews.com",
-    "description": "Source: digitalhealthnews.com",
+    "id": "d6d333174025",
+    "title": "Top 5 HealthTech Trends Shaping India in 2026 - Digital Health News",
+    "description": "Source: Digital Health News",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOV9TelBMSlZIME15WjRrZHdUTXZNS2d4azdoN0lxMS16WWJDNHlRMWtaSDdPRDJhdnlaQzVITlpWd2U0RUlhbmU1ZTJfUG15VnFCclB0RWJxX0otSmhXS0VzXzMzVWtVTDBDbVg1M3lQVzltOEZmTWlOb0U1emVHcUIwNDZtdw?oc=5",
-    "source": "digitalhealthnews.com",
+    "source": "Digital Health News",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Startup",
+    "tag_label": "Telehealth",
     "priority": "medium",
-    "subcategory": "startup"
+    "subcategory": "telehealth"
   },
   {
     "id": "7899077d5e78",
@@ -65,19 +52,6 @@
     "subcategory": "ai"
   },
   {
-    "id": "500a062db315",
-    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IVVAweWFmaThRVm83aFRIOTktcy15dFU0M3AtVTVTRnZzbV95ZmxBcTN5aVdHMXRLVFNjMmp4TE9felpnSHd4eEVYN3JMbjZuRmItVHB3X0RfcmxFRVZ5MVVBTENGSHFMeXVTVnV2cjF4S2xNLURFeFdIYw?oc=5",
-    "source": "PIB",
-    "date": "2026-09-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "fa88928e4d59",
     "title": "SIU’s Ryan Bioethicist lecture focuses on using artificial intelligence in health care - SIU News",
     "description": "Source: SIU News",
@@ -91,11 +65,37 @@
     "subcategory": "ai"
   },
   {
+    "id": "500a062db315",
+    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IVVAweWFmaThRVm83aFRIOTktcy15dFU0M3AtVTVTRnZzbV95ZmxBcTN5aVdHMXRLVFNjMmp4TE9felpnSHd4eEVYN3JMbjZuRmItVHB3X0RfcmxFRVZ5MVVBTENGSHFMeXVTVnV2cjF4S2xNLURFeFdIYw?oc=5",
+    "source": "PIB",
+    "date": "2026-09-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
     "id": "416ab6d53085",
     "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic",
     "description": "Source: Cleveland Clinic",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
     "source": "Cleveland Clinic",
+    "date": "2026-09-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
+    "id": "0b01112c1135",
+    "title": "Major AI conference in Montreal explores if artificial intelligence can help tackle Canada's doctor shortage - CityNews Montreal",
+    "description": "Source: CityNews Montreal",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybS1DYl9VZU9YS1RFOURBeGFkNmNuLVVuR2ctaFpQeXBuZnpuM0hLczQ2SnQtSXBxY2VsX2E2TmE0eVpBdFZEdDlocFMxUXFDNnMtNzB4ZDl1Qm04eFJNdHo2NkNtbjhEYk5vVHVfOTJwdE5sSWg2eg?oc=5",
+    "source": "CityNews Montreal",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
@@ -156,19 +156,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "bf7e33b9eecc",
-    "title": "India Health 2026 concludes; MedTech manufacturing, healthcare innovation take the cake - Medical Buyer",
-    "description": "Source: Medical Buyer",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHkxWFpqbjVEMUlpcl9VbkR5TkFiYXlPLXc3b1gxblVBTlBTMnNXeDlTVWJPX2hZSlZkckZhT216dFQxNkNYTE9oQ3BFbVBJMmRyc1hKVWNZVUg5NWlDYVVPU1JJOHhZdkJFb1hMeXk5TDdVWXJXVlZkMkpGVGRfNFBKWlQya2dFVlBkeFozVWNlMjVkR1JubjIxZzNJTGZlZi1sMEl0ZlBmOGEtMnFlYmU3cw?oc=5",
-    "source": "Medical Buyer",
-    "date": "2026-09-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "017ea4d04144",
     "title": "9th Edition of India Medical Device 2026: India's Next MedTech Imperative - IQVIA",
     "description": "Source: IQVIA",
@@ -182,11 +169,24 @@
     "subcategory": "medtech"
   },
   {
-    "id": "580de742576f",
-    "title": "India Medical Device 2026 to spotlight self-reliance, innovation and global partnerships in MedTech sector - DD News",
-    "description": "Source: DD News",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLV9xZ0JfLU13YXBzTTVqX2l6TlBQbklsdjhpY3VFMXYyTjRYLXBwSkFEYUZVdHdtVWxlcFFpRWVIc1l0aVZlY2swNUJqX183Z2RHMkg3T3lsQXZKYlVESHR1M1pqQWJXT2tYV1B3UEJXWjdhUzAwSHNXOUFia3NsUjNWQmJxTWRKeVVNTVRPNG5rOFl3UVNwWE0xcEtfZ2FES2VUUlBCdDRnVlBJZi1NbHBZc2hFR0tQYm9GVllDTjBoeEwteXh4Z2FoVQ?oc=5",
-    "source": "DD News",
+    "id": "52d1f5afee23",
+    "title": "India Health 2026 Concludes Successfully, Showcasing India’s Expanding MedTech Manufacturing and Healthcare Innovation Landscape - healthcareexecutive.in",
+    "description": "Source: healthcareexecutive.in",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZSDNwcVpmc3pZTU4zcENLLW9sel9UOFk4ams0SVAtUi14VmJFQXpHa3kyRUdFM3BlMGRMaTlER3dkZWhyV0xQeHRnM3JCVDBsRC1FQ2p5UlN2djhVOU95Y0sxSFlUUDZXMkx4V2dB?oc=5",
+    "source": "healthcareexecutive.in",
+    "date": "2026-09-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "045ec57aaad1",
+    "title": "India Medical Device 2026 to spotlight self-reliance, innovation and global partnerships in MedTech sector - DD India",
+    "description": "Source: DD India",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYUtNbGNRMS1QMkRLYUhQSU1pd1hPaDlxTzY0aTV3ck5zRE45RUxzTHNZRVJFYWM4SnEzSGlxQXhuSDFkZnRvTVdCU05CVjlqUU5xWGhxMWt3Yl9sSTZRcXhBT08wUTZMRTlhaTNmTkFHaGJfNGFaLUw1bHVKNlUtYTR2ZV9XMWJDQnYwSm81VTJpal9RZUJST05OUXYySld2MkdyMGNNX0xndlpBdFlNM2RwbmJPb3dkV3FFVG1tMWRybS1QVENfMUY4Zm1PeUk1MUE?oc=5",
+    "source": "DD India",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
@@ -247,32 +247,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "b01c2d4a794d",
-    "title": "Telehealth Market Size, Share & Growth Report | MRFR - Market Research Future",
-    "description": "Source: Market Research Future",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNGktRThrNE1tNjlpYXhpMVVpZ0pPeG5LdnZxWGpYM3N5YllkTXhpSDVDZFE2ZUt3d3ExbjJlalJMVVBxU2lsdWZUZTZ2Z0NJaWtJcG10N1RMVlh4NzRJQTRrQTk4eXhYMHJGSGVPVENMXzgz?oc=5",
-    "source": "Market Research Future",
-    "date": "2026-09-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "5e5060e5d8d8",
-    "title": "Digital Health Market Size, Growth Forecasts 2035 - Research Nester",
-    "description": "Source: Research Nester",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRzluWkxnZHpTMFVKOTh2dDhrVkh6eDV0T2llSWhWVkcwSUVDS1dObloxZ1FXRWhZYXljQnlnNDNoLU02bjhCNG0tQWc1T05WTmR3RGZRNW1DOWJXVU93QkJMdjEzUktjbmNHaUZVdW5xdw?oc=5",
-    "source": "Research Nester",
-    "date": "2026-09-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "e7e56efc36ba",
     "title": "Telemedicine & Digital Health Research Report 2026: A $180 - GlobeNewswire",
     "description": "Source: GlobeNewswire",
@@ -286,11 +260,24 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "04b4bbffb88d",
-    "title": "National Telemedicine Day: Tracing India’s Journey of Bridging Distance through Technology - digitalhealthnews.com",
-    "description": "Source: digitalhealthnews.com",
+    "id": "86187f98ec6d",
+    "title": "National Telemedicine Day: Tracing India’s Journey of Bridging Distance through Technology - Digital Health News",
+    "description": "Source: Digital Health News",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ0RsU3hCd3IyNUd3eTZVX1dLSWRwcHhKQmpGR3JabGFYUlRpckZDdWhfTllWZjI1bkIxMzRqR2Y4MlZlcU04QVVxRm83aElMY3RqRG5fZTZjbHBVRHk0N0RXZmk1aWVsSUF0Y1pyZnpIbUd5VFhLZTlRMkhmd19BTnRZc3dkcnFLaVZvWWxEdDdoRFMwdjBmLUNjMFJVdlh3ZjdRY3dTdUcwc1NPVnRLZ1MzdDNSV0pJWDdjZmNHakM?oc=5",
-    "source": "digitalhealthnews.com",
+    "source": "Digital Health News",
+    "date": "2026-09-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
+    "id": "55da6c2d6e84",
+    "title": "The UAE Telehealth Market Size & Outlook, 2033 - Grand View Research",
+    "description": "Source: Grand View Research",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtVU1sRGg1U0pyVlRYTm03QWwwY0piWi15U1JNd0JwQldXNnVuQTd3LUJjTWdlbEhaMDNmM2szb3dURGJUR25jdDBoWm9ac3p0aEJzcDZvVFJIU3JWSmlKVFJVT3FsMVVubHVzdEZFOF9BbDlVLThOQWNzbw?oc=5",
+    "source": "Grand View Research",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
@@ -325,17 +312,17 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "712788389102",
-    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
-    "description": "Source: orfonline.org",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
-    "source": "orfonline.org",
+    "id": "0c16bf0cb52f",
+    "title": "Evaluating health equity in Australian telehealth policies: a policy review - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qZEtmU2RGTGhVVV9Bd3Vnb2p5a05QcGpHUnIzQTVfTy1LZXdFc3JvXzVpcldTZmk3UkoxNUpyZUtWOUNQNnRveUV6NWlSbkg2MFBVbFBySnMwVXVpeXFj?oc=5",
+    "source": "Nature",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Genomics",
+    "tag_label": "Telehealth",
     "priority": "medium",
-    "subcategory": "genomics"
+    "subcategory": "telehealth"
   },
   {
     "id": "3bf260e915e0",
@@ -351,11 +338,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "fd67a15fdf1d",
-    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - newsonair.gov.in",
-    "description": "Source: newsonair.gov.in",
+    "id": "86229fc23241",
+    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - News On AIR",
+    "description": "Source: News On AIR",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5ZbTgtaG1jaGhzSlMwRFhfT0JzUnJ2OXh5d2V3c09WTm1nQmxoV0lLS2FvRHZ4dXZQbVU4ajVnNkkzYzlKWTh6YkFRSTMtTUV3UHExVzZKR1RCTDI3QVZNRElTaWROaUgyRld2MmhXVFBBSmhTVDJtdTYxMnBGeXhVbjZ4ZzZfazlRU0RBRkVqSFMzcnNEeXAwSFk2bWVvZkllcUNGOE1Sd3d0aElUcHJ2VW9mRlNz?oc=5",
-    "source": "newsonair.gov.in",
+    "source": "News On AIR",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
@@ -364,11 +351,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "1dd0d542d1fb",
-    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
-    "description": "Source: Spherical Insights",
+    "id": "8ed7cf2def04",
+    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - sphericalinsights.com",
+    "description": "Source: sphericalinsights.com",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
-    "source": "Spherical Insights",
+    "source": "sphericalinsights.com",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
@@ -403,11 +390,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "0a0d1285f498",
-    "title": "Precision medicine | The cure is in your genes - indiatoday.in",
-    "description": "Source: indiatoday.in",
+    "id": "911a14371074",
+    "title": "Precision medicine | The cure is in your genes - India Today",
+    "description": "Source: India Today",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSk45aHJ1dDhld2lFZTdTU2EzWVdUM1RfTVBSS2xPTlk1cUlPMXlQOENXVnJ0Y2hrZW1ERGRHNnBxOEw2Y0dmaDNTV01oVTlRQm51SXR2Z3Z1WEU4RlNGcVFHejU5SFI5LVpkYWVkclpJUDFsWEVlTDNUUGZjZ1dxN2N1aVE2S0Q4RG9IbkJXRUZxN0dVTS0wRVdBMXE3S0JQcXVlUFB1QWdZYWJYQnNkU0FrQnE4Qk1Lb2owUk1TTnZJR3pwRHhQRkpfRFMtZ29sbGfSAdcBQVVfeXFMT2t2a3M3YzJXV0xrNTNwck91MjhzWDBoQVBuUGlvNHhURzRab3hTd05zVk9RaEgxaFJSakZJZjN0Wk5OaXZBak41Q3ZKSWtKOFZLNFJIbGo1QzhHdTFwVHZfeXZuNUw4NHQ4NTNHTjN3VzlWRGZuX2FjN1hubVJkVXZfNW1YT1o4QnR6bnBRMi1PVFRUWHRpWE5rMjlFLVo3TEdEZFRNMGhxSkJqbWdqWkhiS2tjTi04SVdwV3d3eG9oZElLT3RBeWV3ZVNnYWdaUUpMRkRXRUE?oc=5",
-    "source": "indiatoday.in",
+    "source": "India Today",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
@@ -534,10 +521,10 @@
   },
   {
     "id": "09187759d863",
-    "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - YourStory.com",
-    "description": "Source: YourStory.com",
+    "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - yourstory.com",
+    "description": "Source: yourstory.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDhmZXY3NXlDSXpVNFZpaTJXWjEzY2NJNUFfQVh5cXpUdmlSMGVyeXRGYVRsOGVXR0xqUTRna2lFQjE4blNhMzhaWkJfbHZ4OEtfdXFrWjcyQ01GbjR6T3Z5SXpxa1NyMWRlSmo1M3lnNzlIazF3dGxmcnEwOWp4b0YwUGNWcDZTNHNSeUtSVDFRdw?oc=5",
-    "source": "YourStory.com",
+    "source": "yourstory.com",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
@@ -559,11 +546,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "ac6f3b0ff0d3",
-    "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
-    "description": "Source: Digital in Asia",
+    "id": "35e2177f12db",
+    "title": "Healthtech in Asia 2026: The Digital Health Leap - digitalinasia.com",
+    "description": "Source: digitalinasia.com",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
-    "source": "Digital in Asia",
+    "source": "digitalinasia.com",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",
@@ -650,11 +637,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "400fae738ddc",
-    "title": "Wearable devices help build healthy habits, but cannot replace doctors - indiatoday.in",
-    "description": "Source: indiatoday.in",
+    "id": "e206b371e0f3",
+    "title": "Wearable devices help build healthy habits, but cannot replace doctors - India Today",
+    "description": "Source: India Today",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmRrc3VrekZBRkFzQ2s3N0MzT19iZFBPSzFfODQ5a1dCQmtFWml4SU8tcnRyZk1MQVQ0S0l2dnRVcHhXOExtbFNmNFhnRUdVeWVtTmRFdVdwaU1JMXlmbGVGc3ZFTGo4UTdqSHB4MThMWUVObjlFcjIwY0RYVGtVdGIxUEVvaHJjRmZzV0lfRTZXQ21FdGR5WHg4Z3NJVUxFbW91dm1vbm0zNDhDM1FpRlRQcFlsUmczWTJocV9mdkhDU0NMY3F0aVln0gHPAUFVX3lxTE85R2pJc25uZWhINTZ1dG1HRDFLVzlLbGxEVDFpSVVnTTMtMkVEd2kyMTRMQ052aFd0NU4yekJjdXBSR2hSX01ZQmIteVREX2VCMG80RkxfalFrZG04ODJTR1JGY2prR3A0WWxLc0xLMDhSX2xJV2RUdHEzM1UtaXZtQ1BNb3RzdS1wcVRMWVJGZWRxS3BMNWlQdHNMT1p0TXh6TVUtZ2pFWU5QakV5ZXhwOE1vSkhxT2MyaXhSU19xX05JdzhlN052T2JkaXRzSQ?oc=5",
-    "source": "indiatoday.in",
+    "source": "India Today",
     "date": "2026-09-19",
     "category": "tech",
     "tag": "tech",

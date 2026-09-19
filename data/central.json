@@ -1,29 +1,5 @@
 [
   {
-    "id": "96c935fa10a2",
-    "title": "Death of Anna University student was not due to Dengue, clarifies Public Health Department",
-    "description": "The department posts on X that the student in question died of scrub typhus, and it was the only reported case. News of a dengue outbreak triggered alarm on campus, causing students to rush to a primary health centre for tests",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/death-of-anna-university-student-was-not-due-to-dengue-clarifies-public-health-department/article71484377.ece",
-    "source": "The Hindu Health",
-    "date": "2026-09-19",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "b7406510cef5",
-    "title": "Seven persons suffer from diarrhea after consuming food at community event",
-    "description": "As part of precautionary measures directed by Collector P.S. Leela Alex and District Health Officer M. Vijay Chandran, health teams conducted door-to-door checkups in the village",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/seven-persons-suffer-from-diarrhea-after-consuming-food-at-community-event/article71484513.ece",
-    "source": "The Hindu Health",
-    "date": "2026-09-19",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "089c2f9f8eb8",
     "title": "ITBP Medical Officer Recruitment 2026 Out For 282 Posts, Apply Online Starts on 10 August - Adda247",
     "description": "Source: Adda247",
@@ -48,11 +24,11 @@
     "priority": "medium"
   },
   {
-    "id": "947548aad5a1",
-    "title": "India Supplies 30% of Global Generic Medicines: MoS Health Anupriya Patel | Akashvani News - newsonair.gov.in",
-    "description": "Source: newsonair.gov.in",
+    "id": "3a5cd5aae2d1",
+    "title": "India Supplies 30% of Global Generic Medicines: MoS Health Anupriya Patel | Akashvani News - News On AIR",
+    "description": "Source: News On AIR",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMF9vSEFVOHQ1SzJqc1J1OWpOS1g5YU53ZVJBZ1d3UkJ5djZMZmxPV0tLb3Y1MlJ6NVhUWTNNTXU1X01CcUMwY0lmOTNPckEtY1QzQWxFNUlHdm85SlJkdm1mWDBGRFk5N1RSNmI5ZXhHUXJjZHNLNTd4Vmh5SllwWEVFZkROTUZ0ajdXejVLcFJWbHVCWmxRMjNOV3JwQQ?oc=5",
-    "source": "newsonair.gov.in",
+    "source": "News On AIR",
     "date": "2026-09-19",
     "category": "central",
     "tag": "central",
@@ -96,18 +72,6 @@
     "priority": "medium"
   },
   {
-    "id": "c0ccaf62c13b",
-    "title": "Why Maharashtra’s doctors have been protesting for weeks - The Indian Express",
-    "description": "Source: The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMl85Q3Z4bkdaUFlPZVkzejlqNGxCa1VlQl9iNjZnU0VVRENaLW1PU2JBNGh6YlVLOW8xNlNwTmNjMkhENTBqaFBkR052Q3NZdzJoYnhwLWI2cG5FVzJEbENPZ243dmtwd29LX25rQTlTc2JxZ2k1MTlWMWhyVTVHaEdJaEx0cWlvTkpWZHpCdVlqYkxQOUgwX1hvNDJMbElQY0w0RkF4Xy00bTExN05wTjRPbTEwRm9BTS1tLVpLQmxlZHlHTzlaN2l0cVpDRjZ1VUdfUDEtYmFDd9IB4AFBVV95cUxOU3VZMmJFQWxQVUdMS0VTX250VDVZLVJxOEdWN2ZVUng4TlZoQnRPbmpBTFdqYTF5WlN6QVg2VWNmU0ZkWENqRy05UFhTMFFpOVdiamVUenRGMkdrUGZUZUlEcVdHQjVwcVV5NGcxXy00YXZmWXg0UmlUUWs2dXhiTUdma2F3NDNRR0JkUmo2UWhlSWc5blhpNUd4UzJyaGJZc0NCNTZxNDUzcFI2RHFmczU0cDMwLVNqeFhWS0dTaU04R3BOakNFQmFoUjNLQkZidzBlQlIzTEpMbHF4YjlibQ?oc=5",
-    "source": "The Indian Express",
-    "date": "2026-09-19",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "ab6fcc205c93",
     "title": "Pharmacies Can Sell Below MRP But Cannot Display Vague Discount Boards; Drugs Controller's Licensing Condition Upheld: Kerala High Court - SCC Online",
     "description": "Source: SCC Online",
@@ -125,18 +89,6 @@
     "description": "Source: The New Indian Express",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWG93MDNyUTd1M0phbk1xaDk1YUdSY0pwQzl5NElOWURwY3ZKYkh5ek1nQVhESHR1dThjblNtZlB6Y2ZmTXhuTzVCLVVLa0lnaS1KUUk2emJtX242SVEzeWdjVWRqTXVwUHV2R1BsY0M3blZxcXBrN1BFcTdHb1NWR3hUZUlpMUR6REhtYnVIRlZiQXpuWnkxOGpYN2ZYZ0h6bDgydnJ3bkRXUVZ6Q3dqajBnNFZLVndZYTVRamlSM1JJUHgyN3NhdHliLTJJMFk3TGphZlFFQWg1WXVTQnY40gHsAUFVX3lxTE0tOHhVczRYR1MzZ2RUU3NsbmRrYlA5SUJvc0o2Ykoxb2p5VFl0d0tSRkg1R3F6VWlOVnIwWFVoalNmOUpmMm5HWkNNV1RTeWJlRHo0cHR4NFUxRG1IRkprRXJhZDRBd1ZCVVFpTmFWZzhma2VRS3NfOXBURGdGYjNtMVVfZUFZQzd4bk81Tk91bzI2LWFrRWZYNU53cGJuOURZb050VjVncWw5ZWUzZWxEMENUZHB3dERWNGpoWndXajBaeWNJekt5QThDc1VvUHpYdlRqRFRHdXlkX1RHdmIyMFlHa2N0ekFQVDNL?oc=5",
     "source": "The New Indian Express",
-    "date": "2026-09-19",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "5f48db58b7bc",
-    "title": "India has 86,360 postgraduate medical seats; Centre approves plan to add 5,000 more by 2028-29 - The Times of India",
-    "description": "Source: The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVNvX3dwWXdtbzd6YXk0V2hMV3VraDJTU3d1WEUtMEF2WXEwVzljWWthVk9zQUpBM1g3bERETTcteG5VVENfNmd2RWNyeEdzcEFOTk9nMDRHWDFrWS1BbXNOYTFmcnpXYU9HdHduNnJfZE9lbXJHbEViMDJtOEZWeW9ydlkxOWFWblgxWWgyRnVpcXVkQWhKNjdDRm9vTGxvNENnaGN3WWhnd3hXMkJCeEpPT2Mtc3o1ZlhLeG9pakRPUUpEdGVpeEEtYUxDdXRHdHc2akhyWlhBQmc0dnVqTmdjbm1DTEo2Z0ZKdjBSRm96NXMzTmRMLTlLeUbSAYICQVVfeXFMUFp3WTNlQTZuRFctT28tNUx1RDZQa3ZPZkc4b1hFVmN1UXRSMVI0UnlwckZfTFZtOTJOWmQ4N05nVzNZZU5SV0l2X2x1WFNOLXJaS3JLTndaUnhEbTFrZ25JY2swYWQ5Nm4yVWtsMXBwNEpNb1lhQVcyYkVqNklwZnNGQTRtb05wWG01LTVfRVpHSFVYeXo5dlR1ZTB5YUt6enVLNmExNjJNcng0SFV2ZDdjUVJHRUtWQU5NR1Fpa3p3cHliYzRoTXI3dnE2Nm96dDRQWWVhSjVsUm5fZlp4M3RiejZHZ2VwNGRqclhaVzVTVzdiek9RQWZ3am5seDU1Y1N3?oc=5",
-    "source": "The Times of India",
     "date": "2026-09-19",
     "category": "central",
     "tag": "central",
@@ -168,11 +120,11 @@
     "priority": "medium"
   },
   {
-    "id": "7c76cbd6311f",
-    "title": "5 Healthcare Stocks India 2026: Future Roadmaps - Univest",
-    "description": "Source: Univest",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XSkh4OE05c2R4ejNSN19SSE9zNHliVElXWENoMk1KdTFBRzRjSEFGZlNlWUZicnliVzc2ZmNaYUNzTWVnTkx0dzlGM0tvc0xVaXVoUFExYnh3NHlGc3R6S0JFNV9tb3hRdTAwRWVTNTZRcTNMWTQ5Yg?oc=5",
-    "source": "Univest",
+    "id": "974842b2aa55",
+    "title": "India’s healthcare push: 45.5 crore Ayushman Cards, 1.86 lakh Arogya Mandirs - DD India",
+    "description": "Source: DD India",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmVGTndGdHlkUlJQanBwQ3JMdDBhQUJiWDh3WnVNUVBLejN2QzlSWnVRV1RyYUE1R29jUWNJV3I1dFplSDZ5dThfWjNrRElqVkVWS0Y0cS1qaVJUR2ZESDBNWVgxbDR3ZjlZRGpySkxXSVNQbG5lT2NZbFljZnB3czZCUENXdWx4V1l5TmpUUHFvQ1V0aFJoX3lPX2JrS1hscVRjbTQ3QQ?oc=5",
+    "source": "DD India",
     "date": "2026-09-19",
     "category": "central",
     "tag": "central",
@@ -180,11 +132,11 @@
     "priority": "medium"
   },
   {
-    "id": "974842b2aa55",
-    "title": "India’s healthcare push: 45.5 crore Ayushman Cards, 1.86 lakh Arogya Mandirs - DD India",
-    "description": "Source: DD India",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmVGTndGdHlkUlJQanBwQ3JMdDBhQUJiWDh3WnVNUVBLejN2QzlSWnVRV1RyYUE1R29jUWNJV3I1dFplSDZ5dThfWjNrRElqVkVWS0Y0cS1qaVJUR2ZESDBNWVgxbDR3ZjlZRGpySkxXSVNQbG5lT2NZbFljZnB3czZCUENXdWx4V1l5TmpUUHFvQ1V0aFJoX3lPX2JrS1hscVRjbTQ3QQ?oc=5",
-    "source": "DD India",
+    "id": "7c76cbd6311f",
+    "title": "5 Healthcare Stocks India 2026: Future Roadmaps - Univest",
+    "description": "Source: Univest",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XSkh4OE05c2R4ejNSN19SSE9zNHliVElXWENoMk1KdTFBRzRjSEFGZlNlWUZicnliVzc2ZmNaYUNzTWVnTkx0dzlGM0tvc0xVaXVoUFExYnh3NHlGc3R6S0JFNV9tb3hRdTAwRWVTNTZRcTNMWTQ5Yg?oc=5",
+    "source": "Univest",
     "date": "2026-09-19",
     "category": "central",
     "tag": "central",
@@ -252,11 +204,11 @@
     "priority": "medium"
   },
   {
-    "id": "294c43e4ceff",
-    "title": "NZ health system leans on digital and AI to manage growing pressure - Reseller News",
-    "description": "Source: Reseller News",
+    "id": "bb4fd6687158",
+    "title": "NZ health system leans on digital and AI to manage growing pressure - reseller.co.nz",
+    "description": "Source: reseller.co.nz",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ21BOVlESENHR2FVR1JYWWJPQmFxMTRLR2paUHRWM2UzeVZ5MnF2VDRZZUlEWkFhUkk1dlJZZWc3a1BQTVM4RE5teGRsa2FvNDZ5a3lDMmpULUNFVmIwN2I5YUNnZDNCUmdycGgyY0U1WjJHNFA5d0FudFZGdVdfMHlyMTJLcnhJQUVIM09lT0pneGVhcG1MZVpCNkJpa0EzYjFneVRFVWpuMy15aHRnbUFQOEJkQQ?oc=5",
-    "source": "Reseller News",
+    "source": "reseller.co.nz",
     "date": "2026-09-19",
     "category": "central",
     "tag": "central",
@@ -281,6 +233,18 @@
     "description": "Source: Forbes",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oZEdjb0k1Q2tKQTRsTXF5cjYycTJsZ05fNDFQbU9pa1dtSnpxSi0xcHZ1Y3ZJN1U1T1Mwa2p5QXJfeDJnNWJQVnZsdlBoX2ltS3dmZlRVQ3B4NTN4Ym5pWjVwT09PQQ?oc=5",
     "source": "Forbes",
+    "date": "2026-09-19",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "6d0fd384a269",
+    "title": "Can Precision Oncology Deliver at Scale in India? - biospectrumindia.com",
+    "description": "Source: biospectrumindia.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDdwb2ExMUFGT29OVjNmOFhtVDFrazliRm9ua3lLYnQ4Qmx1Zm1uaFJNMGVtTlZtbDNrVnQzZ1l3SFF6Sm5xZU8wQzZxVFp6bHZsS2ppU3c4VFRyV25wZjNfX21tdkdrWDFnZXMydHppUGh5REd0Y1hrQ19FTm53Mk1XVkgtdzBQUWp5Q0JnYmVzRER5bVdtdElsMHZ5MWZhMzBkOTRwRQ?oc=5",
+    "source": "biospectrumindia.com",
     "date": "2026-09-19",
     "category": "central",
     "tag": "central",
@@ -324,18 +288,6 @@
     "priority": "medium"
   },
   {
-    "id": "fb0739c9142f",
-    "title": "Longest-distance robotic cardiac telesurgery ever performed over 12,500 miles - Cardiovascular Business",
-    "description": "Source: Cardiovascular Business",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFR6UV9NRHZib1NVWkRqaEJaRDlPbnY0bWpZNnFmazBFakVrNWpRS3lwZ1BJZXVnOXpRSFF6SVF1bXVXNUdqUG4teUcteFd3Wk1BTE1jc3F5cUpuVEo1cXk1MVEzZWZaTmZYX3JXbnNWcERPYzhBcm5JMnNBM2c4RDdTakdCLVZJY2R5V3RfV3dSTGQzVXp4WWdJckVaZlFlOUlBSzhNYUQ5TGhZb0RJRVA4S1ZJc0xOSjdISTktYjRTSmxuWU9tZnNkYm5GSC1HbHI5ZXhBT0VrXzA?oc=5",
-    "source": "Cardiovascular Business",
-    "date": "2026-09-19",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "78cc329f7689",
     "title": "Max Institute signs MoU with Intuitive Surgical to expand robotic-assisted surgery in India - expresshealthcare.in",
     "description": "Source: expresshealthcare.in",
@@ -348,11 +300,11 @@
     "priority": "medium"
   },
   {
-    "id": "21eaa62f1cba",
-    "title": "QCIL Partners Intuitive To Expand Robotic Surgery In Smaller Cities - BW Healthcare World",
-    "description": "Source: BW Healthcare World",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1IzUVpBdXVnVk5yc05ENmgyYzNwOEdSUGpuNE11M3RJUTY3TF9DTE1ZUjh4MG5MSTRnV2lVSTVvLVB0amF3MjZHQ0hCUURfR3F5aE85a2dOTWlkQlk1ZmstZTRQa2ozazdCM1FpeGRya1NJMk9mem1VSnVHdmhfSlpTQXU3UjFlZ0FkUW93Mk1aN1doLWY5Sk1iRVlWbjYwdUV0ai0xNmxyYXNzV3dwUnFSSGpvNjg?oc=5",
-    "source": "BW Healthcare World",
+    "id": "fb0739c9142f",
+    "title": "Longest-distance robotic cardiac telesurgery ever performed over 12,500 miles - Cardiovascular Business",
+    "description": "Source: Cardiovascular Business",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFR6UV9NRHZib1NVWkRqaEJaRDlPbnY0bWpZNnFmazBFakVrNWpRS3lwZ1BJZXVnOXpRSFF6SVF1bXVXNUdqUG4teUcteFd3Wk1BTE1jc3F5cUpuVEo1cXk1MVEzZWZaTmZYX3JXbnNWcERPYzhBcm5JMnNBM2c4RDdTakdCLVZJY2R5V3RfV3dSTGQzVXp4WWdJckVaZlFlOUlBSzhNYUQ5TGhZb0RJRVA4S1ZJc0xOSjdISTktYjRTSmxuWU9tZnNkYm5GSC1HbHI5ZXhBT0VrXzA?oc=5",
+    "source": "Cardiovascular Business",
     "date": "2026-09-19",
     "category": "central",
     "tag": "central",
@@ -408,11 +360,11 @@
     "priority": "medium"
   },
   {
-    "id": "7ac772d0c598",
-    "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System - Apple",
-    "description": "Source: Apple",
+    "id": "b304576cd2c5",
+    "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System - apple.com",
+    "description": "Source: apple.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGFtdWNJcy1ibGVLaFZWM3pvYmZ6VEg4NkhWVFhMd1I4ZmgzMlNWUi1JZ2JUeHBQbV9aUW1KYktSclRGM0lJcXJ4YVpHR2l0bjRvX2RZdHc2dFE1bFhzdzJFTFlWdi1ITWRuLUZHQXVqdDc1ZF85WWFPYmQxSXBXajVDaU5FYnItQVUtY2M3UmtDd1N2VEhvTHIyNHFfZUxmakxTVF81LTNIclQ4ejduLVJR?oc=5",
-    "source": "Apple",
+    "source": "apple.com",
     "date": "2026-09-19",
     "category": "central",
     "tag": "central",
