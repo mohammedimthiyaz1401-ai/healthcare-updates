@@ -104,7 +104,7 @@ TELANGANA_FEEDS = {
         "tag_label": "Telangana",
         "keywords": ["health", "hospital", "medical", "knruhs", "dmhs", "kaloji", "doctor", "nursing"],
     },
-    "telangana_heatth": {
+    "telangana_health": {
         "url": "https://www.telangana.gov.in/feed/",
         "category": "telangana",
         "tag": "telangana",
