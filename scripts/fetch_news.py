@@ -290,6 +290,7 @@ def fetch_rss(feed_key, feed_config):
             }
             if subcategory:
                 item["subcategory"] = subcategory
+            items.append(item)
 
         print(f"    Found {len(items)} relevant items")
     except Exception as e:

@@ -246,7 +246,7 @@
         .section.mci { border-left-color: #dc3545; }
         .section.hospitals { border-left-color: #198754; }
         .section.regulations { border-left-color: #6f42c1; }
-        .section launches { border-left-color: #0dcaf0; }
+        .section.launches { border-left-color: #0dcaf0; }
         .section.tech { border-left-color: #9c27b0; }
 
         .section-header {
@@ -855,7 +855,7 @@
             <a href="https://knruhs.telangana.gov.in/" target="_blank">KNRUHS</a>
             <a href="https://hmwssb.telangana.gov.in/" target="_blank">Telangana Health Dept</a>
             <a href="https://www.mohfw.gov.in/" target="_blank">MoHFW India</a>
-            <a href="https://tetrahealht.telangana.gov.in/" target="_blank">Telangana Health</a>
+            <a href="https://tetrahealth.telangana.gov.in/" target="_blank">Telangana Health</a>
             <a href="https://github.com/mohammedimthiyaz1401-ai/healthcare-updates" target="_blank">Source Code</a>
         </div>
     </footer>
@@ -1131,6 +1131,7 @@
         }
 
         // Initialize
+        loadDates();
         loadData();
         document.getElementById('customDate').value = new Date().toISOString().slice(0,10);
     </script>
