@@ -35,9 +35,10 @@ jobs:
           git diff --cached --quiet || git commit -m "Auto: update healthcare news $(date +\%Y-\%m-\%d)"
           git push
 
-      - name: Verify Vercel Deployment
+      - name: Deploy to Vercel
         if: success()
         run: |
-          echo "Data pushed to master. Vercel should auto-deploy via Git Integration."
-          echo "If Vercel is not deploying, reconnect Git Integration at:"
-          echo "https://vercel.com/dashboard → healthcare-updates → Settings → Git"
+          npx vercel --prod --yes --token=${{ secrets.VERCEL_TOKEN }}
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
