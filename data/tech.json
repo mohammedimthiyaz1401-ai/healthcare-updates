@@ -26,6 +26,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "7899077d5e78",
+    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
+    "source": "PIB",
+    "date": "2026-09-21",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
     "id": "fa88928e4d59",
     "title": "SIU’s Ryan Bioethicist lecture focuses on using artificial intelligence in health care - SIU News",
     "description": "Source: SIU News",
@@ -78,17 +91,17 @@
     "subcategory": "ai"
   },
   {
-    "id": "0b01112c1135",
-    "title": "Major AI conference in Montreal explores if artificial intelligence can help tackle Canada's doctor shortage - CityNews Montreal",
-    "description": "Source: CityNews Montreal",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybS1DYl9VZU9YS1RFOURBeGFkNmNuLVVuR2ctaFpQeXBuZnpuM0hLczQ2SnQtSXBxY2VsX2E2TmE0eVpBdFZEdDlocFMxUXFDNnMtNzB4ZDl1Qm04eFJNdHo2NkNtbjhEYk5vVHVfOTJwdE5sSWg2eg?oc=5",
-    "source": "CityNews Montreal",
+    "id": "31fffd544aee",
+    "title": "India’s Medical Device Sector Reaches $18 Bn, Targets Global MedTech Manufacturing - BW Healthcare World",
+    "description": "Source: BW Healthcare World",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDc1MjJZQ2UwTWJnSGJoOGVtV0oyZTBhd2dlM210NkRrSHpYR2RXUERSWkN6czA4VFh6MmNlUzdjc083cGU4UG5QRFo1M1VINGwzcnM2SHRSeTdUU3Noc3lWT1pWUjZjLWJuU0EzeUxONEVWcm9QcEpQT1U5NHJ3Z3VUYV9FQ3Vsd2F4b0RpWjVwNVBwS3JibzlVbnlGNEVMOG5sUWRHVmtBN2NHU3VsX0syVERQSlc3S0RVV2RQTlgyQXRCakdMbQ?oc=5",
+    "source": "BW Healthcare World",
     "date": "2026-09-21",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "AI / ML",
+    "tag_label": "MedTech",
     "priority": "medium",
-    "subcategory": "ai"
+    "subcategory": "medtech"
   },
   {
     "id": "7c6f30c1c77b",
@@ -117,11 +130,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "ab1699c43279",
-    "title": "Academia discusses medical device innovation at MEDHA 2026 - Indian Pharma Post",
-    "description": "Source: Indian Pharma Post",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWpGcTNHVDZ6QldDcUVndnF4WUhITXc3WUQwbjJKZXl3cDRCQ3h1N0VnMElJdXl5VS13d2FCcVNHSlp4YWx4NmJiYlgtRlhxTk5nNnFTSFhJUVlhd0pMOUYtODV4UzE1MzFCbFpZenZnMVJtV1VYSDB0Tnh6NkF2RzBySTZXU2FQeVd1VVViazl3a2VWclVJSTI1NEt3T1I0ZFE5NHowR2ZZaWlScnBNWDFCSzY1Sm1H0gG4AUFVX3lxTE0xakZxM0dUNnpCV0NxRWd2cXhZSEhNdzdZRDBuMkpleXdwNEJDeHU3RWcwSUl1eXlVLXd3YUJxU0dKWnhhbHg2YmJiWC1GWHFOTmc2cVNIWElRWWF3Skw5Ri04NXhTMTUzMUJsWll6dmcxUm1XVVhIMHROeHo2QXZHMHJJNldTYVB5V3VVVWJrOXdrZVZyVUlJMjU0S3dPUjRkUTk0ejBHZllpaVJycE1YMUJLNjVKbUc?oc=5",
-    "source": "Indian Pharma Post",
+    "id": "b304cc557e25",
+    "title": "Government and Industry Join Hands to Accelerate Investment, Innovation and Manufacturing in India’s MedTech Sector - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCU0syYTVGS1JuYlowOFNwQmVzajFYa2tNd2xmZ2NBV0JKeW1yZGwtaFJUSGtZenFORmNvMWxUNUNOMHJFdnZucWdhWnR1aW1pNkF4b0UtaXlISDZGVy1ERkF0NGFTOEdpaG45UGRaLVdhTW1kUmlMUlpnMA?oc=5",
+    "source": "PIB",
     "date": "2026-09-21",
     "category": "tech",
     "tag": "tech",
@@ -130,11 +143,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "b304cc557e25",
-    "title": "Government and Industry Join Hands to Accelerate Investment, Innovation and Manufacturing in India’s MedTech Sector - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCU0syYTVGS1JuYlowOFNwQmVzajFYa2tNd2xmZ2NBV0JKeW1yZGwtaFJUSGtZenFORmNvMWxUNUNOMHJFdnZucWdhWnR1aW1pNkF4b0UtaXlISDZGVy1ERkF0NGFTOEdpaG45UGRaLVdhTW1kUmlMUlpnMA?oc=5",
-    "source": "PIB",
+    "id": "ab1699c43279",
+    "title": "Academia discusses medical device innovation at MEDHA 2026 - Indian Pharma Post",
+    "description": "Source: Indian Pharma Post",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWpGcTNHVDZ6QldDcUVndnF4WUhITXc3WUQwbjJKZXl3cDRCQ3h1N0VnMElJdXl5VS13d2FCcVNHSlp4YWx4NmJiYlgtRlhxTk5nNnFTSFhJUVlhd0pMOUYtODV4UzE1MzFCbFpZenZnMVJtV1VYSDB0Tnh6NkF2RzBySTZXU2FQeVd1VVViazl3a2VWclVJSTI1NEt3T1I0ZFE5NHowR2ZZaWlScnBNWDFCSzY1Sm1H0gG4AUFVX3lxTE0xakZxM0dUNnpCV0NxRWd2cXhZSEhNdzdZRDBuMkpleXdwNEJDeHU3RWcwSUl1eXlVLXd3YUJxU0dKWnhhbHg2YmJiWC1GWHFOTmc2cVNIWElRWWF3Skw5Ri04NXhTMTUzMUJsWll6dmcxUm1XVVhIMHROeHo2QXZHMHJJNldTYVB5V3VVVWJrOXdrZVZyVUlJMjU0S3dPUjRkUTk0ejBHZllpaVJycE1YMUJLNjVKbUc?oc=5",
+    "source": "Indian Pharma Post",
     "date": "2026-09-21",
     "category": "tech",
     "tag": "tech",
@@ -187,19 +200,6 @@
     "description": "Source: Medical Buyer",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFhhN2FIenFTMzNSTlI2SWZSWVViQi00SlE3RUdrTFhCMDhKejFhcGRyQTBneXhPblhTa25SSUdXQ3JlQTBtWlQ3Y3pDMzZfcGJWcm9jSWpabnNNeFJ0Z3dpdm5xQWxKazM0SHAxZmJOVlZpTVZkVW96ZUFzMVJQUTRyaEhwYUJlWVJPYkd2NEFiWmlEMW9mTnB6LV80UkNmcV9BN25UVWE5QQ?oc=5",
     "source": "Medical Buyer",
-    "date": "2026-09-21",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "a3b8cbef7f86",
-    "title": "Union Minister J. P. Nadda to address India Medical Device 2026 - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qSXZuNTlzaENKLWNaYmhRdEhWTkZKUzFrZXNubjljMk05S3FobmJaVVZQWkVqelFMbjZPSXNiN19wN1g2dkI1cS1Bc1dqTFZSbG50ZlF3cnpYTDdDc2tEcHZsdFhaQUwtZ3dsNVVhRDdGS0UtZnJodEdSOA?oc=5",
-    "source": "PIB",
     "date": "2026-09-21",
     "category": "tech",
     "tag": "tech",
@@ -338,24 +338,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "3bf260e915e0",
-    "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - DD India",
-    "description": "Source: DD India",
+    "id": "d59ee993de25",
+    "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - ddindia.co.in",
+    "description": "Source: ddindia.co.in",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVV2Zks4MnIyUGdLUkhRbzVQNGVFQjFKeER6VWJZTXdEWC1XMnRCcEpwSlhpQUYwZVRtZjRRMDVPVm5sODNfLVFtbGpZYi00R3RmZlFzaE5Wd2xaVzVBbXNYTUVzYVdBYWhHenp6V2dhZWEyLWxtMm5HXzFCUjRqV3NyZEZ1T184WW1iMjd4STJoOW9fQWhpVnJ1MWY0SUtEMm13RENSaw?oc=5",
-    "source": "DD India",
-    "date": "2026-09-21",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "1dd0d542d1fb",
-    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
-    "description": "Source: Spherical Insights",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
-    "source": "Spherical Insights",
+    "source": "ddindia.co.in",
     "date": "2026-09-21",
     "category": "tech",
     "tag": "tech",
@@ -375,6 +362,19 @@
     "tag_label": "AI / ML",
     "priority": "medium",
     "subcategory": "ai"
+  },
+  {
+    "id": "1dd0d542d1fb",
+    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
+    "description": "Source: Spherical Insights",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
+    "source": "Spherical Insights",
+    "date": "2026-09-21",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
   },
   {
     "id": "12f507511ea9",
@@ -455,6 +455,19 @@
     "subcategory": "robotics"
   },
   {
+    "id": "493e298ae799",
+    "title": "Intuitive Introduces da Vinci 5 as Robotic-Assisted Surgery Advances in India - Voice of Healthcare",
+    "description": "Source: Voice of Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbElGN1IxYS0wSkE3Z3pUbHRhVTJjX0RHNUdQdXpDNGdwRWcydlZLMWl1R3pPenpHZEJ5U0ZZM1VSLVM2b3VIbU9jZFRpRXBYajZyY3ZaTy11QmdQRGl5X3prOXIxNGlTa056YUZhT2xnVThPczBraFdIbGlhcWUtUkgtbnZqWVIzYWZGZHRCMl9MMUotdXlUV1ZKbkZIWUhyREFZYkMtcnE0eEx0WnZERXYwcWFHVmdpTW9ldFFR?oc=5",
+    "source": "Voice of Healthcare",
+    "date": "2026-09-21",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
     "id": "e427d20c8080",
     "title": "Indian Surgeon creates ‘World Record’ in medical history by performing World’s Longest Robot-Assisted Cardiac TeleSurgery Across 20,000 km Between Guyana and India using Made in India technology - goachronicle.com",
     "description": "Source: goachronicle.com",
@@ -481,24 +494,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "018870359d6f",
-    "title": "Robotics Integration Is Transforming Global Surgical Care - The American College of Surgeons",
-    "description": "Source: The American College of Surgeons",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUtxdEYzT0VIOXFybG02R0VWOHV5ZnhSN2hWSEprbDRubUhnY2JyblB6VDU2enZ1N2tBM1lXYmtMNWplN3NrcFNfa0ZuT1BQTHVyM2hobmpYRjl4Y2wxT0VWTXlYc1BqaThWTmJFUDZPTUllbHo2MHNSdUd5R09oMTJ3a1VuaDZnOXdONFZMVkVGS1JjbTJaQ1N5ODFjcnV3ek5iOFo5M1R1ajM4UWVzMVRObFJ0TVJHRkFyM2lGZVFMQVZyVlRNX2l0NFVRWXdyUWVjcENLYmI0ZWNfdFhnMEtNaWZGS0xkTmw3M2hDcEEtNjdyQ3NGSC05Qmw4RGJ4OFF5d0NnVWhyUVdzVkxWa0FuTlVmUHc?oc=5",
-    "source": "The American College of Surgeons",
-    "date": "2026-09-21",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Robotics",
-    "priority": "medium",
-    "subcategory": "robotics"
-  },
-  {
-    "id": "e0e664ed1bf1",
-    "title": "Top 30 Healthtech Startups In India 2026 By Funding - Inc42",
-    "description": "Source: Inc42",
+    "id": "7d7382808235",
+    "title": "Top 30 Healthtech Startups In India 2026 By Funding - inc42.com",
+    "description": "Source: inc42.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEtSbmpRencwbTc5X19BZzBkX2cyczRLTEwtWGNhSWJ0cmJJMTROQkN6S0NBTF92NEtVR0dLMWY3Q2hMZGhiSExkRlhLOEg2Z25MLU9IYUYxSXNyQ3p4THk5Y1FjS0VGcEJGRWRZVGREeUFaNTZnMENqVDRreGFER293?oc=5",
-    "source": "Inc42",
+    "source": "inc42.com",
     "date": "2026-09-21",
     "category": "tech",
     "tag": "tech",
@@ -533,11 +533,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "35e2177f12db",
-    "title": "Healthtech in Asia 2026: The Digital Health Leap - digitalinasia.com",
-    "description": "Source: digitalinasia.com",
+    "id": "ac6f3b0ff0d3",
+    "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
+    "description": "Source: Digital in Asia",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
-    "source": "digitalinasia.com",
+    "source": "Digital in Asia",
     "date": "2026-09-21",
     "category": "tech",
     "tag": "tech",
