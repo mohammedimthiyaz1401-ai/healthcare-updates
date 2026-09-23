@@ -1,18 +1,5 @@
 [
   {
-    "id": "ca237304e862",
-    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
-    "description": "Source: Telangana Today",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
-    "source": "Telangana Today",
-    "date": "2026-09-23",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "9f1cf7b8cf65",
     "title": "CMS Greenlights Enhanced Payments for AI Technology in CT Imaging - Holland & Knight",
     "description": "Source: Holland & Knight",
@@ -65,19 +52,6 @@
     "subcategory": "ai"
   },
   {
-    "id": "0b01112c1135",
-    "title": "Major AI conference in Montreal explores if artificial intelligence can help tackle Canada's doctor shortage - CityNews Montreal",
-    "description": "Source: CityNews Montreal",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybS1DYl9VZU9YS1RFOURBeGFkNmNuLVVuR2ctaFpQeXBuZnpuM0hLczQ2SnQtSXBxY2VsX2E2TmE0eVpBdFZEdDlocFMxUXFDNnMtNzB4ZDl1Qm04eFJNdHo2NkNtbjhEYk5vVHVfOTJwdE5sSWg2eg?oc=5",
-    "source": "CityNews Montreal",
-    "date": "2026-09-23",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "249d4157fc52",
     "title": "AdvaMed® in Action: A New Chapter for Digital Health Tech at #MTC26 - AdvaMed® - Advanced Medical Technology Association®",
     "description": "Source: AdvaMed® - Advanced Medical Technology Association®",
@@ -91,17 +65,17 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "a1d263611317",
-    "title": "Health Systems Can Look to Their Peers for AI Inspiration - HealthTech Magazine",
-    "description": "Source: HealthTech Magazine",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWG9pQlh2Y3ZlVkwzcHo2Zkp4cDZBV3ozczV0dGRtS3BJTXByTU1ndzYwUjZhOVJDbzFNSlBBYWcxd3FFWERrZVQ0M3hlR1JqX1BQZkotQ1pLSWczXzZTdy1wcFBLSHJaRDRsWGtQU0Q0OHM5c1l3RWpHYVNWdEJYMXBjS1BqRUQzcWJERkpxZ21DUkJpXzNkaG5GNjA2UQ?oc=5",
-    "source": "HealthTech Magazine",
+    "id": "0b01112c1135",
+    "title": "Major AI conference in Montreal explores if artificial intelligence can help tackle Canada's doctor shortage - CityNews Montreal",
+    "description": "Source: CityNews Montreal",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybS1DYl9VZU9YS1RFOURBeGFkNmNuLVVuR2ctaFpQeXBuZnpuM0hLczQ2SnQtSXBxY2VsX2E2TmE0eVpBdFZEdDlocFMxUXFDNnMtNzB4ZDl1Qm04eFJNdHo2NkNtbjhEYk5vVHVfOTJwdE5sSWg2eg?oc=5",
+    "source": "CityNews Montreal",
     "date": "2026-09-23",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Startup",
+    "tag_label": "AI / ML",
     "priority": "medium",
-    "subcategory": "startup"
+    "subcategory": "ai"
   },
   {
     "id": "42974a57f19a",
@@ -247,10 +221,10 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "b609f0abc6ba",
-    "title": "Remote Patient Monitoring Systems Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "id": "bc8187551fce",
+    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
     "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRm5lYk5wMDBhSEZJdElJU1RYLWJaWnBFMUpKM04wMXVEZVBsd055V28weTJLdnE5UTBoZW5sS3VoSXZtUDd5R295MjlVNjV4ZXlab3VCVjdRa3FXbWx2bWJMZkxCRVhOUmU2NDlHc05wamN3aFozaWZhbEFfVXdwMA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
     "source": "Precedence Research",
     "date": "2026-09-23",
     "category": "tech",
@@ -260,11 +234,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "8f6bee5904a8",
-    "title": "Digital Health Market Size, Growth Forecasts 2035 - researchnester.com",
-    "description": "Source: researchnester.com",
+    "id": "5e5060e5d8d8",
+    "title": "Digital Health Market Size, Growth Forecasts 2035 - Research Nester",
+    "description": "Source: Research Nester",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRzluWkxnZHpTMFVKOTh2dDhrVkh6eDV0T2llSWhWVkcwSUVDS1dObloxZ1FXRWhZYXljQnlnNDNoLU02bjhCNG0tQWc1T05WTmR3RGZRNW1DOWJXVU93QkJMdjEzUktjbmNHaUZVdW5xdw?oc=5",
-    "source": "researchnester.com",
+    "source": "Research Nester",
     "date": "2026-09-23",
     "category": "tech",
     "tag": "tech",
@@ -325,11 +299,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "bc8187551fce",
-    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
-    "source": "Precedence Research",
+    "id": "4c6467f20d23",
+    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
+    "description": "Source: Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
+    "source": "Business Wire",
     "date": "2026-09-23",
     "category": "tech",
     "tag": "tech",
@@ -338,11 +312,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "fd67a15fdf1d",
-    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - newsonair.gov.in",
-    "description": "Source: newsonair.gov.in",
+    "id": "86229fc23241",
+    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - News On AIR",
+    "description": "Source: News On AIR",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5ZbTgtaG1jaGhzSlMwRFhfT0JzUnJ2OXh5d2V3c09WTm1nQmxoV0lLS2FvRHZ4dXZQbVU4ajVnNkkzYzlKWTh6YkFRSTMtTUV3UHExVzZKR1RCTDI3QVZNRElTaWROaUgyRld2MmhXVFBBSmhTVDJtdTYxMnBGeXhVbjZ4ZzZfazlRU0RBRkVqSFMzcnNEeXAwSFk2bWVvZkllcUNGOE1Sd3d0aElUcHJ2VW9mRlNz?oc=5",
-    "source": "newsonair.gov.in",
+    "source": "News On AIR",
     "date": "2026-09-23",
     "category": "tech",
     "tag": "tech",
@@ -468,11 +442,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "2761d8b8065f",
-    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - businesswireindia.com",
-    "description": "Source: businesswireindia.com",
+    "id": "09c357679b50",
+    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - Business Wire India",
+    "description": "Source: Business Wire India",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1NBSFdBVmJ0SFBtV3hTSFB0NXFGa1dvSVJoR3UzV1FPbmVsemF6SUo0dGlrREplc1hEUE1oUWlzd0REZDFKWXpYdWZXQlBPWlJZcnVWUlVWMlRrX0hWMXE1VjJyZGswcFd1d3BsQ3ZpQzdFeU43eFd5Ujh4cTdpNmRTRG5MMXlsTGNOQmFQRDdsa1N4N1l4cl9SeG9IektMTTVwZnZNVjNTNHcxX2ctMjUxVVcyWmhqa1Y4eWNrY0hCVjh6YU9OcmNJT2ZLSFROQkE?oc=5",
-    "source": "businesswireindia.com",
+    "source": "Business Wire India",
     "date": "2026-09-23",
     "category": "tech",
     "tag": "tech",
@@ -547,10 +521,10 @@
   },
   {
     "id": "09187759d863",
-    "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - YourStory.com",
-    "description": "Source: YourStory.com",
+    "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - yourstory.com",
+    "description": "Source: yourstory.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDhmZXY3NXlDSXpVNFZpaTJXWjEzY2NJNUFfQVh5cXpUdmlSMGVyeXRGYVRsOGVXR0xqUTRna2lFQjE4blNhMzhaWkJfbHZ4OEtfdXFrWjcyQ01GbjR6T3Z5SXpxa1NyMWRlSmo1M3lnNzlIazF3dGxmcnEwOWp4b0YwUGNWcDZTNHNSeUtSVDFRdw?oc=5",
-    "source": "YourStory.com",
+    "source": "yourstory.com",
     "date": "2026-09-23",
     "category": "tech",
     "tag": "tech",
@@ -663,11 +637,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "01099b0f0c2b",
-    "title": "Wearable Healthcare Devices Market Size, Share & Forecast to 2036 - Fact.MR",
-    "description": "Source: Fact.MR",
+    "id": "d9ef7cf1524f",
+    "title": "Wearable Healthcare Devices Market Size, Share & Forecast to 2036 - factmr.com",
+    "description": "Source: factmr.com",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ZUo4aTV1dlhTVnhXTFIwMGsxYVdQTUFNWno5OGlzRjBDV2JsQWVlS190ZGVDVnJxbEpuTDZSZWlRV3VodVE2c01SZ2FxNEZvNmFCRk5fTTlRVVdHZzQtUHF4ZTc5UHl6UGpNbjhNNVEwQQ?oc=5",
-    "source": "Fact.MR",
+    "source": "factmr.com",
     "date": "2026-09-23",
     "category": "tech",
     "tag": "tech",
@@ -676,11 +650,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "f16ddb503d81",
-    "title": "Is Temple wearable coming to India? Deepinder Goyal says pre-orders will open soon - Firstpost",
-    "description": "Source: Firstpost",
+    "id": "dfe79cb2f8bc",
+    "title": "Is Temple wearable coming to India? Deepinder Goyal says pre-orders will open soon - firstpost.com",
+    "description": "Source: firstpost.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWY5WHhXM1VoU0xPTnhuQ3djY21ibjY1d3hlVDJsWG1YcWt3NnJXcWZVRVdYZHF3Z1hISFIzV2Y0MC1XQWJDSFJOcHk0R0tIY3BrbWU0ZTBtN3RHWW83RWU2ZnpRUkEzMUg1WDZ0OGQxS0ZIeXBXNGJkRmJVeHZPS0lEczlNSE1WM05VSW1sZUl2Tzk5c3NwVmJBcGV5Tmdydmx0c3hfRWIzT05WRWVsMUtWYzhsSEdzT3F4Y2R5RFV3bWoy0gHKAUFVX3lxTE9SR0FOazY5SnlxYm1XOTlLZ2JwclJLc1Zzd3JRR3ZDcmZESS13dm9JMVNCWVFDVVQtOGU2d25sbldHaEpldElwa3J5MVNNV3g0QXFEN2JQRUJ2c1BoVElkTWU2d1VhX1ZXbXNmY0RINkVwTHRWTzg4Z3pqdkEwZ3QwYWF5U3hQMlBpWThPNzZnd250V1VzUTZuZWNMaTY4c3BCU01BdVJuX1hCNU5sZUdPS2JSLU9xd3M1MGQ4Y3pjNHNGcE9FNEhYcHc?oc=5",
-    "source": "Firstpost",
+    "source": "firstpost.com",
     "date": "2026-09-23",
     "category": "tech",
     "tag": "tech",
