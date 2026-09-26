@@ -52,19 +52,6 @@
     "subcategory": "ai"
   },
   {
-    "id": "0b01112c1135",
-    "title": "Major AI conference in Montreal explores if artificial intelligence can help tackle Canada's doctor shortage - CityNews Montreal",
-    "description": "Source: CityNews Montreal",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybS1DYl9VZU9YS1RFOURBeGFkNmNuLVVuR2ctaFpQeXBuZnpuM0hLczQ2SnQtSXBxY2VsX2E2TmE0eVpBdFZEdDlocFMxUXFDNnMtNzB4ZDl1Qm04eFJNdHo2NkNtbjhEYk5vVHVfOTJwdE5sSWg2eg?oc=5",
-    "source": "CityNews Montreal",
-    "date": "2026-09-26",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "aa4e20aac30e",
     "title": "Towards autonomous medical artificial intelligence agents - Nature",
     "description": "Source: Nature",
@@ -78,11 +65,24 @@
     "subcategory": "ai"
   },
   {
-    "id": "7ac229f4bfd2",
-    "title": "Medical Fair India 2026 spotlights expanding MedTech manufacturing base - Medical Buyer",
-    "description": "Source: Medical Buyer",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGNZUXFZamo4WXo4TGE1Z09BcFdfYnJ0YXpCWGlrSjgwc1hkdk1xbWlBM24yVS1GN3ZvZjN5QnB4ci16VFNfN0xhSUNzbVYtbTlnR1E3R1lBOEpqbWhHSHd0Y3lPUnJ5M0NMYVp4T3hwSVNmcUxSWGd2T19QQzBGek1CM2JkUjNoVVgxZU0xb3Zic0IxLVJYNnU4ZlBkcjk3?oc=5",
-    "source": "Medical Buyer",
+    "id": "0b01112c1135",
+    "title": "Major AI conference in Montreal explores if artificial intelligence can help tackle Canada's doctor shortage - CityNews Montreal",
+    "description": "Source: CityNews Montreal",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybS1DYl9VZU9YS1RFOURBeGFkNmNuLVVuR2ctaFpQeXBuZnpuM0hLczQ2SnQtSXBxY2VsX2E2TmE0eVpBdFZEdDlocFMxUXFDNnMtNzB4ZDl1Qm04eFJNdHo2NkNtbjhEYk5vVHVfOTJwdE5sSWg2eg?oc=5",
+    "source": "CityNews Montreal",
+    "date": "2026-09-26",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
+    "id": "c9420e4f3965",
+    "title": "India Medical Device 2026 to spotlight self-reliance, innovation and global partnerships in MedTech sector - ddnews.gov.in",
+    "description": "Source: ddnews.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLV9xZ0JfLU13YXBzTTVqX2l6TlBQbklsdjhpY3VFMXYyTjRYLXBwSkFEYUZVdHdtVWxlcFFpRWVIc1l0aVZlY2swNUJqX183Z2RHMkg3T3lsQXZKYlVESHR1M1pqQWJXT2tYV1B3UEJXWjdhUzAwSHNXOUFia3NsUjNWQmJxTWRKeVVNTVRPNG5rOFl3UVNwWE0xcEtfZ2FES2VUUlBCdDRnVlBJZi1NbHBZc2hFR0tQYm9GVllDTjBoeEwteXh4Z2FoVQ?oc=5",
+    "source": "ddnews.gov.in",
     "date": "2026-09-26",
     "category": "tech",
     "tag": "tech",
@@ -91,11 +91,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "580de742576f",
-    "title": "India Medical Device 2026 to spotlight self-reliance, innovation and global partnerships in MedTech sector - DD News",
-    "description": "Source: DD News",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLV9xZ0JfLU13YXBzTTVqX2l6TlBQbklsdjhpY3VFMXYyTjRYLXBwSkFEYUZVdHdtVWxlcFFpRWVIc1l0aVZlY2swNUJqX183Z2RHMkg3T3lsQXZKYlVESHR1M1pqQWJXT2tYV1B3UEJXWjdhUzAwSHNXOUFia3NsUjNWQmJxTWRKeVVNTVRPNG5rOFl3UVNwWE0xcEtfZ2FES2VUUlBCdDRnVlBJZi1NbHBZc2hFR0tQYm9GVllDTjBoeEwteXh4Z2FoVQ?oc=5",
-    "source": "DD News",
+    "id": "7ac229f4bfd2",
+    "title": "Medical Fair India 2026 spotlights expanding MedTech manufacturing base - Medical Buyer",
+    "description": "Source: Medical Buyer",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGNZUXFZamo4WXo4TGE1Z09BcFdfYnJ0YXpCWGlrSjgwc1hkdk1xbWlBM24yVS1GN3ZvZjN5QnB4ci16VFNfN0xhSUNzbVYtbTlnR1E3R1lBOEpqbWhHSHd0Y3lPUnJ5M0NMYVp4T3hwSVNmcUxSWGd2T19QQzBGek1CM2JkUjNoVVgxZU0xb3Zic0IxLVJYNnU4ZlBkcjk3?oc=5",
+    "source": "Medical Buyer",
     "date": "2026-09-26",
     "category": "tech",
     "tag": "tech",
@@ -143,10 +143,10 @@
     "subcategory": "medtech"
   },
   {
-    "id": "002516f91eef",
-    "title": "9th India Medical Device 2026 Kicks Off in New Delhi; Focus on Building India as a Global MedTech Hub - PIB",
+    "id": "b304cc557e25",
+    "title": "Government and Industry Join Hands to Accelerate Investment, Innovation and Manufacturing in India’s MedTech Sector - PIB",
     "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xQ2xEbEI4OHRlMHhDUE1HT2xsNmxLWTNGWnVORzBpWEdfbVFZN3lxWVBUVndmdmJRd1B1Z05TRFQ0UjFDRGNDN0RUSDhzX1JGWm5RTE5mcUlZOVRZQXB6cEp4S1Q3YWRmTGQ4bGtNQUh2clJKOUd4NlVqTQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCU0syYTVGS1JuYlowOFNwQmVzajFYa2tNd2xmZ2NBV0JKeW1yZGwtaFJUSGtZenFORmNvMWxUNUNOMHJFdnZucWdhWnR1aW1pNkF4b0UtaXlISDZGVy1ERkF0NGFTOEdpaG45UGRaLVdhTW1kUmlMUlpnMA?oc=5",
     "source": "PIB",
     "date": "2026-09-26",
     "category": "tech",
@@ -169,11 +169,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "7c6f30c1c77b",
-    "title": "Medical Fair India 2026 Showcases India’s Growing MedTech Sector - SMEStreet",
-    "description": "Source: SMEStreet",
+    "id": "d13b1034ebee",
+    "title": "Medical Fair India 2026 Showcases India’s Growing MedTech Sector - smestreet.in",
+    "description": "Source: smestreet.in",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaElZY0Nwc2dIcGFhcndEVXQtSURaeHJsX09CQm9DaGttN1RKbFoxT3FBeThEYk1rWUxQeVh5QzNRQlp4WVZNYzZmZjV5Z1RmQVZlNlpCWG54LTJLUTMyUnBoTWhGQkYzaXlzVVR5bTVQbmVQb0w0b1JfTkhENHdjOFNaWEdLU1dXNVdWM1VHRHpXRThoM0ZTcVNhWXh0NXpubFYw0gGjAUFVX3lxTFBoSVljQ3BzZ0hwYWFyd0RVdC1JRFp4cmxfT0JCb0Noa203VEpsWjFPcUF5OERiTWtZTFB5WHlDM1FCWnhZVk1jNmZmNXlnVGZBVmU2WkJYbngtMktRMzJScGhNaEZCRjNpeXNVVHltNVBuZVBvTDRvUl9OSEQ0d2M4U1pYR0tTV1c1V1YzVUdEeldFOGgzRlNxU2FZeHQ1em5sVjA?oc=5",
-    "source": "SMEStreet",
+    "source": "smestreet.in",
     "date": "2026-09-26",
     "category": "tech",
     "tag": "tech",
@@ -195,11 +195,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "9d39ce80dce6",
-    "title": "J.P. Nadda to Address India Medical Device 2026, Focus on Building a Globally Competitive MedTech Ecosystem - eHealth Magazine",
-    "description": "Source: eHealth Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE5wcURKMUF2R25YdklGTlhqMVdmb0prWUo1SVBYaksyR2NxY1hxczZwM0UzekxibG8xYmR0dHotYlhwS2xzMDd3REdYV3FHX1RzM0Q2VzFsWEFLS0tGU1psMFdMUVRzMUVDQVJqU3dGQWhIUGdpQjRFTjFnczZSQ1QwaGgzU2pEZ0k2VWFOeE94RXpOa3ZmS0pNNzItMmowckJaNEJUUWo4T3BrWHdNQlFrXzJUTmxWRy1KWC1lSGhyNXJfTGladTVaZEJFSm1ZcHNNY2lKUHhVcFU2cFZn?oc=5",
-    "source": "eHealth Magazine",
+    "id": "002516f91eef",
+    "title": "9th India Medical Device 2026 Kicks Off in New Delhi; Focus on Building India as a Global MedTech Hub - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OTEdVLUlMaTVoQTdaNjR2b0NaS29XXzlMVS1LYnI3aTZnRFh2cGFvOWo0V3lGQ2Qza0pIVExTQ291RXRMVEo3NFgtVFBJdGlHbkpCRDhNWWhENVl2ZldoWkFQWXZtdHJ2?oc=5",
+    "source": "PIB",
     "date": "2026-09-26",
     "category": "tech",
     "tag": "tech",
@@ -208,11 +208,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "01be3fa4a344",
-    "title": "Telemedicine Market Size, Share & Growth Report - Market Research Future",
-    "description": "Source: Market Research Future",
+    "id": "3b2f67e77bab",
+    "title": "Telemedicine Market Size, Share & Growth Report - marketresearchfuture.com",
+    "description": "Source: marketresearchfuture.com",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNG1kaWZnQ0NKV2VGdk1fb25kX3g1V2RPTVRWWmY4QUw1Z1BJSC1nWXQxcy1lOEJ1Uk94YUdCOXllV2tyc2JGNG9feXU5bUxNZ2NMV25jQ29VLW9jX2xzb3R2U1VpTUlKRzVnX1o0a0l3X1dKR3dXWA?oc=5",
-    "source": "Market Research Future",
+    "source": "marketresearchfuture.com",
     "date": "2026-09-26",
     "category": "tech",
     "tag": "tech",
@@ -325,6 +325,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "86229fc23241",
+    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - News On AIR",
+    "description": "Source: News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5ZbTgtaG1jaGhzSlMwRFhfT0JzUnJ2OXh5d2V3c09WTm1nQmxoV0lLS2FvRHZ4dXZQbVU4ajVnNkkzYzlKWTh6YkFRSTMtTUV3UHExVzZKR1RCTDI3QVZNRElTaWROaUgyRld2MmhXVFBBSmhTVDJtdTYxMnBGeXhVbjZ4ZzZfazlRU0RBRkVqSFMzcnNEeXAwSFk2bWVvZkllcUNGOE1Sd3d0aElUcHJ2VW9mRlNz?oc=5",
+    "source": "News On AIR",
+    "date": "2026-09-26",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "8a8cc7e07d7e",
     "title": "Gene Therapy Market Companies, Size & Trends 2026-2035 - Precedence Research",
     "description": "Source: Precedence Research",
@@ -364,19 +377,6 @@
     "subcategory": "genomics"
   },
   {
-    "id": "86229fc23241",
-    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - News On AIR",
-    "description": "Source: News On AIR",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5ZbTgtaG1jaGhzSlMwRFhfT0JzUnJ2OXh5d2V3c09WTm1nQmxoV0lLS2FvRHZ4dXZQbVU4ajVnNkkzYzlKWTh6YkFRSTMtTUV3UHExVzZKR1RCTDI3QVZNRElTaWROaUgyRld2MmhXVFBBSmhTVDJtdTYxMnBGeXhVbjZ4ZzZfazlRU0RBRkVqSFMzcnNEeXAwSFk2bWVvZkllcUNGOE1Sd3d0aElUcHJ2VW9mRlNz?oc=5",
-    "source": "News On AIR",
-    "date": "2026-09-26",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
     "id": "2fcce0f9f64d",
     "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - Fortune Business Insights",
     "description": "Source: Fortune Business Insights",
@@ -390,11 +390,11 @@
     "subcategory": "ai"
   },
   {
-    "id": "6433264b7fda",
-    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - theindianpractitioner.com",
-    "description": "Source: theindianpractitioner.com",
+    "id": "12f507511ea9",
+    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - The Indian Practitioner",
+    "description": "Source: The Indian Practitioner",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpwdHVpbDN2MDYyTUp5LTAyajZ3UkhXVThsQnFycUpUX1o4RDBRZW1XRWVzTHBkWF9NYW9PZmQwaGRoMmhUUTVZeGw0WFhJZkpwN3Z6NFR6UXRmcjc3V0pFVS1rX2M4UWwwbkhZanhHRjBSdWtlTjFDcjJ4N3lEWWFqQmFrdmN1Q093VVJlelFSS1VzeWhBLTc1aWswdjdOZ2VzaFQ3WGkxN1Y3akdmUw?oc=5",
-    "source": "theindianpractitioner.com",
+    "source": "The Indian Practitioner",
     "date": "2026-09-26",
     "category": "tech",
     "tag": "tech",
@@ -416,11 +416,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "29180101239d",
-    "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - DD News",
-    "description": "Source: DD News",
+    "id": "0943672aae3b",
+    "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - ddnews.gov.in",
+    "description": "Source: ddnews.gov.in",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3FYWUVhM0ZuRlRrZFhlTlBWZEdrNnYtV3dSQ3VrRWZGMWlldHoxTjhyRWF0VVFCbjIyUVkxQ1V0djlZUmpGRC0xOGlpenpfMkZNLXNKUHJPZHdtSmVld29kWjFxaFJ5WmtsS085MlRRemNrNS1JMnA0YkNHVXFWRENDSUpJQk1PZFZpeXlMNU5fN1hyaERaUlgxeTNtYXp4MnBGYk53VmRwT2JOYmdmWFN5dWlNM0RhM3Z6cHp3NllHQQ?oc=5",
-    "source": "DD News",
+    "source": "ddnews.gov.in",
     "date": "2026-09-26",
     "category": "tech",
     "tag": "tech",
@@ -507,19 +507,6 @@
     "subcategory": "robotics"
   },
   {
-    "id": "493e298ae799",
-    "title": "Intuitive Introduces da Vinci 5 as Robotic-Assisted Surgery Advances in India - Voice of Healthcare",
-    "description": "Source: Voice of Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbElGN1IxYS0wSkE3Z3pUbHRhVTJjX0RHNUdQdXpDNGdwRWcydlZLMWl1R3pPenpHZEJ5U0ZZM1VSLVM2b3VIbU9jZFRpRXBYajZyY3ZaTy11QmdQRGl5X3prOXIxNGlTa056YUZhT2xnVThPczBraFdIbGlhcWUtUkgtbnZqWVIzYWZGZHRCMl9MMUotdXlUV1ZKbkZIWUhyREFZYkMtcnE0eEx0WnZERXYwcWFHVmdpTW9ldFFR?oc=5",
-    "source": "Voice of Healthcare",
-    "date": "2026-09-26",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Robotics",
-    "priority": "medium",
-    "subcategory": "robotics"
-  },
-  {
     "id": "e0e664ed1bf1",
     "title": "Top 30 Healthtech Startups In India 2026 By Funding - Inc42",
     "description": "Source: Inc42",
@@ -585,11 +572,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "35e2177f12db",
-    "title": "Healthtech in Asia 2026: The Digital Health Leap - digitalinasia.com",
-    "description": "Source: digitalinasia.com",
+    "id": "ac6f3b0ff0d3",
+    "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
+    "description": "Source: Digital in Asia",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
-    "source": "digitalinasia.com",
+    "source": "Digital in Asia",
     "date": "2026-09-26",
     "category": "tech",
     "tag": "tech",
