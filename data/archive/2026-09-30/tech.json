@@ -13,6 +13,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "f6310b07c0d4",
+    "title": "Call for experts: Technical Advisory Group on Artificial Intelligence for Health (TAG-AI) - World Health Organization (WHO)",
+    "description": "Source: World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcTFFZjZyblF4UjE2dXA0NE4wUlRLbTZhSDdFUEIxdTMtUkdtVFRPWkpFS01aQm5USVh0OGhNYlRpTFljU3hYZGs4M1B6TkdFMWxEeXAzcVhQSEwtcU03MTN1NWx2SC1VTF9KUDFsd2pJV3pOMk9kMFlrOF9LOGkyLTVkRFpEZ3l5Y2hlRTM4MHBmMGhocUlQVV92NkhYZ0QybHRWeU1ydjRhdHZiN2drNmdSbEdNMVdkZU4wUlQxTXZUdkN4blA4bDF4QktuVEpVY0lZbQ?oc=5",
+    "source": "World Health Organization (WHO)",
+    "date": "2026-09-30",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
     "id": "500a062db315",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
     "description": "Source: PIB",
@@ -26,32 +39,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "fa88928e4d59",
-    "title": "SIU’s Ryan Bioethicist lecture focuses on using artificial intelligence in health care - SIU News",
-    "description": "Source: SIU News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1llWVkzYTVLOGIxVUlBVThnT0MxeG1zbktLV241MDV3QWRZWXFVQWRnQ29DMFhuWUFsdVl0aklEaGxGWGc0aGQyS05BOGoxcjJzYmRKOVk5QzhRcGRFUUZhVXhGYkhJUGFUakhONk5vS3Z3VFhVU0FDT3dZMUQtcDNSZ05fYW1XUE1yZUZoZWhiaXl5Qk1mNWVhMGFWRENyTk5MQk00RzNYUUlLYnBKaXUwb3pxY2EtRmdUUktqU0pGOU0?oc=5",
-    "source": "SIU News",
-    "date": "2026-09-30",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
-    "id": "249d4157fc52",
-    "title": "AdvaMed® in Action: A New Chapter for Digital Health Tech at #MTC26 - AdvaMed® - Advanced Medical Technology Association®",
-    "description": "Source: AdvaMed® - Advanced Medical Technology Association®",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVZfS2txcC1fZTl2WXV0Ykk4ZE9MRHUybWdOeVplUzlYTnY4Zjg4UUpNVWFKa19EY1RmQ1FYdS1ob29FX0VJdkxER1dLTXBJbjF6NDJBVF92SXFrMmw3OHRTUHYtYl8tTktLMEpBS0ZSWHVPM3BUZ3dPWmVEYVZXMkU5UzVwX090ODI2VS1ObnRNODRiSmRveDFRczdvOWJCaWc?oc=5",
-    "source": "AdvaMed® - Advanced Medical Technology Association®",
-    "date": "2026-09-30",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "88b227b38e39",
     "title": "AI in MedTech can transform healthcare, report paper highlights five priorities - ETHealthworld.com",
     "description": "Source: ETHealthworld.com",
@@ -63,6 +50,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "aa4e20aac30e",
+    "title": "Towards autonomous medical artificial intelligence agents - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+    "source": "Nature",
+    "date": "2026-09-30",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "580de742576f",
@@ -109,19 +109,6 @@
     "description": "Source: TRIPURA STAR NEWS",
     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWZPWkVMQzZMSURlRXRhMnhHYlJ3Y0RkRmRtd0V2TlZ0Q1dDMHlHODZ6alF2UGtUakxyV1VwU3ZkbDh3OVotQTFseWtGRUFPOFdQVm9ZQVBXbmV1b0JLWHpmcGJ0TnhSSEx2SUpBNE14cUlleFMtNUs5aEtGTWN1QzU3a2lWdWxscmItcGxYX0pWdkVtdWNvUXFibzNySUJhRTNYUjgyRU9oNm10V19PeDhfUVJ4MkNlVzZVVFRTWVA2bGhwallrd01lMjRjQ3BBb0Y0YUg0M0NNdE9FaGhmODJqX0FGMWtYemlEZlBRSQ?oc=5",
     "source": "TRIPURA STAR NEWS",
-    "date": "2026-09-30",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "31fffd544aee",
-    "title": "India’s Medical Device Sector Reaches $18 Bn, Targets Global MedTech Manufacturing - BW Healthcare World",
-    "description": "Source: BW Healthcare World",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDc1MjJZQ2UwTWJnSGJoOGVtV0oyZTBhd2dlM210NkRrSHpYR2RXUERSWkN6czA4VFh6MmNlUzdjc083cGU4UG5QRFo1M1VINGwzcnM2SHRSeTdUU3Noc3lWT1pWUjZjLWJuU0EzeUxONEVWcm9QcEpQT1U5NHJ3Z3VUYV9FQ3Vsd2F4b0RpWjVwNVBwS3JibzlVbnlGNEVMOG5sUWRHVmtBN2NHU3VsX0syVERQSlc3S0RVV2RQTlgyQXRCakdMbQ?oc=5",
-    "source": "BW Healthcare World",
     "date": "2026-09-30",
     "category": "tech",
     "tag": "tech",
@@ -182,6 +169,19 @@
     "subcategory": "medtech"
   },
   {
+    "id": "b559416e9cf9",
+    "title": "India's Next MedTech Success Story Will Be Built on Innovation, Not Just Manufacturing | India Pharma Expo 2027 - eHealth Magazine",
+    "description": "Source: eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaTlRbWVXOVZmYmJycEtyTklCVmV1WGZKX1NmaFBTakV6X3EyMksyMGtjeDhYTWlNbERPR3VuVWhVbjlVSTNUUVh2SzNTZjI1SXFFSC1pVDdMdHRnbjloSHc3V09sRkljYlk1ZVVuQm4xbk1LakhrdGhtTDNhbFI5WElaRzZkME12cTRqM2VpbV9TMjA4Rnl5ZG9RdHg0Skk3dFFVSEJEcVZ6dWJfOXNCdzlqZUJsTS1qb3FNSHVqLTlYc2wwTkVHU0lpM2c1T0JwV1dZdG5wbWpwWTR1azk0RFJR?oc=5",
+    "source": "eHealth Magazine",
+    "date": "2026-09-30",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
     "id": "6ada2a5ca679",
     "title": "Telemedicine Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
     "description": "Source: Fortune Business Insights",
@@ -208,11 +208,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "b609f0abc6ba",
-    "title": "Remote Patient Monitoring Systems Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
+    "id": "b1c4acf03f14",
+    "title": "Remote Patient Monitoring Systems Market Companies, Size & Trends 2026-2035 - precedenceresearch.com",
+    "description": "Source: precedenceresearch.com",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRm5lYk5wMDBhSEZJdElJU1RYLWJaWnBFMUpKM04wMXVEZVBsd055V28weTJLdnE5UTBoZW5sS3VoSXZtUDd5R295MjlVNjV4ZXlab3VCVjdRa3FXbWx2bWJMZkxCRVhOUmU2NDlHc05wamN3aFozaWZhbEFfVXdwMA?oc=5",
-    "source": "Precedence Research",
+    "source": "precedenceresearch.com",
     "date": "2026-09-30",
     "category": "tech",
     "tag": "tech",
@@ -221,11 +221,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "8f6bee5904a8",
-    "title": "Digital Health Market Size, Growth Forecasts 2035 - researchnester.com",
-    "description": "Source: researchnester.com",
+    "id": "5e5060e5d8d8",
+    "title": "Digital Health Market Size, Growth Forecasts 2035 - Research Nester",
+    "description": "Source: Research Nester",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRzluWkxnZHpTMFVKOTh2dDhrVkh6eDV0T2llSWhWVkcwSUVDS1dObloxZ1FXRWhZYXljQnlnNDNoLU02bjhCNG0tQWc1T05WTmR3RGZRNW1DOWJXVU93QkJMdjEzUktjbmNHaUZVdW5xdw?oc=5",
-    "source": "researchnester.com",
+    "source": "Research Nester",
     "date": "2026-09-30",
     "category": "tech",
     "tag": "tech",
@@ -247,11 +247,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "e7e56efc36ba",
-    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - GlobeNewswire",
-    "description": "Source: GlobeNewswire",
+    "id": "fbbca617fa46",
+    "title": "Telemedicine & Digital Health Research Report 2026: A $180 - globenewswire.com",
+    "description": "Source: globenewswire.com",
     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNa3hVOHJGYVBiaUNuRE1fQWxQWkJHU1JvTU5XUFFYSy1sdzF1eVhWOERGNVRvbGlLT250TTNNQ2NCcUlTSnZvdjhydnlDM3I2aG9UdGIycnlpYXB6RjE0ZUp5UWFpU0RTUlhrZk5EOVd6STZlLWhkQkFYTzVFSFo2LWR1elRySjZlY3hvV1QxbVZRaDdaOExBdEVKMzVSa3Z2NWhVTzRYYkdFS1ZoNTQyMFY5d3VlZVAzNllDaHowbWJram9FcWlQWXdPRS1JUUVTTW00RFNpV2xqeVF6NGlmQXNWYmkwWmdMWEFYQkphUGFaVWZ1SFZfZ0YtQmRNNjRfdEhTd3NxdXl3UXVSR3pwZUcyWHJuUWVxMkExWlB6U1dJR2pMR2tIUXpPeDc0YXV0dVhQUHUteU1yOF9rT2ItSlhfa0EzLWRabGpjN0YwdlBvYUc1dUZ3V3dvYXVMNXF2UnRQVG1CM2pibVhJdFk5SFhR?oc=5",
-    "source": "GlobeNewswire",
+    "source": "globenewswire.com",
     "date": "2026-09-30",
     "category": "tech",
     "tag": "tech",
@@ -325,11 +325,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "8a8cc7e07d7e",
-    "title": "Gene Therapy Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
+    "id": "04eb11acc10f",
+    "title": "Gene Therapy Market Companies, Size & Trends 2026-2035 - precedenceresearch.com",
+    "description": "Source: precedenceresearch.com",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NklZci11aHpUaEhMVlhnb1FxQWFfYVFYOU5wMHd4WF9pb3Y2cWZaR05fN3ZadWhXOXZUemIxTGczLU1VTUtoTUdFdFdnMVFsSGNqVjJWMXlVU2JCWlQ4b3RSb0s?oc=5",
-    "source": "Precedence Research",
+    "source": "precedenceresearch.com",
     "date": "2026-09-30",
     "category": "tech",
     "tag": "tech",
@@ -338,11 +338,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "fd67a15fdf1d",
-    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - newsonair.gov.in",
-    "description": "Source: newsonair.gov.in",
+    "id": "86229fc23241",
+    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - News On AIR",
+    "description": "Source: News On AIR",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5ZbTgtaG1jaGhzSlMwRFhfT0JzUnJ2OXh5d2V3c09WTm1nQmxoV0lLS2FvRHZ4dXZQbVU4ajVnNkkzYzlKWTh6YkFRSTMtTUV3UHExVzZKR1RCTDI3QVZNRElTaWROaUgyRld2MmhXVFBBSmhTVDJtdTYxMnBGeXhVbjZ4ZzZfazlRU0RBRkVqSFMzcnNEeXAwSFk2bWVvZkllcUNGOE1Sd3d0aElUcHJ2VW9mRlNz?oc=5",
-    "source": "newsonair.gov.in",
+    "source": "News On AIR",
     "date": "2026-09-30",
     "category": "tech",
     "tag": "tech",
@@ -403,11 +403,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "6502fad38a7a",
-    "title": "India Moves Closer To Indigenous Gene Therapy Cure For Sickle Cell Patients - The Indian Tribal",
-    "description": "Source: The Indian Tribal",
+    "id": "86119ebe039a",
+    "title": "India Moves Closer To Indigenous Gene Therapy Cure For Sickle Cell Patients - theindiantribal.com",
+    "description": "Source: theindiantribal.com",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWY4ck8wd01mZk9lemI1OVdOOGlYZkRtMHhzd2tkazduWFIwbVZmc0xYdDI3Nm1vZk1nWWJlb1lLU2MzTmNVMmVRamNzNjhkUkRQaFhST2VyQlBUSFI4T3pKUnJzeHFndWpjNGxVZGx0YkZpTWdaYUtCZDUtd3J4RFlBUHc4Y21kYlRkeUxYZWZCZ2RyMVR5R1M0OUozdS1oS3IyRmlVdlRlaTVzSk9XSTB5ZWZCelA1M2p0V21ubw?oc=5",
-    "source": "The Indian Tribal",
+    "source": "theindiantribal.com",
     "date": "2026-09-30",
     "category": "tech",
     "tag": "tech",
@@ -429,32 +429,6 @@
     "subcategory": "robotics"
   },
   {
-    "id": "c19c7a2a5520",
-    "title": "Intuitive Introduces da Vinci 5 In India As Robotic Surgery Enters Next Phase - BW Healthcare World",
-    "description": "Source: BW Healthcare World",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGxjeGdLc0ttVlVONUdlY3JPOU5mbnNiOGQyamZTdVAtaGk5RFRsbTlGQk1ZaVBHem41ZGF5NlpnWjdRdGh4MHFDSG9yd2VxdzJUNkJKdG9iX3p1VG04empYYzk5cno4OXR2MGpqbG5UTndNYUFRYTJPYXJhZzdEaDROaEhvYVU0X2JaNkZ1UUZDSV9UNEtJbkhEWXJ2TzQ2TXBRU0EteUpPendkS1VScFdwczhUMVZ2V1RDbXZTT2wzZ1Q5?oc=5",
-    "source": "BW Healthcare World",
-    "date": "2026-09-30",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Robotics",
-    "priority": "medium",
-    "subcategory": "robotics"
-  },
-  {
-    "id": "30b991abb63f",
-    "title": "Indian Surgeon creates ‘World Record’ in medical history by performing World’s Longest Robot-Assisted Cardiac TeleSurgery Across 20,000 km Between Guyana and India using Made in India technology - Goa Chronicle",
-    "description": "Source: Goa Chronicle",
-    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS1dTODRpZUZxYjRLWjh0WXlsdjBCLWxobUI4TGFpOHlOSkVPRWtTRWhNNUk3MjZNRWJTVmIzT3piZkhMa3R2Z0RYVEt5NmdjdHY5bnNpUGZDVmN2QmpMX29fQjhGRTFwakJSZFpIek1mdnRnbS1qOGd5ZWpPc09RNG1rYkt5RkdadnZaXzVUT2ZsRG9GeVotdmphQ3BqZ1RrVXFGTG9KeHJrRnM2Y04zQnNsT3FlZ0YzREtINDFRU2JtRHZtWmVJX3EtbVVMMzRZXzM5WkVzdGVMR0YzV0d4dmx1dDVRTi1fSzlEdG5NQ2FiSTV3M0JMWGZlVEJVMGJlMHlXc05Mc0l4RVRQRFRFcHhNeDZIME5qVFdFVGZqZDRHZm1E?oc=5",
-    "source": "Goa Chronicle",
-    "date": "2026-09-30",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Robotics",
-    "priority": "medium",
-    "subcategory": "robotics"
-  },
-  {
     "id": "f90c8dd52ac4",
     "title": "Surgical Robot Procedures Market - Future Market Insights",
     "description": "Source: Future Market Insights",
@@ -468,11 +442,24 @@
     "subcategory": "robotics"
   },
   {
-    "id": "7332c1daebe9",
-    "title": "SSII Takes ‘Made-in-India’ Surgical Robotics to Bihar Through MantraM Yatra - The Indian Practitioner",
-    "description": "Source: The Indian Practitioner",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkJoVk03RW5uUnJDVm95RWZGemdGNEZGN25wZmY0MjFsNy1vbEg5RmdwYkR3NUdTSno5cWtNSlU1TFpIVTNoNXliSVhZcy1uY29NQUJLTTJaVWRWT0RXb2JWWnk2N1lhZ0JUMVl5cDF2bDFjc0xNNmZCR2pZMmwwSjZ4c2MtdjlDS1FEeXZuR05BUm5aRGFVcDg3VHpVa0dhSWxRZ2NZTmM4Mk9U?oc=5",
-    "source": "The Indian Practitioner",
+    "id": "5bec1477615c",
+    "title": "Indian MedTech Company SS Innovations International Beats Global Surgical Robotics Giants to win outstanding company award in surgical robotics technology awards 2026 - Goa Chronicle",
+    "description": "Source: Goa Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZVFJRkhnT2t6cEkxNjZZT0NWaWs1UGFkZ0o4STh6eXNLTzZUNDc5ZExWbFFjUzJYaWtKUV9BeU1mVDFOSGxBVTNvTFpaYkk0clJCeldzaFBabG9zdUJnUGJWMkY0Vm9ZQnYxVXN5TTBkRnJkbE9seUkxYWo3Zm1QVTRZWmpCbUlBNDJIUnJSNTNhenBkdVBwam1aSjVjMW5pSUdPeVVPcHl3RUZoelIzdE8wQ1lMa0xuYnJqV2VySTR2UTFyVFBWUTIzQ2hyS2o1NGVEVTVyUkh5VWtmV0VVOFYzR0FmR2xHa3BlRjBYamgtV1dxeTlObHRLbDVVa2g2NUU4aXgtaTlueTAwcW1meVNtV1llUjc5SDBMVw?oc=5",
+    "source": "Goa Chronicle",
+    "date": "2026-09-30",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "018870359d6f",
+    "title": "Robotics Integration Is Transforming Global Surgical Care - The American College of Surgeons",
+    "description": "Source: The American College of Surgeons",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUtxdEYzT0VIOXFybG02R0VWOHV5ZnhSN2hWSEprbDRubUhnY2JyblB6VDU2enZ1N2tBM1lXYmtMNWplN3NrcFNfa0ZuT1BQTHVyM2hobmpYRjl4Y2wxT0VWTXlYc1BqaThWTmJFUDZPTUllbHo2MHNSdUd5R09oMTJ3a1VuaDZnOXdONFZMVkVGS1JjbTJaQ1N5ODFjcnV3ek5iOFo5M1R1ajM4UWVzMVRObFJ0TVJHRkFyM2lGZVFMQVZyVlRNX2l0NFVRWXdyUWVjcENLYmI0ZWNfdFhnMEtNaWZGS0xkTmw3M2hDcEEtNjdyQ3NGSC05Qmw4RGJ4OFF5d0NnVWhyUVdzVkxWa0FuTlVmUHc?oc=5",
+    "source": "The American College of Surgeons",
     "date": "2026-09-30",
     "category": "tech",
     "tag": "tech",
