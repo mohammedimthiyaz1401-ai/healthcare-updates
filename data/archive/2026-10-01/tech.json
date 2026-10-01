@@ -13,19 +13,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "f6310b07c0d4",
-    "title": "Call for experts: Technical Advisory Group on Artificial Intelligence for Health (TAG-AI) - World Health Organization (WHO)",
-    "description": "Source: World Health Organization (WHO)",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcTFFZjZyblF4UjE2dXA0NE4wUlRLbTZhSDdFUEIxdTMtUkdtVFRPWkpFS01aQm5USVh0OGhNYlRpTFljU3hYZGs4M1B6TkdFMWxEeXAzcVhQSEwtcU03MTN1NWx2SC1VTF9KUDFsd2pJV3pOMk9kMFlrOF9LOGkyLTVkRFpEZ3l5Y2hlRTM4MHBmMGhocUlQVV92NkhYZ0QybHRWeU1ydjRhdHZiN2drNmdSbEdNMVdkZU4wUlQxTXZUdkN4blA4bDF4QktuVEpVY0lZbQ?oc=5",
-    "source": "World Health Organization (WHO)",
-    "date": "2026-10-01",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "500a062db315",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
     "description": "Source: PIB",
@@ -37,6 +24,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "039de4149a25",
+    "title": "SIU’s Ryan Bioethicist lecture focuses on using artificial intelligence in health care - news.siu.edu",
+    "description": "Source: news.siu.edu",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1llWVkzYTVLOGIxVUlBVThnT0MxeG1zbktLV241MDV3QWRZWXFVQWRnQ29DMFhuWUFsdVl0aklEaGxGWGc0aGQyS05BOGoxcjJzYmRKOVk5QzhRcGRFUUZhVXhGYkhJUGFUakhONk5vS3Z3VFhVU0FDT3dZMUQtcDNSZ05fYW1XUE1yZUZoZWhiaXl5Qk1mNWVhMGFWRENyTk5MQk00RzNYUUlLYnBKaXUwb3pxY2EtRmdUUktqU0pGOU0?oc=5",
+    "source": "news.siu.edu",
+    "date": "2026-10-01",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "b864b92da8de",
@@ -52,30 +52,17 @@
     "subcategory": "medtech"
   },
   {
-    "id": "aa4e20aac30e",
-    "title": "Towards autonomous medical artificial intelligence agents - Nature",
-    "description": "Source: Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
-    "source": "Nature",
+    "id": "249d4157fc52",
+    "title": "AdvaMed® in Action: A New Chapter for Digital Health Tech at #MTC26 - AdvaMed® - Advanced Medical Technology Association®",
+    "description": "Source: AdvaMed® - Advanced Medical Technology Association®",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVZfS2txcC1fZTl2WXV0Ykk4ZE9MRHUybWdOeVplUzlYTnY4Zjg4UUpNVWFKa19EY1RmQ1FYdS1ob29FX0VJdkxER1dLTXBJbjF6NDJBVF92SXFrMmw3OHRTUHYtYl8tTktLMEpBS0ZSWHVPM3BUZ3dPWmVEYVZXMkU5UzVwX090ODI2VS1ObnRNODRiSmRveDFRczdvOWJCaWc?oc=5",
+    "source": "AdvaMed® - Advanced Medical Technology Association®",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "AI / ML",
+    "tag_label": "Telehealth",
     "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
-    "id": "1c50ffd0d154",
-    "title": "Secure healthcare data management using federated learning, blockchain, and explainable artificial intelligence: a systematic review - Frontiers",
-    "description": "Source: Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMklKcEUyOUxXbkZWdVE0WjhfY05RUXJkak9XRFBOd3pTRDdGLW1RaDg2TjRTdWY5eEZIVU83Qmc4MFB6UVc2ZG5LR0tfYXRkOEdkb2c4VjdodkN4X0l4dl9nMk9CWlFUN3dtdmtEMi1iTERwVUlObGdXV0lPNV84S3pPYWhiZHBKZGJzTnVqZHZmSlYyMlZV?oc=5",
-    "source": "Frontiers",
-    "date": "2026-10-01",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
+    "subcategory": "telehealth"
   },
   {
     "id": "580de742576f",
@@ -109,19 +96,6 @@
     "description": "Source: Medical Buyer",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGNZUXFZamo4WXo4TGE1Z09BcFdfYnJ0YXpCWGlrSjgwc1hkdk1xbWlBM24yVS1GN3ZvZjN5QnB4ci16VFNfN0xhSUNzbVYtbTlnR1E3R1lBOEpqbWhHSHd0Y3lPUnJ5M0NMYVp4T3hwSVNmcUxSWGd2T19QQzBGek1CM2JkUjNoVVgxZU0xb3Zic0IxLVJYNnU4ZlBkcjk3?oc=5",
     "source": "Medical Buyer",
-    "date": "2026-10-01",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "88ee6fc60c4a",
-    "title": "India’s Medical Device Industry Grows to $18 Billion, Eyes Global MedTech Manufacturing Opportunities at Medical Fair India 2026. - TRIPURA STAR NEWS",
-    "description": "Source: TRIPURA STAR NEWS",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWZPWkVMQzZMSURlRXRhMnhHYlJ3Y0RkRmRtd0V2TlZ0Q1dDMHlHODZ6alF2UGtUakxyV1VwU3ZkbDh3OVotQTFseWtGRUFPOFdQVm9ZQVBXbmV1b0JLWHpmcGJ0TnhSSEx2SUpBNE14cUlleFMtNUs5aEtGTWN1QzU3a2lWdWxscmItcGxYX0pWdkVtdWNvUXFibzNySUJhRTNYUjgyRU9oNm10V19PeDhfUVJ4MkNlVzZVVFRTWVA2bGhwallrd01lMjRjQ3BBb0Y0YUg0M0NNdE9FaGhmODJqX0FGMWtYemlEZlBRSQ?oc=5",
-    "source": "TRIPURA STAR NEWS",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
@@ -169,6 +143,19 @@
     "subcategory": "medtech"
   },
   {
+    "id": "88ee6fc60c4a",
+    "title": "India’s Medical Device Industry Grows to $18 Billion, Eyes Global MedTech Manufacturing Opportunities at Medical Fair India 2026. - TRIPURA STAR NEWS",
+    "description": "Source: TRIPURA STAR NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWZPWkVMQzZMSURlRXRhMnhHYlJ3Y0RkRmRtd0V2TlZ0Q1dDMHlHODZ6alF2UGtUakxyV1VwU3ZkbDh3OVotQTFseWtGRUFPOFdQVm9ZQVBXbmV1b0JLWHpmcGJ0TnhSSEx2SUpBNE14cUlleFMtNUs5aEtGTWN1QzU3a2lWdWxscmItcGxYX0pWdkVtdWNvUXFibzNySUJhRTNYUjgyRU9oNm10V19PeDhfUVJ4MkNlVzZVVFRTWVA2bGhwallrd01lMjRjQ3BBb0Y0YUg0M0NNdE9FaGhmODJqX0FGMWtYemlEZlBRSQ?oc=5",
+    "source": "TRIPURA STAR NEWS",
+    "date": "2026-10-01",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
     "id": "0c9b3785e045",
     "title": "ANSR MedTech Appoints Soumitra Saha to Lead India Technology and Innovation Hub - konsulteer.com",
     "description": "Source: konsulteer.com",
@@ -208,11 +195,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "907a4badcb32",
-    "title": "Telemedicine Market Size, Share & Industry Trends 2035 - Market Research Future",
-    "description": "Source: Market Research Future",
+    "id": "c92a4e26176a",
+    "title": "Telemedicine Market Size, Share & Industry Trends 2035 - marketresearchfuture.com",
+    "description": "Source: marketresearchfuture.com",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNG1kaWZnQ0NKV2VGdk1fb25kX3g1V2RPTVRWWmY4QUw1Z1BJSC1nWXQxcy1lOEJ1Uk94YUdCOXllV2tyc2JGNG9feXU5bUxNZ2NMV25jQ29VLW9jX2xzb3R2U1VpTUlKRzVnX1o0a0l3X1dKR3dXWA?oc=5",
-    "source": "Market Research Future",
+    "source": "marketresearchfuture.com",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
@@ -221,11 +208,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "b1c4acf03f14",
-    "title": "Remote Patient Monitoring Systems Market Companies, Size & Trends 2026-2035 - precedenceresearch.com",
-    "description": "Source: precedenceresearch.com",
+    "id": "b609f0abc6ba",
+    "title": "Remote Patient Monitoring Systems Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "description": "Source: Precedence Research",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRm5lYk5wMDBhSEZJdElJU1RYLWJaWnBFMUpKM04wMXVEZVBsd055V28weTJLdnE5UTBoZW5sS3VoSXZtUDd5R295MjlVNjV4ZXlab3VCVjdRa3FXbWx2bWJMZkxCRVhOUmU2NDlHc05wamN3aFozaWZhbEFfVXdwMA?oc=5",
-    "source": "precedenceresearch.com",
+    "source": "Precedence Research",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
@@ -299,11 +286,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "4c6467f20d23",
-    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
-    "description": "Source: Business Wire",
+    "id": "9b5fcb2eee16",
+    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - businesswire.com",
+    "description": "Source: businesswire.com",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
@@ -338,11 +325,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "04eb11acc10f",
-    "title": "Gene Therapy Market Companies, Size & Trends 2026-2035 - precedenceresearch.com",
-    "description": "Source: precedenceresearch.com",
+    "id": "8a8cc7e07d7e",
+    "title": "Gene Therapy Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "description": "Source: Precedence Research",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NklZci11aHpUaEhMVlhnb1FxQWFfYVFYOU5wMHd4WF9pb3Y2cWZaR05fN3ZadWhXOXZUemIxTGczLU1VTUtoTUdFdFdnMVFsSGNqVjJWMXlVU2JCWlQ4b3RSb0s?oc=5",
-    "source": "precedenceresearch.com",
+    "source": "Precedence Research",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
@@ -403,11 +390,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "911a14371074",
-    "title": "Precision medicine | The cure is in your genes - India Today",
-    "description": "Source: India Today",
+    "id": "0a0d1285f498",
+    "title": "Precision medicine | The cure is in your genes - indiatoday.in",
+    "description": "Source: indiatoday.in",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSk45aHJ1dDhld2lFZTdTU2EzWVdUM1RfTVBSS2xPTlk1cUlPMXlQOENXVnJ0Y2hrZW1ERGRHNnBxOEw2Y0dmaDNTV01oVTlRQm51SXR2Z3Z1WEU4RlNGcVFHejU5SFI5LVpkYWVkclpJUDFsWEVlTDNUUGZjZ1dxN2N1aVE2S0Q4RG9IbkJXRUZxN0dVTS0wRVdBMXE3S0JQcXVlUFB1QWdZYWJYQnNkU0FrQnE4Qk1Lb2owUk1TTnZJR3pwRHhQRkpfRFMtZ29sbGfSAdcBQVVfeXFMT2t2a3M3YzJXV0xrNTNwck91MjhzWDBoQVBuUGlvNHhURzRab3hTd05zVk9RaEgxaFJSakZJZjN0Wk5OaXZBak41Q3ZKSWtKOFZLNFJIbGo1QzhHdTFwVHZfeXZuNUw4NHQ4NTNHTjN3VzlWRGZuX2FjN1hubVJkVXZfNW1YT1o4QnR6bnBRMi1PVFRUWHRpWE5rMjlFLVo3TEdEZFRNMGhxSkJqbWdqWkhiS2tjTi04SVdwV3d3eG9oZElLT3RBeWV3ZVNnYWdaUUpMRkRXRUE?oc=5",
-    "source": "India Today",
+    "source": "indiatoday.in",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
@@ -481,11 +468,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "4d4168d39b98",
-    "title": "Robotics Integration Is Transforming Global Surgical Care - facs.org",
-    "description": "Source: facs.org",
+    "id": "018870359d6f",
+    "title": "Robotics Integration Is Transforming Global Surgical Care - The American College of Surgeons",
+    "description": "Source: The American College of Surgeons",
     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUtxdEYzT0VIOXFybG02R0VWOHV5ZnhSN2hWSEprbDRubUhnY2JyblB6VDU2enZ1N2tBM1lXYmtMNWplN3NrcFNfa0ZuT1BQTHVyM2hobmpYRjl4Y2wxT0VWTXlYc1BqaThWTmJFUDZPTUllbHo2MHNSdUd5R09oMTJ3a1VuaDZnOXdONFZMVkVGS1JjbTJaQ1N5ODFjcnV3ek5iOFo5M1R1ajM4UWVzMVRObFJ0TVJHRkFyM2lGZVFMQVZyVlRNX2l0NFVRWXdyUWVjcENLYmI0ZWNfdFhnMEtNaWZGS0xkTmw3M2hDcEEtNjdyQ3NGSC05Qmw4RGJ4OFF5d0NnVWhyUVdzVkxWa0FuTlVmUHc?oc=5",
-    "source": "facs.org",
+    "source": "The American College of Surgeons",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
@@ -507,17 +494,30 @@
     "subcategory": "startup"
   },
   {
-    "id": "9743e013ab70",
-    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
-    "description": "Source: Tracxn",
+    "id": "25580e9e628b",
+    "title": "HealthTech - 2026 Market & Investments Trends - tracxn.com",
+    "description": "Source: tracxn.com",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
-    "source": "Tracxn",
+    "source": "tracxn.com",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
     "tag_label": "Startup",
     "priority": "medium",
     "subcategory": "startup"
+  },
+  {
+    "id": "1e5c19a46c25",
+    "title": "Between August 17 and August 22, 2026, as many as 20 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Fintech, Quick commerce, Skincare, Healthtech, Healthcare, Cleantech, Robotics, Foodte - instagram.com",
+    "description": "Source: instagram.com",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFbVBNQmFkWldnT0ozU2oxUXdKMHJ6LXB4ZnFnOWJBVTlPd01oUzQ5NXY1NjB2MzVOWmFZQUk3WWVQNGxaOHlENFh5alF2YkZBUmc?oc=5",
+    "source": "instagram.com",
+    "date": "2026-10-01",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
   },
   {
     "id": "09187759d863",
@@ -585,11 +585,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "e206b371e0f3",
-    "title": "Wearable devices help build healthy habits, but cannot replace doctors - India Today",
-    "description": "Source: India Today",
+    "id": "400fae738ddc",
+    "title": "Wearable devices help build healthy habits, but cannot replace doctors - indiatoday.in",
+    "description": "Source: indiatoday.in",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmRrc3VrekZBRkFzQ2s3N0MzT19iZFBPSzFfODQ5a1dCQmtFWml4SU8tcnRyZk1MQVQ0S0l2dnRVcHhXOExtbFNmNFhnRUdVeWVtTmRFdVdwaU1JMXlmbGVGc3ZFTGo4UTdqSHB4MThMWUVObjlFcjIwY0RYVGtVdGIxUEVvaHJjRmZzV0lfRTZXQ21FdGR5WHg4Z3NJVUxFbW91dm1vbm0zNDhDM1FpRlRQcFlsUmczWTJocV9mdkhDU0NMY3F0aVln0gHPAUFVX3lxTE85R2pJc25uZWhINTZ1dG1HRDFLVzlLbGxEVDFpSVVnTTMtMkVEd2kyMTRMQ052aFd0NU4yekJjdXBSR2hSX01ZQmIteVREX2VCMG80RkxfalFrZG04ODJTR1JGY2prR3A0WWxLc0xLMDhSX2xJV2RUdHEzM1UtaXZtQ1BNb3RzdS1wcVRMWVJGZWRxS3BMNWlQdHNMT1p0TXh6TVUtZ2pFWU5QakV5ZXhwOE1vSkhxT2MyaXhSU19xX05JdzhlN052T2JkaXRzSQ?oc=5",
-    "source": "India Today",
+    "source": "indiatoday.in",
     "date": "2026-10-01",
     "category": "tech",
     "tag": "tech",
