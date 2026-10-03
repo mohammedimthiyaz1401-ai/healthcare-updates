@@ -1,17 +1,5 @@
 [
   {
-    "id": "b21c5a0fb0c1",
-    "title": "Man arrested for hoax bomb threat to Rajiv Gandhi Government General Hospital",
-    "description": "",
-    "url": "https://www.thehindu.com/news/cities/chennai/man-arrested-for-hoax-bomb-threat-to-rajiv-gandhi-government-general-hospital/article71541104.ece",
-    "source": "The Hindu Health",
-    "date": "2026-10-03",
-    "category": "hospitals",
-    "tag": "hospital",
-    "tag_label": "Hospital",
-    "priority": "medium"
-  },
-  {
     "id": "f83a6268879a",
     "title": "AHPI Calls For Holistic Approach To Hospital Medicine Pricing - BW Healthcare World",
     "description": "Source: BW Healthcare World",
@@ -24,11 +12,11 @@
     "priority": "medium"
   },
   {
-    "id": "7ef9cbf931a2",
-    "title": "Manipal Hospitals is said to plan $1 billion IPO in July - ET HealthWorld",
-    "description": "Source: ET HealthWorld",
+    "id": "00725a846682",
+    "title": "Manipal Hospitals is said to plan $1 billion IPO in July - health.economictimes.indiatimes.com",
+    "description": "Source: health.economictimes.indiatimes.com",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmNkU1liUGxTUGtfQTF1QjFqS0pZSlJUVVhxdHl3Z09lTFRrWXJJMmVZYUhYRjF1V2l2QXR5bUh2RXRmSkh0NWVvZjd6c1RaSGIwS3ZmeVRTNnJ3RGE4amNTYWg5RGxOYnJ2R0owVG11RHJWeGxzcVpQaDZWVUZtSVoyZVM0eDdNZFhJM29iQmV0dHJkZnRiT04xQS1ySFMtQXNIREdXNmc0VFBNMTlQb1I1bWY2dmNWOUx2Ymo0N19id9IBxwFBVV95cUxQNXJZTkM2WlphSTFIdmJOd0t6SUZ2bjBKQ1dZSHF4R2FPTVdaVHQzclRMbDVETFlEeFJIem80UHhRTERaSW9tdXRHV1VaR2x6T0F4LURyR29TSWlZZ0FFdW5ZQmo3THMwNHdVc1hZeXVTZndjdVRSejZrMjN6dzAzRm9fZVJrNVlJTkFvMXJ4QWxMUUlQSDRnU1FJRDZ3RTh2OVRMZXdKRENXRjVsX2w5VndUQkd4SGpfSXdmWnZzLXppZ3h6ejdj?oc=5",
-    "source": "ET HealthWorld",
+    "source": "health.economictimes.indiatimes.com",
     "date": "2026-10-03",
     "category": "hospitals",
     "tag": "hospital",
@@ -41,6 +29,30 @@
     "description": "Source: Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1gySkRpWllhZDg5YnlZd1p2aGNjTnJETjBKZU13MGNjR2FaWHpzcXFMay1PTWVYNzd1bndaQzEyZFMtV2k5UWlfUEh2TEVHNmNHT0o5T1c1VTRETkRYbUw1NXo3S2xZcWFrV29JOFJPM0FISUhabFh2b0ZLVG55YV9yZnhNc0pvYXRJSGdHZHJWRHI4TWZ3eTFUVFlSTFJibWFBRGdYQi11QzlfeHEwVXk3MlZJdUxLYXUxNVdn?oc=5",
     "source": "Fierce Healthcare",
+    "date": "2026-10-03",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
+    "id": "1fb3b93b46b1",
+    "title": "Manipal Hospital Whitefield Celebrates a Landmark Achievement in Robotic Surgery - TheWire.in",
+    "description": "Source: TheWire.in",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1diaG1Kekl1dTM3TjBkUV9mSWRNNy13RzhncVFVTzQyYXNNazhPQm9oR2dGZVVXVGRPTEY5X3dBc2JWMWk2UmhveWpodjhzekMxbG1uWmlfWkMyZG9BTERuX1Z2UzEyV0dRaHVZR1lBcF9IZ3Fmbl9SMHVJbjhsUmY4X1gyQWM4V2hmU0Y3ZEQ3ZGYybnp4QVJpWlIzZEFLd0o1am9jSHJhX1dvcE9ycmVfb3dFeEM5bUFj0gHAAUFVX3lxTE9QQkcxaUpjUVF6T1J5alU2eFBXTVN6SnVwOTJZLTUzTklRcjBoeTk5TVpnVGtvWkVwR1NOU2ZqSmJneVBvR2hFcXlzcVZqR3RCRUhHak1ITlZQbFlURzYyZnFlU0pHOHpZVUVZa3FGc2tqWFJsbURDSW84QXNjemxmRWNsZHVEZVB0MlNsQ05jUUM0ZWJjQzFvQmQ3bFBRQWd6VFh6NlZic0xHeW02cHlkNnhrYjZ6bTRha2xlMGJ3ag?oc=5",
+    "source": "TheWire.in",
+    "date": "2026-10-03",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
+    "id": "2290595d1d77",
+    "title": "Narayana Health and Airbound complete drone logistics pilot between Chandapura Clinic and Electronic City laboratory - expresshealthcare.in",
+    "description": "Source: expresshealthcare.in",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMEJSY1VVUF90ZGMtQjRaem5Vbi01V01PSV9hR2FtTHAyTWRoUlA2Vmt2QTJxVEFnYmtlZ1p5MnVTX0lPQkwxMVNJYXAtekxlRHJhcDZMeHNUNUt1ODBQQkZSZE1xcE42NU9HVVo4WG92b2Q1dUNwTnlsb1FZcVJKa2g5cGpnR0doYkkzQlNqUHFBZ01qcE1sLVI5bjF0dGZxam1udGNBdkpJVmVNWExvUGJZdWtDMk9wYkphUjRtR3pSVmcwazJKbGVXeHk3ejM0THlmcEdnM05jMkd4TzNQR2VmLVFpNzRabTRldldxTVdobTE0?oc=5",
+    "source": "expresshealthcare.in",
     "date": "2026-10-03",
     "category": "hospitals",
     "tag": "hospital",
