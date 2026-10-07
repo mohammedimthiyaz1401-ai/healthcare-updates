@@ -24,6 +24,18 @@
     "priority": "medium"
   },
   {
+    "id": "5ccf4b581811",
+    "title": "Inauguration of TIMS Sanathnagar likely in June - The New Indian Express",
+    "description": "Source: The New Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1E3Z0c0RXVKd1hHcFJ1WkMtZHNWYmY0bkdjdWtjRDIwZ0RFLTlkZzFJTzJSMElBMWc4aWd0YmlNb3VraktzR0xYeWVJNEJoUFJSaVhKZFRIemszOTYwcjlqMEU0S3VoTXcxd09JQkNxTG1scnZKWFhfVHVoa1JUbjB2WGNlX1dxbUFmb3VPbzNaLUQxOXVDbjI2ZnRuQU9aa0l6M2pxTkdhLUJ3enpSQdIBvgFBVV95cUxNVmpDMlZvck1BVlRBZnRCYmEwY1NIdW9xVUxRVGthSDJRbmx6U2p5bXBoRVp6blFyOEgzZXJyck5WMk5pVHpGTWN2LTVLX0JJdTR5VUV5U1lpUnZBUmNTd3dseDBFd0JjSzBfYmlPd0JfSWNEN29ab1JDZXZhQUZfanhzOWF2Y1VJVFlBNXI4SXNxTmxkdXNZUVhZb0RpNDVhbGRHbkpyTWRzTHhDc0gzNzAyVFNzcEhPWm5PQzln?oc=5",
+    "source": "The New Indian Express",
+    "date": "2026-10-07",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "d70ec2b6d73c",
     "title": "One national medical licence proposal could reshape doctors’ mobility across India - Healthcare Executive",
     "description": "Source: Healthcare Executive",
@@ -89,18 +101,6 @@
     "description": "Source: Express Healthcare",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVZUaWJ6NE5Ld1hkZEVwbUFSVFctT0JhNGk1VWZkclNVYkNkZ0lOYzVLdUpLakgzTVNDRDduT2F4akVHdzZGcXJmNUl3eFV0c1hGdG51czNMeUVPU2VWdTZoYWZ0ei1haE5fSXF0NHBranpWSEJQN0FSZndHVGpWcjJhNjdWckF4Nm0wTkpuQXljUHlrZG5SYlpyOEEzY2VKWDJhci0tTTBLWGtIVVZqSTR3WVFxUQ?oc=5",
     "source": "Express Healthcare",
-    "date": "2026-10-07",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "5f48db58b7bc",
-    "title": "India has 86,360 postgraduate medical seats; Centre approves plan to add 5,000 more by 2028-29 - The Times of India",
-    "description": "Source: The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVNvX3dwWXdtbzd6YXk0V2hMV3VraDJTU3d1WEUtMEF2WXEwVzljWWthVk9zQUpBM1g3bERETTcteG5VVENfNmd2RWNyeEdzcEFOTk9nMDRHWDFrWS1BbXNOYTFmcnpXYU9HdHduNnJfZE9lbXJHbEViMDJtOEZWeW9ydlkxOWFWblgxWWgyRnVpcXVkQWhKNjdDRm9vTGxvNENnaGN3WWhnd3hXMkJCeEpPT2Mtc3o1ZlhLeG9pakRPUUpEdGVpeEEtYUxDdXRHdHc2akhyWlhBQmc0dnVqTmdjbm1DTEo2Z0ZKdjBSRm96NXMzTmRMLTlLeUbSAYICQVVfeXFMUFp3WTNlQTZuRFctT28tNUx1RDZQa3ZPZkc4b1hFVmN1UXRSMVI0UnlwckZfTFZtOTJOWmQ4N05nVzNZZU5SV0l2X2x1WFNOLXJaS3JLTndaUnhEbTFrZ25JY2swYWQ5Nm4yVWtsMXBwNEpNb1lhQVcyYkVqNklwZnNGQTRtb05wWG01LTVfRVpHSFVYeXo5dlR1ZTB5YUt6enVLNmExNjJNcng0SFV2ZDdjUVJHRUtWQU5NR1Fpa3p3cHliYzRoTXI3dnE2Nm96dDRQWWVhSjVsUm5fZlp4M3RiejZHZ2VwNGRqclhaVzVTVzdiek9RQWZ3am5seDU1Y1N3?oc=5",
-    "source": "The Times of India",
     "date": "2026-10-07",
     "category": "central",
     "tag": "central",
@@ -264,11 +264,11 @@
     "priority": "medium"
   },
   {
-    "id": "b3fd57960401",
-    "title": "AI governance in healthcare: what Luxembourg operators need to know - Simmons & Simmons",
-    "description": "Source: Simmons & Simmons",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmhZR3JNMjVJRW4yWm5lOG91M3Q5LWVERkNYZXFEcVFtbWFLdlBIWTBWdnRtZzJZeUFLTnZWNFZJNUJoOENraFdtcmRHSHBwNWd3aUs4RVJjdC01Ty1qWGhDNVJULWhSLWdZeDh4bEYxRXNIVWQ1UnBvTW9oekdPd1NscVQyX0xqdUpiMENtSjZYRFFwYlk3LVBXVlFzTks3NVBqT0VfQTBPNGRNNXp2LVVoNlVtYjZDV3hiLUVxWXZsblhZLUxBUEhudTNqczB5X2V5MXV3RQ?oc=5",
-    "source": "Simmons & Simmons",
+    "id": "7758da28ccbe",
+    "title": "RFK Jr.'s AI claims spark physician backlash as debate over medical AI intensifies - Fierce Healthcare",
+    "description": "Source: Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOHRnMWZ6VzFhNkZ3QzFkUFFOOE1lMXdhTmk0b3R5WTc0QWZVUUVkUXgtM0wtZFpJSG5TWDF1WGoySFljbXN4X0VNdWhTX1ZmY25qUVhZSzVkbGhBbzN5dHhNNnVlVUJKdnJwaWhBYVFvSXVDQTVnYlBnT05adEg3cVVNVkRSZzZsZWJ1WG9RVHd5VnBiTS1oMnNwYksxQW4zS3UtaGhZYzVqVnp4b0FlVGUteXJfcXJ2Y0o1a3I0RHQ0dWtpYVAw?oc=5",
+    "source": "Fierce Healthcare",
     "date": "2026-10-07",
     "category": "central",
     "tag": "central",
@@ -276,11 +276,11 @@
     "priority": "medium"
   },
   {
-    "id": "7758da28ccbe",
-    "title": "RFK Jr.'s AI claims spark physician backlash as debate over medical AI intensifies - Fierce Healthcare",
-    "description": "Source: Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOHRnMWZ6VzFhNkZ3QzFkUFFOOE1lMXdhTmk0b3R5WTc0QWZVUUVkUXgtM0wtZFpJSG5TWDF1WGoySFljbXN4X0VNdWhTX1ZmY25qUVhZSzVkbGhBbzN5dHhNNnVlVUJKdnJwaWhBYVFvSXVDQTVnYlBnT05adEg3cVVNVkRSZzZsZWJ1WG9RVHd5VnBiTS1oMnNwYksxQW4zS3UtaGhZYzVqVnp4b0FlVGUteXJfcXJ2Y0o1a3I0RHQ0dWtpYVAw?oc=5",
-    "source": "Fierce Healthcare",
+    "id": "b3fd57960401",
+    "title": "AI governance in healthcare: what Luxembourg operators need to know - Simmons & Simmons",
+    "description": "Source: Simmons & Simmons",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmhZR3JNMjVJRW4yWm5lOG91M3Q5LWVERkNYZXFEcVFtbWFLdlBIWTBWdnRtZzJZeUFLTnZWNFZJNUJoOENraFdtcmRHSHBwNWd3aUs4RVJjdC01Ty1qWGhDNVJULWhSLWdZeDh4bEYxRXNIVWQ1UnBvTW9oekdPd1NscVQyX0xqdUpiMENtSjZYRFFwYlk3LVBXVlFzTks3NVBqT0VfQTBPNGRNNXp2LVVoNlVtYjZDV3hiLUVxWXZsblhZLUxBUEhudTNqczB5X2V5MXV3RQ?oc=5",
+    "source": "Simmons & Simmons",
     "date": "2026-10-07",
     "category": "central",
     "tag": "central",
@@ -420,18 +420,6 @@
     "priority": "medium"
   },
   {
-    "id": "d98365c26596",
-    "title": "Women-Led Startups in India Secure Record Funding in 2026 as Investor Confidence Grows - fundsforNGOs News",
-    "description": "Source: fundsforNGOs News",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTBRVF9Na0lMLUZTZGhnSGpTZ2RlelowdUFnVkV2NWpHM09EQnhsOTBYNFQ3aDkxUFRRWkZVTzhSWnpvdEsyYUh3U3NtbGppY2hTc2Y3UE9UZTdkYXhKU3FJRzhyRHlhY0RkeXpOaDhQa29sQUFZSm1hRGpMUVV2U2pBUk5uSzhHc2xmN2RVTnk3VXVQTU9vRzByOEhfQjFMamYzaDgtLVJYRUNLVzA2LUJiOWlqNExEWGpHSGVyQ1BCaHNTUzhn?oc=5",
-    "source": "fundsforNGOs News",
-    "date": "2026-10-07",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "d3d53d77e8cf",
     "title": "The all-new Fitbit Air comes to India - blog.google",
     "description": "Source: blog.google",
@@ -456,11 +444,11 @@
     "priority": "medium"
   },
   {
-    "id": "df139028a4a3",
-    "title": "The best smartwatches 2026: The best options for iPhone and Android - TechRadar",
-    "description": "Source: TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0lKSU9pUUVqS2dDbVRUeDdSUHIxVFp3VFFTQ0ZNUTJPb1hmYmZPRG0wVTY2Q24zM0UwUUFsY0JFRFh6YTR6dHZtdmVEbjdMR3NLMUNGSndDMzFpVFhuZ0doTzMyRFBTaTJKbVFLejJrVnBqTF9KbHlvNVhuekhXRXFadGZ4U3VQdWVuSXVfSWxrak5ILWFJUk5yd1RId0hPRk9iQkpjQWM?oc=5",
-    "source": "TechRadar",
+    "id": "d292eb7ae70d",
+    "title": "After Testing Over 20, These Are The 8 Best Fitness Trackers I Recommend - Forbes",
+    "description": "Source: Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalVSRlJTS1JEMjBuOGhfeVpyakNnRzk3VE5QcUZMQmdPODVPcVczMm5oM2FadGZ1c0tCbTZTQ0tOVlNqZGFnT1o5ZWV4UldkaW9ULWdEeGZscXBfSDVTanBVcktjZlBFZ0JVSTBnZURhTmdDa1ZGUGVJQnY5c3RtSmxJNUFCWUJyZGw4?oc=5",
+    "source": "Forbes",
     "date": "2026-10-07",
     "category": "central",
     "tag": "central",
@@ -468,11 +456,11 @@
     "priority": "medium"
   },
   {
-    "id": "d292eb7ae70d",
-    "title": "After Testing Over 20, These Are The 8 Best Fitness Trackers I Recommend - Forbes",
-    "description": "Source: Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalVSRlJTS1JEMjBuOGhfeVpyakNnRzk3VE5QcUZMQmdPODVPcVczMm5oM2FadGZ1c0tCbTZTQ0tOVlNqZGFnT1o5ZWV4UldkaW9ULWdEeGZscXBfSDVTanBVcktjZlBFZ0JVSTBnZURhTmdDa1ZGUGVJQnY5c3RtSmxJNUFCWUJyZGw4?oc=5",
-    "source": "Forbes",
+    "id": "df139028a4a3",
+    "title": "The best smartwatches 2026: The best options for iPhone and Android - TechRadar",
+    "description": "Source: TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0lKSU9pUUVqS2dDbVRUeDdSUHIxVFp3VFFTQ0ZNUTJPb1hmYmZPRG0wVTY2Q24zM0UwUUFsY0JFRFh6YTR6dHZtdmVEbjdMR3NLMUNGSndDMzFpVFhuZ0doTzMyRFBTaTJKbVFLejJrVnBqTF9KbHlvNVhuekhXRXFadGZ4U3VQdWVuSXVfSWxrak5ILWFJUk5yd1RId0hPRk9iQkpjQWM?oc=5",
+    "source": "TechRadar",
     "date": "2026-10-07",
     "category": "central",
     "tag": "central",
@@ -528,11 +516,11 @@
     "priority": "medium"
   },
   {
-    "id": "edbf3d6a925b",
-    "title": "India’s healthcare push: 45.5 crore Ayushman Cards, 1.86 lakh Arogya Mandirs - DD News",
-    "description": "Source: DD News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVVUNFVQaWh4OHNZUXpXd1gwRGViR2JDRzZSSDU3TkMwSjFwak1jTWZzUGxzUGFRV0VjMnJFUl9HUU5SMEpOTmdQWkRpbzVoaVdoeEFMWTNoZjZTZUZvVVo4TW9PZnVPRllLa0RBYldQNVh1eWEwNHduX1lILWFNbTRwU09NYkFYWG9pdTh5ZnFIekY5VWIzcGNKMk9NdGIy?oc=5",
-    "source": "DD News",
+    "id": "62991652dad0",
+    "title": "Andhra Pradesh turns to drones to move blood samples, medicines in tribal areas - Indian Aviation News Net",
+    "description": "Source: Indian Aviation News Net",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdEdURndaMUtOemhoQnBmRkVNVmdDWF9HTC1ZR2wtQ0J2VnBNOC1ydjRqNnpPUC0wRFE0WUp1YXhwclItaHc5dGxnR2tzVElqcmhMejd4OEhsb21oUjJSblFwX0pTLW1pc1AxOEtmc3dmaWxJcENScFh6Wk5kd2pRb1dLaTBnVU9ObnQzNFAwVWx1SmpVWkxrbWltVUNRUlNlcWg5VnFMdUI4UktueEFiTUNfZXhsdTlDRHcwbXAtMzF2dmtfLW93eXRTNA?oc=5",
+    "source": "Indian Aviation News Net",
     "date": "2026-10-07",
     "category": "central",
     "tag": "central",
@@ -540,11 +528,11 @@
     "priority": "medium"
   },
   {
-    "id": "62991652dad0",
-    "title": "Andhra Pradesh turns to drones to move blood samples, medicines in tribal areas - Indian Aviation News Net",
-    "description": "Source: Indian Aviation News Net",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdEdURndaMUtOemhoQnBmRkVNVmdDWF9HTC1ZR2wtQ0J2VnBNOC1ydjRqNnpPUC0wRFE0WUp1YXhwclItaHc5dGxnR2tzVElqcmhMejd4OEhsb21oUjJSblFwX0pTLW1pc1AxOEtmc3dmaWxJcENScFh6Wk5kd2pRb1dLaTBnVU9ObnQzNFAwVWx1SmpVWkxrbWltVUNRUlNlcWg5VnFMdUI4UktueEFiTUNfZXhsdTlDRHcwbXAtMzF2dmtfLW93eXRTNA?oc=5",
-    "source": "Indian Aviation News Net",
+    "id": "edbf3d6a925b",
+    "title": "India’s healthcare push: 45.5 crore Ayushman Cards, 1.86 lakh Arogya Mandirs - DD News",
+    "description": "Source: DD News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVVUNFVQaWh4OHNZUXpXd1gwRGViR2JDRzZSSDU3TkMwSjFwak1jTWZzUGxzUGFRV0VjMnJFUl9HUU5SMEpOTmdQWkRpbzVoaVdoeEFMWTNoZjZTZUZvVVo4TW9PZnVPRllLa0RBYldQNVh1eWEwNHduX1lILWFNbTRwU09NYkFYWG9pdTh5ZnFIekY5VWIzcGNKMk9NdGIy?oc=5",
+    "source": "DD News",
     "date": "2026-10-07",
     "category": "central",
     "tag": "central",
