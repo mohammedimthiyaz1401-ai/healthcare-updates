@@ -39,6 +39,19 @@
     "subcategory": "medtech"
   },
   {
+    "id": "e266c42f7be4",
+    "title": "Editorial: Digital medicine and artificial intelligence - Frontiers",
+    "description": "Source: Frontiers",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTdNWi1ORFVUaFd1YTdCRGE4YXhqS25Rbk5XMlNMcFp4MDN6UVdnN05yU19obEZqRXVlLVIyRk42UnJ5cTdhN3ZHSEJGSng0TkdmNVhqbGVLUC1WQTRnX2xUZ1g5RE15dnp3aHJqTzJxdzIyVFMtN3NmZ1l3akFPUUlIT09PU2dhT2ZlMm9abFplUTVQa3BWeTVGLU95aGVxS3c?oc=5",
+    "source": "Frontiers",
+    "date": "2026-10-08",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
     "id": "aa4e20aac30e",
     "title": "Towards autonomous medical artificial intelligence agents - Nature",
     "description": "Source: Nature",
@@ -52,17 +65,17 @@
     "subcategory": "ai"
   },
   {
-    "id": "e266c42f7be4",
-    "title": "Editorial: Digital medicine and artificial intelligence - Frontiers",
-    "description": "Source: Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTdNWi1ORFVUaFd1YTdCRGE4YXhqS25Rbk5XMlNMcFp4MDN6UVdnN05yU19obEZqRXVlLVIyRk42UnJ5cTdhN3ZHSEJGSng0TkdmNVhqbGVLUC1WQTRnX2xUZ1g5RE15dnp3aHJqTzJxdzIyVFMtN3NmZ1l3akFPUUlIT09PU2dhT2ZlMm9abFplUTVQa3BWeTVGLU95aGVxS3c?oc=5",
-    "source": "Frontiers",
+    "id": "b2478949f345",
+    "title": "MedVidU Challenge Draws Teams to Advance Healthcare AI - Medical Device and Diagnostic industry",
+    "description": "Source: Medical Device and Diagnostic industry",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmZtalAtcFk1a0JWTFE4X0pYUHdvd3AzNnpxeDV0LXBYLXZJalpvR0J6TjRNR080NnBxQmVpTGtHNkxJblJkYm5Ud3hvemJiMVhkd3p5Q2tfMGZOblBxeWItaG9FMXl5aFdPSXBNbWpRbk5mOTVock5JZ3ZFU01HSG1NUFRMSVVTUnV5NktHRmU0c3B2REc4QzVzQzBMYWZYWGp3WHdrOXlJR0U?oc=5",
+    "source": "Medical Device and Diagnostic industry",
     "date": "2026-10-08",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "AI / ML",
+    "tag_label": "MedTech",
     "priority": "medium",
-    "subcategory": "ai"
+    "subcategory": "medtech"
   },
   {
     "id": "a3b8cbef7f86",
@@ -429,17 +442,17 @@
     "subcategory": "robotics"
   },
   {
-    "id": "41f854c9b1a8",
-    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - TheWire.in",
-    "description": "Source: TheWire.in",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc0MzbXBwOHk4LVhfcVFEeDFqeER5NXJyeFhpNFVMcVhDU053Zm1ZbDdpZGdsaFROS0gtNWhDeVZYcFFUT2FwSHhsQXpKSmRsS2VIdHRObUJaWlpkZGdXTVNLSmV2WS1ud0RHQ0o0LVF0Sjhzdjg4cEZIaUJZOHlhNWFSaEdycUpHaFZrR1ZMYkduTy1pZlZfSmtzaFlqTlhQRVJUeTIwVjBRWnlCMlF6S2ZiNlA0UjhKRG1SX3cwRFBZOFRzSUF6VURrdWhiUdIBzgFBVV95cUxNc0MzbXBwOHk4LVhfcVFEeDFqeER5NXJyeFhpNFVMcVhDU053Zm1ZbDdpZGdsaFROS0gtNWhDeVZYcFFUT2FwSHhsQXpKSmRsS2VIdHRObUJaWlpkZGdXTVNLSmV2WS1ud0RHQ0o0LVF0Sjhzdjg4cEZIaUJZOHlhNWFSaEdycUpHaFZrR1ZMYkduTy1pZlZfSmtzaFlqTlhQRVJUeTIwVjBRWnlCMlF6S2ZiNlA0UjhKRG1SX3cwRFBZOFRzSUF6VURrdWhiUQ?oc=5",
-    "source": "TheWire.in",
+    "id": "16443929ee54",
+    "title": "Telerobotic surgery is advancing around the world. Will the US embrace it? - MedTech Dive",
+    "description": "Source: MedTech Dive",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTJYWnZSdzUxM3pqMmh5Wk14ZFlWUmhiQWVfQzB3WVBxbjNJV3E0Qy1fM1FDaXZ5N1pBR0pwSGlOU2Zsdmk2WHFFVTJ4U0Z2YmV1SWM3U0U2aVl1cUxWRjRpbWlxaG9KQll2aHdQOXExbmxFLXRFWmpqWGoxVjJxaUo3UEJRODF2T042MFBJVDQyOE1XMll4YnlLaEhMVnRmZUthYjdoTTFmdTNkYkF6emt0WQ?oc=5",
+    "source": "MedTech Dive",
     "date": "2026-10-08",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Robotics",
+    "tag_label": "MedTech",
     "priority": "medium",
-    "subcategory": "robotics"
+    "subcategory": "medtech"
   },
   {
     "id": "e0e664ed1bf1",
@@ -486,19 +499,6 @@
     "description": "Source: Digital in Asia",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
     "source": "Digital in Asia",
-    "date": "2026-10-08",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "a3cae6126313",
-    "title": "India's Digital Health Funding Tracker: What Got Funded in July 2026 - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5BdEVWZHVPX1dDZFZxQmdJZlMxQV8zdmNCRzZHNmduTE5EYUM0LWhwUjYwMHdDMkJ6ODdROWZ3NU1kNzl4ajdUZHpMRDFZamNCU3dwVnFOMkYydE9pbTJpbm9TRU4tTWs2UUlsbTBEd1FCdEkza0QtTEoyVlNrQXFYaERZZlFOWkxzR0dpUXNjY3oydXY0VklWenVmRzNRWkdF?oc=5",
-    "source": "Digital Health News",
     "date": "2026-10-08",
     "category": "tech",
     "tag": "tech",

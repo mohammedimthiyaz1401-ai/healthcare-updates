@@ -1,29 +1,5 @@
 [
   {
-    "id": "db2d28285b01",
-    "title": "Houthis claim new attack against airport in Saudi capital Riyadh as witness reports evacuation",
-    "description": "Saudi Arabia’s civil defence agency said a kindergarten and medical complex in Riyadh were damaged by shrapnel from an intercepted missile, hours after explosions rattled Riyadh",
-    "url": "https://www.thehindu.com/news/international/saudi-arabia-riyadh-airport-attack-yemen-houthis-october-8-2026/article71560070.ece",
-    "source": "The Hindu Health",
-    "date": "2026-10-08",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "256457a056ed",
-    "title": "Health Bulletin 29/January/2026 - Medical Dialogues",
-    "description": "Source: Medical Dialogues",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDBJRldPcDllWnAxTndrd0hjTjUyVEhJa3F3dUktZ3lEV294X09NaHlISndiVExnMGYxTWgyXzk1TmZSdVhHTHI2RmN3bDBRQTA2NHdXa3dLQTNQbHU2RDBUUUFiMEpMcEFmeDM5RUYxdDlRSnVEdWxQeGwtSzNaYTlZcTJGYWxoajBhYlA5UmvSAZYBQVVfeXFMT3FhVlRDMzY1MW9XVWxJYnlOVjZRTnBvLUNOLWlhN1FMNkNIeTFrQWJkQjdGN1RQS2stdXRzZzJzM0pUQjhsNW51WDBLaTdFeE5JUFlOM3RHSlBCeS1IRl9IQUxTNktza1doc0ZMRlV6Y19DZTh1LVlaNnlJSWZCY1dSanlnNDR5Tk1rbWt1c0lzbTFTU3VB?oc=5",
-    "source": "Medical Dialogues",
-    "date": "2026-10-08",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "917cea322e88",
     "title": "Times Network India Health Awards 2026 Honors Pioneers In Healthcare Workers - Health and Me",
     "description": "Source: Health and Me",
@@ -108,10 +84,10 @@
     "priority": "medium"
   },
   {
-    "id": "04380087c45e",
-    "title": "Ayushman Bharat Digital Mission - PIB",
+    "id": "3894221afbba",
+    "title": "Affordable and Accessible Healthcare for All - PIB",
     "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TTWdhU0FUbnZfQlBkWXo3bU5CYUdEQU41UjBMVTRwVjlWTzFHdEJ3ZmljZHJ2cnloM0xYa2VFazZjVl8zUldILWhUZHZMaGdsa2dodGpiUHBvYVctYkVHSks0TWJSdXBBS0k5RFUySlVncDk3SEhmR2ZB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkRkY3A5NEMxQkFVd0hHVEprZ3V1Wmw1MWNheEl2SkE3TnlEb0ExZVEwY2hUTXBvZzlsZE96ZkdZMlR2RjVTY3hZekV2UThiUmJuSmd4djUwV1h2TnJ4a2t0RHpKVXZRN0VWajNfMTFRQzd6cUo4XzFMLWxzd1ppRmhteE1tMHlndFdYYjJxX090bWR3LTcxLUpB?oc=5",
     "source": "PIB",
     "date": "2026-10-08",
     "category": "central",
@@ -125,18 +101,6 @@
     "description": "Source: DD News",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWxGMEN2QXctZV9hcDBZdEk5SWR6Z3NsU0hVelA0bVp3RjNjNFZDZzZYSFF2c3lZTXlUdzZiQm82dnlNSWcyVVdhNDk4MUlHSW1MbHhrcl9uT1hJLWlYSEROcFAwSlBnQnEzV203d0FBYzA3eDJNX0VUdG0wRGxzV2otckxENndUR1BLbDBKNmpBdW95WW0xS3laY2J0ekdoX1JJX19uQXMxellVN1RkaWNn?oc=5",
     "source": "DD News",
-    "date": "2026-10-08",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "3894221afbba",
-    "title": "Affordable and Accessible Healthcare for All - PIB",
-    "description": "Source: PIB",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OR2ZBdE03S1hudFF5ckV2dFRwQXEwQ2puR3Q4SFZyeERrWDNValh0UFFhb3dXTFNXbXhrUkNDZUs3blBHeTVERTFrUTYycTlnWVFWMVV5LVhXcGFaSVdMVVN2aGdldGJBa2FuNGtCcHNrUDZOSkxkUWtn?oc=5",
-    "source": "PIB",
     "date": "2026-10-08",
     "category": "central",
     "tag": "central",
@@ -228,6 +192,18 @@
     "priority": "medium"
   },
   {
+    "id": "d9c3ed6a93d3",
+    "title": "The Hindu Sustainability Dialogues 2026 to explore healthcare at the intersection of AI and medicine - The Hindu",
+    "description": "Source: The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNT1lZMjZKMmE4NnVyNTlSS1pBVHZ2STYzWmREY09BblBSMGloUkxWd2NWcWgxUUJZVUd0c1NtdkJIeVd4eVFCX0xoRWl1b1VrbllBdjZzdUZNd0ZCazFTR09acmlPQjEzU09sTFR4WW1DQ0VfUWF5MWp2UFBZS0tZTzByMWFRMVR5dFVHMG40ckZyVGtyeEp0bnhMRDdsV3hhckg3SnV0d3VFMWFLWUZTdzJEVi1pMGdxQ1htTENHWC0xc2J1dk1fR3hUQ0FhTHlwQnhIbENZb3U5QmRMU2kxSmtyODZTanZXNklIWkw0RVFjc3E0NGlKZ9IB_wFBVV95cUxPV2dNd0w2azlrWHJEQlp4cHVzazk4VkRpcXU0cTNyRWtYd1lQdVFtLW5MNXQ3bzBxQWhGSUlEeXc3WXA5YS02WnAtNGpkckVHLWkxX1VzVDAxVHZ3RlFBZjMwLUhDTlJaU2tjSm5uOGJPS190MDIxdGcxMUhINHJYOEdEZFZSdGpqWmtOMDVkRFBBZWJmLUlfUVlCcWY2bENVWXdWR3Zra2k1Q0gzRmlUTnN3Vk9feFFDWWNZZ3luN0hfUlJpb05YSnc2VXlncmpMek5hMmZKUDZlMGc5RFQ2dlR1T0pBbnlNQ2VLWWg2VEFxR0M4dXlWUl9VWldjdFE?oc=5",
+    "source": "The Hindu",
+    "date": "2026-10-08",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "0acea178ad70",
     "title": "New WHO report calls for stronger ethics oversight of AI-related health research - World Health Organization (WHO)",
     "description": "Source: World Health Organization (WHO)",
@@ -240,35 +216,11 @@
     "priority": "medium"
   },
   {
-    "id": "7eb8838069d9",
-    "title": "Utah plows ahead with more health AI pilots for prescriptions, women’s health - STAT",
-    "description": "Source: STAT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOElXTWc5ZWw0UkV2RkxmRVkyY2F6cXVlU1dZeGJQTFRXX2NDUElRY25YNUtiS3BSX1B1N19waTluS2VvMDNnck5pYWUxM0F1bkhld2NPNFdoOXAweG5qSmsyRWhxaWdwaVhEVHMyeFptTDFSR3lrUFJ3SXdWTFZMVXRVUXNqdjZHdWlmb1c1WWlaUVh5bEJNT1RR?oc=5",
-    "source": "STAT",
-    "date": "2026-10-08",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "7758da28ccbe",
     "title": "RFK Jr.'s AI claims spark physician backlash as debate over medical AI intensifies - Fierce Healthcare",
     "description": "Source: Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOHRnMWZ6VzFhNkZ3QzFkUFFOOE1lMXdhTmk0b3R5WTc0QWZVUUVkUXgtM0wtZFpJSG5TWDF1WGoySFljbXN4X0VNdWhTX1ZmY25qUVhZSzVkbGhBbzN5dHhNNnVlVUJKdnJwaWhBYVFvSXVDQTVnYlBnT05adEg3cVVNVkRSZzZsZWJ1WG9RVHd5VnBiTS1oMnNwYksxQW4zS3UtaGhZYzVqVnp4b0FlVGUteXJfcXJ2Y0o1a3I0RHQ0dWtpYVAw?oc=5",
     "source": "Fierce Healthcare",
-    "date": "2026-10-08",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "b3fd57960401",
-    "title": "AI governance in healthcare: what Luxembourg operators need to know - Simmons & Simmons",
-    "description": "Source: Simmons & Simmons",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmhZR3JNMjVJRW4yWm5lOG91M3Q5LWVERkNYZXFEcVFtbWFLdlBIWTBWdnRtZzJZeUFLTnZWNFZJNUJoOENraFdtcmRHSHBwNWd3aUs4RVJjdC01Ty1qWGhDNVJULWhSLWdZeDh4bEYxRXNIVWQ1UnBvTW9oekdPd1NscVQyX0xqdUpiMENtSjZYRFFwYlk3LVBXVlFzTks3NVBqT0VfQTBPNGRNNXp2LVVoNlVtYjZDV3hiLUVxWXZsblhZLUxBUEhudTNqczB5X2V5MXV3RQ?oc=5",
-    "source": "Simmons & Simmons",
     "date": "2026-10-08",
     "category": "central",
     "tag": "central",
@@ -413,6 +365,18 @@
     "description": "Source: Instagram",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14RHQ2eUlFSXdLdkJkX3oxeW5IV3hGSDFyZWFhZHVNeHdNWjlxUzkyQ2EwaDhaTHh1VTVMcDBoRFRGdzhFN1R2Y0FnejFXSGV4T2c?oc=5",
     "source": "Instagram",
+    "date": "2026-10-08",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "d98365c26596",
+    "title": "Women-Led Startups in India Secure Record Funding in 2026 as Investor Confidence Grows - fundsforNGOs News",
+    "description": "Source: fundsforNGOs News",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTBRVF9Na0lMLUZTZGhnSGpTZ2RlelowdUFnVkV2NWpHM09EQnhsOTBYNFQ3aDkxUFRRWkZVTzhSWnpvdEsyYUh3U3NtbGppY2hTc2Y3UE9UZTdkYXhKU3FJRzhyRHlhY0RkeXpOaDhQa29sQUFZSm1hRGpMUVV2U2pBUk5uSzhHc2xmN2RVTnk3VXVQTU9vRzByOEhfQjFMamYzaDgtLVJYRUNLVzA2LUJiOWlqNExEWGpHSGVyQ1BCaHNTUzhn?oc=5",
+    "source": "fundsforNGOs News",
     "date": "2026-10-08",
     "category": "central",
     "tag": "central",
