@@ -26,17 +26,43 @@
     "subcategory": "medtech"
   },
   {
-    "id": "b2478949f345",
-    "title": "MedVidU Challenge Draws Teams to Advance Healthcare AI - Medical Device and Diagnostic industry",
-    "description": "Source: Medical Device and Diagnostic industry",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmZtalAtcFk1a0JWTFE4X0pYUHdvd3AzNnpxeDV0LXBYLXZJalpvR0J6TjRNR080NnBxQmVpTGtHNkxJblJkYm5Ud3hvemJiMVhkd3p5Q2tfMGZOblBxeWItaG9FMXl5aFdPSXBNbWpRbk5mOTVock5JZ3ZFU01HSG1NUFRMSVVTUnV5NktHRmU0c3B2REc4QzVzQzBMYWZYWGp3WHdrOXlJR0U?oc=5",
-    "source": "Medical Device and Diagnostic industry",
+    "id": "545c9677b8c4",
+    "title": "AI in MedTech can transform healthcare, report paper highlights five priorities - ET HealthWorld",
+    "description": "Source: ET HealthWorld",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeF9fcGZUc2ZJTXA3Ykc2MnI4MVo3WEpoVDV1T1BURzVLR3dic1p2Szczd0NhcjZXTm5YcF9NSXJiSFZQa1gzeTg1VVZvLWN3X3o3RlpEOHRPUFU1cnl4WHNJejNKTEpXcmlSUnMyZ1Q2bEc1ZHdTU2Yta2IzemhFZUtEblhCRE9wNkl3NXdYMEtnZ0FWTW12alpSa2ZaSmtSNTI1TmVVdDJDbFdpby1pRkw5YzJjQ1ZidDVnOGl3Q18tRXdCdnVWQU9FOGpjak9NRGtVZ3lFRW9fQUJmcHJocDRvZVF5Y0NL0gHuAUFVX3lxTFBlVXotNTRidDBTSEVHelZ1ZldYT25XMFFZcXFkNS1MU1ZVWGRDVGQ4YWwyd3E4Z0ZuOGtDeXNfcV95RGZ6ajdlVlNRWDFLdFNERllRNlBKYTk5SUNldFRjanRIUDMyd2NMOUFlRGc3Tk5aQUROVXppMjFTaHdfV3VfOUN3ZE1MRE9pand5QWNEeHdwZ0luV3piMEFsSWphbVNhRUpKS1YyLTZYRkctaVFxbzJoMDBDUGpJTHdmNDgyaWZoQnpjcktRQ0RkNXl6R0laQWlGWGxiTFJiaDU1dFliZURrRGZaVDJwajRvY2c?oc=5",
+    "source": "ET HealthWorld",
     "date": "2026-10-08",
     "category": "tech",
     "tag": "tech",
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "aa4e20aac30e",
+    "title": "Towards autonomous medical artificial intelligence agents - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+    "source": "Nature",
+    "date": "2026-10-08",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
+    "id": "e266c42f7be4",
+    "title": "Editorial: Digital medicine and artificial intelligence - Frontiers",
+    "description": "Source: Frontiers",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTdNWi1ORFVUaFd1YTdCRGE4YXhqS25Rbk5XMlNMcFp4MDN6UVdnN05yU19obEZqRXVlLVIyRk42UnJ5cTdhN3ZHSEJGSng0TkdmNVhqbGVLUC1WQTRnX2xUZ1g5RE15dnp3aHJqTzJxdzIyVFMtN3NmZ1l3akFPUUlIT09PU2dhT2ZlMm9abFplUTVQa3BWeTVGLU95aGVxS3c?oc=5",
+    "source": "Frontiers",
+    "date": "2026-10-08",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "a3b8cbef7f86",
@@ -117,11 +143,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "f7a8ccf612a4",
-    "title": "India Health 2026 Brings Healthcare And MedTech Ecosystem Together - BW Healthcare World",
-    "description": "Source: BW Healthcare World",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHFUR3hvSV9iSExsTHBSR2pTeTdrRWNCYk1nWjBWbHlqbmxUSU8weFoyZ3E3OWJmOFBZb3BkVXFjOWxuWUt0UlNjV1REQm16dDR6Q281XzctVlVoRlJ5OEhfbGo3c0F5SkNPSWdUMi1ZSnF3Vml2ODY3X280THNCX1lVRGVDWGxtY1VjeHVENHlHbTVQVG01UVNPV0pMcGdBYnU1bkNyODRFUkVyNGpNamdjSVdGQQ?oc=5",
-    "source": "BW Healthcare World",
+    "id": "88ee6fc60c4a",
+    "title": "India’s Medical Device Industry Grows to $18 Billion, Eyes Global MedTech Manufacturing Opportunities at Medical Fair India 2026. - TRIPURA STAR NEWS",
+    "description": "Source: TRIPURA STAR NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWZPWkVMQzZMSURlRXRhMnhHYlJ3Y0RkRmRtd0V2TlZ0Q1dDMHlHODZ6alF2UGtUakxyV1VwU3ZkbDh3OVotQTFseWtGRUFPOFdQVm9ZQVBXbmV1b0JLWHpmcGJ0TnhSSEx2SUpBNE14cUlleFMtNUs5aEtGTWN1QzU3a2lWdWxscmItcGxYX0pWdkVtdWNvUXFibzNySUJhRTNYUjgyRU9oNm10V19PeDhfUVJ4MkNlVzZVVFRTWVA2bGhwallrd01lMjRjQ3BBb0Y0YUg0M0NNdE9FaGhmODJqX0FGMWtYemlEZlBRSQ?oc=5",
+    "source": "TRIPURA STAR NEWS",
     "date": "2026-10-08",
     "category": "tech",
     "tag": "tech",
@@ -130,11 +156,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "88ee6fc60c4a",
-    "title": "India’s Medical Device Industry Grows to $18 Billion, Eyes Global MedTech Manufacturing Opportunities at Medical Fair India 2026. - TRIPURA STAR NEWS",
-    "description": "Source: TRIPURA STAR NEWS",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWZPWkVMQzZMSURlRXRhMnhHYlJ3Y0RkRmRtd0V2TlZ0Q1dDMHlHODZ6alF2UGtUakxyV1VwU3ZkbDh3OVotQTFseWtGRUFPOFdQVm9ZQVBXbmV1b0JLWHpmcGJ0TnhSSEx2SUpBNE14cUlleFMtNUs5aEtGTWN1QzU3a2lWdWxscmItcGxYX0pWdkVtdWNvUXFibzNySUJhRTNYUjgyRU9oNm10V19PeDhfUVJ4MkNlVzZVVFRTWVA2bGhwallrd01lMjRjQ3BBb0Y0YUg0M0NNdE9FaGhmODJqX0FGMWtYemlEZlBRSQ?oc=5",
-    "source": "TRIPURA STAR NEWS",
+    "id": "f7a8ccf612a4",
+    "title": "India Health 2026 Brings Healthcare And MedTech Ecosystem Together - BW Healthcare World",
+    "description": "Source: BW Healthcare World",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHFUR3hvSV9iSExsTHBSR2pTeTdrRWNCYk1nWjBWbHlqbmxUSU8weFoyZ3E3OWJmOFBZb3BkVXFjOWxuWUt0UlNjV1REQm16dDR6Q281XzctVlVoRlJ5OEhfbGo3c0F5SkNPSWdUMi1ZSnF3Vml2ODY3X280THNCX1lVRGVDWGxtY1VjeHVENHlHbTVQVG01UVNPV0pMcGdBYnU1bkNyODRFUkVyNGpNamdjSVdGQQ?oc=5",
+    "source": "BW Healthcare World",
     "date": "2026-10-08",
     "category": "tech",
     "tag": "tech",
@@ -351,6 +377,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "12f507511ea9",
+    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - The Indian Practitioner",
+    "description": "Source: The Indian Practitioner",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpwdHVpbDN2MDYyTUp5LTAyajZ3UkhXVThsQnFycUpUX1o4RDBRZW1XRWVzTHBkWF9NYW9PZmQwaGRoMmhUUTVZeGw0WFhJZkpwN3Z6NFR6UXRmcjc3V0pFVS1rX2M4UWwwbkhZanhHRjBSdWtlTjFDcjJ4N3lEWWFqQmFrdmN1Q093VVJlelFSS1VzeWhBLTc1aWswdjdOZ2VzaFQ3WGkxN1Y3akdmUw?oc=5",
+    "source": "The Indian Practitioner",
+    "date": "2026-10-08",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "8e827f4783f3",
     "title": "Reconstructing the complex architecture of the genome with molecular scissors: applying genome editing technology in precision medicine - Frontiers",
     "description": "Source: Frontiers",
@@ -364,24 +403,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "29180101239d",
-    "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - DD News",
-    "description": "Source: DD News",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3FYWUVhM0ZuRlRrZFhlTlBWZEdrNnYtV3dSQ3VrRWZGMWlldHoxTjhyRWF0VVFCbjIyUVkxQ1V0djlZUmpGRC0xOGlpenpfMkZNLXNKUHJPZHdtSmVld29kWjFxaFJ5WmtsS085MlRRemNrNS1JMnA0YkNHVXFWRENDSUpJQk1PZFZpeXlMNU5fN1hyaERaUlgxeTNtYXp4MnBGYk53VmRwT2JOYmdmWFN5dWlNM0RhM3Z6cHp3NllHQQ?oc=5",
-    "source": "DD News",
-    "date": "2026-10-08",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "12f507511ea9",
-    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - The Indian Practitioner",
-    "description": "Source: The Indian Practitioner",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpwdHVpbDN2MDYyTUp5LTAyajZ3UkhXVThsQnFycUpUX1o4RDBRZW1XRWVzTHBkWF9NYW9PZmQwaGRoMmhUUTVZeGw0WFhJZkpwN3Z6NFR6UXRmcjc3V0pFVS1rX2M4UWwwbkhZanhHRjBSdWtlTjFDcjJ4N3lEWWFqQmFrdmN1Q093VVJlelFSS1VzeWhBLTc1aWswdjdOZ2VzaFQ3WGkxN1Y3akdmUw?oc=5",
-    "source": "The Indian Practitioner",
+    "id": "911a14371074",
+    "title": "Precision medicine | The cure is in your genes - India Today",
+    "description": "Source: India Today",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSk45aHJ1dDhld2lFZTdTU2EzWVdUM1RfTVBSS2xPTlk1cUlPMXlQOENXVnJ0Y2hrZW1ERGRHNnBxOEw2Y0dmaDNTV01oVTlRQm51SXR2Z3Z1WEU4RlNGcVFHejU5SFI5LVpkYWVkclpJUDFsWEVlTDNUUGZjZ1dxN2N1aVE2S0Q4RG9IbkJXRUZxN0dVTS0wRVdBMXE3S0JQcXVlUFB1QWdZYWJYQnNkU0FrQnE4Qk1Lb2owUk1TTnZJR3pwRHhQRkpfRFMtZ29sbGfSAdcBQVVfeXFMT2t2a3M3YzJXV0xrNTNwck91MjhzWDBoQVBuUGlvNHhURzRab3hTd05zVk9RaEgxaFJSakZJZjN0Wk5OaXZBak41Q3ZKSWtKOFZLNFJIbGo1QzhHdTFwVHZfeXZuNUw4NHQ4NTNHTjN3VzlWRGZuX2FjN1hubVJkVXZfNW1YT1o4QnR6bnBRMi1PVFRUWHRpWE5rMjlFLVo3TEdEZFRNMGhxSkJqbWdqWkhiS2tjTi04SVdwV3d3eG9oZElLT3RBeWV3ZVNnYWdaUUpMRkRXRUE?oc=5",
+    "source": "India Today",
     "date": "2026-10-08",
     "category": "tech",
     "tag": "tech",
@@ -479,6 +505,19 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "19e529f74804",
+    "title": "Top 30 Funded Healthtech Startups In Gurugram (2026) - Inc42",
+    "description": "Source: Inc42",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHNieXdtd0JWVFN1bjNzZ09URWc5VFNidDBYdTJZNk52RTY4YUFHQTF3RXpLaVVjMjBRd0dRX3I3Q19sMFBmUFdWZjFzNlQ0M1BCR19hZXpNckJxQ1ZhRDhaTEFaaVJWaVNKU21ya1VtcTUyMS04VlpJVm9La1ZwVA?oc=5",
+    "source": "Inc42",
+    "date": "2026-10-08",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
   },
   {
     "id": "37bfcd403d06",
