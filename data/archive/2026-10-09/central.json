@@ -1,5 +1,29 @@
 [
   {
+    "id": "cfc8ffeef0fa",
+    "title": "IIIT-H study caution doctors against relying entirely on AI for medical diagnosis",
+    "description": "The researchers finds discrepancies in chest X-ray regions highlighted by vision-language models and radiologists",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/iiit-h-study-caution-doctors-against-relying-entirely-on-ai-for-medical-diagnosis/article71562754.ece",
+    "source": "The Hindu Health",
+    "date": "2026-10-09",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "256457a056ed",
+    "title": "Health Bulletin 29/January/2026 - Medical Dialogues",
+    "description": "Source: Medical Dialogues",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDBJRldPcDllWnAxTndrd0hjTjUyVEhJa3F3dUktZ3lEV294X09NaHlISndiVExnMGYxTWgyXzk1TmZSdVhHTHI2RmN3bDBRQTA2NHdXa3dLQTNQbHU2RDBUUUFiMEpMcEFmeDM5RUYxdDlRSnVEdWxQeGwtSzNaYTlZcTJGYWxoajBhYlA5UmvSAZYBQVVfeXFMT3FhVlRDMzY1MW9XVWxJYnlOVjZRTnBvLUNOLWlhN1FMNkNIeTFrQWJkQjdGN1RQS2stdXRzZzJzM0pUQjhsNW51WDBLaTdFeE5JUFlOM3RHSlBCeS1IRl9IQUxTNktza1doc0ZMRlV6Y19DZTh1LVlaNnlJSWZCY1dSanlnNDR5Tk1rbWt1c0lzbTFTU3VB?oc=5",
+    "source": "Medical Dialogues",
+    "date": "2026-10-09",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "917cea322e88",
     "title": "Times Network India Health Awards 2026 Honors Pioneers In Healthcare Workers - Health and Me",
     "description": "Source: Health and Me",
@@ -36,6 +60,18 @@
     "priority": "medium"
   },
   {
+    "id": "e6a7d4a8f9d3",
+    "title": "Making transparency the foundation of trust in medicine - The Hindu",
+    "description": "Source: The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE1NbGlOVWFKN2VIbnUwUGI4eFR0QjZmS1B6Q3FzajVOSjdxM2diVlVzUnBPME5SLVdwVjhHa2Z2OEVmenM3RlFiR0E0bTduR3ZSOElfZnNxTXV3M1ZFODRVQzg3Y3NlX2taUTdqSS1DaDAxVUdKcVEwOUtrekpkSVdzeDdNWlBWSUNrQWlCenlEcmtfY3pkLXlZcFJiMEw5bm1ZcVJJSmlDNDlBOWZoRjlvVdIBugFBVV95cUxPZE13RWhTN1QzTTY2Ul9TNFpab1hJbVE2VFFNVnBjS1kyUk1aN2V3eHhZa1dheDRjMkdNdzY3YWdlbV9lVzd5UzVJVTB4LTlyV2FWaU9IU2sxQ1JuSmZuZzdFNVFJODdZXzVGVU9OQ2IyNmtyWTBpWU9rRm1UenowOFYtdERoeFZja1pnOWNEX3Z3a0tvUDZONDJEdks2TmZrUG5uSzVhRHZJM0JkYzRsSHpzQUNwMVhtR2c?oc=5",
+    "source": "The Hindu",
+    "date": "2026-10-09",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "e2a997568a81",
     "title": "News Analysis 15 June 2026 | Latest News & Current Affairs - Drishti IAS",
     "description": "Source: Drishti IAS",
@@ -53,18 +89,6 @@
     "description": "Source: News On AIR",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMF9vSEFVOHQ1SzJqc1J1OWpOS1g5YU53ZVJBZ1d3UkJ5djZMZmxPV0tLb3Y1MlJ6NVhUWTNNTXU1X01CcUMwY0lmOTNPckEtY1QzQWxFNUlHdm85SlJkdm1mWDBGRFk5N1RSNmI5ZXhHUXJjZHNLNTd4Vmh5SllwWEVFZkROTUZ0ajdXejVLcFJWbHVCWmxRMjNOV3JwQQ?oc=5",
     "source": "News On AIR",
-    "date": "2026-10-09",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "c0ccaf62c13b",
-    "title": "Why Maharashtra’s doctors have been protesting for weeks - The Indian Express",
-    "description": "Source: The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMl85Q3Z4bkdaUFlPZVkzejlqNGxCa1VlQl9iNjZnU0VVRENaLW1PU2JBNGh6YlVLOW8xNlNwTmNjMkhENTBqaFBkR052Q3NZdzJoYnhwLWI2cG5FVzJEbENPZ243dmtwd29LX25rQTlTc2JxZ2k1MTlWMWhyVTVHaEdJaEx0cWlvTkpWZHpCdVlqYkxQOUgwX1hvNDJMbElQY0w0RkF4Xy00bTExN05wTjRPbTEwRm9BTS1tLVpLQmxlZHlHTzlaN2l0cVpDRjZ1VUdfUDEtYmFDd9IB4AFBVV95cUxOU3VZMmJFQWxQVUdMS0VTX250VDVZLVJxOEdWN2ZVUng4TlZoQnRPbmpBTFdqYTF5WlN6QVg2VWNmU0ZkWENqRy05UFhTMFFpOVdiamVUenRGMkdrUGZUZUlEcVdHQjVwcVV5NGcxXy00YXZmWXg0UmlUUWs2dXhiTUdma2F3NDNRR0JkUmo2UWhlSWc5blhpNUd4UzJyaGJZc0NCNTZxNDUzcFI2RHFmczU0cDMwLVNqeFhWS0dTaU04R3BOakNFQmFoUjNLQkZidzBlQlIzTEpMbHF4YjlibQ?oc=5",
-    "source": "The Indian Express",
     "date": "2026-10-09",
     "category": "central",
     "tag": "central",
@@ -168,11 +192,11 @@
     "priority": "medium"
   },
   {
-    "id": "b72dd563aed9",
-    "title": "Ayushman Bharat completes 8 years with health cover of Rs 5 lakh to over 12 crore families: NHA CEO - ANI News",
-    "description": "Source: ANI News",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFVwdXo3eWhydTR3bW00Y3pFcWNJaHFxN2g4WnNtSzBjVUtrM2pPUkNKd1lsTWVGNG94V2psbW1BWmtUT3hlRmNyQjVybU5XRUFWQzFuVFFHb2NyV1ZMT2dLMFNwcDNwUEVORTZiNUo3MUc3dmRySHBJYmlWR0dYdE1aOEZCSTRtRHI0bFp6TGNBd2F1NEdaQjNoZFdUV1BKN0lmaXhMOHZhb09MV1ctZ0lpVVAyTWFPNmxWUVNjaVNfWXVtbk54WjZNUHplZFQ0bTJwNlZaekdhcEFjMzhTeWwyemN5ZXdNODQtSGdYUFpOVlNp?oc=5",
-    "source": "ANI News",
+    "id": "637bd3b2c7bd",
+    "title": "News Analysis 26 September 2026 | Latest News & Current Affairs - Drishti IAS",
+    "description": "Source: Drishti IAS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlNVWGk0MzgxcHA1WDlnekdGZFVfS0pkMkE3MGEzNE9FMkNXNmY2S3JqNzFPRUlUMGNuNUFWb3FBaEVDdW1lVmxBbjVFN184Mkc2LXM0WE1zdHBFdlRFeHV4anRqaEtVQnhld21mLUlFMDVMdTdNbDZrNHFDNkdIZnBfRmtpYlZZdHBNaWM2WnhOeU5jZGNn?oc=5",
+    "source": "Drishti IAS",
     "date": "2026-10-09",
     "category": "central",
     "tag": "central",
@@ -180,11 +204,11 @@
     "priority": "medium"
   },
   {
-    "id": "637bd3b2c7bd",
-    "title": "News Analysis 26 September 2026 | Latest News & Current Affairs - Drishti IAS",
-    "description": "Source: Drishti IAS",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlNVWGk0MzgxcHA1WDlnekdGZFVfS0pkMkE3MGEzNE9FMkNXNmY2S3JqNzFPRUlUMGNuNUFWb3FBaEVDdW1lVmxBbjVFN184Mkc2LXM0WE1zdHBFdlRFeHV4anRqaEtVQnhld21mLUlFMDVMdTdNbDZrNHFDNkdIZnBfRmtpYlZZdHBNaWM2WnhOeU5jZGNn?oc=5",
-    "source": "Drishti IAS",
+    "id": "b72dd563aed9",
+    "title": "Ayushman Bharat completes 8 years with health cover of Rs 5 lakh to over 12 crore families: NHA CEO - ANI News",
+    "description": "Source: ANI News",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFVwdXo3eWhydTR3bW00Y3pFcWNJaHFxN2g4WnNtSzBjVUtrM2pPUkNKd1lsTWVGNG94V2psbW1BWmtUT3hlRmNyQjVybU5XRUFWQzFuVFFHb2NyV1ZMT2dLMFNwcDNwUEVORTZiNUo3MUc3dmRySHBJYmlWR0dYdE1aOEZCSTRtRHI0bFp6TGNBd2F1NEdaQjNoZFdUV1BKN0lmaXhMOHZhb09MV1ctZ0lpVVAyTWFPNmxWUVNjaVNfWXVtbk54WjZNUHplZFQ0bTJwNlZaekdhcEFjMzhTeWwyemN5ZXdNODQtSGdYUFpOVlNp?oc=5",
+    "source": "ANI News",
     "date": "2026-10-09",
     "category": "central",
     "tag": "central",
@@ -245,18 +269,6 @@
     "description": "Source: Simmons & Simmons",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmhZR3JNMjVJRW4yWm5lOG91M3Q5LWVERkNYZXFEcVFtbWFLdlBIWTBWdnRtZzJZeUFLTnZWNFZJNUJoOENraFdtcmRHSHBwNWd3aUs4RVJjdC01Ty1qWGhDNVJULWhSLWdZeDh4bEYxRXNIVWQ1UnBvTW9oekdPd1NscVQyX0xqdUpiMENtSjZYRFFwYlk3LVBXVlFzTks3NVBqT0VfQTBPNGRNNXp2LVVoNlVtYjZDV3hiLUVxWXZsblhZLUxBUEhudTNqczB5X2V5MXV3RQ?oc=5",
     "source": "Simmons & Simmons",
-    "date": "2026-10-09",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "cd0ebb935d09",
-    "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot - NPR",
-    "description": "Source: NPR",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2VWMUhfNVV2QXNFWDExVW8yR05uZlhGYWFJc1JXZnJjMWVkMlhZdVMwWEI4aXdvWF8tT0Znei05RlFReFZCb2hvQTExcXdpb3U5N3JOajF1Ym02VnhDVnU2clV2cWEwZDVGMnBkdzFBQ2lxMk9JOVZqQjBTZjRZd3ExdWJCejIxOVdGbHI5a3NtcnBXTXRFUXhObllnWl9ockhtZTIxTGE?oc=5",
-    "source": "NPR",
     "date": "2026-10-09",
     "category": "central",
     "tag": "central",
@@ -348,18 +360,6 @@
     "priority": "medium"
   },
   {
-    "id": "934b189861c6",
-    "title": "Medical Robots Market Report 2026-2031, By Product, Type, and Geo - MarketsandMarkets",
-    "description": "Source: MarketsandMarkets",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2pMQ216bUlNcXNLM09DMmhJRzBWNFFqYnVYejU2eW80bGFFMl81YlJ3VUNXWkZRWDZlSE5mVHZLV2lxVzMwSk4zMzNqRjFtdmk4elkzdkNmdUZkb3ZuSFlibXAxQ3laQzJla25FVXVVSWEtNG1jMlc1a3NrVTZTZ0pRWVM1OVVobnRoRHJnWURiMTBRNm9n?oc=5",
-    "source": "MarketsandMarkets",
-    "date": "2026-10-09",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "c9041649b2a5",
     "title": "Paediatric Health-Tech Startup Primerry Secures ₹7.1 Crore Pre-Seed Round - India Technology News",
     "description": "Source: India Technology News",
@@ -432,11 +432,11 @@
     "priority": "medium"
   },
   {
-    "id": "4a91e973bb74",
-    "title": "Best fitness tracker 2026: Reviewed, tested, and compared - Wareable",
-    "description": "Source: Wareable",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzNmRxanpJWG5CbXZiWE9QRXk0NkVvQTRGelFKbVd5bzV6WURGWGFHcXNEdVNpTHJoNnU5ckRFblFnRGFKQVNDZmNoYTNoWjloRkpWaFM4TGwxMU1RTkhIenJBU2tVc3U3bGpxNEV5ZFZQMWtf?oc=5",
-    "source": "Wareable",
+    "id": "d292eb7ae70d",
+    "title": "After Testing Over 20, These Are The 8 Best Fitness Trackers I Recommend - Forbes",
+    "description": "Source: Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalVSRlJTS1JEMjBuOGhfeVpyakNnRzk3VE5QcUZMQmdPODVPcVczMm5oM2FadGZ1c0tCbTZTQ0tOVlNqZGFnT1o5ZWV4UldkaW9ULWdEeGZscXBfSDVTanBVcktjZlBFZ0JVSTBnZURhTmdDa1ZGUGVJQnY5c3RtSmxJNUFCWUJyZGw4?oc=5",
+    "source": "Forbes",
     "date": "2026-10-09",
     "category": "central",
     "tag": "central",
@@ -444,11 +444,11 @@
     "priority": "medium"
   },
   {
-    "id": "d292eb7ae70d",
-    "title": "After Testing Over 20, These Are The 8 Best Fitness Trackers I Recommend - Forbes",
-    "description": "Source: Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalVSRlJTS1JEMjBuOGhfeVpyakNnRzk3VE5QcUZMQmdPODVPcVczMm5oM2FadGZ1c0tCbTZTQ0tOVlNqZGFnT1o5ZWV4UldkaW9ULWdEeGZscXBfSDVTanBVcktjZlBFZ0JVSTBnZURhTmdDa1ZGUGVJQnY5c3RtSmxJNUFCWUJyZGw4?oc=5",
-    "source": "Forbes",
+    "id": "4a91e973bb74",
+    "title": "Best fitness tracker 2026: Reviewed, tested, and compared - Wareable",
+    "description": "Source: Wareable",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzNmRxanpJWG5CbXZiWE9QRXk0NkVvQTRGelFKbVd5bzV6WURGWGFHcXNEdVNpTHJoNnU5ckRFblFnRGFKQVNDZmNoYTNoWjloRkpWaFM4TGwxMU1RTkhIenJBU2tVc3U3bGpxNEV5ZFZQMWtf?oc=5",
+    "source": "Wareable",
     "date": "2026-10-09",
     "category": "central",
     "tag": "central",
