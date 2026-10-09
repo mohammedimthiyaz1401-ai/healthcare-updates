@@ -13,6 +13,19 @@
     "subcategory": "ai"
   },
   {
+    "id": "c4c9648d7d48",
+    "title": "12 AI in healthcare statistics from the 2026 Future Health Index - Philips",
+    "description": "Source: Philips",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVFkNEF3eGpVTnd2bmV2V2VYeVFCWEF6N0NnZE95UGdkenVsV0FkMEtONHBZQTU2S21mUTM5NHFDNDdoT19DeDFGaTRHT01zVFF5bHF2QXpGNTFoa1lKbFZSUzBqc21aaThJMnNPRjFFQ0pqYm5fU19WVVVVa0hCRE9XdzRpb1dWTW56QnNQcUhBQ2NHWjBkc21tZVZmVm9JSW40TndqamItbUFKNTNGd0dMb1pneE9TQkJrT2hCcw?oc=5",
+    "source": "Philips",
+    "date": "2026-10-09",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
     "id": "500a062db315",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
     "description": "Source: PIB",
@@ -50,19 +63,6 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
-  },
-  {
-    "id": "2db4378718c5",
-    "title": "Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare - Cleveland Clinic Newsroom",
-    "description": "Source: Cleveland Clinic Newsroom",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3dubDlhbXJVWF9ib0FwaXdBQkZMclNURy1pVDFyeDBfTGNyaHdNX3RqWjRteUFhOTI4UklTcUh0djJpT012ZmlWUEdzTjl3MndXYi1WWUREOFh2cDg1a0ZrUXZMQ3JCYTFxczRqYVlVS2JCZEJWak13RnBlZkM1Y094bkhuanp1ZGRuMWtFTmQ3R0xjQlh3Z3hHYlRpbWRwbkRUbEVWUlFkYVVKSHQ1ZzBybzlhTzZLVnBTcGxoUDB3bHoxaldmWW04U3hQRHBHMHQyR3l3?oc=5",
-    "source": "Cleveland Clinic Newsroom",
-    "date": "2026-10-09",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   },
   {
     "id": "a3b8cbef7f86",
@@ -143,11 +143,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "f7a8ccf612a4",
-    "title": "India Health 2026 Brings Healthcare And MedTech Ecosystem Together - BW Healthcare World",
-    "description": "Source: BW Healthcare World",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHFUR3hvSV9iSExsTHBSR2pTeTdrRWNCYk1nWjBWbHlqbmxUSU8weFoyZ3E3OWJmOFBZb3BkVXFjOWxuWUt0UlNjV1REQm16dDR6Q281XzctVlVoRlJ5OEhfbGo3c0F5SkNPSWdUMi1ZSnF3Vml2ODY3X280THNCX1lVRGVDWGxtY1VjeHVENHlHbTVQVG01UVNPV0pMcGdBYnU1bkNyODRFUkVyNGpNamdjSVdGQQ?oc=5",
-    "source": "BW Healthcare World",
+    "id": "88ee6fc60c4a",
+    "title": "India’s Medical Device Industry Grows to $18 Billion, Eyes Global MedTech Manufacturing Opportunities at Medical Fair India 2026. - TRIPURA STAR NEWS",
+    "description": "Source: TRIPURA STAR NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWZPWkVMQzZMSURlRXRhMnhHYlJ3Y0RkRmRtd0V2TlZ0Q1dDMHlHODZ6alF2UGtUakxyV1VwU3ZkbDh3OVotQTFseWtGRUFPOFdQVm9ZQVBXbmV1b0JLWHpmcGJ0TnhSSEx2SUpBNE14cUlleFMtNUs5aEtGTWN1QzU3a2lWdWxscmItcGxYX0pWdkVtdWNvUXFibzNySUJhRTNYUjgyRU9oNm10V19PeDhfUVJ4MkNlVzZVVFRTWVA2bGhwallrd01lMjRjQ3BBb0Y0YUg0M0NNdE9FaGhmODJqX0FGMWtYemlEZlBRSQ?oc=5",
+    "source": "TRIPURA STAR NEWS",
     "date": "2026-10-09",
     "category": "tech",
     "tag": "tech",
@@ -156,11 +156,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "88ee6fc60c4a",
-    "title": "India’s Medical Device Industry Grows to $18 Billion, Eyes Global MedTech Manufacturing Opportunities at Medical Fair India 2026. - TRIPURA STAR NEWS",
-    "description": "Source: TRIPURA STAR NEWS",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWZPWkVMQzZMSURlRXRhMnhHYlJ3Y0RkRmRtd0V2TlZ0Q1dDMHlHODZ6alF2UGtUakxyV1VwU3ZkbDh3OVotQTFseWtGRUFPOFdQVm9ZQVBXbmV1b0JLWHpmcGJ0TnhSSEx2SUpBNE14cUlleFMtNUs5aEtGTWN1QzU3a2lWdWxscmItcGxYX0pWdkVtdWNvUXFibzNySUJhRTNYUjgyRU9oNm10V19PeDhfUVJ4MkNlVzZVVFRTWVA2bGhwallrd01lMjRjQ3BBb0Y0YUg0M0NNdE9FaGhmODJqX0FGMWtYemlEZlBRSQ?oc=5",
-    "source": "TRIPURA STAR NEWS",
+    "id": "f7a8ccf612a4",
+    "title": "India Health 2026 Brings Healthcare And MedTech Ecosystem Together - BW Healthcare World",
+    "description": "Source: BW Healthcare World",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHFUR3hvSV9iSExsTHBSR2pTeTdrRWNCYk1nWjBWbHlqbmxUSU8weFoyZ3E3OWJmOFBZb3BkVXFjOWxuWUt0UlNjV1REQm16dDR6Q281XzctVlVoRlJ5OEhfbGo3c0F5SkNPSWdUMi1ZSnF3Vml2ODY3X280THNCX1lVRGVDWGxtY1VjeHVENHlHbTVQVG01UVNPV0pMcGdBYnU1bkNyODRFUkVyNGpNamdjSVdGQQ?oc=5",
+    "source": "BW Healthcare World",
     "date": "2026-10-09",
     "category": "tech",
     "tag": "tech",
@@ -338,19 +338,6 @@
     "subcategory": "genomics"
   },
   {
-    "id": "2fcce0f9f64d",
-    "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWYzT1MtM1NmWW84V3AyNWk1V0h0eTh0ZFE5eXhzeXQ2c0sxaFFRdHBaMDhhZXZaS29EaWdjdHRvdTRybER1aEJzNEN0NzRfTThIWlZIREFvM0NPMGFvbGhCVHNIcHpuWUtqaVluUUU5LXRGMlhfOWNGTGRnWWc5NnoxdllVYnY5TFZOZEJjNVh1UkJGWno4?oc=5",
-    "source": "Fortune Business Insights",
-    "date": "2026-10-09",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "1dd0d542d1fb",
     "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
     "description": "Source: Spherical Insights",
@@ -362,6 +349,19 @@
     "tag_label": "Genomics",
     "priority": "medium",
     "subcategory": "genomics"
+  },
+  {
+    "id": "2fcce0f9f64d",
+    "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - Fortune Business Insights",
+    "description": "Source: Fortune Business Insights",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWYzT1MtM1NmWW84V3AyNWk1V0h0eTh0ZFE5eXhzeXQ2c0sxaFFRdHBaMDhhZXZaS29EaWdjdHRvdTRybER1aEJzNEN0NzRfTThIWlZIREFvM0NPMGFvbGhCVHNIcHpuWUtqaVluUUU5LXRGMlhfOWNGTGRnWWc5NnoxdllVYnY5TFZOZEJjNVh1UkJGWno4?oc=5",
+    "source": "Fortune Business Insights",
+    "date": "2026-10-09",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "bd6423d6785d",
@@ -390,11 +390,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "8e827f4783f3",
-    "title": "Reconstructing the complex architecture of the genome with molecular scissors: applying genome editing technology in precision medicine - Frontiers",
-    "description": "Source: Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlNtQ19QT1ptcktxVThGUU9JRWx3Ykh0S3BmUFhGVmxaZV9fbVdZUFpreWpoVS1GVEEyb242d3pwdVhvR0JQcnZMMHNNcDEtXzN6M3F6cDIybkJ4UjhieGZJYmJqQ1RhMGpmRGhhTEthWnhMb2dQYVhjRWFNcDBJN3dWTVVxWWhGMFVKc3ZmVTFwYnNzQkJ3?oc=5",
-    "source": "Frontiers",
+    "id": "911a14371074",
+    "title": "Precision medicine | The cure is in your genes - India Today",
+    "description": "Source: India Today",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSk45aHJ1dDhld2lFZTdTU2EzWVdUM1RfTVBSS2xPTlk1cUlPMXlQOENXVnJ0Y2hrZW1ERGRHNnBxOEw2Y0dmaDNTV01oVTlRQm51SXR2Z3Z1WEU4RlNGcVFHejU5SFI5LVpkYWVkclpJUDFsWEVlTDNUUGZjZ1dxN2N1aVE2S0Q4RG9IbkJXRUZxN0dVTS0wRVdBMXE3S0JQcXVlUFB1QWdZYWJYQnNkU0FrQnE4Qk1Lb2owUk1TTnZJR3pwRHhQRkpfRFMtZ29sbGfSAdcBQVVfeXFMT2t2a3M3YzJXV0xrNTNwck91MjhzWDBoQVBuUGlvNHhURzRab3hTd05zVk9RaEgxaFJSakZJZjN0Wk5OaXZBak41Q3ZKSWtKOFZLNFJIbGo1QzhHdTFwVHZfeXZuNUw4NHQ4NTNHTjN3VzlWRGZuX2FjN1hubVJkVXZfNW1YT1o4QnR6bnBRMi1PVFRUWHRpWE5rMjlFLVo3TEdEZFRNMGhxSkJqbWdqWkhiS2tjTi04SVdwV3d3eG9oZElLT3RBeWV3ZVNnYWdaUUpMRkRXRUE?oc=5",
+    "source": "India Today",
     "date": "2026-10-09",
     "category": "tech",
     "tag": "tech",
@@ -403,11 +403,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "911a14371074",
-    "title": "Precision medicine | The cure is in your genes - India Today",
-    "description": "Source: India Today",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSk45aHJ1dDhld2lFZTdTU2EzWVdUM1RfTVBSS2xPTlk1cUlPMXlQOENXVnJ0Y2hrZW1ERGRHNnBxOEw2Y0dmaDNTV01oVTlRQm51SXR2Z3Z1WEU4RlNGcVFHejU5SFI5LVpkYWVkclpJUDFsWEVlTDNUUGZjZ1dxN2N1aVE2S0Q4RG9IbkJXRUZxN0dVTS0wRVdBMXE3S0JQcXVlUFB1QWdZYWJYQnNkU0FrQnE4Qk1Lb2owUk1TTnZJR3pwRHhQRkpfRFMtZ29sbGfSAdcBQVVfeXFMT2t2a3M3YzJXV0xrNTNwck91MjhzWDBoQVBuUGlvNHhURzRab3hTd05zVk9RaEgxaFJSakZJZjN0Wk5OaXZBak41Q3ZKSWtKOFZLNFJIbGo1QzhHdTFwVHZfeXZuNUw4NHQ4NTNHTjN3VzlWRGZuX2FjN1hubVJkVXZfNW1YT1o4QnR6bnBRMi1PVFRUWHRpWE5rMjlFLVo3TEdEZFRNMGhxSkJqbWdqWkhiS2tjTi04SVdwV3d3eG9oZElLT3RBeWV3ZVNnYWdaUUpMRkRXRUE?oc=5",
-    "source": "India Today",
+    "id": "8e827f4783f3",
+    "title": "Reconstructing the complex architecture of the genome with molecular scissors: applying genome editing technology in precision medicine - Frontiers",
+    "description": "Source: Frontiers",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlNtQ19QT1ptcktxVThGUU9JRWx3Ykh0S3BmUFhGVmxaZV9fbVdZUFpreWpoVS1GVEEyb242d3pwdVhvR0JQcnZMMHNNcDEtXzN6M3F6cDIybkJ4UjhieGZJYmJqQ1RhMGpmRGhhTEthWnhMb2dQYVhjRWFNcDBJN3dWTVVxWWhGMFVKc3ZmVTFwYnNzQkJ3?oc=5",
+    "source": "Frontiers",
     "date": "2026-10-09",
     "category": "tech",
     "tag": "tech",
@@ -481,19 +481,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "a3cae6126313",
-    "title": "India's Digital Health Funding Tracker: What Got Funded in July 2026 - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5BdEVWZHVPX1dDZFZxQmdJZlMxQV8zdmNCRzZHNmduTE5EYUM0LWhwUjYwMHdDMkJ6ODdROWZ3NU1kNzl4ajdUZHpMRDFZamNCU3dwVnFOMkYydE9pbTJpbm9TRU4tTWs2UUlsbTBEd1FCdEkza0QtTEoyVlNrQXFYaERZZlFOWkxzR0dpUXNjY3oydXY0VklWenVmRzNRWkdF?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-10-09",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "ac6f3b0ff0d3",
     "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
     "description": "Source: Digital in Asia",
@@ -518,6 +505,19 @@
     "tag_label": "Startup",
     "priority": "medium",
     "subcategory": "startup"
+  },
+  {
+    "id": "a3cae6126313",
+    "title": "India's Digital Health Funding Tracker: What Got Funded in July 2026 - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5BdEVWZHVPX1dDZFZxQmdJZlMxQV8zdmNCRzZHNmduTE5EYUM0LWhwUjYwMHdDMkJ6ODdROWZ3NU1kNzl4ajdUZHpMRDFZamNCU3dwVnFOMkYydE9pbTJpbm9TRU4tTWs2UUlsbTBEd1FCdEkza0QtTEoyVlNrQXFYaERZZlFOWkxzR0dpUXNjY3oydXY0VklWenVmRzNRWkdF?oc=5",
+    "source": "Digital Health News",
+    "date": "2026-10-09",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
   },
   {
     "id": "37bfcd403d06",
