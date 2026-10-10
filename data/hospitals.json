@@ -1,5 +1,17 @@
 [
   {
+    "id": "61f86f73c957",
+    "title": "Tennessee execution survivor Christa Pike released from hospital, returned to prison",
+    "description": "Pike was discharged from a local hospital and is now at the rehabilitation ‌center that she has been housed for more than 30 years",
+    "url": "https://www.thehindu.com/news/international/tennessee-execution-survivor-christa-pike-released-from-hospital-returned-to-prison/article71569633.ece",
+    "source": "The Hindu Health",
+    "date": "2026-10-10",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
     "id": "c9a31570b4f6",
     "title": "Police constable arrested for black-flag protest over daughter’s treatment",
     "description": "He allegedly staged the protest to draw attention to medical negligence in the treatment of his 10-year-old daughter at the Institute of Child Health and Hospital for Children in Egmore",
@@ -48,11 +60,11 @@
     "priority": "medium"
   },
   {
-    "id": "d3ea0ba4b66b",
-    "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks - Nature",
-    "description": "Source: Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5",
-    "source": "Nature",
+    "id": "fee9a1126133",
+    "title": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+    "description": "Source: The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkc2S1Zlc0pCdDl6NjZnTl9zNXZQZnZaNTF1d3lkazNqZkJCSFhLaHNXT1ZZcTNQeFdNdzJ1S1FNeVNuSDNPcmFfQUxMbzdHLWhBQVpTd1BiYXp6d1VoRUVwX2xqVWlQWHdDU0tHRDZyQTdVZzJXUUs4a2czZ1BlM0J0aFRLcm9nUDNDTW5rZndjQQ?oc=5",
+    "source": "The New York Times",
     "date": "2026-10-10",
     "category": "hospitals",
     "tag": "hospital",
