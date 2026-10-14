@@ -1,17 +1,5 @@
 [
   {
-    "id": "5c93401de7dd",
-    "title": "What intestinal gas can tell us about our gastrointestinal health",
-    "description": "Flatulence, or releasing gas, has always been associated with jokes and considered a funny, if embarrassing phenomenon. Recent research, however, suggests that intestinal gases do have a function: they influence gut motility, gut transit time, and gastrointestinal symptoms",
-    "url": "https://www.thehindu.com/sci-tech/health/what-intestinal-gas-can-tell-us-about-our-gastrointestinal-health/article71558759.ece",
-    "source": "The Hindu Health",
-    "date": "2026-10-14",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "256457a056ed",
     "title": "Health Bulletin 29/January/2026 - Medical Dialogues",
     "description": "Source: Medical Dialogues",
@@ -108,6 +96,18 @@
     "priority": "medium"
   },
   {
+    "id": "5619e57aebfb",
+    "title": "Himachal says Centre withheld Rs 112 crore Ayushman Bharat funds, health projects hit - India Today",
+    "description": "Source: India Today",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOEt1dkhITjhaR1JHWVdkcTM1cmxDSmpvMFEzN3dPU0hSYTVGTVNXZ0RQazZSTTdvLUlTZXNTc1BuUTZQRmt2MlBTR1ZMdU9PRjd3dzlYZnRGa3MwUmNacDdkaEdreGZUZFVoZXA3M0RmNVVFdEFJQlFUVjBRWlVoZXk2dlpSRE5VNE9MRXA5X0VqR0N6VHVCanNuMmxTSjlyRU1ya1hMYUlKSzFyQzFiYXZiSTUwTXpVNW5iNEJJRnhuWi1yd01XZGFqNkk0Q3FaWlZCV3RWeVpDLXoyRVFqMXZfa1ZTdjhoSmNRZ3pWMXhnYkxMQjlFSdIB_gFBVV95cUxNdkNhaG9DWnQwNnh3YlZiNV9XeU9vRXhicjFtNVg3cnVhTElqU2lxR0NtbzVrNFpfZUJiY3lIZTF4dnNmSG9zQW1hU01nZzdfMTBmWmlLM1BuM19wM0dWNTMtcE45alBLR1A2RW5nUlVBeXMzbHVvd2NMUlB6eldoc2dQVEVTUnBKdnQtTTIydkJmem1fS0o0ckxhbkNLQkFsMUs1NzdMNnhsSmxHWkdBM1FsRmlXb2J4aTJZel8yVDVvckhiUlM4MW9QYXlOT21lbFNNM1ZXX3ZBeG1LMENubHFTVTBycGxhcW9nTXdhZGFhcmVUNlVpVXdKcjVBdw?oc=5",
+    "source": "India Today",
+    "date": "2026-10-14",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "3894221afbba",
     "title": "Affordable and Accessible Healthcare for All - PIB",
     "description": "Source: PIB",
@@ -161,30 +161,6 @@
     "description": "Source: Open Magazine",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Y1Uyc1BfaWE5b2Y0RkRtcjFqWXB3VHJ6Y04tR25jenhYSE54XzI5ZXNvQnNiMWVmcElmVUlkbmk0eWsyUURMejgwZkwtMTFwRG8wVHRwaVpPSjl5Z1E?oc=5",
     "source": "Open Magazine",
-    "date": "2026-10-14",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "51a8874cd303",
-    "title": "Ayushman Bharat PM-JAY marks 8 years, covers over 48.5 crore people - DD India",
-    "description": "Source: DD India",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2E1cEd0UXVkSmZLdkNXZ1NmbnZqRHRVMnRRVDE1Y2pqUDBTUXRHQnhnSGpzMHhranRRX0tRQWlDV3lUM2c4bmNhZ3hzU1RwSDdub3lZM1pDY3RLdFotUE1yZTJkUml0RW0wRWpBSzdUY091dHFIWk1WWFJudmpMd1NqUVNFeUc3c1BlTTRocVdpTkh4YzdjblRrOTBYdw?oc=5",
-    "source": "DD India",
-    "date": "2026-10-14",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "86d699d74a3c",
-    "title": "Ayushman Bharat Digital Mission - www.pib.gov.in",
-    "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TTWdhU0FUbnZfQlBkWXo3bU5CYUdEQU41UjBMVTRwVjlWTzFHdEJ3ZmljZHJ2cnloM0xYa2VFazZjVl8zUldILWhUZHZMaGdsa2dodGpiUHBvYVctYkVHSks0TWJSdXBBS0k5RFUySlVncDk3SEhmR2ZB?oc=5",
-    "source": "www.pib.gov.in",
     "date": "2026-10-14",
     "category": "central",
     "tag": "central",
@@ -252,11 +228,11 @@
     "priority": "medium"
   },
   {
-    "id": "d7fbf77ab0b9",
-    "title": "India Takes a Genomic Leap: CSIR-IGIB and Serum Institute Partner to Deliver Indigenous Gene-Editing Therapies - DD News",
-    "description": "Source: DD News",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdmZNbjc0aEpTWFYzTzFUMWVUX3RYRGxuNFE2WFNTa0F3S3hyNkwtZnQ5RlVYVnZaM2lEYnJScVNrRGtIZDhndHhjRmNvMUlMS1ZKRjR6MU5yVlpQTjEtRndrOHd4djViTU1MRGNiUEtrTE9rc01kUlRCNkQ3dWFwejd2T21GbUdNNHMwa2xWSHpWTjh3eHRJMmdTcExHNUhuXzZ4VG5YSmJBMjA1R0lrM3phZUNJc2xUMEw2YjJKSEJYT0U5d0RCanVXeXlUSnpR?oc=5",
-    "source": "DD News",
+    "id": "e4dc1e579c1f",
+    "title": "India Pharma 2047: Becoming an innovation powerhouse - EY",
+    "description": "Source: EY",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2NnLUEtbmlzVm90NlVzN1VpSmJXQXdMWGx6RXBCTWdhWmdDYmFick0zU09pa0VYZnRPZWZReUp5TVcxemZUNVVNeUVpMEI1TElvZHE2R0lkcHNvZjhiRGRKVWxKQy1HWmJaUV9GOVJjbGpOaHVaT01zT3RVcmI2VlBXZDZ5TXFRSXpxUUhpV3A1SWpWOEN3?oc=5",
+    "source": "EY",
     "date": "2026-10-14",
     "category": "central",
     "tag": "central",
@@ -264,11 +240,11 @@
     "priority": "medium"
   },
   {
-    "id": "e4dc1e579c1f",
-    "title": "India Pharma 2047: Becoming an innovation powerhouse - EY",
-    "description": "Source: EY",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2NnLUEtbmlzVm90NlVzN1VpSmJXQXdMWGx6RXBCTWdhWmdDYmFick0zU09pa0VYZnRPZWZReUp5TVcxemZUNVVNeUVpMEI1TElvZHE2R0lkcHNvZjhiRGRKVWxKQy1HWmJaUV9GOVJjbGpOaHVaT01zT3RVcmI2VlBXZDZ5TXFRSXpxUUhpV3A1SWpWOEN3?oc=5",
-    "source": "EY",
+    "id": "068678b293fa",
+    "title": "CGT Global Convergence 2026: India must bridge innovation and patient access, says Ravi Boratkar - BioSpectrum India",
+    "description": "Source: BioSpectrum India",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeTVxS2Z4OTlWcW1FYmpMUWhkRzVOMDRQclZuQ2RPUXdVYlFmeFNuaGNBRGF1elBKSU9DWmRGbm9QdThrU2Z5MlhUUThzaWNCanRibU1xRVN5M3VtZzV2T21TQW9vM0ZIQmtUclpvTWhheDRVdVRMekZ6cnM5c0FOMmYzbllYYjVYTFpKZW5jTFIwWXU5el9pN3RaNGlLSTFnVXhJa1lEUG1CTmZDWEdqUy1LeUlWdHJaVkl0RDRDcnk0YzViZ0NlTzdMeFhvUUlCY05DdlV3RFRmTVdmN0o4?oc=5",
+    "source": "BioSpectrum India",
     "date": "2026-10-14",
     "category": "central",
     "tag": "central",
@@ -468,11 +444,11 @@
     "priority": "medium"
   },
   {
-    "id": "03cc9e0c5de1",
-    "title": "Affordable and Accessible Healthcare for All - Press Information Bureau",
-    "description": "Source: Press Information Bureau",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYi1fTVpsUG1iMmlqSlFoWXJqa3VKS04wQ0hZSWdDd3VVN2RES2c5U09Hcks3ZEpQWXBSMkVqLWs3bWFXcGpDQi1sUHE5S2swVG53cDdnWjNUeFlrVEFmNUZuUFRhekJ1WnJIYTFUQmQwbS1wd1RCOG5jVjExSXdqM0pzaG9CLUdrdVE?oc=5",
-    "source": "Press Information Bureau",
+    "id": "a9bc68222bab",
+    "title": "India’s Health Transformation - PIB",
+    "description": "Source: PIB",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2JEMmpOTWM5WGREakdUTEdTamdhWFRMSURzQnpfZnVtbEQ3cWdkNFJKdFc1bHZwdm93SE1CUlY0dGZjMlNROWZNN0t4ZTlWZmh3X0g3ck52eGhFUnpqcmR1MjhEOWFFR2hZX0l5ZXlrTTJocU9vNWxENjhhYTM2amh6RQ?oc=5",
+    "source": "PIB",
     "date": "2026-10-14",
     "category": "central",
     "tag": "central",

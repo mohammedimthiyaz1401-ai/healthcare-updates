@@ -247,6 +247,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "0051a6f3d3e7",
+    "title": "AI Is Becoming India’s New Healthcare Workforce: Meet Top 10 Indian HealthTech Companies of 2026 - eHealth Magazine",
+    "description": "Source: eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEQyYXJlZFZIVURlT2RFUHZyOWtXLTlJdU5DZ19kblZSS2pObWI5OUM3MFFtTWFTWTBZUnI5dTZNSG9pbXFSQVY2dUVhNXVueGZJN3RmQU9aMzFVZ3ZDSWdQRzlEeWpRb3AteTQxWDhUVWEwaEdGWGNvZ1FXMUZHQXMzd1BVbDIxUkxYdVE1ZWtWZmIweHhyYUtFOU5fQTFfQU9GRXNIcGN0bm5IcDRhdHJFNGQ0bllMNXg3YlpZOXBpSXZScHhwbW1TN0lsZDBG?oc=5",
+    "source": "eHealth Magazine",
+    "date": "2026-10-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
     "id": "e7e56efc36ba",
     "title": "Telemedicine & Digital Health Research Report 2026: A $180 - GlobeNewswire",
     "description": "Source: GlobeNewswire",
@@ -286,17 +299,17 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "359c125cfff1",
-    "title": "AI in Telehealth & Telemedicine Market Size, Share, Growth 2034 - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmZjUzlrRGpOdzJJOFYyNmRLbEk0bmJ6b3lPQmpnWk1NQXduemYzcHRyMTRZMF83SnFhSVpBSnVCQXRESjZ4Z01VekxjUEJXYktLZk41eWZTNjZBcWtQbC1zMFZoNFRsSnUzTnRhMTlIeHUzVTdzQ2YwbWQ1cldvaXNaSDRPUXJoZU1F?oc=5",
-    "source": "Fortune Business Insights",
+    "id": "712788389102",
+    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
+    "description": "Source: orfonline.org",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
+    "source": "orfonline.org",
     "date": "2026-10-14",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Telehealth",
+    "tag_label": "Genomics",
     "priority": "medium",
-    "subcategory": "telehealth"
+    "subcategory": "genomics"
   },
   {
     "id": "3bf260e915e0",
@@ -338,6 +351,32 @@
     "subcategory": "genomics"
   },
   {
+    "id": "2fcce0f9f64d",
+    "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - Fortune Business Insights",
+    "description": "Source: Fortune Business Insights",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWYzT1MtM1NmWW84V3AyNWk1V0h0eTh0ZFE5eXhzeXQ2c0sxaFFRdHBaMDhhZXZaS29EaWdjdHRvdTRybER1aEJzNEN0NzRfTThIWlZIREFvM0NPMGFvbGhCVHNIcHpuWUtqaVluUUU5LXRGMlhfOWNGTGRnWWc5NnoxdllVYnY5TFZOZEJjNVh1UkJGWno4?oc=5",
+    "source": "Fortune Business Insights",
+    "date": "2026-10-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
+    "id": "12f507511ea9",
+    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - The Indian Practitioner",
+    "description": "Source: The Indian Practitioner",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpwdHVpbDN2MDYyTUp5LTAyajZ3UkhXVThsQnFycUpUX1o4RDBRZW1XRWVzTHBkWF9NYW9PZmQwaGRoMmhUUTVZeGw0WFhJZkpwN3Z6NFR6UXRmcjc3V0pFVS1rX2M4UWwwbkhZanhHRjBSdWtlTjFDcjJ4N3lEWWFqQmFrdmN1Q093VVJlelFSS1VzeWhBLTc1aWswdjdOZ2VzaFQ3WGkxN1Y3akdmUw?oc=5",
+    "source": "The Indian Practitioner",
+    "date": "2026-10-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "911a14371074",
     "title": "Precision medicine | The cure is in your genes - India Today",
     "description": "Source: India Today",
@@ -362,45 +401,6 @@
     "tag_label": "Genomics",
     "priority": "medium",
     "subcategory": "genomics"
-  },
-  {
-    "id": "712788389102",
-    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
-    "description": "Source: orfonline.org",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
-    "source": "orfonline.org",
-    "date": "2026-10-14",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "8e827f4783f3",
-    "title": "Reconstructing the complex architecture of the genome with molecular scissors: applying genome editing technology in precision medicine - Frontiers",
-    "description": "Source: Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlNtQ19QT1ptcktxVThGUU9JRWx3Ykh0S3BmUFhGVmxaZV9fbVdZUFpreWpoVS1GVEEyb242d3pwdVhvR0JQcnZMMHNNcDEtXzN6M3F6cDIybkJ4UjhieGZJYmJqQ1RhMGpmRGhhTEthWnhMb2dQYVhjRWFNcDBJN3dWTVVxWWhGMFVKc3ZmVTFwYnNzQkJ3?oc=5",
-    "source": "Frontiers",
-    "date": "2026-10-14",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "e918aaa0dd1a",
-    "title": "Personalized Medicine Market | Global Market Analysis Report - 2036 - Fact.MR",
-    "description": "Source: Fact.MR",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncHlNVlVnQ0Q2d19DT3FBZW5pSld0TXNuc1RYZ1l0b24wbGNTZkxETml4eUZPN204TVdFbF9CVlRVVEJpU2VQY0dSUnJqTUdRLWxQUlJWcHBaTVBCanVyeWtVNXFYMHNkSUE?oc=5",
-    "source": "Fact.MR",
-    "date": "2026-10-14",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   },
   {
     "id": "72bdd2cbb081",
@@ -455,19 +455,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "8ff128c2ec06",
-    "title": "List of 2,182 HealthTech SaaS Startups in India & Market Trends (Sep 2026) - Tracxn",
-    "description": "Source: Tracxn",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWNFUUFkYld5LTNtYkJ2OTI1WW1sZVFUbTh4Z25vYzZOSUxqSWhoV3lKTENteURxYlpjY2w4c3EtOU5Zb0NBVjJTUm9seGNtSDhucDRoSWlIb2V3ODBTOG0tLWdmR3YzS3o0Vk9GTkNKS09JcUxlQW4yVFBsT0g1dEhUdlBZVE9Jb2xWOFFOS3pRR1ZTd2tteTlzWHlEN2pmN1ZvVXI3WkdtN0th?oc=5",
-    "source": "Tracxn",
-    "date": "2026-10-14",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
     "id": "ac6f3b0ff0d3",
     "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
     "description": "Source: Digital in Asia",
@@ -479,6 +466,19 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "8ff128c2ec06",
+    "title": "List of 2,182 HealthTech SaaS Startups in India & Market Trends (Sep 2026) - Tracxn",
+    "description": "Source: Tracxn",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWNFUUFkYld5LTNtYkJ2OTI1WW1sZVFUbTh4Z25vYzZOSUxqSWhoV3lKTENteURxYlpjY2w4c3EtOU5Zb0NBVjJTUm9seGNtSDhucDRoSWlIb2V3ODBTOG0tLWdmR3YzS3o0Vk9GTkNKS09JcUxlQW4yVFBsT0g1dEhUdlBZVE9Jb2xWOFFOS3pRR1ZTd2tteTlzWHlEN2pmN1ZvVXI3WkdtN0th?oc=5",
+    "source": "Tracxn",
+    "date": "2026-10-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
   },
   {
     "id": "a3cae6126313",
