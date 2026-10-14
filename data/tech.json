@@ -1,5 +1,18 @@
 [
   {
+    "id": "ca237304e862",
+    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
+    "description": "Source: Telangana Today",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
+    "source": "Telangana Today",
+    "date": "2026-10-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
     "id": "768738ea4280",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - www.pib.gov.in",
     "description": "Source: www.pib.gov.in",
@@ -414,6 +427,32 @@
     "tag_label": "Robotics",
     "priority": "medium",
     "subcategory": "robotics"
+  },
+  {
+    "id": "09c357679b50",
+    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - Business Wire India",
+    "description": "Source: Business Wire India",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1NBSFdBVmJ0SFBtV3hTSFB0NXFGa1dvSVJoR3UzV1FPbmVsemF6SUo0dGlrREplc1hEUE1oUWlzd0REZDFKWXpYdWZXQlBPWlJZcnVWUlVWMlRrX0hWMXE1VjJyZGswcFd1d3BsQ3ZpQzdFeU43eFd5Ujh4cTdpNmRTRG5MMXlsTGNOQmFQRDdsa1N4N1l4cl9SeG9IektMTTVwZnZNVjNTNHcxX2ctMjUxVVcyWmhqa1Y4eWNrY0hCVjh6YU9OcmNJT2ZLSFROQkE?oc=5",
+    "source": "Business Wire India",
+    "date": "2026-10-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
+    "id": "b0e01c3f36fa",
+    "title": "Healthtech startup Confido Health raises $12.5 million in funding led by Z47 - The Economic Times",
+    "description": "Source: The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW00UnI0X0VpdzNtcmw3X1B2ZGx5UURqSThGMkFfSGE3OGpwdjFmNE1qSnZXWlhkTTdZSDN5ZlVlRk5RWDN0V1pyTTZZdjE4RXloWjRxWmRtNkFVdVp4TUN0MS1QTnZWT1Q5VjV4b3M4UGxzeExQek9pMUctNUJ1cWVjU3R3ODQtWG40Ujh3SjA4LW82bEJzTDRPZ2Y5bUc1UVcyeEtMUlZyTGphNzNhXzVCMXluVklNYXhYbFkxLVVyc3JFV0NBempyWGhGaERNNnlrTWlpOFVkc1E?oc=5",
+    "source": "The Economic Times",
+    "date": "2026-10-14",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
   },
   {
     "id": "9743e013ab70",
