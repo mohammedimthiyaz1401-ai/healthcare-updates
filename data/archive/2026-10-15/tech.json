@@ -1,18 +1,5 @@
 [
   {
-    "id": "1349508eddc3",
-    "title": "AI in healthcare: from fighting epidemics to family doctors - Euronews.com",
-    "description": "Source: Euronews.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUd2Vk5RYno4cGZ2alFBci1CQmtya2xJcklHM1RkbWYyMFA0WTZiU216ak01UnBSUko0WE1nb0F4VE91ZmgxVmpmZWJ1V0F6YTU0TjBhWU5YdnRVT3prdDBEUjE5RE5HMVFldFIzMUM3cjIzajZEN3I1aDYtWEpSaHRHS0wzRWNTV2daWlFOY3hKeWIxWEZXSExn?oc=5",
-    "source": "Euronews.com",
-    "date": "2026-10-15",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "768738ea4280",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - www.pib.gov.in",
     "description": "Source: www.pib.gov.in",
@@ -31,19 +18,6 @@
     "description": "Source: ET HealthWorld",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeF9fcGZUc2ZJTXA3Ykc2MnI4MVo3WEpoVDV1T1BURzVLR3dic1p2Szczd0NhcjZXTm5YcF9NSXJiSFZQa1gzeTg1VVZvLWN3X3o3RlpEOHRPUFU1cnl4WHNJejNKTEpXcmlSUnMyZ1Q2bEc1ZHdTU2Yta2IzemhFZUtEblhCRE9wNkl3NXdYMEtnZ0FWTW12alpSa2ZaSmtSNTI1TmVVdDJDbFdpby1pRkw5YzJjQ1ZidDVnOGl3Q18tRXdCdnVWQU9FOGpjak9NRGtVZ3lFRW9fQUJmcHJocDRvZVF5Y0NL0gHuAUFVX3lxTFBlVXotNTRidDBTSEVHelZ1ZldYT25XMFFZcXFkNS1MU1ZVWGRDVGQ4YWwyd3E4Z0ZuOGtDeXNfcV95RGZ6ajdlVlNRWDFLdFNERllRNlBKYTk5SUNldFRjanRIUDMyd2NMOUFlRGc3Tk5aQUROVXppMjFTaHdfV3VfOUN3ZE1MRE9pand5QWNEeHdwZ0luV3piMEFsSWphbVNhRUpKS1YyLTZYRkctaVFxbzJoMDBDUGpJTHdmNDgyaWZoQnpjcktRQ0RkNXl6R0laQWlGWGxiTFJiaDU1dFliZURrRGZaVDJwajRvY2c?oc=5",
     "source": "ET HealthWorld",
-    "date": "2026-10-15",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "6d656dfa39c2",
-    "title": "IEEE MedTech Conclave 2026 highlights collaborative innovations for future healthcare - The Times of India",
-    "description": "Source: The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd3RxanZ4TDNPXzNnd25VZ3ltLWZaeG9kYnVzaW9DdDRld3BDVERLYnljT3NmR3ctbkpCckFoRS00UjNVMnc4bzlDMy1rbVpOck1lVE9PT18yQU1xM3RpTzNkRVZiWjdYMjlvekVtc3FueFFuLTFvV3lPS3MtNTh3OS1RcFlyQlhlZ1ExWnhxNTMxWUl6WWRydEpIbXI5M0NOSlIyZmlMR3B4SWhXZENQZlUycUNacEF0dE5hU0RGbkhzMVVPR2xZRWpkcWpsLU1xNVlST2hUSnk3cG5Gc1pSaFkxU2JTQWQwU1NhMDh1MHdYWjjSAfgBQVVfeXFMT1RtRVZyajh4RVQ3WG04N2FqMng0VHZHWHc4UzRGWTVxOENVNlpQcVJuQVVoVktFbjR6SXBfT2d0dVNScVBwTC1VVUxCb0hnZkY5T0lOUzNGWWs2aWhNQ1o3Wm1MUE81eEQyWnEyamJMcFcydVVpZXo3UkdFdmVtVmN4RkxvdFFOblM5bjJtaUJBV040TUtDS0hQZHJ6ZkU2bE1TNFVDUWZlRl9la1dWdzJvZ2pGZzgxTkZQenhNbHFTYm9SVjVaMFBmY1d6dWJUbjQ2LTlxTWY2cWF3WTJPdzAzaTllQWhxUmhVelI2MG5CeXAtT1JDdXo?oc=5",
-    "source": "The Times of India",
     "date": "2026-10-15",
     "category": "tech",
     "tag": "tech",
@@ -148,6 +122,19 @@
     "description": "Source: Medical Buyer",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFhhN2FIenFTMzNSTlI2SWZSWVViQi00SlE3RUdrTFhCMDhKejFhcGRyQTBneXhPblhTa25SSUdXQ3JlQTBtWlQ3Y3pDMzZfcGJWcm9jSWpabnNNeFJ0Z3dpdm5xQWxKazM0SHAxZmJOVlZpTVZkVW96ZUFzMVJQUTRyaEhwYUJlWVJPYkd2NEFiWmlEMW9mTnB6LV80UkNmcV9BN25UVWE5QQ?oc=5",
     "source": "Medical Buyer",
+    "date": "2026-10-15",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "7c6f30c1c77b",
+    "title": "Medical Fair India 2026 Showcases India’s Growing MedTech Sector - SMEStreet",
+    "description": "Source: SMEStreet",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaElZY0Nwc2dIcGFhcndEVXQtSURaeHJsX09CQm9DaGttN1RKbFoxT3FBeThEYk1rWUxQeVh5QzNRQlp4WVZNYzZmZjV5Z1RmQVZlNlpCWG54LTJLUTMyUnBoTWhGQkYzaXlzVVR5bTVQbmVQb0w0b1JfTkhENHdjOFNaWEdLU1dXNVdWM1VHRHpXRThoM0ZTcVNhWXh0NXpubFYw0gGjAUFVX3lxTFBoSVljQ3BzZ0hwYWFyd0RVdC1JRFp4cmxfT0JCb0Noa203VEpsWjFPcUF5OERiTWtZTFB5WHlDM1FCWnhZVk1jNmZmNXlnVGZBVmU2WkJYbngtMktRMzJScGhNaEZCRjNpeXNVVHltNVBuZVBvTDRvUl9OSEQ0d2M4U1pYR0tTV1c1V1YzVUdEeldFOGgzRlNxU2FZeHQ1em5sVjA?oc=5",
+    "source": "SMEStreet",
     "date": "2026-10-15",
     "category": "tech",
     "tag": "tech",
@@ -390,6 +377,19 @@
     "subcategory": "robotics"
   },
   {
+    "id": "319b2243dced",
+    "title": "Intuitive Introduces da Vinci 5 In India As Robotic Surgery Enters Next Phase - BW Healthcare",
+    "description": "Source: BW Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGxjeGdLc0ttVlVONUdlY3JPOU5mbnNiOGQyamZTdVAtaGk5RFRsbTlGQk1ZaVBHem41ZGF5NlpnWjdRdGh4MHFDSG9yd2VxdzJUNkJKdG9iX3p1VG04empYYzk5cno4OXR2MGpqbG5UTndNYUFRYTJPYXJhZzdEaDROaEhvYVU0X2JaNkZ1UUZDSV9UNEtJbkhEWXJ2TzQ2TXBRU0EteUpPendkS1VScFdwczhUMVZ2V1RDbXZTT2wzZ1Q5?oc=5",
+    "source": "BW Healthcare",
+    "date": "2026-10-15",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
     "id": "09c357679b50",
     "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - Business Wire India",
     "description": "Source: Business Wire India",
@@ -486,6 +486,19 @@
     "description": "Source: Tracxn",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWNFUUFkYld5LTNtYkJ2OTI1WW1sZVFUbTh4Z25vYzZOSUxqSWhoV3lKTENteURxYlpjY2w4c3EtOU5Zb0NBVjJTUm9seGNtSDhucDRoSWlIb2V3ODBTOG0tLWdmR3YzS3o0Vk9GTkNKS09JcUxlQW4yVFBsT0g1dEhUdlBZVE9Jb2xWOFFOS3pRR1ZTd2tteTlzWHlEN2pmN1ZvVXI3WkdtN0th?oc=5",
     "source": "Tracxn",
+    "date": "2026-10-15",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
+    "id": "19e529f74804",
+    "title": "Top 30 Funded Healthtech Startups In Gurugram (2026) - Inc42",
+    "description": "Source: Inc42",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHNieXdtd0JWVFN1bjNzZ09URWc5VFNidDBYdTJZNk52RTY4YUFHQTF3RXpLaVVjMjBRd0dRX3I3Q19sMFBmUFdWZjFzNlQ0M1BCR19hZXpNckJxQ1ZhRDhaTEFaaVJWaVNKU21ya1VtcTUyMS04VlpJVm9La1ZwVA?oc=5",
+    "source": "Inc42",
     "date": "2026-10-15",
     "category": "tech",
     "tag": "tech",
