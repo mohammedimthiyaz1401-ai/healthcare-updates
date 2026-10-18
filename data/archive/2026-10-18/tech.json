@@ -273,30 +273,17 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "e58fd7fddf19",
-    "title": "India reinforces commitment to advancing digital health solutions - Medical Buyer",
-    "description": "Source: Medical Buyer",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGlrd3JnWll1V1YtUWFMLVRJUVVkR01hQ3kxR2ppLW5JQkQ5alNCZGNCYmpEOUFhZjA4bGEyXzFQT0FRTU9lcmR2amJtcVJEdEpGN0pfajgyd3BRVHhDTmlRLTMwV3I3NlRVNkhoemZYaU43Q1Ywejd2QmtmT1VSX0dJUFFpVC1PX0FrMVdHTm96bUIwaWpTVA?oc=5",
-    "source": "Medical Buyer",
+    "id": "a0f1c8e02aad",
+    "title": "Asia-Pacific Telemedicine Market Size, Share & Growth, 2034 - Market Data Forecast",
+    "description": "Source: Market Data Forecast",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mdWlXeEVVcEZwYk1PcWVWRUpFVGY4NE5yQUxzZUYxQlI2dlMzaDBtNkpHOGJWcXhWemU4OUJqU3F6WGQwbmFRR3ZERV9FaGNxeE1uUjFfbTdzVnB6VHhJQTN4Wl9jYUdlY1dHNlp2Y1Y0RlhnXzEzVzVZMGlEWnM?oc=5",
+    "source": "Market Data Forecast",
     "date": "2026-10-18",
     "category": "tech",
     "tag": "tech",
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
-  },
-  {
-    "id": "712788389102",
-    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
-    "description": "Source: orfonline.org",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
-    "source": "orfonline.org",
-    "date": "2026-10-18",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
   },
   {
     "id": "2fcce0f9f64d",
@@ -382,6 +369,19 @@
     "description": "Source: The Indian Tribal",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWY4ck8wd01mZk9lemI1OVdOOGlYZkRtMHhzd2tkazduWFIwbVZmc0xYdDI3Nm1vZk1nWWJlb1lLU2MzTmNVMmVRamNzNjhkUkRQaFhST2VyQlBUSFI4T3pKUnJzeHFndWpjNGxVZGx0YkZpTWdaYUtCZDUtd3J4RFlBUHc4Y21kYlRkeUxYZWZCZ2RyMVR5R1M0OUozdS1oS3IyRmlVdlRlaTVzSk9XSTB5ZWZCelA1M2p0V21ubw?oc=5",
     "source": "The Indian Tribal",
+    "date": "2026-10-18",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
+    "id": "c16c4db8e31f",
+    "title": "India Unveils Indigenous Gene-Editing Breakthroughs Using TnpB & CRISPR Platforms - Sanskriti IAS",
+    "description": "Source: Sanskriti IAS",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJlY1BTeW5xV2FIWjNBTWJiWXdTeWsyN1hBRTBjSTFjMVJQd19HMlpzcjIyblZyVmtzbU5Fd3RVYWpQTlJmWkFqOGRzaE5nQXhoa01GWW9zb1BFNVBoSVk2dnkwelQwdlo3UkFSQTV4MzFjU1pFWTNiX2htTExxMk1Ibkp4NFYzYlVWbmd5SWZpR3VBYXduU1IyRVk0X2ZzaXg0Q054SWdYSVlxYnhQOFZlcFNKQXZ5aUNReXNlWWlqQQ?oc=5",
+    "source": "Sanskriti IAS",
     "date": "2026-10-18",
     "category": "tech",
     "tag": "tech",
@@ -518,6 +518,32 @@
     "tag_label": "Startup",
     "priority": "medium",
     "subcategory": "startup"
+  },
+  {
+    "id": "8ff128c2ec06",
+    "title": "List of 2,182 HealthTech SaaS Startups in India & Market Trends (Sep 2026) - Tracxn",
+    "description": "Source: Tracxn",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWNFUUFkYld5LTNtYkJ2OTI1WW1sZVFUbTh4Z25vYzZOSUxqSWhoV3lKTENteURxYlpjY2w4c3EtOU5Zb0NBVjJTUm9seGNtSDhucDRoSWlIb2V3ODBTOG0tLWdmR3YzS3o0Vk9GTkNKS09JcUxlQW4yVFBsT0g1dEhUdlBZVE9Jb2xWOFFOS3pRR1ZTd2tteTlzWHlEN2pmN1ZvVXI3WkdtN0th?oc=5",
+    "source": "Tracxn",
+    "date": "2026-10-18",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
+    "id": "c83758f4637f",
+    "title": "Wearable Devices Market To 2035: Health Monitoring Demand Drives Forward Growth - News and Statistics - IndexBox",
+    "description": "Source: IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX05vM2o0b0V4SWxjel9NUy01MGhPcmxhUzNXZWFRRWZkYl9sSWNzTkY0aTlWNmxsMXY3STBvSkdBaXgtVnpFZ3Zha3NNTnBzUlF3WkQ4d2NaV2dGZGpOaGliNXJQeVM5Y2FRZGV5RjVIQ0JhWDhuaEpqVU5aaEN2RTFGaWJQd0RVcUJmVHEzbDB4N0UxbmhQV0hXdm9zRlpzeWhIRE1ray1jVklINTIzU2EzdzlrQXd6?oc=5",
+    "source": "IndexBox",
+    "date": "2026-10-18",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
   },
   {
     "id": "37bfcd403d06",
