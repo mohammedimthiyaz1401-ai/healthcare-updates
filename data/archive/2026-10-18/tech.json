@@ -117,11 +117,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "d53fe38dc41c",
-    "title": "India’s Medical Device Sector Reaches $18 Bn, Targets Global MedTech Manufacturing - BW Healthcare",
-    "description": "Source: BW Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDc1MjJZQ2UwTWJnSGJoOGVtV0oyZTBhd2dlM210NkRrSHpYR2RXUERSWkN6czA4VFh6MmNlUzdjc083cGU4UG5QRFo1M1VINGwzcnM2SHRSeTdUU3Noc3lWT1pWUjZjLWJuU0EzeUxONEVWcm9QcEpQT1U5NHJ3Z3VUYV9FQ3Vsd2F4b0RpWjVwNVBwS3JibzlVbnlGNEVMOG5sUWRHVmtBN2NHU3VsX0syVERQSlc3S0RVV2RQTlgyQXRCakdMbQ?oc=5",
-    "source": "BW Healthcare",
+    "id": "eae76446cee4",
+    "title": "Health Minister Nadda chairs MedTech CEO roundtable, unveils roadmap for responsible AI adoption in healthcare - DD India",
+    "description": "Source: DD India",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVRRbTNlX1VDaEZfNlVaZGs2UDladHp2dVRwaElOUUItUkJzbG42UFVuN2gtcHhYZVJINEgzb0xFNEFzblo4dlZHNzZnS0pWTzV0WDVYZ19pNkpZc3BxT05KUGx4NlI5M3NVWGdQa25uVW1mOUJZSjNRcENEdUcxaHFYYzhKREdqTjgwb0hTYTYtdGpPNnprT0VZMWdXanZMTzhPX05IZVpLeno4a2Y1eGQzUmlnYlJVOGxzdkF3ZGNONnF1cVZLOUhNMFJwYngxWWNPak5aUQ?oc=5",
+    "source": "DD India",
     "date": "2026-10-18",
     "category": "tech",
     "tag": "tech",
@@ -130,11 +130,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "eae76446cee4",
-    "title": "Health Minister Nadda chairs MedTech CEO roundtable, unveils roadmap for responsible AI adoption in healthcare - DD India",
-    "description": "Source: DD India",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVRRbTNlX1VDaEZfNlVaZGs2UDladHp2dVRwaElOUUItUkJzbG42UFVuN2gtcHhYZVJINEgzb0xFNEFzblo4dlZHNzZnS0pWTzV0WDVYZ19pNkpZc3BxT05KUGx4NlI5M3NVWGdQa25uVW1mOUJZSjNRcENEdUcxaHFYYzhKREdqTjgwb0hTYTYtdGpPNnprT0VZMWdXanZMTzhPX05IZVpLeno4a2Y1eGQzUmlnYlJVOGxzdkF3ZGNONnF1cVZLOUhNMFJwYngxWWNPak5aUQ?oc=5",
-    "source": "DD India",
+    "id": "d53fe38dc41c",
+    "title": "India’s Medical Device Sector Reaches $18 Bn, Targets Global MedTech Manufacturing - BW Healthcare",
+    "description": "Source: BW Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDc1MjJZQ2UwTWJnSGJoOGVtV0oyZTBhd2dlM210NkRrSHpYR2RXUERSWkN6czA4VFh6MmNlUzdjc083cGU4UG5QRFo1M1VINGwzcnM2SHRSeTdUU3Noc3lWT1pWUjZjLWJuU0EzeUxONEVWcm9QcEpQT1U5NHJ3Z3VUYV9FQ3Vsd2F4b0RpWjVwNVBwS3JibzlVbnlGNEVMOG5sUWRHVmtBN2NHU3VsX0syVERQSlc3S0RVV2RQTlgyQXRCakdMbQ?oc=5",
+    "source": "BW Healthcare",
     "date": "2026-10-18",
     "category": "tech",
     "tag": "tech",
@@ -390,19 +390,6 @@
     "subcategory": "genomics"
   },
   {
-    "id": "72bdd2cbb081",
-    "title": "Surgical Robots Market Size, Industry Share, Growth Report, 2035 - SNS Insider",
-    "description": "Source: SNS Insider",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85UHFKV1ZpVjdBNy1CbkhmYU9iM1Y3SnNUWnIzYXNOMS1tV2NFYW5rR1FPdVlEcm5IM3dRYUw3eDZNUkM0WnlxSjdjS3dBTDVPNFpwaTFaZUVwRzhnVzRrZjJiUUpqbm10b3ZTamxoYw?oc=5",
-    "source": "SNS Insider",
-    "date": "2026-10-18",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Robotics",
-    "priority": "medium",
-    "subcategory": "robotics"
-  },
-  {
     "id": "319b2243dced",
     "title": "Intuitive Introduces da Vinci 5 In India As Robotic Surgery Enters Next Phase - BW Healthcare",
     "description": "Source: BW Healthcare",
@@ -416,11 +403,24 @@
     "subcategory": "robotics"
   },
   {
-    "id": "09c357679b50",
-    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - Business Wire India",
-    "description": "Source: Business Wire India",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1NBSFdBVmJ0SFBtV3hTSFB0NXFGa1dvSVJoR3UzV1FPbmVsemF6SUo0dGlrREplc1hEUE1oUWlzd0REZDFKWXpYdWZXQlBPWlJZcnVWUlVWMlRrX0hWMXE1VjJyZGswcFd1d3BsQ3ZpQzdFeU43eFd5Ujh4cTdpNmRTRG5MMXlsTGNOQmFQRDdsa1N4N1l4cl9SeG9IektMTTVwZnZNVjNTNHcxX2ctMjUxVVcyWmhqa1Y4eWNrY0hCVjh6YU9OcmNJT2ZLSFROQkE?oc=5",
-    "source": "Business Wire India",
+    "id": "72bdd2cbb081",
+    "title": "Surgical Robots Market Size, Industry Share, Growth Report, 2035 - SNS Insider",
+    "description": "Source: SNS Insider",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85UHFKV1ZpVjdBNy1CbkhmYU9iM1Y3SnNUWnIzYXNOMS1tV2NFYW5rR1FPdVlEcm5IM3dRYUw3eDZNUkM0WnlxSjdjS3dBTDVPNFpwaTFaZUVwRzhnVzRrZjJiUUpqbm10b3ZTamxoYw?oc=5",
+    "source": "SNS Insider",
+    "date": "2026-10-18",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
+    "id": "41f854c9b1a8",
+    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - TheWire.in",
+    "description": "Source: TheWire.in",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa25SYUExV0s4NGxoZmdYVkJnUTFqclRyMTg3MjIybE1jZ3U0MGg5dmpJOUxneEp1QXVLTk9HM2FLa2NxbzlYcnRFdFVrNncyU1pZT2FIX1Y2VXVDQ3A5WEhZeUJpcHo5TDlGSnVKcm1CQV9ORERCN285dEo4TlNHeG01QS1GQ1NaVkctNmpKT3lGbnRtWV9Kc2VmZzBpRWpkcWhzOTRFb1h1U1lhLVN5dE8yOWN4LTMyaklHUjJFelRlMldreVl6RtIBzgFBVV95cUxNc0MzbXBwOHk4LVhfcVFEeDFqeER5NXJyeFhpNFVMcVhDU053Zm1ZbDdpZGdsaFROS0gtNWhDeVZYcFFUT2FwSHhsQXpKSmRsS2VIdHRObUJaWlpkZGdXTVNLSmV2WS1ud0RHQ0o0LVF0Sjhzdjg4cEZIaUJZOHlhNWFSaEdycUpHaFZrR1ZMYkduTy1pZlZfSmtzaFlqTlhQRVJUeTIwVjBRWnlCMlF6S2ZiNlA0UjhKRG1SX3cwRFBZOFRzSUF6VURrdWhiUQ?oc=5",
+    "source": "TheWire.in",
     "date": "2026-10-18",
     "category": "tech",
     "tag": "tech",
