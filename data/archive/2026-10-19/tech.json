@@ -13,32 +13,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "f580426a16c3",
-    "title": "Arogya Manthan 2026 Highlights Next Phase Of Digital Health And Assurance - BW Healthcare World",
-    "description": "Source: BW Healthcare World",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1QzaHBRU3dJeWZwNl84M2ZGT3J4NDAxT3pYby1DWFRGVnN0UFlFYjd2NndvUVNSTloweWZ2UE1jYTdFUWtoY3ZsTXg3eEJoU2ZLTWpmYXlTUVpwRHRHcjdibV92Z2VKcjgwZkE4NmpIR3J4UjBzUjJEQS0ySjRfWlZZcUNfb2MtN0xVTE9WNTlHazAzVVRsOFdJM0x1alFPdEN3ZUhpUXpvRjg0dFFMT1BrU3hHdTg2b0N1V3V0Zw?oc=5",
-    "source": "BW Healthcare World",
-    "date": "2026-10-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "1349508eddc3",
-    "title": "AI in healthcare: from fighting epidemics to family doctors - Euronews.com",
-    "description": "Source: Euronews.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUd2Vk5RYno4cGZ2alFBci1CQmtya2xJcklHM1RkbWYyMFA0WTZiU216ak01UnBSUko0WE1nb0F4VE91ZmgxVmpmZWJ1V0F6YTU0TjBhWU5YdnRVT3prdDBEUjE5RE5HMVFldFIzMUM3cjIzajZEN3I1aDYtWEpSaHRHS0wzRWNTV2daWlFOY3hKeWIxWEZXSExn?oc=5",
-    "source": "Euronews.com",
-    "date": "2026-10-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "8ce7e4210a21",
     "title": "AI in healthcare: Ethical Challenges and Responsibilities for Doctors - InSight+",
     "description": "Source: InSight+",
@@ -57,6 +31,19 @@
     "description": "Source: Press Information Bureau",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
     "source": "Press Information Bureau",
+    "date": "2026-10-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "545c9677b8c4",
+    "title": "AI in MedTech can transform healthcare, report paper highlights five priorities - ET HealthWorld",
+    "description": "Source: ET HealthWorld",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeF9fcGZUc2ZJTXA3Ykc2MnI4MVo3WEpoVDV1T1BURzVLR3dic1p2Szczd0NhcjZXTm5YcF9NSXJiSFZQa1gzeTg1VVZvLWN3X3o3RlpEOHRPUFU1cnl4WHNJejNKTEpXcmlSUnMyZ1Q2bEc1ZHdTU2Yta2IzemhFZUtEblhCRE9wNkl3NXdYMEtnZ0FWTW12alpSa2ZaSmtSNTI1TmVVdDJDbFdpby1pRkw5YzJjQ1ZidDVnOGl3Q18tRXdCdnVWQU9FOGpjak9NRGtVZ3lFRW9fQUJmcHJocDRvZVF5Y0NL0gHuAUFVX3lxTFBlVXotNTRidDBTSEVHelZ1ZldYT25XMFFZcXFkNS1MU1ZVWGRDVGQ4YWwyd3E4Z0ZuOGtDeXNfcV95RGZ6ajdlVlNRWDFLdFNERllRNlBKYTk5SUNldFRjanRIUDMyd2NMOUFlRGc3Tk5aQUROVXppMjFTaHdfV3VfOUN3ZE1MRE9pand5QWNEeHdwZ0luV3piMEFsSWphbVNhRUpKS1YyLTZYRkctaVFxbzJoMDBDUGpJTHdmNDgyaWZoQnpjcktRQ0RkNXl6R0laQWlGWGxiTFJiaDU1dFliZURrRGZaVDJwajRvY2c?oc=5",
+    "source": "ET HealthWorld",
     "date": "2026-10-19",
     "category": "tech",
     "tag": "tech",
@@ -299,6 +286,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "359c125cfff1",
+    "title": "AI in Telehealth & Telemedicine Market Size, Share, Growth 2034 - Fortune Business Insights",
+    "description": "Source: Fortune Business Insights",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmZjUzlrRGpOdzJJOFYyNmRLbEk0bmJ6b3lPQmpnWk1NQXduemYzcHRyMTRZMF83SnFhSVpBSnVCQXRESjZ4Z01VekxjUEJXYktLZk41eWZTNjZBcWtQbC1zMFZoNFRsSnUzTnRhMTlIeHUzVTdzQ2YwbWQ1cldvaXNaSDRPUXJoZU1F?oc=5",
+    "source": "Fortune Business Insights",
+    "date": "2026-10-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "2fcce0f9f64d",
     "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - Fortune Business Insights",
     "description": "Source: Fortune Business Insights",
@@ -310,6 +310,19 @@
     "tag_label": "AI / ML",
     "priority": "medium",
     "subcategory": "ai"
+  },
+  {
+    "id": "3bf260e915e0",
+    "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - DD India",
+    "description": "Source: DD India",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVV2Zks4MnIyUGdLUkhRbzVQNGVFQjFKeER6VWJZTXdEWC1XMnRCcEpwSlhpQUYwZVRtZjRRMDVPVm5sODNfLVFtbGpZYi00R3RmZlFzaE5Wd2xaVzVBbXNYTUVzYVdBYWhHenp6V2dhZWEyLWxtMm5HXzFCUjRqV3NyZEZ1T184WW1iMjd4STJoOW9fQWhpVnJ1MWY0SUtEMm13RENSaw?oc=5",
+    "source": "DD India",
+    "date": "2026-10-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
   },
   {
     "id": "86229fc23241",
@@ -390,24 +403,24 @@
     "subcategory": "genomics"
   },
   {
-    "id": "c16c4db8e31f",
-    "title": "India Unveils Indigenous Gene-Editing Breakthroughs Using TnpB & CRISPR Platforms - Sanskriti IAS",
-    "description": "Source: Sanskriti IAS",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJlY1BTeW5xV2FIWjNBTWJiWXdTeWsyN1hBRTBjSTFjMVJQd19HMlpzcjIyblZyVmtzbU5Fd3RVYWpQTlJmWkFqOGRzaE5nQXhoa01GWW9zb1BFNVBoSVk2dnkwelQwdlo3UkFSQTV4MzFjU1pFWTNiX2htTExxMk1Ibkp4NFYzYlVWbmd5SWZpR3VBYXduU1IyRVk0X2ZzaXg0Q054SWdYSVlxYnhQOFZlcFNKQXZ5aUNReXNlWWlqQQ?oc=5",
-    "source": "Sanskriti IAS",
-    "date": "2026-10-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
     "id": "72bdd2cbb081",
     "title": "Surgical Robots Market Size, Industry Share, Growth Report, 2035 - SNS Insider",
     "description": "Source: SNS Insider",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85UHFKV1ZpVjdBNy1CbkhmYU9iM1Y3SnNUWnIzYXNOMS1tV2NFYW5rR1FPdVlEcm5IM3dRYUw3eDZNUkM0WnlxSjdjS3dBTDVPNFpwaTFaZUVwRzhnVzRrZjJiUUpqbm10b3ZTamxoYw?oc=5",
     "source": "SNS Insider",
+    "date": "2026-10-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
+    "id": "09c357679b50",
+    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - Business Wire India",
+    "description": "Source: Business Wire India",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1NBSFdBVmJ0SFBtV3hTSFB0NXFGa1dvSVJoR3UzV1FPbmVsemF6SUo0dGlrREplc1hEUE1oUWlzd0REZDFKWXpYdWZXQlBPWlJZcnVWUlVWMlRrX0hWMXE1VjJyZGswcFd1d3BsQ3ZpQzdFeU43eFd5Ujh4cTdpNmRTRG5MMXlsTGNOQmFQRDdsa1N4N1l4cl9SeG9IektMTTVwZnZNVjNTNHcxX2ctMjUxVVcyWmhqa1Y4eWNrY0hCVjh6YU9OcmNJT2ZLSFROQkE?oc=5",
+    "source": "Business Wire India",
     "date": "2026-10-19",
     "category": "tech",
     "tag": "tech",
@@ -427,19 +440,6 @@
     "tag_label": "Robotics",
     "priority": "medium",
     "subcategory": "robotics"
-  },
-  {
-    "id": "ff6969bf4cf4",
-    "title": "Shija Hospitals & Research Institute Unveils Manipur's First Robotic-Assisted Surgery Facility - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUFHVWhIUFhrOXNHMUNXOHdCLUt0eUpIdmJxLWFMQm03eFlsZ1l3eVYtVV9sazN3NkZJLWdYZXFZb28yU1JsR1BUSG9xdXR5X0pYQlpIOXNpQVhhSnhOazdtT2Y2WmF3M29MUWNRanc3cjc0QnZ4TjFlX2JXNnpVNXQ2NVRPc3BlTUM2d2Z6MG5ZYXdhMUtHbDhuV3U5d2dvYW1pTFdyNG1rWXBNS0Y1MU5vQXpkUGZxLTdHSlpzcklyc3U4?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-10-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
   },
   {
     "id": "b0e01c3f36fa",
@@ -533,19 +533,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "fdc90ec64a24",
-    "title": "Swiss preventive HealthTech Ahead Health bags €8.7 million and launches in Germany and the Netherlands - EU-Startups",
-    "description": "Source: EU-Startups",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNl9BNDFXYUlzSTVDVXlCWUhWTUtoVlBPX09rWHhEaWZhRGRWQ241RngtMEFuSUMyNG4zcHVfVDJRZHRhbHhDUUF4U2RiTWE5aGktU1ZTZ3pGSVNGY01IQ1hHdms2czBLczNsODBORlQxaUc4MWxqQlJzR0dJVDFaOU9UYXBXV0dOU3g1a242NFVsSm1hVXMxUjVvdFpwWWItbWpXczdsU1ZlV29rREZmQTVMUGZkaGNpNTh1UUZhenpRdzNONnNBY29ERy1SY091blZ6VVM5aDV4OEo0WjdrLTVVZ04?oc=5",
-    "source": "EU-Startups",
-    "date": "2026-10-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
     "id": "37bfcd403d06",
     "title": "India Wearable Technology Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
     "description": "Source: MarketsandMarkets",
@@ -577,6 +564,19 @@
     "description": "Source: India Today",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmRrc3VrekZBRkFzQ2s3N0MzT19iZFBPSzFfODQ5a1dCQmtFWml4SU8tcnRyZk1MQVQ0S0l2dnRVcHhXOExtbFNmNFhnRUdVeWVtTmRFdVdwaU1JMXlmbGVGc3ZFTGo4UTdqSHB4MThMWUVObjlFcjIwY0RYVGtVdGIxUEVvaHJjRmZzV0lfRTZXQ21FdGR5WHg4Z3NJVUxFbW91dm1vbm0zNDhDM1FpRlRQcFlsUmczWTJocV9mdkhDU0NMY3F0aVln0gHPAUFVX3lxTE85R2pJc25uZWhINTZ1dG1HRDFLVzlLbGxEVDFpSVVnTTMtMkVEd2kyMTRMQ052aFd0NU4yekJjdXBSR2hSX01ZQmIteVREX2VCMG80RkxfalFrZG04ODJTR1JGY2prR3A0WWxLc0xLMDhSX2xJV2RUdHEzM1UtaXZtQ1BNb3RzdS1wcVRMWVJGZWRxS3BMNWlQdHNMT1p0TXh6TVUtZ2pFWU5QakV5ZXhwOE1vSkhxT2MyaXhSU19xX05JdzhlN052T2JkaXRzSQ?oc=5",
     "source": "India Today",
+    "date": "2026-10-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "01099b0f0c2b",
+    "title": "Wearable Healthcare Devices Market Size, Share & Forecast to 2036 - Fact.MR",
+    "description": "Source: Fact.MR",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ZUo4aTV1dlhTVnhXTFIwMGsxYVdQTUFNWno5OGlzRjBDV2JsQWVlS190ZGVDVnJxbEpuTDZSZWlRV3VodVE2c01SZ2FxNEZvNmFCRk5fTTlRVVdHZzQtUHF4ZTc5UHl6UGpNbjhNNVEwQQ?oc=5",
+    "source": "Fact.MR",
     "date": "2026-10-19",
     "category": "tech",
     "tag": "tech",
