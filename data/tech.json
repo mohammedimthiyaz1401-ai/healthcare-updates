@@ -1,23 +1,23 @@
 [
   {
-    "id": "ac52d5e74b01",
-    "title": "A.P. urged to reform hospital billing practices",
-    "description": "Stakeholders urge the State government to ensure item-wise disclosure of medicine and medical device costs in hospital bills to improve transparency and protect patients’ interests",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/ap-urged-to-reform-hospital-billing-practices/article71599728.ece",
-    "source": "The Hindu Health",
-    "date": "2026-10-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "11848f62e746",
     "title": "Arogya Manthan 2026: J.P. Nadda highlights expansion of AB PM-JAY and digital health ecosystem - DD News",
     "description": "Source: DD News",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkJPT3AtbGhxTy1mX1pnSV9iVkhJN1daeFhKT3V1VWpvRHJZYmRRdXU2bHpVNk5jcDdqSFQzMXJuc1hfa2xRT21JaXBXWUlKdVMyWnU3QW1QU2sxX0hyajNYM2dIWWxhR0Fsc09aN1BqWmlRQVJ1d3ZlbW5nTm5icVF0Wk40UmZXbnZQeUlwcm14VFVvdkxNTjFMRFpGOERqM1AxcENYM2t5Q2FwUTB5UVRRRUtab0c3Mmc?oc=5",
     "source": "DD News",
+    "date": "2026-10-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
+    "id": "f580426a16c3",
+    "title": "Arogya Manthan 2026 Highlights Next Phase Of Digital Health And Assurance - BW Healthcare World",
+    "description": "Source: BW Healthcare World",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1QzaHBRU3dJeWZwNl84M2ZGT3J4NDAxT3pYby1DWFRGVnN0UFlFYjd2NndvUVNSTloweWZ2UE1jYTdFUWtoY3ZsTXg3eEJoU2ZLTWpmYXlTUVpwRHRHcjdibV92Z2VKcjgwZkE4NmpIR3J4UjBzUjJEQS0ySjRfWlZZcUNfb2MtN0xVTE9WNTlHazAzVVRsOFdJM0x1alFPdEN3ZUhpUXpvRjg0dFFMT1BrU3hHdTg2b0N1V3V0Zw?oc=5",
+    "source": "BW Healthcare World",
     "date": "2026-10-19",
     "category": "tech",
     "tag": "tech",
@@ -65,23 +65,10 @@
     "subcategory": "medtech"
   },
   {
-    "id": "545c9677b8c4",
-    "title": "AI in MedTech can transform healthcare, report paper highlights five priorities - ET HealthWorld",
-    "description": "Source: ET HealthWorld",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeF9fcGZUc2ZJTXA3Ykc2MnI4MVo3WEpoVDV1T1BURzVLR3dic1p2Szczd0NhcjZXTm5YcF9NSXJiSFZQa1gzeTg1VVZvLWN3X3o3RlpEOHRPUFU1cnl4WHNJejNKTEpXcmlSUnMyZ1Q2bEc1ZHdTU2Yta2IzemhFZUtEblhCRE9wNkl3NXdYMEtnZ0FWTW12alpSa2ZaSmtSNTI1TmVVdDJDbFdpby1pRkw5YzJjQ1ZidDVnOGl3Q18tRXdCdnVWQU9FOGpjak9NRGtVZ3lFRW9fQUJmcHJocDRvZVF5Y0NL0gHuAUFVX3lxTFBlVXotNTRidDBTSEVHelZ1ZldYT25XMFFZcXFkNS1MU1ZVWGRDVGQ4YWwyd3E4Z0ZuOGtDeXNfcV95RGZ6ajdlVlNRWDFLdFNERllRNlBKYTk5SUNldFRjanRIUDMyd2NMOUFlRGc3Tk5aQUROVXppMjFTaHdfV3VfOUN3ZE1MRE9pand5QWNEeHdwZ0luV3piMEFsSWphbVNhRUpKS1YyLTZYRkctaVFxbzJoMDBDUGpJTHdmNDgyaWZoQnpjcktRQ0RkNXl6R0laQWlGWGxiTFJiaDU1dFliZURrRGZaVDJwajRvY2c?oc=5",
-    "source": "ET HealthWorld",
-    "date": "2026-10-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "9fbf979a223c",
-    "title": "AMTZ hosts MedTech RoboSprint 2026; surgical robotic systems in focus - Medical Buyer",
+    "id": "555d88a1f6fc",
+    "title": "AMTZ hosts MedTech RoboSprint 2026; indigenous surgical robotic systems in focus - Medical Buyer",
     "description": "Source: Medical Buyer",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlFHeU91S0hxRGloRW1xbGRlVVp6cmZPUk50bG16bHRPUXFBd2J1YVpRLU9LMkdtSnRPcU9BRUoxMWFPY0I1ck5XaGdkcmRXN0NWQl9BRWhpMnVoNy1rczVwdXZyaHpzZmJQY0s3OEF6aHBYN01pR3NYa3Izcm4xNWtsMUVmU1ROdWpaX3ZfalRuWTh3T1J1ZVNZY1Q?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjdxMFRBVjhhVDZQaXBZLXkxTnVCM0tIRm9MY1JWZmxaYmRwTHFZUnV3LVV5ZnJVRHRMZnB3OEZjOVJ2Y1JGaGRGTlg3TW1sWTc2MG9BbUdmNGZFMWo1N2M0TnFVOWV0VXZxQWtfZGtkUjVraGVQOGh0c0ZuWlVuQjhrcXk0cFdVTVJPYlVsT2pVTVJfN211c1JRYUV2U1Q1UkJCRjJIbVNtTjg?oc=5",
     "source": "Medical Buyer",
     "date": "2026-10-19",
     "category": "tech",
@@ -247,6 +234,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "8782896ae3ae",
+    "title": "Apollo TeleHealth welcomes BRICS focus on digital healthcare - Medical Buyer",
+    "description": "Source: Medical Buyer",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHZobTA0bEFIS2I0NDBKNjBTME5IXzQ1WWtfbzFWZEFMREJ3WDdYOWZtXzFGV0kwQmJXME9seEllSnZDU0tpbkJ0R3IzQmVyOE1ueXpSTHQ4WGVpZ2h2bDZfNlJBU2RISVpaYkRBajRBaVItNnRkLTdZancyYnJTd3lqOXVUc1dGbXJ0cHdLQlJfZw?oc=5",
+    "source": "Medical Buyer",
+    "date": "2026-10-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "bc8187551fce",
     "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
     "description": "Source: Precedence Research",
@@ -291,19 +291,6 @@
     "description": "Source: Business Wire",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
     "source": "Business Wire",
-    "date": "2026-10-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "e58fd7fddf19",
-    "title": "India reinforces commitment to advancing digital health solutions - Medical Buyer",
-    "description": "Source: Medical Buyer",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGlrd3JnWll1V1YtUWFMLVRJUVVkR01hQ3kxR2ppLW5JQkQ5alNCZGNCYmpEOUFhZjA4bGEyXzFQT0FRTU9lcmR2amJtcVJEdEpGN0pfajgyd3BRVHhDTmlRLTMwV3I3NlRVNkhoemZYaU43Q1Ywejd2QmtmT1VSX0dJUFFpVC1PX0FrMVdHTm96bUIwaWpTVA?oc=5",
-    "source": "Medical Buyer",
     "date": "2026-10-19",
     "category": "tech",
     "tag": "tech",
@@ -442,17 +429,17 @@
     "subcategory": "robotics"
   },
   {
-    "id": "41f854c9b1a8",
-    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - TheWire.in",
-    "description": "Source: TheWire.in",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa25SYUExV0s4NGxoZmdYVkJnUTFqclRyMTg3MjIybE1jZ3U0MGg5dmpJOUxneEp1QXVLTk9HM2FLa2NxbzlYcnRFdFVrNncyU1pZT2FIX1Y2VXVDQ3A5WEhZeUJpcHo5TDlGSnVKcm1CQV9ORERCN285dEo4TlNHeG01QS1GQ1NaVkctNmpKT3lGbnRtWV9Kc2VmZzBpRWpkcWhzOTRFb1h1U1lhLVN5dE8yOWN4LTMyaklHUjJFelRlMldreVl6RtIBzgFBVV95cUxNc0MzbXBwOHk4LVhfcVFEeDFqeER5NXJyeFhpNFVMcVhDU053Zm1ZbDdpZGdsaFROS0gtNWhDeVZYcFFUT2FwSHhsQXpKSmRsS2VIdHRObUJaWlpkZGdXTVNLSmV2WS1ud0RHQ0o0LVF0Sjhzdjg4cEZIaUJZOHlhNWFSaEdycUpHaFZrR1ZMYkduTy1pZlZfSmtzaFlqTlhQRVJUeTIwVjBRWnlCMlF6S2ZiNlA0UjhKRG1SX3cwRFBZOFRzSUF6VURrdWhiUQ?oc=5",
-    "source": "TheWire.in",
+    "id": "ff6969bf4cf4",
+    "title": "Shija Hospitals & Research Institute Unveils Manipur's First Robotic-Assisted Surgery Facility - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUFHVWhIUFhrOXNHMUNXOHdCLUt0eUpIdmJxLWFMQm03eFlsZ1l3eVYtVV9sazN3NkZJLWdYZXFZb28yU1JsR1BUSG9xdXR5X0pYQlpIOXNpQVhhSnhOazdtT2Y2WmF3M29MUWNRanc3cjc0QnZ4TjFlX2JXNnpVNXQ2NVRPc3BlTUM2d2Z6MG5ZYXdhMUtHbDhuV3U5d2dvYW1pTFdyNG1rWXBNS0Y1MU5vQXpkUGZxLTdHSlpzcklyc3U4?oc=5",
+    "source": "Digital Health News",
     "date": "2026-10-19",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Robotics",
+    "tag_label": "Telehealth",
     "priority": "medium",
-    "subcategory": "robotics"
+    "subcategory": "telehealth"
   },
   {
     "id": "b0e01c3f36fa",
@@ -546,17 +533,17 @@
     "subcategory": "startup"
   },
   {
-    "id": "527150d080ae",
-    "title": "India's Digital Health Funding Tracker: What Got Funded in September 2026 - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2g1eWNrZlpZbG5VRllNamFlZXhUQ2xHcTRrd09jRm1WZV83bG1ka25LdTl5XzBVTUVlak1MTldmbC1DcXI5bHp6RXpFSE1LM3B1OGc1bTF2Z0VVZEQ3M2dQUE85OThwN0FadEhNMGVMcm9GNzBydmozZ0FVX3pudXZWMEljNTBaOUVKRE5kREFSOXJEY0xlc09IWDhXdkVMTVlXM1BOOGlWQQ?oc=5",
-    "source": "Digital Health News",
+    "id": "fdc90ec64a24",
+    "title": "Swiss preventive HealthTech Ahead Health bags €8.7 million and launches in Germany and the Netherlands - EU-Startups",
+    "description": "Source: EU-Startups",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNl9BNDFXYUlzSTVDVXlCWUhWTUtoVlBPX09rWHhEaWZhRGRWQ241RngtMEFuSUMyNG4zcHVfVDJRZHRhbHhDUUF4U2RiTWE5aGktU1ZTZ3pGSVNGY01IQ1hHdms2czBLczNsODBORlQxaUc4MWxqQlJzR0dJVDFaOU9UYXBXV0dOU3g1a242NFVsSm1hVXMxUjVvdFpwWWItbWpXczdsU1ZlV29rREZmQTVMUGZkaGNpNTh1UUZhenpRdzNONnNBY29ERy1SY091blZ6VVM5aDV4OEo0WjdrLTVVZ04?oc=5",
+    "source": "EU-Startups",
     "date": "2026-10-19",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Telehealth",
+    "tag_label": "Startup",
     "priority": "medium",
-    "subcategory": "telehealth"
+    "subcategory": "startup"
   },
   {
     "id": "37bfcd403d06",
