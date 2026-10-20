@@ -1,18 +1,5 @@
 [
   {
-    "id": "11848f62e746",
-    "title": "Arogya Manthan 2026: J.P. Nadda highlights expansion of AB PM-JAY and digital health ecosystem - DD News",
-    "description": "Source: DD News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkJPT3AtbGhxTy1mX1pnSV9iVkhJN1daeFhKT3V1VWpvRHJZYmRRdXU2bHpVNk5jcDdqSFQzMXJuc1hfa2xRT21JaXBXWUlKdVMyWnU3QW1QU2sxX0hyajNYM2dIWWxhR0Fsc09aN1BqWmlRQVJ1d3ZlbW5nTm5icVF0Wk40UmZXbnZQeUlwcm14VFVvdkxNTjFMRFpGOERqM1AxcENYM2t5Q2FwUTB5UVRRRUtab0c3Mmc?oc=5",
-    "source": "DD News",
-    "date": "2026-10-20",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "f580426a16c3",
     "title": "Arogya Manthan 2026 Highlights Next Phase Of Digital Health And Assurance - BW Healthcare World",
     "description": "Source: BW Healthcare World",
@@ -24,6 +11,19 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "bd25afd65534",
+    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - Press Information Bureau",
+    "description": "Source: Press Information Bureau",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IVVAweWFmaThRVm83aFRIOTktcy15dFU0M3AtVTVTRnZzbV95ZmxBcTN5aVdHMXRLVFNjMmp4TE9felpnSHd4eEVYN3JMbjZuRmItVHB3X0RfcmxFRVZ5MVVBTENGSHFMeXVTVnV2cjF4S2xNLURFeFdIYw?oc=5",
+    "source": "Press Information Bureau",
+    "date": "2026-10-20",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
   },
   {
     "id": "8ce7e4210a21",
@@ -39,19 +39,6 @@
     "subcategory": "ai"
   },
   {
-    "id": "bd25afd65534",
-    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - Press Information Bureau",
-    "description": "Source: Press Information Bureau",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
-    "source": "Press Information Bureau",
-    "date": "2026-10-20",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "545c9677b8c4",
     "title": "AI in MedTech can transform healthcare, report paper highlights five priorities - ET HealthWorld",
     "description": "Source: ET HealthWorld",
@@ -63,6 +50,19 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "aa4e20aac30e",
+    "title": "Towards autonomous medical artificial intelligence agents - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+    "source": "Nature",
+    "date": "2026-10-20",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "cb0084409522",
@@ -299,19 +299,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "4c6467f20d23",
-    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
-    "description": "Source: Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
-    "source": "Business Wire",
-    "date": "2026-10-20",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "2fcce0f9f64d",
     "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - Fortune Business Insights",
     "description": "Source: Fortune Business Insights",
@@ -455,11 +442,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "b0e01c3f36fa",
-    "title": "Healthtech startup Confido Health raises $12.5 million in funding led by Z47 - The Economic Times",
-    "description": "Source: The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW00UnI0X0VpdzNtcmw3X1B2ZGx5UURqSThGMkFfSGE3OGpwdjFmNE1qSnZXWlhkTTdZSDN5ZlVlRk5RWDN0V1pyTTZZdjE4RXloWjRxWmRtNkFVdVp4TUN0MS1QTnZWT1Q5VjV4b3M4UGxzeExQek9pMUctNUJ1cWVjU3R3ODQtWG40Ujh3SjA4LW82bEJzTDRPZ2Y5bUc1UVcyeEtMUlZyTGphNzNhXzVCMXluVklNYXhYbFkxLVVyc3JFV0NBempyWGhGaERNNnlrTWlpOFVkc1HSAeABQVVfeXFMTW80Q052MlpjQ3lLWjNudS1ESFlyeE14UXRnQ1RYNnYxb1JkYlpSWDFuM1VMNG5WYzFsdGpsYXRWOUVGMExoY01Na21wOEpKUGwzVXJIN3BHbVlfNUdDN3UyVFk0MWdacTNtOTdIQkMxUUozRDljYzhiaWNUXzNwaGRKejNRQXE0NkRQVVRuOWxCR1VpYy1kRnV0Y2piTmE0T0drUmVvc1dMWGtEZW1mUXUwMVViWU5JUmd6OU5QMksxUDVodUV4dWFtMzV1c2hjcW15WkZWS1V4OEFnYmlvWXU?oc=5",
-    "source": "The Economic Times",
+    "id": "e0e664ed1bf1",
+    "title": "Top 30 Healthtech Startups In India 2026 By Funding - Inc42",
+    "description": "Source: Inc42",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEtSbmpRencwbTc5X19BZzBkX2cyczRLTEwtWGNhSWJ0cmJJMTROQkN6S0NBTF92NEtVR0dLMWY3Q2hMZGhiSExkRlhLOEg2Z25MLU9IYUYxSXNyQ3p4THk5Y1FjS0VGcEJGRWRZVGREeUFaNTZnMENqVDRreGFER293?oc=5",
+    "source": "Inc42",
     "date": "2026-10-20",
     "category": "tech",
     "tag": "tech",
@@ -468,11 +455,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "e0e664ed1bf1",
-    "title": "Top 30 Healthtech Startups In India 2026 By Funding - Inc42",
-    "description": "Source: Inc42",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEtSbmpRencwbTc5X19BZzBkX2cyczRLTEwtWGNhSWJ0cmJJMTROQkN6S0NBTF92NEtVR0dLMWY3Q2hMZGhiSExkRlhLOEg2Z25MLU9IYUYxSXNyQ3p4THk5Y1FjS0VGcEJGRWRZVGREeUFaNTZnMENqVDRreGFER293?oc=5",
-    "source": "Inc42",
+    "id": "b0e01c3f36fa",
+    "title": "Healthtech startup Confido Health raises $12.5 million in funding led by Z47 - The Economic Times",
+    "description": "Source: The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW00UnI0X0VpdzNtcmw3X1B2ZGx5UURqSThGMkFfSGE3OGpwdjFmNE1qSnZXWlhkTTdZSDN5ZlVlRk5RWDN0V1pyTTZZdjE4RXloWjRxWmRtNkFVdVp4TUN0MS1QTnZWT1Q5VjV4b3M4UGxzeExQek9pMUctNUJ1cWVjU3R3ODQtWG40Ujh3SjA4LW82bEJzTDRPZ2Y5bUc1UVcyeEtMUlZyTGphNzNhXzVCMXluVklNYXhYbFkxLVVyc3JFV0NBempyWGhGaERNNnlrTWlpOFVkc1HSAeABQVVfeXFMTW80Q052MlpjQ3lLWjNudS1ESFlyeE14UXRnQ1RYNnYxb1JkYlpSWDFuM1VMNG5WYzFsdGpsYXRWOUVGMExoY01Na21wOEpKUGwzVXJIN3BHbVlfNUdDN3UyVFk0MWdacTNtOTdIQkMxUUozRDljYzhiaWNUXzNwaGRKejNRQXE0NkRQVVRuOWxCR1VpYy1kRnV0Y2piTmE0T0drUmVvc1dMWGtEZW1mUXUwMVViWU5JUmd6OU5QMksxUDVodUV4dWFtMzV1c2hjcW15WkZWS1V4OEFnYmlvWXU?oc=5",
+    "source": "The Economic Times",
     "date": "2026-10-20",
     "category": "tech",
     "tag": "tech",
@@ -494,10 +481,10 @@
     "subcategory": "startup"
   },
   {
-    "id": "3a92cceaaee3",
-    "title": "US-based Healthtech startup Confido Health Raises $12.5 Mn in Funding led by Z47 - Digital Health News",
+    "id": "527150d080ae",
+    "title": "India's Digital Health Funding Tracker: What Got Funded in September 2026 - Digital Health News",
     "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjAwX1JnS0NoQXBIRGhKSkRqcUJEeU40NXRETXNVS3NqZkViRTlybTRYUXA4dTU5MWVPR1p3aEVHRmJ3eDhmSDVNV2xHVkxkb09mRHRCWDU3NENXYVBadzRET0dubktYR1VrNlZzeFVtM1N2dU5ZTGpqVHBNRUN1ZmtZOUk1WlRsUGdWR0ZxMUllTG5WLUloMk9mY2ROWVZZRmprN2tmZFphbEVwVUFWZHd5QQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2g1eWNrZlpZbG5VRllNamFlZXhUQ2xHcTRrd09jRm1WZV83bG1ka25LdTl5XzBVTUVlak1MTldmbC1DcXI5bHp6RXpFSE1LM3B1OGc1bTF2Z0VVZEQ3M2dQUE85OThwN0FadEhNMGVMcm9GNzBydmozZ0FVX3pudXZWMEljNTBaOUVKRE5kREFSOXJEY0xlc09IWDhXdkVMTVlXM1BOOGlWQQ?oc=5",
     "source": "Digital Health News",
     "date": "2026-10-20",
     "category": "tech",
@@ -533,17 +520,17 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "19e529f74804",
-    "title": "Top 30 Funded Healthtech Startups In Gurugram (2026) - Inc42",
-    "description": "Source: Inc42",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHNieXdtd0JWVFN1bjNzZ09URWc5VFNidDBYdTJZNk52RTY4YUFHQTF3RXpLaVVjMjBRd0dRX3I3Q19sMFBmUFdWZjFzNlQ0M1BCR19hZXpNckJxQ1ZhRDhaTEFaaVJWaVNKU21ya1VtcTUyMS04VlpJVm9La1ZwVA?oc=5",
-    "source": "Inc42",
+    "id": "c83758f4637f",
+    "title": "Wearable Devices Market To 2035: Health Monitoring Demand Drives Forward Growth - News and Statistics - IndexBox",
+    "description": "Source: IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX05vM2o0b0V4SWxjel9NUy01MGhPcmxhUzNXZWFRRWZkYl9sSWNzTkY0aTlWNmxsMXY3STBvSkdBaXgtVnpFZ3Zha3NNTnBzUlF3WkQ4d2NaV2dGZGpOaGliNXJQeVM5Y2FRZGV5RjVIQ0JhWDhuaEpqVU5aaEN2RTFGaWJQd0RVcUJmVHEzbDB4N0UxbmhQV0hXdm9zRlpzeWhIRE1ray1jVklINTIzU2EzdzlrQXd6?oc=5",
+    "source": "IndexBox",
     "date": "2026-10-20",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Startup",
+    "tag_label": "MedTech",
     "priority": "medium",
-    "subcategory": "startup"
+    "subcategory": "medtech"
   },
   {
     "id": "37bfcd403d06",
