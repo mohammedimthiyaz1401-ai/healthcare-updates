@@ -1,18 +1,5 @@
 [
   {
-    "id": "f580426a16c3",
-    "title": "Arogya Manthan 2026 Highlights Next Phase Of Digital Health And Assurance - BW Healthcare World",
-    "description": "Source: BW Healthcare World",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1QzaHBRU3dJeWZwNl84M2ZGT3J4NDAxT3pYby1DWFRGVnN0UFlFYjd2NndvUVNSTloweWZ2UE1jYTdFUWtoY3ZsTXg3eEJoU2ZLTWpmYXlTUVpwRHRHcjdibV92Z2VKcjgwZkE4NmpIR3J4UjBzUjJEQS0ySjRfWlZZcUNfb2MtN0xVTE9WNTlHazAzVVRsOFdJM0x1alFPdEN3ZUhpUXpvRjg0dFFMT1BrU3hHdTg2b0N1V3V0Zw?oc=5",
-    "source": "BW Healthcare World",
-    "date": "2026-10-20",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "bd25afd65534",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - Press Information Bureau",
     "description": "Source: Press Information Bureau",
@@ -24,19 +11,6 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
-  },
-  {
-    "id": "8ce7e4210a21",
-    "title": "AI in healthcare: Ethical Challenges and Responsibilities for Doctors - InSight+",
-    "description": "Source: InSight+",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3Qwc2FxOWJqZW5Sa1ZGUTVMOFRXNVp0QVZXcWVrOFRBbmVxamZGZ25vNWZwbjR5a1NLRWdSVzd1aEtlTjZJSHhKWV90b2hsRWxiMmpuLW5UUkRzM2haMlNTdHNvanhnU09YR0pKTmJ2WVJRVjE2VVJRU3ozWWtpVUdPcDhaYTQ?oc=5",
-    "source": "InSight+",
-    "date": "2026-10-20",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   },
   {
     "id": "545c9677b8c4",
@@ -57,6 +31,19 @@
     "description": "Source: Nature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
     "source": "Nature",
+    "date": "2026-10-20",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
+    "id": "2371da964ae3",
+    "title": "Artificial intelligence is transforming disease surveillance, but governance is failing to keep pace - Frontiers",
+    "description": "Source: Frontiers",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXBESWpOdThuSVExalI4aVh3RDlEeUlKb2J2NWlmMmJlV0tFajJhMmJwWjFhaWZBNVNhM09jdWlVTUViZlpuNzlnOXVwZU9DMEdULWdRR2FVQjYzZ3BkZkxDQnRBTkZubzdIZjg4Rk9ZQ1ItUkZ0VmVxTC0xSHlvWFhvX21FQVI5Tk9tMkpDaEFXYzVhNWc0?oc=5",
+    "source": "Frontiers",
     "date": "2026-10-20",
     "category": "tech",
     "tag": "tech",
@@ -299,6 +286,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "4c6467f20d23",
+    "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
+    "description": "Source: Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
+    "source": "Business Wire",
+    "date": "2026-10-20",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "2fcce0f9f64d",
     "title": "Personalized Medicine Market Size, Share | Growth Report[2034] - Fortune Business Insights",
     "description": "Source: Fortune Business Insights",
@@ -403,11 +403,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "72bdd2cbb081",
-    "title": "Surgical Robots Market Size, Industry Share, Growth Report, 2035 - SNS Insider",
-    "description": "Source: SNS Insider",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85UHFKV1ZpVjdBNy1CbkhmYU9iM1Y3SnNUWnIzYXNOMS1tV2NFYW5rR1FPdVlEcm5IM3dRYUw3eDZNUkM0WnlxSjdjS3dBTDVPNFpwaTFaZUVwRzhnVzRrZjJiUUpqbm10b3ZTamxoYw?oc=5",
-    "source": "SNS Insider",
+    "id": "41f854c9b1a8",
+    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - TheWire.in",
+    "description": "Source: TheWire.in",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa25SYUExV0s4NGxoZmdYVkJnUTFqclRyMTg3MjIybE1jZ3U0MGg5dmpJOUxneEp1QXVLTk9HM2FLa2NxbzlYcnRFdFVrNncyU1pZT2FIX1Y2VXVDQ3A5WEhZeUJpcHo5TDlGSnVKcm1CQV9ORERCN285dEo4TlNHeG01QS1GQ1NaVkctNmpKT3lGbnRtWV9Kc2VmZzBpRWpkcWhzOTRFb1h1U1lhLVN5dE8yOWN4LTMyaklHUjJFelRlMldreVl6RtIBzgFBVV95cUxNc0MzbXBwOHk4LVhfcVFEeDFqeER5NXJyeFhpNFVMcVhDU053Zm1ZbDdpZGdsaFROS0gtNWhDeVZYcFFUT2FwSHhsQXpKSmRsS2VIdHRObUJaWlpkZGdXTVNLSmV2WS1ud0RHQ0o0LVF0Sjhzdjg4cEZIaUJZOHlhNWFSaEdycUpHaFZrR1ZMYkduTy1pZlZfSmtzaFlqTlhQRVJUeTIwVjBRWnlCMlF6S2ZiNlA0UjhKRG1SX3cwRFBZOFRzSUF6VURrdWhiUQ?oc=5",
+    "source": "TheWire.in",
     "date": "2026-10-20",
     "category": "tech",
     "tag": "tech",
@@ -416,11 +416,11 @@
     "subcategory": "robotics"
   },
   {
-    "id": "09c357679b50",
-    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - Business Wire India",
-    "description": "Source: Business Wire India",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1NBSFdBVmJ0SFBtV3hTSFB0NXFGa1dvSVJoR3UzV1FPbmVsemF6SUo0dGlrREplc1hEUE1oUWlzd0REZDFKWXpYdWZXQlBPWlJZcnVWUlVWMlRrX0hWMXE1VjJyZGswcFd1d3BsQ3ZpQzdFeU43eFd5Ujh4cTdpNmRTRG5MMXlsTGNOQmFQRDdsa1N4N1l4cl9SeG9IektMTTVwZnZNVjNTNHcxX2ctMjUxVVcyWmhqa1Y4eWNrY0hCVjh6YU9OcmNJT2ZLSFROQkE?oc=5",
-    "source": "Business Wire India",
+    "id": "f6f9a5296c48",
+    "title": "Global Next-Generation Surgical Robotics Market to Observe - GlobeNewswire",
+    "description": "Source: GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdW14T25VTUtLcXYzSFp4cHExX1VSbVBEUGpfUkN5SHowZ2Z4RWc0S3Q5Y09BTjV5cGVRNGxhQXlRbGZPMmxkNll5Y0NPam4xWTNqbnBxV0dEZnRMeTZURkJudDBQcWZHR1pmVDZwUnh5LS1EWjVYQXpDdVR5eldUR0JfQm1JemR2aUxRY012YWZjZWx2UkY3TThDLW51THdqUmltU1hJaVlvVV9QWUVwYk1HZFJJTWZmby1tOUlSOHN4RmNwZnMtZ2tkTTRKVjVBYmFyTlY2UGJNRnhlUEpzVUVvRlQtX05ka3llaXVhdGpkZVZ0TEZMc21NcjQtQjdQNHMzYVBqcFdIR0E3MDlSUC0wdw?oc=5",
+    "source": "GlobeNewswire",
     "date": "2026-10-20",
     "category": "tech",
     "tag": "tech",
@@ -429,11 +429,37 @@
     "subcategory": "robotics"
   },
   {
-    "id": "319b2243dced",
-    "title": "Intuitive Introduces da Vinci 5 In India As Robotic Surgery Enters Next Phase - BW Healthcare",
-    "description": "Source: BW Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGxjeGdLc0ttVlVONUdlY3JPOU5mbnNiOGQyamZTdVAtaGk5RFRsbTlGQk1ZaVBHem41ZGF5NlpnWjdRdGh4MHFDSG9yd2VxdzJUNkJKdG9iX3p1VG04empYYzk5cno4OXR2MGpqbG5UTndNYUFRYTJPYXJhZzdEaDROaEhvYVU0X2JaNkZ1UUZDSV9UNEtJbkhEWXJ2TzQ2TXBRU0EteUpPendkS1VScFdwczhUMVZ2V1RDbXZTT2wzZ1Q5?oc=5",
-    "source": "BW Healthcare",
+    "id": "018870359d6f",
+    "title": "Robotics Integration Is Transforming Global Surgical Care - The American College of Surgeons",
+    "description": "Source: The American College of Surgeons",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUtxdEYzT0VIOXFybG02R0VWOHV5ZnhSN2hWSEprbDRubUhnY2JyblB6VDU2enZ1N2tBM1lXYmtMNWplN3NrcFNfa0ZuT1BQTHVyM2hobmpYRjl4Y2wxT0VWTXlYc1BqaThWTmJFUDZPTUllbHo2MHNSdUd5R09oMTJ3a1VuaDZnOXdONFZMVkVGS1JjbTJaQ1N5ODFjcnV3ek5iOFo5M1R1ajM4UWVzMVRObFJ0TVJHRkFyM2lGZVFMQVZyVlRNX2l0NFVRWXdyUWVjcENLYmI0ZWNfdFhnMEtNaWZGS0xkTmw3M2hDcEEtNjdyQ3NGSC05Qmw4RGJ4OFF5d0NnVWhyUVdzVkxWa0FuTlVmUHc?oc=5",
+    "source": "The American College of Surgeons",
+    "date": "2026-10-20",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
+    "id": "e6a2e4145702",
+    "title": "Asia Pacific Surgical Robots Market Report 2026-2031, By Product, Application, and Geo - MarketsandMarkets",
+    "description": "Source: MarketsandMarkets",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHF5amYyLVh2a0E0TWtWazFhampTRkZUOGI5c21lOFQ2Zk53cEM5MThOWGFtd210Q1lUT0tJRERRb05nS2tfdTM1OFRFdXNtTmluU3UyYml6aVRBbWhoRXhmVmVDTnlELTlwcW1lbFFyY19OTTdCOUs5ekgyZ2pzWHU0Rm9TT0gxc0VvTDRLZGhhMkNhWmNUUlF0R3h0MGFF?oc=5",
+    "source": "MarketsandMarkets",
+    "date": "2026-10-20",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
+    "id": "6dd8dbdf3b64",
+    "title": "Surgical Robotics Special Report - MassDevice",
+    "description": "Source: MassDevice",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5Zzc5TnJYTGUzXzFhR1ZRUE5BRjlZS2ZYUkNLXzBVcjRsaEluNUU2T3lrdmMtNDhIbG54Z3VnRldyb09zUnpMZFdEYWh0LUVqV0V4UnI5cldqOVk3dUpWQzY1dXY1aERQRUR6ZGNnZjBVZ3c?oc=5",
+    "source": "MassDevice",
     "date": "2026-10-20",
     "category": "tech",
     "tag": "tech",
@@ -481,10 +507,10 @@
     "subcategory": "startup"
   },
   {
-    "id": "527150d080ae",
-    "title": "India's Digital Health Funding Tracker: What Got Funded in September 2026 - Digital Health News",
+    "id": "3a92cceaaee3",
+    "title": "US-based Healthtech startup Confido Health Raises $12.5 Mn in Funding led by Z47 - Digital Health News",
     "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2g1eWNrZlpZbG5VRllNamFlZXhUQ2xHcTRrd09jRm1WZV83bG1ka25LdTl5XzBVTUVlak1MTldmbC1DcXI5bHp6RXpFSE1LM3B1OGc1bTF2Z0VVZEQ3M2dQUE85OThwN0FadEhNMGVMcm9GNzBydmozZ0FVX3pudXZWMEljNTBaOUVKRE5kREFSOXJEY0xlc09IWDhXdkVMTVlXM1BOOGlWQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjAwX1JnS0NoQXBIRGhKSkRqcUJEeU40NXRETXNVS3NqZkViRTlybTRYUXA4dTU5MWVPR1p3aEVHRmJ3eDhmSDVNV2xHVkxkb09mRHRCWDU3NENXYVBadzRET0dubktYR1VrNlZzeFVtM1N2dU5ZTGpqVHBNRUN1ZmtZOUk1WlRsUGdWR0ZxMUllTG5WLUloMk9mY2ROWVZZRmprN2tmZFphbEVwVUFWZHd5QQ?oc=5",
     "source": "Digital Health News",
     "date": "2026-10-20",
     "category": "tech",
