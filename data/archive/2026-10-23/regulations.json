@@ -1,17 +1,5 @@
 [
   {
-    "id": "f8753f942741",
-    "title": "Explained: How India’s medical regulator is bringing AI-generated ads by doctors and hospitals under new rules - MediaNama",
-    "description": "Source: MediaNama",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xb2lLcFRpel92ZS1ObWNFV2k4aU1GX04yNWUyWlV1N0l1ZkZRUjM2dC15UXZFZEtrNGdpMFdWLXZHdERfRlFkdHJSclRINjZKTDBzQTZYQlNaLVo1QnowaVNFMHpZOWRNUVN0NUxlbzBlTTloSXc0UVdBNmVVUQ?oc=5",
-    "source": "MediaNama",
-    "date": "2026-10-23",
-    "category": "regulations",
-    "tag": "regulation",
-    "tag_label": "Regulation",
-    "priority": "high"
-  },
-  {
     "id": "9fe843812d7e",
     "title": "12 years, 12 judges, 2 favourable orders, RTI applicant yet to get info - The Times of India",
     "description": "Source: The Times of India",
@@ -24,11 +12,11 @@
     "priority": "medium"
   },
   {
-    "id": "fe6d727f3d29",
-    "title": "What the UGC Stay Actually Suspended - TheWire.in",
-    "description": "Source: TheWire.in",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOdjhiR0hjeTNod2JkUnVhdW5lMTdSU2pPWlFkNWJKT3F0b1dnRjFUNkx5cHZWYnhKbXNBNS1uREZhM0ZwWl9Vek1lZV9RUVBLYmh3LWt6Y3I4ODNOWEJLa0tTQ0lsUzk4TEo5NmxzN1RmSEE4Vi12UDc4TdIBgAFBVV95cUxNbHhaSkxRdnpmNWIwVkhrYWlBSXN2eVAzUEZlbHJjU0dhcTRXLTRGVVFOZnpGZElMMW0xVjVCa3l0Mk1WY3BzOXh4ckhKXzB4U3N6Y01zZTdZNDRBU0d5RzhSV09ndV9zbkFhLVVvUjdOY3RvNWlta3BTUzRzRVhTbA?oc=5",
-    "source": "TheWire.in",
+    "id": "ce3b5b5418b6",
+    "title": "GDHS 2026 to focus on implementing AI action - The Economic Times",
+    "description": "Source: The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeERaT2RVMW1qbU5LeFUyNk1hSFdpZmNYUDhaS1ZGVjE5Z3lvWkl4Ym9yaU52SEF2elFDbjJ4dXY0S0RzbERJbl8xeHpvQUtXVk5DemQ1NFN4QzdpOTQ5NE1JTzJ1dzlGOHdoaDNhTW5LSlNILV9qTjFYVnVPYWJRT2JiZDVtWWVvYVFSNEg0X1lXN2RIVjVNcEl5RVRCbi1zdlZjSzZldE5nbnBHc0hGZ2FVY0pHUEVRbERkbFRINFdvSkhNX3JGSGduUGszd9IB0wFBVV95cUxNS0JKRFdkdUVmbmloYmFRMjBLZ2F4S0pLVHM3dnlhSWhyU0dLdWladkZEMkJpSzVrYjZwZDI5VGVyTEQ0RE9yUWdmUm5nbTRxLU50SENwVS1nMkc2c1drcklGaVFtLTRDR0ZJOWVpcHpUb3hCdV80aTh5NDJnT2JjdjZmcXg3Qm9ISkpIdi1fQWo2Qmt2VmhlUXFqdmtPeFU5UGduc1J5QTZVdnZHWVVMQTRqQVgza0ItT1FCby1mWHhiY3lxcjlGbHM5dUt1R2ZJakpV?oc=5",
+    "source": "The Economic Times",
     "date": "2026-10-23",
     "category": "regulations",
     "tag": "regulation",
@@ -53,18 +41,6 @@
     "description": "Source: Medical Journal of Australia",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQODZkdi1aVzhKOUlGaXNfYk94c2RBUHRaTVNzTV9YWGxQbFdxbGpOWlhlaFBxb1k0dXRSV0U3THNWVHdLSnU2eFFvNlRnRWZYLVRBNm5yTG5TdUdRcm5ZcnI4NS0tWHZJYlg5UUdzQmFwS3VDajRSUVdBUFZNd2NXcll5SWZfMVh2R3lKSlJZWklFdDVDUkc0LWphck1kZTJfNEhz?oc=5",
     "source": "Medical Journal of Australia",
-    "date": "2026-10-23",
-    "category": "regulations",
-    "tag": "regulation",
-    "tag_label": "Regulation",
-    "priority": "medium"
-  },
-  {
-    "id": "abc1d52d0fdd",
-    "title": "India Health 2026 to showcase India's growing strength as a global healthcare manufacturing and innovation hub - Express Healthcare",
-    "description": "Source: Express Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMGNGTzJWc0tJRjRYcndlZzBhZ1cwSWxsY3BsdkZmaHJKeUFNUDk3N0V1LVNrRkV6d1JpcjZQeWowYkE3cVlEWFFERkt4NGxWaTJqUFRrX0Y3SkJsZ3NmNng1REFKb1RxejZuSGcweG44V3lBSU9aTkRCejRsUmxwU19pZWstSjlHTEpoSEg4aXpwT0RDNGJtWnRZMUg2Rms5bTNoSlFuTHJwS0ZiSllLM3NiSFhUYmw0Mk9TOW5uLVIzbk96Y0lZQ1ZGbEJPc2lUNFowZTQ5OXZ2X0s2bnJsWExfbjhzMUc3MlJV?oc=5",
-    "source": "Express Healthcare",
     "date": "2026-10-23",
     "category": "regulations",
     "tag": "regulation",
