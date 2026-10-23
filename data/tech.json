@@ -39,19 +39,6 @@
     "subcategory": "ai"
   },
   {
-    "id": "b185a24f85e9",
-    "title": "Virtual summit addresses artificial intelligence and racial bias in health care - WDET 101.9 FM",
-    "description": "Source: WDET 101.9 FM",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTJlRDY2WW1KZDhrMmozMnpUUU0zVVhNTFU1MXhId0lsUkE4ZkpRemhqcjRleGItdGE3S3AzdVY1LWFsdXQ4NkRlZEpDXzBEZGx1RG56MEw5UlJZUmxxSF9ZVlJvTWZqUVdLa2tSSlRYbGp4X1RQa2FjOFBIajg0RTlCRE1pOVlBWTlZWVJMbjd4SV96cUFNTUVfNi1taFVTeWU1d0ZYV1N6TmQt?oc=5",
-    "source": "WDET 101.9 FM",
-    "date": "2026-10-23",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "bd25afd65534",
     "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - Press Information Bureau",
     "description": "Source: Press Information Bureau",
@@ -117,10 +104,10 @@
     "subcategory": "medtech"
   },
   {
-    "id": "9fbf979a223c",
-    "title": "AMTZ hosts MedTech RoboSprint 2026; surgical robotic systems in focus - Medical Buyer",
+    "id": "555d88a1f6fc",
+    "title": "AMTZ hosts MedTech RoboSprint 2026; indigenous surgical robotic systems in focus - Medical Buyer",
     "description": "Source: Medical Buyer",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlFHeU91S0hxRGloRW1xbGRlVVp6cmZPUk50bG16bHRPUXFBd2J1YVpRLU9LMkdtSnRPcU9BRUoxMWFPY0I1ck5XaGdkcmRXN0NWQl9BRWhpMnVoNy1rczVwdXZyaHpzZmJQY0s3OEF6aHBYN01pR3NYa3Izcm4xNWtsMUVmU1ROdWpaX3ZfalRuWTh3T1J1ZVNZY1Q?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjdxMFRBVjhhVDZQaXBZLXkxTnVCM0tIRm9MY1JWZmxaYmRwTHFZUnV3LVV5ZnJVRHRMZnB3OEZjOVJ2Y1JGaGRGTlg3TW1sWTc2MG9BbUdmNGZFMWo1N2M0TnFVOWV0VXZxQWtfZGtkUjVraGVQOGh0c0ZuWlVuQjhrcXk0cFdVTVJPYlVsT2pVTVJfN211c1JRYUV2U1Q1UkJCRjJIbVNtTjg?oc=5",
     "source": "Medical Buyer",
     "date": "2026-10-23",
     "category": "tech",
@@ -312,6 +299,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "712788389102",
+    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
+    "description": "Source: orfonline.org",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
+    "source": "orfonline.org",
+    "date": "2026-10-23",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "3bf260e915e0",
     "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - DD India",
     "description": "Source: DD India",
@@ -351,6 +351,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "911a14371074",
+    "title": "Precision medicine | The cure is in your genes - India Today",
+    "description": "Source: India Today",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSk45aHJ1dDhld2lFZTdTU2EzWVdUM1RfTVBSS2xPTlk1cUlPMXlQOENXVnJ0Y2hrZW1ERGRHNnBxOEw2Y0dmaDNTV01oVTlRQm51SXR2Z3Z1WEU4RlNGcVFHejU5SFI5LVpkYWVkclpJUDFsWEVlTDNUUGZjZ1dxN2N1aVE2S0Q4RG9IbkJXRUZxN0dVTS0wRVdBMXE3S0JQcXVlUFB1QWdZYWJYQnNkU0FrQnE4Qk1Lb2owUk1TTnZJR3pwRHhQRkpfRFMtZ29sbGfSAdcBQVVfeXFMT2t2a3M3YzJXV0xrNTNwck91MjhzWDBoQVBuUGlvNHhURzRab3hTd05zVk9RaEgxaFJSakZJZjN0Wk5OaXZBak41Q3ZKSWtKOFZLNFJIbGo1QzhHdTFwVHZfeXZuNUw4NHQ4NTNHTjN3VzlWRGZuX2FjN1hubVJkVXZfNW1YT1o4QnR6bnBRMi1PVFRUWHRpWE5rMjlFLVo3TEdEZFRNMGhxSkJqbWdqWkhiS2tjTi04SVdwV3d3eG9oZElLT3RBeWV3ZVNnYWdaUUpMRkRXRUE?oc=5",
+    "source": "India Today",
+    "date": "2026-10-23",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "29180101239d",
     "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - DD News",
     "description": "Source: DD News",
@@ -364,37 +377,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "712788389102",
-    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
-    "description": "Source: orfonline.org",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
-    "source": "orfonline.org",
-    "date": "2026-10-23",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "fb406307364f",
-    "title": "The expanding role of artificial intelligence in personalised medicine: from innovation to individualized care - Frontiers",
-    "description": "Source: Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1FOUlREeHZsa0dYeG5iMl94ZEJXZWE2SzV3RHdUQjJQcE9lRG9kbzRXeFpEeDBQWGlZY1EzRHNXMndYZWk4SXpiSEtzOTY4aGVpd25STDVvd1c2UFMwU1ltUExyeEhQV0Q1bGdfV0c3LVRPMUNMUXFUNnVoN2xXUWxtY24wZEJkVDJtY1pB?oc=5",
-    "source": "Frontiers",
-    "date": "2026-10-23",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
-    "id": "1dd0d542d1fb",
-    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
-    "description": "Source: Spherical Insights",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
-    "source": "Spherical Insights",
+    "id": "6502fad38a7a",
+    "title": "India Moves Closer To Indigenous Gene Therapy Cure For Sickle Cell Patients - The Indian Tribal",
+    "description": "Source: The Indian Tribal",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWY4ck8wd01mZk9lemI1OVdOOGlYZkRtMHhzd2tkazduWFIwbVZmc0xYdDI3Nm1vZk1nWWJlb1lLU2MzTmNVMmVRamNzNjhkUkRQaFhST2VyQlBUSFI4T3pKUnJzeHFndWpjNGxVZGx0YkZpTWdaYUtCZDUtd3J4RFlBUHc4Y21kYlRkeUxYZWZCZ2RyMVR5R1M0OUozdS1oS3IyRmlVdlRlaTVzSk9XSTB5ZWZCelA1M2p0V21ubw?oc=5",
+    "source": "The Indian Tribal",
     "date": "2026-10-23",
     "category": "tech",
     "tag": "tech",
@@ -455,10 +442,23 @@
     "subcategory": "startup"
   },
   {
-    "id": "6417400f7048",
-    "title": "H1 2026 HealthTech Funding Recap: How $310 Mn Reshaped the Future of Healthcare Delivery in India - Digital Health News",
+    "id": "b0e01c3f36fa",
+    "title": "Healthtech startup Confido Health raises $12.5 million in funding led by Z47 - The Economic Times",
+    "description": "Source: The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW00UnI0X0VpdzNtcmw3X1B2ZGx5UURqSThGMkFfSGE3OGpwdjFmNE1qSnZXWlhkTTdZSDN5ZlVlRk5RWDN0V1pyTTZZdjE4RXloWjRxWmRtNkFVdVp4TUN0MS1QTnZWT1Q5VjV4b3M4UGxzeExQek9pMUctNUJ1cWVjU3R3ODQtWG40Ujh3SjA4LW82bEJzTDRPZ2Y5bUc1UVcyeEtMUlZyTGphNzNhXzVCMXluVklNYXhYbFkxLVVyc3JFV0NBempyWGhGaERNNnlrTWlpOFVkc1HSAeABQVVfeXFMTW80Q052MlpjQ3lLWjNudS1ESFlyeE14UXRnQ1RYNnYxb1JkYlpSWDFuM1VMNG5WYzFsdGpsYXRWOUVGMExoY01Na21wOEpKUGwzVXJIN3BHbVlfNUdDN3UyVFk0MWdacTNtOTdIQkMxUUozRDljYzhiaWNUXzNwaGRKejNRQXE0NkRQVVRuOWxCR1VpYy1kRnV0Y2piTmE0T0drUmVvc1dMWGtEZW1mUXUwMVViWU5JUmd6OU5QMksxUDVodUV4dWFtMzV1c2hjcW15WkZWS1V4OEFnYmlvWXU?oc=5",
+    "source": "The Economic Times",
+    "date": "2026-10-23",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
+    "id": "3a92cceaaee3",
+    "title": "US-based Healthtech startup Confido Health Raises $12.5 Mn in Funding led by Z47 - Digital Health News",
     "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNllFTDUtTVB0cnFTSnZWNTVMTEcwejRhQU1LOHp1NGVkcWc5eUNVWHFEYmZfdE1FVDFhcWdONUx0LVF3UWNZdXV0RGNCQ0xwVzhrNFBydFpLMm5SY2JKTzF2Q1NVVWczaE5JaGRldjBYUWFfQ1A4ZVFyRk9zSVJ6VTljaG1EaHdMX2tzWEVMWUpnZzBlVDRwY0RwQjlacWV2akFod0tHOG9jcUN6MmY4WXEyQ3BvY0xlcFpuWXFVci1vT1NHcmdHdQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjAwX1JnS0NoQXBIRGhKSkRqcUJEeU40NXRETXNVS3NqZkViRTlybTRYUXA4dTU5MWVPR1p3aEVHRmJ3eDhmSDVNV2xHVkxkb09mRHRCWDU3NENXYVBadzRET0dubktYR1VrNlZzeFVtM1N2dU5ZTGpqVHBNRUN1ZmtZOUk1WlRsUGdWR0ZxMUllTG5WLUloMk9mY2ROWVZZRmprN2tmZFphbEVwVUFWZHd5QQ?oc=5",
     "source": "Digital Health News",
     "date": "2026-10-23",
     "category": "tech",
@@ -507,11 +507,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "19e529f74804",
-    "title": "Top 30 Funded Healthtech Startups In Gurugram (2026) - Inc42",
-    "description": "Source: Inc42",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHNieXdtd0JWVFN1bjNzZ09URWc5VFNidDBYdTJZNk52RTY4YUFHQTF3RXpLaVVjMjBRd0dRX3I3Q19sMFBmUFdWZjFzNlQ0M1BCR19hZXpNckJxQ1ZhRDhaTEFaaVJWaVNKU21ya1VtcTUyMS04VlpJVm9La1ZwVA?oc=5",
-    "source": "Inc42",
+    "id": "fdc90ec64a24",
+    "title": "Swiss preventive HealthTech Ahead Health bags €8.7 million and launches in Germany and the Netherlands - EU-Startups",
+    "description": "Source: EU-Startups",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNl9BNDFXYUlzSTVDVXlCWUhWTUtoVlBPX09rWHhEaWZhRGRWQ241RngtMEFuSUMyNG4zcHVfVDJRZHRhbHhDUUF4U2RiTWE5aGktU1ZTZ3pGSVNGY01IQ1hHdms2czBLczNsODBORlQxaUc4MWxqQlJzR0dJVDFaOU9UYXBXV0dOU3g1a242NFVsSm1hVXMxUjVvdFpwWWItbWpXczdsU1ZlV29rREZmQTVMUGZkaGNpNTh1UUZhenpRdzNONnNBY29ERy1SY091blZ6VVM5aDV4OEo0WjdrLTVVZ04?oc=5",
+    "source": "EU-Startups",
     "date": "2026-10-23",
     "category": "tech",
     "tag": "tech",
