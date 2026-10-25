@@ -1,5 +1,29 @@
 [
   {
+    "id": "5862e39e64db",
+    "title": "Strike on Gaza university kills three: staff, hospital",
+    "description": "The university said the campus and its surroundings had been targeted twice on October 25, condemning the attacks and mourning those killed in a statement",
+    "url": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece",
+    "source": "The Hindu Health",
+    "date": "2026-10-25",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
+    "id": "d0b6a0918320",
+    "title": "Melioidosis in India: a potentially deadly infection that may be going undetected",
+    "description": "A multicentre study found that nearly one in 11 high-risk hospitalised adults had melioidosis, with almost one in five confirmed patients dying in hospital. Gaps in diagnosis and national surveillance leave the true burden uncertain",
+    "url": "https://www.thehindu.com/sci-tech/health/melioidosis-in-india-a-potentially-deadly-infection-that-may-be-going-undetected/article71616567.ece",
+    "source": "The Hindu Health",
+    "date": "2026-10-25",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
     "id": "f83a6268879a",
     "title": "AHPI Calls For Holistic Approach To Hospital Medicine Pricing - BW Healthcare World",
     "description": "Source: BW Healthcare World",
@@ -17,6 +41,18 @@
     "description": "Source: Press Information Bureau",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qaHJGdi1vRUVvdXRvX000eTJXOElicFFWWjRUWjZQVzZvT1ZNLXZ1VExDVlZnNG9qYm9xdWdlLTVHRXdYY25XejBidXdiZVZUQlNMOE5hb3RKT001X3BlakRNdzVDU0pl?oc=5",
     "source": "Press Information Bureau",
+    "date": "2026-10-25",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
+    "id": "95838ec23fa3",
+    "title": "AI adoption, data governance take centre stage at CII Hospital Tech 2026 - Express Healthcare",
+    "description": "Source: Express Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMWw1NEhVbFJmYkxDdWNTQ2t1Z3FWME8yZVk1VTJDdFM4bXRxdXZsQWRUdUd4S1NvVjB1Z0UzV3JXZmVrbE5jQjEyQU53VXVWZFZBcnhGNFVZSjR4TEtNdmVRWXJveTM5eUloR3FHTk41MWdPekMxVnY4YXB6TXJZYzNkNlNRVGRYc3BPTks3TXBGLXNjbEhhbmhPcFdvWURUN0lPeENQa0hfZDZZc1pBZ3VaQW9pSTVj?oc=5",
+    "source": "Express Healthcare",
     "date": "2026-10-25",
     "category": "hospitals",
     "tag": "hospital",
