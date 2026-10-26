@@ -1,16 +1,16 @@
 [
   {
-    "id": "ca237304e862",
-    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
-    "description": "Source: Telangana Today",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
-    "source": "Telangana Today",
+    "id": "883c34e6f3d3",
+    "title": "J.P. Nadda to Address India Medical Device 2026, Focus on Building a Globally Competitive MedTech Ecosystem - eHealth Magazine",
+    "description": "Source: eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE5wcURKMUF2R25YdklGTlhqMVdmb0prWUo1SVBYaksyR2NxY1hxczZwM0UzekxibG8xYmR0dHotYlhwS2xzMDd3REdYV3FHX1RzM0Q2VzFsWEFLS0tGU1psMFdMUVRzMUVDQVJqU3dGQWhIUGdpQjRFTjFnczZSQ1QwaGgzU2pEZ0k2VWFOeE94RXpOa3ZmS0pNNzItMmowckJaNEJUUWo4T3BrWHdNQlFrXzJUTmxWRy1KWC1lSGhyNXJfTGladTVaZEJFSm1ZcHNNY2lKUHhVcFU2cFZn?oc=5",
+    "source": "eHealth Magazine",
     "date": "2026-10-26",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "AI / ML",
+    "tag_label": "MedTech",
     "priority": "medium",
-    "subcategory": "ai"
+    "subcategory": "medtech"
   },
   {
     "id": "859be6304b18",
@@ -57,6 +57,19 @@
     "description": "Source: The Lancet",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSFhhTUhPeU5iSFlPS1otQlhjRFhpNE5vUlZVcnF2eHRoOGRzeGhiRU40d3g3Z00wVVpTTTlURlVhNHFfS2c5UllRSXRBYnlBZUZ4anlIX2dhZklFWDJ6T21BNTU5UEJ1R3VXR3VOWWlNWjU4emdWYmdHWkY4Z2xnV2NkeDI1bVZMQ1E0?oc=5",
     "source": "The Lancet",
+    "date": "2026-10-26",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
+    "id": "b185a24f85e9",
+    "title": "Virtual summit addresses artificial intelligence and racial bias in health care - WDET 101.9 FM",
+    "description": "Source: WDET 101.9 FM",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTJlRDY2WW1KZDhrMmozMnpUUU0zVVhNTFU1MXhId0lsUkE4ZkpRemhqcjRleGItdGE3S3AzdVY1LWFsdXQ4NkRlZEpDXzBEZGx1RG56MEw5UlJZUmxxSF9ZVlJvTWZqUVdLa2tSSlRYbGp4X1RQa2FjOFBIajg0RTlCRE1pOVlBWTlZWVJMbjd4SV96cUFNTUVfNi1taFVTeWU1d0ZYV1N6TmQt?oc=5",
+    "source": "WDET 101.9 FM",
     "date": "2026-10-26",
     "category": "tech",
     "tag": "tech",
@@ -429,17 +442,17 @@
     "subcategory": "startup"
   },
   {
-    "id": "6417400f7048",
-    "title": "H1 2026 HealthTech Funding Recap: How $310 Mn Reshaped the Future of Healthcare Delivery in India - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNllFTDUtTVB0cnFTSnZWNTVMTEcwejRhQU1LOHp1NGVkcWc5eUNVWHFEYmZfdE1FVDFhcWdONUx0LVF3UWNZdXV0RGNCQ0xwVzhrNFBydFpLMm5SY2JKTzF2Q1NVVWczaE5JaGRldjBYUWFfQ1A4ZVFyRk9zSVJ6VTljaG1EaHdMX2tzWEVMWUpnZzBlVDRwY0RwQjlacWV2akFod0tHOG9jcUN6MmY4WXEyQ3BvY0xlcFpuWXFVci1vT1NHcmdHdQ?oc=5",
-    "source": "Digital Health News",
+    "id": "b0e01c3f36fa",
+    "title": "Healthtech startup Confido Health raises $12.5 million in funding led by Z47 - The Economic Times",
+    "description": "Source: The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW00UnI0X0VpdzNtcmw3X1B2ZGx5UURqSThGMkFfSGE3OGpwdjFmNE1qSnZXWlhkTTdZSDN5ZlVlRk5RWDN0V1pyTTZZdjE4RXloWjRxWmRtNkFVdVp4TUN0MS1QTnZWT1Q5VjV4b3M4UGxzeExQek9pMUctNUJ1cWVjU3R3ODQtWG40Ujh3SjA4LW82bEJzTDRPZ2Y5bUc1UVcyeEtMUlZyTGphNzNhXzVCMXluVklNYXhYbFkxLVVyc3JFV0NBempyWGhGaERNNnlrTWlpOFVkc1HSAeABQVVfeXFMTW80Q052MlpjQ3lLWjNudS1ESFlyeE14UXRnQ1RYNnYxb1JkYlpSWDFuM1VMNG5WYzFsdGpsYXRWOUVGMExoY01Na21wOEpKUGwzVXJIN3BHbVlfNUdDN3UyVFk0MWdacTNtOTdIQkMxUUozRDljYzhiaWNUXzNwaGRKejNRQXE0NkRQVVRuOWxCR1VpYy1kRnV0Y2piTmE0T0drUmVvc1dMWGtEZW1mUXUwMVViWU5JUmd6OU5QMksxUDVodUV4dWFtMzV1c2hjcW15WkZWS1V4OEFnYmlvWXU?oc=5",
+    "source": "The Economic Times",
     "date": "2026-10-26",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Telehealth",
+    "tag_label": "Startup",
     "priority": "medium",
-    "subcategory": "telehealth"
+    "subcategory": "startup"
   },
   {
     "id": "09187759d863",
@@ -481,43 +494,17 @@
     "subcategory": "startup"
   },
   {
-    "id": "19e529f74804",
-    "title": "Top 30 Funded Healthtech Startups In Gurugram (2026) - Inc42",
-    "description": "Source: Inc42",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHNieXdtd0JWVFN1bjNzZ09URWc5VFNidDBYdTJZNk52RTY4YUFHQTF3RXpLaVVjMjBRd0dRX3I3Q19sMFBmUFdWZjFzNlQ0M1BCR19hZXpNckJxQ1ZhRDhaTEFaaVJWaVNKU21ya1VtcTUyMS04VlpJVm9La1ZwVA?oc=5",
-    "source": "Inc42",
+    "id": "a3cae6126313",
+    "title": "India's Digital Health Funding Tracker: What Got Funded in July 2026 - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5BdEVWZHVPX1dDZFZxQmdJZlMxQV8zdmNCRzZHNmduTE5EYUM0LWhwUjYwMHdDMkJ6ODdROWZ3NU1kNzl4ajdUZHpMRDFZamNCU3dwVnFOMkYydE9pbTJpbm9TRU4tTWs2UUlsbTBEd1FCdEkza0QtTEoyVlNrQXFYaERZZlFOWkxzR0dpUXNjY3oydXY0VklWenVmRzNRWkdF?oc=5",
+    "source": "Digital Health News",
     "date": "2026-10-26",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Startup",
+    "tag_label": "Telehealth",
     "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
-    "id": "0d2f4c46851c",
-    "title": "Top 30 Funded Healthtech Startups In Mumbai (2026) - Inc42",
-    "description": "Source: Inc42",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51NFFyWHo2enhCbEdkemxIN19RRnQ4eUVsT1FJWFNmbVVoU1ZjczcwRi1Od2k4OHRPNHR4R1JxNE5uTUQxeHpYMkxkZ044OTVwbG1tNWktZkFRcDdjUXFyVFd3Z0NpU25tcElzQ1BMSk4yRG0tMWtqMmZZZmFBZw?oc=5",
-    "source": "Inc42",
-    "date": "2026-10-26",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
-    "id": "fdc90ec64a24",
-    "title": "Swiss preventive HealthTech Ahead Health bags €8.7 million and launches in Germany and the Netherlands - EU-Startups",
-    "description": "Source: EU-Startups",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNl9BNDFXYUlzSTVDVXlCWUhWTUtoVlBPX09rWHhEaWZhRGRWQ241RngtMEFuSUMyNG4zcHVfVDJRZHRhbHhDUUF4U2RiTWE5aGktU1ZTZ3pGSVNGY01IQ1hHdms2czBLczNsODBORlQxaUc4MWxqQlJzR0dJVDFaOU9UYXBXV0dOU3g1a242NFVsSm1hVXMxUjVvdFpwWWItbWpXczdsU1ZlV29rREZmQTVMUGZkaGNpNTh1UUZhenpRdzNONnNBY29ERy1SY091blZ6VVM5aDV4OEo0WjdrLTVVZ04?oc=5",
-    "source": "EU-Startups",
-    "date": "2026-10-26",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
+    "subcategory": "telehealth"
   },
   {
     "id": "68278b594801",
@@ -546,11 +533,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "d38d0e24f973",
-    "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - IBEF",
-    "description": "Source: IBEF",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTNadjJhbnJKZS1oVVJkOXRVQnlGazVCay0wZzRYa0ZDUTVnZUZ0V2ZvdEZVQk9PY2RTSmJlZXNiWWJtZlF2OWdsbnA5NjFXM21mTEQ1N1R1TmpPYXdrdGNPWUVOWGZZbkcxQnJXQXJDQmp0VEhmd0ZZUlNMWkRrX1h6QjkxbExKWGhDSlZSM1BYZ0s3RlB3bkwxSXROOHN2Sk1OU2xCenVFNEI3Qmc?oc=5",
-    "source": "IBEF",
+    "id": "f8661a7cb74b",
+    "title": "From fitness trackers to medical devices: Where India draws the regulatory line - Express Healthcare",
+    "description": "Source: Express Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2d2RnY2aG5FbDBid241eV9HUW16ZElVRkQtc3N6S21qOW1kTGFyZGxnVC03czc1OG02bFNpalVXV3dYemNKSUYySjhRel9LSk5TWkJpazVDeXdGTVpXY0lrTWR3YlFKbC1INDV5aFFaRU1idVhrMnNlRUdkcnY4S3FnTl96eFFmSWgxUzdZVGpTdExHSzlMUngxYXFUcm1aZU80Nkl1Tm1tckR5Qm9qMWpnZ2VKSDZjNkhyc0d3MERPdw?oc=5",
+    "source": "Express Healthcare",
     "date": "2026-10-26",
     "category": "tech",
     "tag": "tech",
@@ -559,11 +546,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "f8661a7cb74b",
-    "title": "From fitness trackers to medical devices: Where India draws the regulatory line - Express Healthcare",
-    "description": "Source: Express Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2d2RnY2aG5FbDBid241eV9HUW16ZElVRkQtc3N6S21qOW1kTGFyZGxnVC03czc1OG02bFNpalVXV3dYemNKSUYySjhRel9LSk5TWkJpazVDeXdGTVpXY0lrTWR3YlFKbC1INDV5aFFaRU1idVhrMnNlRUdkcnY4S3FnTl96eFFmSWgxUzdZVGpTdExHSzlMUngxYXFUcm1aZU80Nkl1Tm1tckR5Qm9qMWpnZ2VKSDZjNkhyc0d3MERPdw?oc=5",
-    "source": "Express Healthcare",
+    "id": "d38d0e24f973",
+    "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - IBEF",
+    "description": "Source: IBEF",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTNadjJhbnJKZS1oVVJkOXRVQnlGazVCay0wZzRYa0ZDUTVnZUZ0V2ZvdEZVQk9PY2RTSmJlZXNiWWJtZlF2OWdsbnA5NjFXM21mTEQ1N1R1TmpPYXdrdGNPWUVOWGZZbkcxQnJXQXJDQmp0VEhmd0ZZUlNMWkRrX1h6QjkxbExKWGhDSlZSM1BYZ0s3RlB3bkwxSXROOHN2Sk1OU2xCenVFNEI3Qmc?oc=5",
+    "source": "IBEF",
     "date": "2026-10-26",
     "category": "tech",
     "tag": "tech",
