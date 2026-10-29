@@ -1,29 +1,5 @@
 [
   {
-    "id": "f85fd1d6f7a3",
-    "title": "First time health buyers increased 2.8X since FY22: Policybazaar",
-    "description": "",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/first-time-health-buyers-increased-3-8x-since-fy22-policybazaar/articleshow/135270980.cms",
-    "source": "Times Health",
-    "date": "2026-10-28",
-    "category": "regulations",
-    "tag": "regulation",
-    "tag_label": "Regulation",
-    "priority": "medium"
-  },
-  {
-    "id": "9fe843812d7e",
-    "title": "12 years, 12 judges, 2 favourable orders, RTI applicant yet to get info - The Times of India",
-    "description": "Source: The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0xRd01TM1dPazJBR25VS2JDRUx4ck1OSlZZVWkyRHhMUFdzWkZNQUJQNF9uWElPd1RtSEd1XzJHZ3JvWUpPNnlGUVJfXzV0YnNxYVRvdlIzaXJZRUpEd0tDYlB3ems0Nkl6eVFmckJsX0NlSzh3ZmRWNl9TSXBqM2M5TkNvUDVjLWYxS202NW5QMUdGRk9rQzhVdHpoaDExSzR4UnRSUTdTS3VjVjBScEhaVW1OZEE0Njdmc2NKbUV4UEptNFczczREclBZd2dzVVHSAdcBQVVfeXFMUHN6QV95R1lmNVhHa0lnMWtad3JqdEFTUjRQOTBnbGVIMjkweE5QeWxmbEd3bWpzaWl3R2JnVXpBRDYtU3dWODM3ZWltaEhvVkJyVGNid1lrV1pZYVBLU1FXbTVtb1hDY1VJNGpLNjF5UUJSUkxUZmZSUnI5M19aOWJvS1VBVGZpZlFUMm1DU2tCQXlGRW9Fd0V3anhlMFJ4MWNQUEtZNFdnb1RGTjdDT3RZUW01SnM0RUVRX1FxMmcxOUppQ2dZLThUOXZHdjc1ZEdpOTVncDA?oc=5",
-    "source": "The Times of India",
-    "date": "2026-10-29",
-    "category": "regulations",
-    "tag": "regulation",
-    "tag_label": "Regulation",
-    "priority": "medium"
-  },
-  {
     "id": "1ed3e916aa10",
     "title": "Indian court rejects bid to release hunger-striking activist from hospital - Al Jazeera",
     "description": "Source: Al Jazeera",
@@ -36,8 +12,32 @@
     "priority": "medium"
   },
   {
-    "id": "a3ea85760d07",
-    "title": "How the environmental impact of AI will affect human health. - InSight+",
+    "id": "8fe891a76ad1",
+    "title": "Ayushman Bharat Scheme, Sub Schemes, Benefits, Impact - Vajiram & Ravi",
+    "description": "Source: Vajiram & Ravi",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ENm5QU3dkU1NDRnhORmxaUkttTEJxOWE5N2xLemtjMEhCNWFJZ2dBR3JkaHNxT3NhTkdWY3JrdVFSOU9LUU1DdjRJRERKRF9PQzJfZUpqOUdBNXc1dkV2WFJMb0FoczFhZE5HcA?oc=5",
+    "source": "Vajiram & Ravi",
+    "date": "2026-10-29",
+    "category": "regulations",
+    "tag": "regulation",
+    "tag_label": "Regulation",
+    "priority": "medium"
+  },
+  {
+    "id": "393e3bdc3dc9",
+    "title": "Swasth Bharat Portal: Building an Interoperable Digital Architecture for Public Health Programmes - IMPRI Impact and Policy Research Institute",
+    "description": "Source: IMPRI Impact and Policy Research Institute",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcjNaVmJKbEFjUFZDZjk2TGpCNDhHb3BBc2t1MEdCdTBLRXl4QjFWSEIzM19UTUhaMDE0YUEyRUVBWWNOaC1YQ2dYNXhTcWtXbUpvSWQ1V1dSbG1QR2gySmFpN0pkR2FHemNjX1NtMllpU3pISzJGaG1CVlhuS1pGUU9adWVUVWVJRHozTTFkbl9yNGxTbGRTYnotQVhwQm5iYnlBRmgtXzhPRDVGOUh6SG1FTWNKSTFUT1BJLS1IOUxHX3c4T3pnTEJnUHFGdnZsY0EtbUhKN1IzQUJ4aUNUYQ?oc=5",
+    "source": "IMPRI Impact and Policy Research Institute",
+    "date": "2026-10-29",
+    "category": "regulations",
+    "tag": "regulation",
+    "tag_label": "Regulation",
+    "priority": "medium"
+  },
+  {
+    "id": "c26abbda3d4e",
+    "title": "The environmental impact of AI: why it matters for human health - InSight+",
     "description": "Source: InSight+",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQODZkdi1aVzhKOUlGaXNfYk94c2RBUHRaTVNzTV9YWGxQbFdxbGpOWlhlaFBxb1k0dXRSV0U3THNWVHdLSnU2eFFvNlRnRWZYLVRBNm5yTG5TdUdRcm5ZcnI4NS0tWHZJYlg5UUdzQmFwS3VDajRSUVdBUFZNd2NXcll5SWZfMVh2R3lKSlJZWklFdDVDUkc0LWphck1kZTJfNEhz?oc=5",
     "source": "InSight+",

@@ -1,9 +1,22 @@
 [
   {
-    "id": "82eaa825236d",
-    "title": "India Pharma Expo 2026 Wraps Up in Hyderabad, Spotlighting MedTech Integration and Future-Ready Healthcare Systems - eHealth Magazine",
+    "id": "ca237304e862",
+    "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
+    "description": "Source: Telangana Today",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
+    "source": "Telangana Today",
+    "date": "2026-10-29",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
+    "id": "9ad60f56fe84",
+    "title": "CoSara Diagnostics Seeks CDSCO Nod for 30-Minute Point-of-Care TB PCR Test, Eyes India Launch Before Year-End - eHealth Magazine",
     "description": "Source: eHealth Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUnBiTGNmZmthczM2OWlJaVBOTHYzV3pkVlh3MmdvQVBXcXFlZzZIMG51UUQta01rTzQ0YmstQ2NqZHViMVlnNEZxRUZZRkZtY1pBNklmRHdWT2xmSHF2MTU1N0wwSjJVbWJzM1hQOHluUVBTZUFZTnpmcDlWZjlZMFZmcG1JMER3dkNWcjAzMFJrcExoQXROMWtPeC1tVERfVWdTMXZWRW81U0xGbUxDUzhLb3NidXYwU0JxMzRrem1HMlZ4S2haNWN5bkFRbEVIbnFxSEFYOTc2UXIzVk1VY0c5cjRnTThSbFE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVlsSENjOVpoYlJCeFVuM1IydGxHMUR6V2ttMGpLNmExZTRjNGVqMmlYT1JaNXc0a1BvWUNDU1Z6LTlYUGltV2RNblNFRHlRNjhqcG1aSExDOC00NE5OYnYzOEZqa0haWFNNWFI0dUFBRU9LeWJHcjRJSDVyWUlnaWpHN1VrbEtmdG8tMENPUkpSWXdjWE9WSGh5NjZ6ZXR4V0VYNzdsckhsTi15bTMzUWtWUnhxZw?oc=5",
     "source": "eHealth Magazine",
     "date": "2026-10-29",
     "category": "tech",
@@ -11,19 +24,6 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
-  },
-  {
-    "id": "9613dcbc66e9",
-    "title": "New Healthcare Policy for Telangana to Be Tabled in 2026–27 Budget, Says CM Revanth Reddy - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVI0aS1vdkI4ZDhnaG56N003WXVqVzdHNFlHZHh0WFpWMXF3YU5FQXNSR0JtbGRDdG5aLWlmQ0xSclNaeERKZGhIZDBGYzRHYWRuaG9BV290ZmZZN09TWkYwN28zLTFRcXhNWHBPeDB6c21XTHJiWmtFLU9CTUsxTUxWTlRWd1lfV2Y4RmVENllRbXNKbURUT2tKdHhzUllRdW01M3ZXcXBOQW9NOVFLMjdEOW5CRFFFN3dBZEhtQQ?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-10-29",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
   },
   {
     "id": "ce034c5f0f0c",
@@ -50,19 +50,6 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
-  },
-  {
-    "id": "9ad60f56fe84",
-    "title": "CoSara Diagnostics Seeks CDSCO Nod for 30-Minute Point-of-Care TB PCR Test, Eyes India Launch Before Year-End - eHealth Magazine",
-    "description": "Source: eHealth Magazine",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVlsSENjOVpoYlJCeFVuM1IydGxHMUR6V2ttMGpLNmExZTRjNGVqMmlYT1JaNXc0a1BvWUNDU1Z6LTlYUGltV2RNblNFRHlRNjhqcG1aSExDOC00NE5OYnYzOEZqa0haWFNNWFI0dUFBRU9LeWJHcjRJSDVyWUlnaWpHN1VrbEtmdG8tMENPUkpSWXdjWE9WSGh5NjZ6ZXR4V0VYNzdsckhsTi15bTMzUWtWUnhxZw?oc=5",
-    "source": "eHealth Magazine",
-    "date": "2026-10-29",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
   },
   {
     "id": "bd25afd65534",
@@ -325,19 +312,6 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "697b15ac68fa",
-    "title": "Telemedicine Market Size, Growth Forecasts 2026-2035 - Global Market Insights Inc.",
-    "description": "Source: Global Market Insights Inc.",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13UlZuOFVGMjUyeG51UV8xSzRpMVJmQU9lM1B1RER4bHc2M3pxREN4SjFiUVlXNkdUc0hsOUt2Y2FhSEljc2NmenNldTk3eVMwUktDN0JGcjhUcDZwcFpKU2JEenctc1VRNE9rZFlMdGJfZw?oc=5",
-    "source": "Global Market Insights Inc.",
-    "date": "2026-10-29",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "6324b93fae2b",
     "title": "Telehealth and Telemedicine Market Report 2026-2031, By Function, Application, and Geo - MarketsandMarkets",
     "description": "Source: MarketsandMarkets",
@@ -481,11 +455,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "319b2243dced",
-    "title": "Intuitive Introduces da Vinci 5 In India As Robotic Surgery Enters Next Phase - BW Healthcare",
-    "description": "Source: BW Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGxjeGdLc0ttVlVONUdlY3JPOU5mbnNiOGQyamZTdVAtaGk5RFRsbTlGQk1ZaVBHem41ZGF5NlpnWjdRdGh4MHFDSG9yd2VxdzJUNkJKdG9iX3p1VG04empYYzk5cno4OXR2MGpqbG5UTndNYUFRYTJPYXJhZzdEaDROaEhvYVU0X2JaNkZ1UUZDSV9UNEtJbkhEWXJ2TzQ2TXBRU0EteUpPendkS1VScFdwczhUMVZ2V1RDbXZTT2wzZ1Q5?oc=5",
-    "source": "BW Healthcare",
+    "id": "41f854c9b1a8",
+    "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - TheWire.in",
+    "description": "Source: TheWire.in",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa25SYUExV0s4NGxoZmdYVkJnUTFqclRyMTg3MjIybE1jZ3U0MGg5dmpJOUxneEp1QXVLTk9HM2FLa2NxbzlYcnRFdFVrNncyU1pZT2FIX1Y2VXVDQ3A5WEhZeUJpcHo5TDlGSnVKcm1CQV9ORERCN285dEo4TlNHeG01QS1GQ1NaVkctNmpKT3lGbnRtWV9Kc2VmZzBpRWpkcWhzOTRFb1h1U1lhLVN5dE8yOWN4LTMyaklHUjJFelRlMldreVl6RtIBzgFBVV95cUxNc0MzbXBwOHk4LVhfcVFEeDFqeER5NXJyeFhpNFVMcVhDU053Zm1ZbDdpZGdsaFROS0gtNWhDeVZYcFFUT2FwSHhsQXpKSmRsS2VIdHRObUJaWlpkZGdXTVNLSmV2WS1ud0RHQ0o0LVF0Sjhzdjg4cEZIaUJZOHlhNWFSaEdycUpHaFZrR1ZMYkduTy1pZlZfSmtzaFlqTlhQRVJUeTIwVjBRWnlCMlF6S2ZiNlA0UjhKRG1SX3cwRFBZOFRzSUF6VURrdWhiUQ?oc=5",
+    "source": "TheWire.in",
     "date": "2026-10-29",
     "category": "tech",
     "tag": "tech",
@@ -494,17 +468,43 @@
     "subcategory": "robotics"
   },
   {
-    "id": "16443929ee54",
-    "title": "Telerobotic surgery is advancing around the world. Will the US embrace it? - MedTech Dive",
-    "description": "Source: MedTech Dive",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTJYWnZSdzUxM3pqMmh5Wk14ZFlWUmhiQWVfQzB3WVBxbjNJV3E0Qy1fM1FDaXZ5N1pBR0pwSGlOU2Zsdmk2WHFFVTJ4U0Z2YmV1SWM3U0U2aVl1cUxWRjRpbWlxaG9KQll2aHdQOXExbmxFLXRFWmpqWGoxVjJxaUo3UEJRODF2T042MFBJVDQyOE1XMll4YnlLaEhMVnRmZUthYjdoTTFmdTNkYkF6emt0WQ?oc=5",
-    "source": "MedTech Dive",
+    "id": "018870359d6f",
+    "title": "Robotics Integration Is Transforming Global Surgical Care - The American College of Surgeons",
+    "description": "Source: The American College of Surgeons",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUtxdEYzT0VIOXFybG02R0VWOHV5ZnhSN2hWSEprbDRubUhnY2JyblB6VDU2enZ1N2tBM1lXYmtMNWplN3NrcFNfa0ZuT1BQTHVyM2hobmpYRjl4Y2wxT0VWTXlYc1BqaThWTmJFUDZPTUllbHo2MHNSdUd5R09oMTJ3a1VuaDZnOXdONFZMVkVGS1JjbTJaQ1N5ODFjcnV3ek5iOFo5M1R1ajM4UWVzMVRObFJ0TVJHRkFyM2lGZVFMQVZyVlRNX2l0NFVRWXdyUWVjcENLYmI0ZWNfdFhnMEtNaWZGS0xkTmw3M2hDcEEtNjdyQ3NGSC05Qmw4RGJ4OFF5d0NnVWhyUVdzVkxWa0FuTlVmUHc?oc=5",
+    "source": "The American College of Surgeons",
     "date": "2026-10-29",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "MedTech",
+    "tag_label": "Robotics",
     "priority": "medium",
-    "subcategory": "medtech"
+    "subcategory": "robotics"
+  },
+  {
+    "id": "6dd8dbdf3b64",
+    "title": "Surgical Robotics Special Report - MassDevice",
+    "description": "Source: MassDevice",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5Zzc5TnJYTGUzXzFhR1ZRUE5BRjlZS2ZYUkNLXzBVcjRsaEluNUU2T3lrdmMtNDhIbG54Z3VnRldyb09zUnpMZFdEYWh0LUVqV0V4UnI5cldqOVk3dUpWQzY1dXY1aERQRUR6ZGNnZjBVZ3c?oc=5",
+    "source": "MassDevice",
+    "date": "2026-10-29",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
+    "id": "8cb9c68b6308",
+    "title": "Fundamental kinematic indicators predict surgical expertise and clinical outcomes in robot-assisted surgery - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hN0JISmlWY24zbnBPMk5tTkx5R2lZaEF1ZHFEMmo0NWVyN1M5OTNpME5iNXJDN0JJV3JkREtPaTlxSkxLTVhVUzBsS1RSUXlVWENHM0UzSWFJYlhVR2tj?oc=5",
+    "source": "Nature",
+    "date": "2026-10-29",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
   },
   {
     "id": "e0e664ed1bf1",
@@ -512,19 +512,6 @@
     "description": "Source: Inc42",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEtSbmpRencwbTc5X19BZzBkX2cyczRLTEwtWGNhSWJ0cmJJMTROQkN6S0NBTF92NEtVR0dLMWY3Q2hMZGhiSExkRlhLOEg2Z25MLU9IYUYxSXNyQ3p4THk5Y1FjS0VGcEJGRWRZVGREeUFaNTZnMENqVDRreGFER293?oc=5",
     "source": "Inc42",
-    "date": "2026-10-29",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
-    "id": "b0e01c3f36fa",
-    "title": "Healthtech startup Confido Health raises $12.5 million in funding led by Z47 - The Economic Times",
-    "description": "Source: The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW00UnI0X0VpdzNtcmw3X1B2ZGx5UURqSThGMkFfSGE3OGpwdjFmNE1qSnZXWlhkTTdZSDN5ZlVlRk5RWDN0V1pyTTZZdjE4RXloWjRxWmRtNkFVdVp4TUN0MS1QTnZWT1Q5VjV4b3M4UGxzeExQek9pMUctNUJ1cWVjU3R3ODQtWG40Ujh3SjA4LW82bEJzTDRPZ2Y5bUc1UVcyeEtMUlZyTGphNzNhXzVCMXluVklNYXhYbFkxLVVyc3JFV0NBempyWGhGaERNNnlrTWlpOFVkc1HSAeABQVVfeXFMTW80Q052MlpjQ3lLWjNudS1ESFlyeE14UXRnQ1RYNnYxb1JkYlpSWDFuM1VMNG5WYzFsdGpsYXRWOUVGMExoY01Na21wOEpKUGwzVXJIN3BHbVlfNUdDN3UyVFk0MWdacTNtOTdIQkMxUUozRDljYzhiaWNUXzNwaGRKejNRQXE0NkRQVVRuOWxCR1VpYy1kRnV0Y2piTmE0T0drUmVvc1dMWGtEZW1mUXUwMVViWU5JUmd6OU5QMksxUDVodUV4dWFtMzV1c2hjcW15WkZWS1V4OEFnYmlvWXU?oc=5",
-    "source": "The Economic Times",
     "date": "2026-10-29",
     "category": "tech",
     "tag": "tech",
@@ -559,19 +546,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "3a92cceaaee3",
-    "title": "US-based Healthtech startup Confido Health Raises $12.5 Mn in Funding led by Z47 - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjAwX1JnS0NoQXBIRGhKSkRqcUJEeU40NXRETXNVS3NqZkViRTlybTRYUXA4dTU5MWVPR1p3aEVHRmJ3eDhmSDVNV2xHVkxkb09mRHRCWDU3NENXYVBadzRET0dubktYR1VrNlZzeFVtM1N2dU5ZTGpqVHBNRUN1ZmtZOUk1WlRsUGdWR0ZxMUllTG5WLUloMk9mY2ROWVZZRmprN2tmZFphbEVwVUFWZHd5QQ?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-10-29",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "ac6f3b0ff0d3",
     "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
     "description": "Source: Digital in Asia",
@@ -596,6 +570,19 @@
     "tag_label": "Startup",
     "priority": "medium",
     "subcategory": "startup"
+  },
+  {
+    "id": "d6fa2b7b3445",
+    "title": "Top 10 HealthTech Startups in India - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQmRoQ2IySTJLUFBfd01iZzl1Zjl6SkZQbnVGbFJjbmZBOVZJX05OTFBqLUlOa3lFeWQ4aGF5OXF6T01YRWo1TjFKbm5LRF92MWJnRlkxcHpzV0V3ZXUyTnJNSDFhX3pHSDFPU0xjZzlxa1VnRENEdQ?oc=5",
+    "source": "Digital Health News",
+    "date": "2026-10-29",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
   },
   {
     "id": "68278b594801",
@@ -674,5 +661,18 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "7daea82105f3",
+    "title": "Drone Delivery in Indian Healthcare: The New Lifeline to Reach the Remote? - Nasscom",
+    "description": "Source: Nasscom",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUh1SHhVZ1hvLU1yWXNPVXBNVDlJVFlwaG92cVpxVUxDOGZFY3d2ZlNXUUtVRE5RWER2QVFObWhldFdVeWlzd2s4OEtaZGZGX0VlTXNJdnJNV1A0eUFYX2xwWm8zaDhMUW5UNjBzSURnb0tGdE5ZZWNPcFp5MTFPMmhHWjJGZS1mZ2FIWEEzNk04Tl96OG8telhJS0RfVXNvZnBBMThEYnR4TWJ2ZEg5NElFaw?oc=5",
+    "source": "Nasscom",
+    "date": "2026-10-29",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   }
 ]
