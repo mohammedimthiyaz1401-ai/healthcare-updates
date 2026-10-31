@@ -78,19 +78,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "5905bcf337e3",
-    "title": "Artificial Intelligence Is Transforming Medical Devices Market A 2026 Trend Report Market Trends & Business Updates - Menafn",
-    "description": "Source: Menafn",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaWRPaWlHZlBMNTZvTV9GeFA0Skt2U3FFcWV0YzYybFkwNkNzcFYyRFFTanpmYjBHSW5XaTZ5RkNpcTdxcXBHekZiQzFyMHdXdnZTc0pUcGI5UUlaS1h1ZUR4aG5aQWNEYlhGUGNSWnZDT29iV2w3S0pjU05icjlHSFYzMjBqa1RKRG1LZ2RQbnZ1d2dqWERFdnFaQ3lTU21qbnRMckFWSlFqSnJWb3FMR0dJVDVwY2szRG81MmFZcENqcFNDZGZVMG0wc3NRN01YdDN5RnBsRG1ERUE?oc=5",
-    "source": "Menafn",
-    "date": "2026-10-31",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "f696f62b0049",
     "title": "Progress on AI in health should be determined by strength of governance, WHO forum urges - World Health Organization (WHO)",
     "description": "Source: World Health Organization (WHO)",
@@ -117,6 +104,19 @@
     "subcategory": "ai"
   },
   {
+    "id": "9cafa684e4b2",
+    "title": "A five-phase evaluation framework for diagnostic and predictive medical artificial intelligence - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByNnlTUE9RVkdTT2IzZWZMS3VaeHpVM1hqOHNLUzlfcGdJSWRvbVR1cFNVeThQbFp3bDluSUFTRC10RGlDTDg5QTdYYkR2NU82S284MjcwZ2RrUVZVX1BR?oc=5",
+    "source": "Nature",
+    "date": "2026-10-31",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
     "id": "46f20df6b4fa",
     "title": "The clinician–artificial intelligence scientist: a proposed career pathway in medicine - The Lancet",
     "description": "Source: The Lancet",
@@ -141,19 +141,6 @@
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
-  },
-  {
-    "id": "5a411e540daa",
-    "title": "Generative artificial intelligence in medical education: from knowledge assessment to clinical reasoning and professional competence - Frontiers",
-    "description": "Source: Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ3JIQXd2a3VGTnMzZFd0MDdMMTZLV0JlUVNuQXlrQk1rdXBneXNjVkVpbU9UczRydHVQNlFrOGtZNjk0SDItRG9Jc2JrWmIwRnBtX05ubGxtZFI3ZzZvZnN5QlBXMkhEU2I3eWNXQ3hJeTgtVzV3SEJnb1Izb3ZBRWh5T3A5aEx0Q0xSQm9n?oc=5",
-    "source": "Frontiers",
-    "date": "2026-10-31",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   },
   {
     "id": "7825803f73af",
@@ -247,11 +234,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "549c0c08ef4e",
-    "title": "India Health 2026 Brings Healthcare And MedTech Ecosystem Together - BW Healthcare",
-    "description": "Source: BW Healthcare",
+    "id": "f7a8ccf612a4",
+    "title": "India Health 2026 Brings Healthcare And MedTech Ecosystem Together - BW Healthcare World",
+    "description": "Source: BW Healthcare World",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHFUR3hvSV9iSExsTHBSR2pTeTdrRWNCYk1nWjBWbHlqbmxUSU8weFoyZ3E3OWJmOFBZb3BkVXFjOWxuWUt0UlNjV1REQm16dDR6Q281XzctVlVoRlJ5OEhfbGo3c0F5SkNPSWdUMi1ZSnF3Vml2ODY3X280THNCX1lVRGVDWGxtY1VjeHVENHlHbTVQVG01UVNPV0pMcGdBYnU1bkNyODRFUkVyNGpNamdjSVdGQQ?oc=5",
-    "source": "BW Healthcare",
+    "source": "BW Healthcare World",
     "date": "2026-10-31",
     "category": "tech",
     "tag": "tech",
@@ -273,11 +260,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "907a4badcb32",
-    "title": "Telemedicine Market Size, Share & Industry Trends 2035 - Market Research Future",
-    "description": "Source: Market Research Future",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNG1kaWZnQ0NKV2VGdk1fb25kX3g1V2RPTVRWWmY4QUw1Z1BJSC1nWXQxcy1lOEJ1Uk94YUdCOXllV2tyc2JGNG9feXU5bUxNZ2NMV25jQ29VLW9jX2xzb3R2U1VpTUlKRzVnX1o0a0l3X1dKR3dXWA?oc=5",
-    "source": "Market Research Future",
+    "id": "282994d8c9d9",
+    "title": "Digital Prescribing Integrity: Preventing Misuse in Asynchronous Telehealth - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUw1Q2xiOUdwaVJURWFFYURmOERhLUd1SC1ESHVEblhsOHF6NFhOcHFqV3paYzk5WjF2V0lEdTRsNzhYaldqYU5yd1hac05wWmFXMjNhNkVBTmlaZ3VmMi05UHpVQ1BUVW40anQ3N2NnVE54cFZNSkxmRjRrY0IwNTFsMkVEUklKZFg0QWlZYlFtTlg2dmZpRGpHZjVnaER1TElWVXRRcW9ZSEZ6?oc=5",
+    "source": "Digital Health News",
     "date": "2026-10-31",
     "category": "tech",
     "tag": "tech",
@@ -286,11 +273,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "282994d8c9d9",
-    "title": "Digital Prescribing Integrity: Preventing Misuse in Asynchronous Telehealth - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUw1Q2xiOUdwaVJURWFFYURmOERhLUd1SC1ESHVEblhsOHF6NFhOcHFqV3paYzk5WjF2V0lEdTRsNzhYaldqYU5yd1hac05wWmFXMjNhNkVBTmlaZ3VmMi05UHpVQ1BUVW40anQ3N2NnVE54cFZNSkxmRjRrY0IwNTFsMkVEUklKZFg0QWlZYlFtTlg2dmZpRGpHZjVnaER1TElWVXRRcW9ZSEZ6?oc=5",
-    "source": "Digital Health News",
+    "id": "907a4badcb32",
+    "title": "Telemedicine Market Size, Share & Industry Trends 2035 - Market Research Future",
+    "description": "Source: Market Research Future",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNG1kaWZnQ0NKV2VGdk1fb25kX3g1V2RPTVRWWmY4QUw1Z1BJSC1nWXQxcy1lOEJ1Uk94YUdCOXllV2tyc2JGNG9feXU5bUxNZ2NMV25jQ29VLW9jX2xzb3R2U1VpTUlKRzVnX1o0a0l3X1dKR3dXWA?oc=5",
+    "source": "Market Research Future",
     "date": "2026-10-31",
     "category": "tech",
     "tag": "tech",
@@ -325,11 +312,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "5e5060e5d8d8",
-    "title": "Digital Health Market Size, Growth Forecasts 2035 - Research Nester",
-    "description": "Source: Research Nester",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRzluWkxnZHpTMFVKOTh2dDhrVkh6eDV0T2llSWhWVkcwSUVDS1dObloxZ1FXRWhZYXljQnlnNDNoLU02bjhCNG0tQWc1T05WTmR3RGZRNW1DOWJXVU93QkJMdjEzUktjbmNHaUZVdW5xdw?oc=5",
-    "source": "Research Nester",
+    "id": "0c16bf0cb52f",
+    "title": "Evaluating health equity in Australian telehealth policies: a policy review - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qZEtmU2RGTGhVVV9Bd3Vnb2p5a05QcGpHUnIzQTVfTy1LZXdFc3JvXzVpcldTZmk3UkoxNUpyZUtWOUNQNnRveUV6NWlSbkg2MFBVbFBySnMwVXVpeXFj?oc=5",
+    "source": "Nature",
     "date": "2026-10-31",
     "category": "tech",
     "tag": "tech",
@@ -338,11 +325,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "0c16bf0cb52f",
-    "title": "Evaluating health equity in Australian telehealth policies: a policy review - Nature",
-    "description": "Source: Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qZEtmU2RGTGhVVV9Bd3Vnb2p5a05QcGpHUnIzQTVfTy1LZXdFc3JvXzVpcldTZmk3UkoxNUpyZUtWOUNQNnRveUV6NWlSbkg2MFBVbFBySnMwVXVpeXFj?oc=5",
-    "source": "Nature",
+    "id": "5e5060e5d8d8",
+    "title": "Digital Health Market Size, Growth Forecasts 2035 - Research Nester",
+    "description": "Source: Research Nester",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRzluWkxnZHpTMFVKOTh2dDhrVkh6eDV0T2llSWhWVkcwSUVDS1dObloxZ1FXRWhZYXljQnlnNDNoLU02bjhCNG0tQWc1T05WTmR3RGZRNW1DOWJXVU93QkJMdjEzUktjbmNHaUZVdW5xdw?oc=5",
+    "source": "Research Nester",
     "date": "2026-10-31",
     "category": "tech",
     "tag": "tech",
@@ -364,17 +351,30 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "1803d0286055",
-    "title": "India’s Healthcare Revolution Through Telemedicine - IBEF",
-    "description": "Source: IBEF",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmM4Z0dETXg1WkhfSFhmTVNOMXA1Zk83U2pUaUZSdXNmZFViTm9wT2dZeVRNVW1FaFdYUDRsLXBQSnBBbUYyMndnY1dDZjRIOU45azBQdXB2bW9mUVRXUzh1WTdUbWZ6Z19zaEw4QkFaY1NGTzVvM19vNXo5SnRkeDZLb2ZvMG5tVmpxS1lFQld1SGhUMV95S253aWJhaHB0eUxSSkJVRFBHMnFhZ25RYzNTNm9yNGN4Skg4YkpfZE0?oc=5",
-    "source": "IBEF",
+    "id": "f314cdc52d97",
+    "title": "Telehealth and Telemedicine Market Size, Share & Growth Report 2035 - SNS Insider",
+    "description": "Source: SNS Insider",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqUkI0ODBHbi1QV183Sjk2Z2UzQURHMjNXSmZyZkI1bkhTbzhzVXN0Y0FTVjI3ZnlPam5pNDJhS3lnanBOS29LM2ROS0tqbEJiZWhHS0hCYnE3bFJzWmZEVWZBVi1CVEdkaFFzZG9fNnBVZnZZSS1IZ25jV0JCNm8?oc=5",
+    "source": "SNS Insider",
     "date": "2026-10-31",
     "category": "tech",
     "tag": "tech",
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "29180101239d",
+    "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - DD News",
+    "description": "Source: DD News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3FYWUVhM0ZuRlRrZFhlTlBWZEdrNnYtV3dSQ3VrRWZGMWlldHoxTjhyRWF0VVFCbjIyUVkxQ1V0djlZUmpGRC0xOGlpenpfMkZNLXNKUHJPZHdtSmVld29kWjFxaFJ5WmtsS085MlRRemNrNS1JMnA0YkNHVXFWRENDSUpJQk1PZFZpeXlMNU5fN1hyaERaUlgxeTNtYXp4MnBGYk53VmRwT2JOYmdmWFN5dWlNM0RhM3Z6cHp3NllHQQ?oc=5",
+    "source": "DD News",
+    "date": "2026-10-31",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
   },
   {
     "id": "5570176a905c",
@@ -442,19 +442,6 @@
     "subcategory": "genomics"
   },
   {
-    "id": "29180101239d",
-    "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - DD News",
-    "description": "Source: DD News",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3FYWUVhM0ZuRlRrZFhlTlBWZEdrNnYtV3dSQ3VrRWZGMWlldHoxTjhyRWF0VVFCbjIyUVkxQ1V0djlZUmpGRC0xOGlpenpfMkZNLXNKUHJPZHdtSmVld29kWjFxaFJ5WmtsS085MlRRemNrNS1JMnA0YkNHVXFWRENDSUpJQk1PZFZpeXlMNU5fN1hyaERaUlgxeTNtYXp4MnBGYk53VmRwT2JOYmdmWFN5dWlNM0RhM3Z6cHp3NllHQQ?oc=5",
-    "source": "DD News",
-    "date": "2026-10-31",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
     "id": "97f090e1f222",
     "title": "Personalized Medicine Market Size Worth USD 1,397.63 Bn by 2035 Rising Use of Genomics Enables More Precise, Patient-specific Treatments - BioSpace",
     "description": "Source: BioSpace",
@@ -473,19 +460,6 @@
     "description": "Source: Spherical Insights",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
     "source": "Spherical Insights",
-    "date": "2026-10-31",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "214826a59996",
-    "title": "Personalized Genomics Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pM29WZ0RQa0hUNVBHcEJzNW9TcDBrOUZEbll1VEE4U2JRNkZpYS1jakJJSUt4RHd3U01kMkdHaXhMY0I3R3ZsM3dudEVZQVBjQjNFTWQ2WVBRNGxIYldNM2lSNFM0WEpUMjFGRi1xbk8?oc=5",
-    "source": "Precedence Research",
     "date": "2026-10-31",
     "category": "tech",
     "tag": "tech",
@@ -681,19 +655,6 @@
     "description": "Source: EMJ",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWFoUmZWXzRfb3NoRDRfUnZpeGpoaHNuVnlIaWdybkVIWUdwMlhlekxER1BLQmoyQmFpSHNERm9BbTd5c2tSRUUxTmt5ZGZ4MnNTME5CclcwWmNtSUlfbUNLR0k2all6cHpfS29NaUhTRFhuTjNma3N3TFBsc1JZSm9TclZQeGMzWWF3YVdaMWtqOWt1anN2VEdB?oc=5",
     "source": "EMJ",
-    "date": "2026-10-31",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "01099b0f0c2b",
-    "title": "Wearable Healthcare Devices Market Size, Share & Forecast to 2036 - Fact.MR",
-    "description": "Source: Fact.MR",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ZUo4aTV1dlhTVnhXTFIwMGsxYVdQTUFNWno5OGlzRjBDV2JsQWVlS190ZGVDVnJxbEpuTDZSZWlRV3VodVE2c01SZ2FxNEZvNmFCRk5fTTlRVVdHZzQtUHF4ZTc5UHl6UGpNbjhNNVEwQQ?oc=5",
-    "source": "Fact.MR",
     "date": "2026-10-31",
     "category": "tech",
     "tag": "tech",
