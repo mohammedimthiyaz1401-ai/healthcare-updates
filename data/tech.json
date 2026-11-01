@@ -1,18 +1,5 @@
 [
   {
-    "id": "82eaa825236d",
-    "title": "India Pharma Expo 2026 Wraps Up in Hyderabad, Spotlighting MedTech Integration and Future-Ready Healthcare Systems - eHealth Magazine",
-    "description": "Source: eHealth Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUnBiTGNmZmthczM2OWlJaVBOTHYzV3pkVlh3MmdvQVBXcXFlZzZIMG51UUQta01rTzQ0YmstQ2NqZHViMVlnNEZxRUZZRkZtY1pBNklmRHdWT2xmSHF2MTU1N0wwSjJVbWJzM1hQOHluUVBTZUFZTnpmcDlWZjlZMFZmcG1JMER3dkNWcjAzMFJrcExoQXROMWtPeC1tVERfVWdTMXZWRW81U0xGbUxDUzhLb3NidXYwU0JxMzRrem1HMlZ4S2haNWN5bkFRbEVIbnFxSEFYOTc2UXIzVk1VY0c5cjRnTThSbFE?oc=5",
-    "source": "eHealth Magazine",
-    "date": "2026-11-01",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "1ba8e36df268",
     "title": "MP pushes for regulation of AI in healthcare, medical education - The Times of India",
     "description": "Source: The Times of India",
@@ -364,6 +351,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "8c5acfd8bbc1",
+    "title": "Towards precision medicine in diabetes: pharmacogenomic approaches for MODY and type 2 diabetes with insights from GLIS3 gene variants - Frontiers",
+    "description": "Source: Frontiers",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanAyTjM5ZmxyemhuMHlCLUdUd191TnkzY1VyazJvWGdISm1EdGd5WERJQk1EeDRmNzl4WFpCVXo3UmxBS1p6OFV2RjlZTXZOYjhRT25nUkpkTW9wVS1EVDBFaXlWLU5hazJqaDN1S2I1SllDZ3ZhYmotTEVwVUdmOEQ5QThSZ2lLMkRrTWJiS1k2dnVka0E?oc=5",
+    "source": "Frontiers",
+    "date": "2026-11-01",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "911a14371074",
     "title": "Precision medicine | The cure is in your genes - India Today",
     "description": "Source: India Today",
@@ -388,19 +388,6 @@
     "tag_label": "Genomics",
     "priority": "medium",
     "subcategory": "genomics"
-  },
-  {
-    "id": "c2ffed6a7cb8",
-    "title": "Personalized Medicine Market Size, Share & Growth Report 2034 - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWYzT1MtM1NmWW84V3AyNWk1V0h0eTh0ZFE5eXhzeXQ2c0sxaFFRdHBaMDhhZXZaS29EaWdjdHRvdTRybER1aEJzNEN0NzRfTThIWlZIREFvM0NPMGFvbGhCVHNIcHpuWUtqaVluUUU5LXRGMlhfOWNGTGRnWWc5NnoxdllVYnY5TFZOZEJjNVh1UkJGWno4?oc=5",
-    "source": "Fortune Business Insights",
-    "date": "2026-11-01",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   },
   {
     "id": "d307b11e0911",
@@ -468,6 +455,19 @@
     "subcategory": "startup"
   },
   {
+    "id": "3a92cceaaee3",
+    "title": "US-based Healthtech startup Confido Health Raises $12.5 Mn in Funding led by Z47 - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjAwX1JnS0NoQXBIRGhKSkRqcUJEeU40NXRETXNVS3NqZkViRTlybTRYUXA4dTU5MWVPR1p3aEVHRmJ3eDhmSDVNV2xHVkxkb09mRHRCWDU3NENXYVBadzRET0dubktYR1VrNlZzeFVtM1N2dU5ZTGpqVHBNRUN1ZmtZOUk1WlRsUGdWR0ZxMUllTG5WLUloMk9mY2ROWVZZRmprN2tmZFphbEVwVUFWZHd5QQ?oc=5",
+    "source": "Digital Health News",
+    "date": "2026-11-01",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "09187759d863",
     "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - YourStory.com",
     "description": "Source: YourStory.com",
@@ -533,19 +533,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "d6fa2b7b3445",
-    "title": "Top 10 HealthTech Startups in India - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQmRoQ2IySTJLUFBfd01iZzl1Zjl6SkZQbnVGbFJjbmZBOVZJX05OTFBqLUlOa3lFeWQ4aGF5OXF6T01YRWo1TjFKbm5LRF92MWJnRlkxcHpzV0V3ZXUyTnJNSDFhX3pHSDFPU0xjZzlxa1VnRENEdQ?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-11-01",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "68278b594801",
     "title": "Wearable Fitness Tracker Market Size, Share, Trends 2036 - Future Market Insights",
     "description": "Source: Future Market Insights",
@@ -572,19 +559,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "f8661a7cb74b",
-    "title": "From fitness trackers to medical devices: Where India draws the regulatory line - Express Healthcare",
-    "description": "Source: Express Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2d2RnY2aG5FbDBid241eV9HUW16ZElVRkQtc3N6S21qOW1kTGFyZGxnVC03czc1OG02bFNpalVXV3dYemNKSUYySjhRel9LSk5TWkJpazVDeXdGTVpXY0lrTWR3YlFKbC1INDV5aFFaRU1idVhrMnNlRUdkcnY4S3FnTl96eFFmSWgxUzdZVGpTdExHSzlMUngxYXFUcm1aZU80Nkl1Tm1tckR5Qm9qMWpnZ2VKSDZjNkhyc0d3MERPdw?oc=5",
-    "source": "Express Healthcare",
-    "date": "2026-11-01",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "e206b371e0f3",
     "title": "Wearable devices help build healthy habits, but cannot replace doctors - India Today",
     "description": "Source: India Today",
@@ -603,6 +577,32 @@
     "description": "Source: Fortune Business Insights",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEhNbHB6ekJLbUlYbkNoRmlIZmtwMjZNRU1QMGFXYVd0NVNZYVFRcHpmcWM3RmJ0WUZoeDNiZzNOMkFXcHJoLTVnYXRSYzU3Z2hkNVNZRUVCT296M01leVo4c0RBQWYtYVNjMUlCWWw2NWZoMDFzcXR1WWt2TGN1STcwcFNvN1RzY0RwcEVScTRMd2tTMkx2UWpzOA?oc=5",
     "source": "Fortune Business Insights",
+    "date": "2026-11-01",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "64bffccc493b",
+    "title": "Global Surge in Demand for Smart Wearables - EMJ",
+    "description": "Source: EMJ",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWFoUmZWXzRfb3NoRDRfUnZpeGpoaHNuVnlIaWdybkVIWUdwMlhlekxER1BLQmoyQmFpSHNERm9BbTd5c2tSRUUxTmt5ZGZ4MnNTME5CclcwWmNtSUlfbUNLR0k2all6cHpfS29NaUhTRFhuTjNma3N3TFBsc1JZSm9TclZQeGMzWWF3YVdaMWtqOWt1anN2VEdB?oc=5",
+    "source": "EMJ",
+    "date": "2026-11-01",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "7b4c5c425a21",
+    "title": "Eternal founder and CEO Deepinder Goyal has announced the launch of a new wearable device called Temple, marking his entry into the health-tech space. In a post on X, Goyal said the first 100 units of the device are ready and applications for early access - Instagram",
+    "description": "Source: Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSVg2NDdsbW50SVpIYzBxbXJQb3VxaGdCdFJXMFB2VXVrMFMwNi1uNWlUUnBmX0hqNW9hMlp2NDNrYWVucTVwbF8tbmZEMHlPNVE?oc=5",
+    "source": "Instagram",
     "date": "2026-11-01",
     "category": "tech",
     "tag": "tech",
