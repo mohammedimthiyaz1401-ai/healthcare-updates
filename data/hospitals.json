@@ -1,17 +1,5 @@
 [
   {
-    "id": "2e3241a03214",
-    "title": "AIIMS Raipur Ranked Among India’s Best Hospitals in Newsweek 2026 List - www.pib.gov.in",
-    "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qaHJGdi1vRUVvdXRvX000eTJXOElicFFWWjRUWjZQVzZvT1ZNLXZ1VExDVlZnNG9qYm9xdWdlLTVHRXdYY25XejBidXdiZVZUQlNMOE5hb3RKT001X3BlakRNdzVDU0pl?oc=5",
-    "source": "www.pib.gov.in",
-    "date": "2026-11-03",
-    "category": "hospitals",
-    "tag": "hospital",
-    "tag_label": "Hospital",
-    "priority": "medium"
-  },
-  {
     "id": "95838ec23fa3",
     "title": "AI adoption, data governance take centre stage at CII Hospital Tech 2026 - Express Healthcare",
     "description": "Source: Express Healthcare",
@@ -24,11 +12,35 @@
     "priority": "medium"
   },
   {
-    "id": "c3f440cdc06a",
-    "title": "eSanjeevani at Half a Billion: Remote Care Through the Public Clinic - orfonline.org",
-    "description": "Source: orfonline.org",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnZfRHRxR2Z1dDFpYkVNdUpiNFFQcW52T1p6N1R6b0dMRUYxV250b0VMRE56cW1vc2VqeHpKemdNMGw0aEZULWpDSkZaOVBuUmtfa2NnRnpvSHhFSW9veEcyc3dlMWV5ckw1R2QtcHdUNTBXbWVIQTJ3ZUY1ZUxpNjA3QndkZ0ItcFlNZHk3aVZkcVZYMUxhLUpDRm1seW5KTXZWcG9lWFZEZw?oc=5",
-    "source": "orfonline.org",
+    "id": "e844c61b02c4",
+    "title": "Ankura Hospitals Enters Central India with New Hospital in Indore - AP7AM",
+    "description": "Source: AP7AM",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNampaUjJlOENzVlB4Tzh5M3VsYzduS0p6d3pvVGpQMURaY0l5cjRyaXplMzlMMWoyN2tnOGZzaDV1YVRHSjVKMWdPdExfTVQtNm1PNlRpeHRhQVgzamI2QUJSS200cDBNckw4RUdpWEVnaTRBRDFGRVZHamJKUmNQdnBKRjdSdzFKd0pta2xDamV0aFItbEdsUzNjU2NGUdIBowFBVV95cUxNQ29BMndmbGJfMUtaRTBVNTRtOE5ZMXo2TVloUkphQnVlWFpSY1dZN2Nlak9OYkphN2p6cVZTeV9uenFCeFp1b1EwRjZmNW5zbFphLUxQd19XX3dlRkpTbFJXbE9VOVFId3JtZm1nUFV5anl6Zml1UkZ3NHhkaWRnZGFrLWhZRjdWUi03R0Y5c2hvSXJqYm1aejhMUERNaUVwTUJN?oc=5",
+    "source": "AP7AM",
+    "date": "2026-11-03",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
+    "id": "7ef9cbf931a2",
+    "title": "Manipal Hospitals is said to plan $1 billion IPO in July - ET HealthWorld",
+    "description": "Source: ET HealthWorld",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmNkU1liUGxTUGtfQTF1QjFqS0pZSlJUVVhxdHl3Z09lTFRrWXJJMmVZYUhYRjF1V2l2QXR5bUh2RXRmSkh0NWVvZjd6c1RaSGIwS3ZmeVRTNnJ3RGE4amNTYWg5RGxOYnJ2R0owVG11RHJWeGxzcVpQaDZWVUZtSVoyZVM0eDdNZFhJM29iQmV0dHJkZnRiT04xQS1ySFMtQXNIREdXNmc0VFBNMTlQb1I1bWY2dmNWOUx2Ymo0N19id9IBxwFBVV95cUxQNXJZTkM2WlphSTFIdmJOd0t6SUZ2bjBKQ1dZSHF4R2FPTVdaVHQzclRMbDVETFlEeFJIem80UHhRTERaSW9tdXRHV1VaR2x6T0F4LURyR29TSWlZZ0FFdW5ZQmo3THMwNHdVc1hZeXVTZndjdVRSejZrMjN6dzAzRm9fZVJrNVlJTkFvMXJ4QWxMUUlQSDRnU1FJRDZ3RTh2OVRMZXdKRENXRjVsX2w5VndUQkd4SGpfSXdmWnZzLXppZ3h6ejdj?oc=5",
+    "source": "ET HealthWorld",
+    "date": "2026-11-03",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
+    "id": "fee9a1126133",
+    "title": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+    "description": "Source: The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkc2S1Zlc0pCdDl6NjZnTl9zNXZQZnZaNTF1d3lkazNqZkJCSFhLaHNXT1ZZcTNQeFdNdzJ1S1FNeVNuSDNPcmFfQUxMbzdHLWhBQVpTd1BiYXp6d1VoRUVwX2xqVWlQWHdDU0tHRDZyQTdVZzJXUUs4a2czZ1BlM0J0aFRLcm9nUDNDTW5rZndjQQ?oc=5",
+    "source": "The New York Times",
     "date": "2026-11-03",
     "category": "hospitals",
     "tag": "hospital",
