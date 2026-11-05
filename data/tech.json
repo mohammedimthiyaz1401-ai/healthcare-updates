@@ -1,5 +1,18 @@
 [
   {
+    "id": "3ac5048c14c5",
+    "title": "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences",
+    "description": "The FDA urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices and cosmetics, to its commissioner’s office or the nearest district office",
+    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
+    "source": "The Hindu Health",
+    "date": "2026-11-05",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
     "id": "e4a3ca0e6dd1",
     "title": "AHH Launches Super-Specialty Hospital in Bhubaneswar as Part of INR 100 Cr Odisha Expansion - Digital Health News",
     "description": "Source: Digital Health News",
@@ -338,11 +351,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "1dd0d542d1fb",
-    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
-    "description": "Source: Spherical Insights",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
-    "source": "Spherical Insights",
+    "id": "712788389102",
+    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
+    "description": "Source: orfonline.org",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
+    "source": "orfonline.org",
     "date": "2026-11-05",
     "category": "tech",
     "tag": "tech",
@@ -351,11 +364,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "712788389102",
-    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
-    "description": "Source: orfonline.org",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
-    "source": "orfonline.org",
+    "id": "1dd0d542d1fb",
+    "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
+    "description": "Source: Spherical Insights",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
+    "source": "Spherical Insights",
     "date": "2026-11-05",
     "category": "tech",
     "tag": "tech",
