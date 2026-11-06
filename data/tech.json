@@ -1,18 +1,5 @@
 [
   {
-    "id": "b33303a92ddf",
-    "title": "Haryana Makes HPR ID Mandatory for Healthcare Professionals, Sets 90-Day Deadline - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEhwV09zNzJBUF9CaGw4NHYzdzZiVEg1Z2N3YmNRWGs4TllYcnFtOHpPZzIwUjNhR2RkQWhYbGNEclhVWE85TzVxOVBIQm91XzhYdUMyLWxuWFUzWHpjamZoWjJpZzhQa3d3QUhQY1EwZTV1LTFUUU1JR3VyYWNEME4tZDM0c1hQYVBHWkFyV3NxVDZfVnJVMFl2dG5nOG53aTZ4V0N5dU0yVlNtdHlZWmo1YzQ?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-11-06",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "e4a3ca0e6dd1",
     "title": "AHH Launches Super-Specialty Hospital in Bhubaneswar as Part of INR 100 Cr Odisha Expansion - Digital Health News",
     "description": "Source: Digital Health News",
@@ -37,6 +24,32 @@
     "tag_label": "Telehealth",
     "priority": "medium",
     "subcategory": "telehealth"
+  },
+  {
+    "id": "45cb57879b6d",
+    "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - www.pib.gov.in",
+    "description": "Source: www.pib.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
+    "source": "www.pib.gov.in",
+    "date": "2026-11-06",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "03cd4f726632",
+    "title": "CVR College of Engineering Organises AICTE-VAANI Sponsored National Workshop on Harnessing Artificial Intelligence in Healthcare and Medical Sector - Hindudayashankar",
+    "description": "Source: Hindudayashankar",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQd04yT1NkQVVhNGRUd1Nla1JZaU9GWTdpdnNJejQ5NS1BZ1JOTmE3RkpMeld3V1BGX3U4M0NzV0xVSWtNbk1YR2FVc3VIYnFJOExDRmhuTHlFOUZiQmRISV9qTkhsY09ON2hETUFJc1RuZXFreWhMT0doQkQ1R0FvSjVka2xoZUdjM1g1aFlhSHFQTkU3MlVKdkJQV3dDdXFmeTJwOVUyN1YtSGpqenZOZDVEYUFTaGExbGpBdm9UMm80ZFdBYnprVXJhbnpQQV9KUFNJMjR3emdkdTA5bmdSakZZVkdGbmhZMUU2aFd6d1ZmNFNlTGl1X05Sblo0R1prRFcwTjY0UQ?oc=5",
+    "source": "Hindudayashankar",
+    "date": "2026-11-06",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "aa4e20aac30e",
@@ -338,6 +351,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "712788389102",
+    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
+    "description": "Source: orfonline.org",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
+    "source": "orfonline.org",
+    "date": "2026-11-06",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "3bf260e915e0",
     "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - DD India",
     "description": "Source: DD India",
@@ -364,6 +390,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "97f090e1f222",
+    "title": "Personalized Medicine Market Size Worth USD 1,397.63 Bn by 2035 Rising Use of Genomics Enables More Precise, Patient-specific Treatments - BioSpace",
+    "description": "Source: BioSpace",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU3RCNlk1RTROdXp0RnVYbnNQM2JFYXlvMlNMU3ZHQkJPa3lrcTNiX2M5V095YkRnaHpHU2FaZk83Rm1KMHluV0VZZUJjaWhvZmVxS2VDcFFmLVFUU0d6QURKWlNZREVWZ09kSXF1Wjl3b1NLTHhaYWYyS0Y3WU54OE5wYUhfMFVZNndGc1hUWldmM0l4bnN2Q1NTdmFhWGVqX0diNjJFRWNHRmVlMGdoQ3BUcHlXazdEdUVFT2VfSGtnamhNTkFQc21zQXRWNFRGZlFBaXVUdDRvdUxIQ1BweWRjd0x2OEhnaFIxVXpMUmczU29RN0dIbzF1QWstZEF1UlJoeERB?oc=5",
+    "source": "BioSpace",
+    "date": "2026-11-06",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "1dd0d542d1fb",
     "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
     "description": "Source: Spherical Insights",
@@ -377,37 +416,11 @@
     "subcategory": "genomics"
   },
   {
-    "id": "712788389102",
-    "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
-    "description": "Source: orfonline.org",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXlIYWlRZVFKTVZkTTVJY1lFR2tTZWhVVTh5N1hVU2FSTWpYMk9hSjVINnNDejdMV21BUk9heHNJYTlSbG0tcldnV3ZScjRaZmJkNjRJZWZVbFNvV20wdERKLWxwM0VtS1FPZEpaVzB1RVZGRmFiQnRycXVLVzk4dlUzR25WdzRQWGI3dEtpNnNVSkFUbHA4cmo4N2E?oc=5",
-    "source": "orfonline.org",
-    "date": "2026-11-06",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "8c5acfd8bbc1",
-    "title": "Towards precision medicine in diabetes: pharmacogenomic approaches for MODY and type 2 diabetes with insights from GLIS3 gene variants - Frontiers",
-    "description": "Source: Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanAyTjM5ZmxyemhuMHlCLUdUd191TnkzY1VyazJvWGdISm1EdGd5WERJQk1EeDRmNzl4WFpCVXo3UmxBS1p6OFV2RjlZTXZOYjhRT25nUkpkTW9wVS1EVDBFaXlWLU5hazJqaDN1S2I1SllDZ3ZhYmotTEVwVUdmOEQ5QThSZ2lLMkRrTWJiS1k2dnVka0E?oc=5",
-    "source": "Frontiers",
-    "date": "2026-11-06",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "97f090e1f222",
-    "title": "Personalized Medicine Market Size Worth USD 1,397.63 Bn by 2035 Rising Use of Genomics Enables More Precise, Patient-specific Treatments - BioSpace",
-    "description": "Source: BioSpace",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU3RCNlk1RTROdXp0RnVYbnNQM2JFYXlvMlNMU3ZHQkJPa3lrcTNiX2M5V095YkRnaHpHU2FaZk83Rm1KMHluV0VZZUJjaWhvZmVxS2VDcFFmLVFUU0d6QURKWlNZREVWZ09kSXF1Wjl3b1NLTHhaYWYyS0Y3WU54OE5wYUhfMFVZNndGc1hUWldmM0l4bnN2Q1NTdmFhWGVqX0diNjJFRWNHRmVlMGdoQ3BUcHlXazdEdUVFT2VfSGtnamhNTkFQc21zQXRWNFRGZlFBaXVUdDRvdUxIQ1BweWRjd0x2OEhnaFIxVXpMUmczU29RN0dIbzF1QWstZEF1UlJoeERB?oc=5",
-    "source": "BioSpace",
+    "id": "214826a59996",
+    "title": "Personalized Genomics Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "description": "Source: Precedence Research",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pM29WZ0RQa0hUNVBHcEJzNW9TcDBrOUZEbll1VEE4U2JRNkZpYS1jakJJSUt4RHd3U01kMkdHaXhMY0I3R3ZsM3dudEVZQVBjQjNFTWQ2WVBRNGxIYldNM2lSNFM0WEpUMjFGRi1xbk8?oc=5",
+    "source": "Precedence Research",
     "date": "2026-11-06",
     "category": "tech",
     "tag": "tech",
@@ -629,19 +642,6 @@
     "description": "Source: Nasscom",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUh1SHhVZ1hvLU1yWXNPVXBNVDlJVFlwaG92cVpxVUxDOGZFY3d2ZlNXUUtVRE5RWER2QVFObWhldFdVeWlzd2s4OEtaZGZGX0VlTXNJdnJNV1A0eUFYX2xwWm8zaDhMUW5UNjBzSURnb0tGdE5ZZWNPcFp5MTFPMmhHWjJGZS1mZ2FIWEEzNk04Tl96OG8telhJS0RfVXNvZnBBMThEYnR4TWJ2ZEg5NElFaw?oc=5",
     "source": "Nasscom",
-    "date": "2026-11-06",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
-    "id": "6308ee03bd26",
-    "title": "Medical Drone Delivery Services Market Size, Report 2035 - Global Market Insights Inc.",
-    "description": "Source: Global Market Insights Inc.",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcXJwa21HNndqc2poSENvcVZWQld2eHVhQVJjTkh0X3lPMWFKbkNzTjhpUmU0Vk9CX0Vkc1NfU3JYc21PcFhmQXJHaFo0cDRyallaWnpGZ0QxSEo4ZXB0Q2NiQWtCZnBsTktVMTBzRWcxbFlpLTQ4Q0Y2eFZpR0VPbWh3bmYwSXVnRGM0?oc=5",
-    "source": "Global Market Insights Inc.",
     "date": "2026-11-06",
     "category": "tech",
     "tag": "tech",
