@@ -1,18 +1,5 @@
 [
   {
-    "id": "e4a3ca0e6dd1",
-    "title": "AHH Launches Super-Specialty Hospital in Bhubaneswar as Part of INR 100 Cr Odisha Expansion - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW4yQTYtZEpNUDQtR21TQTNQYlNMaWdMc3ZuVHNUX0NVS292LUpyR05zTWdDRW5vX3Qtejd0bmc2RHZjc0w3bVUydDlYZnBqd3lBTlFpYVlBbmg3dzdaSkxUMmdONnU5cnhxc3NLRE1mcEExRm0wZXQ3TXpjUGdsN250QjFhTHo2TkVqMEpnV1l4N1pzRTJmM3ktR3pTZGpPZ3R6YTlVTFJWcUZMazRoT0xlSVFoQjVvQTZaRTdCbmNkM2c?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-11-06",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "321aacf3e5d5",
     "title": "Govt. to launch affordable digital health management system for small clinics across India - The Hindu",
     "description": "Source: The Hindu",
@@ -507,19 +494,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "ac6f3b0ff0d3",
-    "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
-    "description": "Source: Digital in Asia",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
-    "source": "Digital in Asia",
-    "date": "2026-11-06",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "52b5190ffc48",
     "title": "Top 30 Funded Healthtech Startups In Bengaluru (2026) - Inc42",
     "description": "Source: Inc42",
@@ -642,6 +616,19 @@
     "description": "Source: Nasscom",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUh1SHhVZ1hvLU1yWXNPVXBNVDlJVFlwaG92cVpxVUxDOGZFY3d2ZlNXUUtVRE5RWER2QVFObWhldFdVeWlzd2s4OEtaZGZGX0VlTXNJdnJNV1A0eUFYX2xwWm8zaDhMUW5UNjBzSURnb0tGdE5ZZWNPcFp5MTFPMmhHWjJGZS1mZ2FIWEEzNk04Tl96OG8telhJS0RfVXNvZnBBMThEYnR4TWJ2ZEg5NElFaw?oc=5",
     "source": "Nasscom",
+    "date": "2026-11-06",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
+    "id": "6308ee03bd26",
+    "title": "Medical Drone Delivery Services Market Size, Report 2035 - Global Market Insights Inc.",
+    "description": "Source: Global Market Insights Inc.",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcXJwa21HNndqc2poSENvcVZWQld2eHVhQVJjTkh0X3lPMWFKbkNzTjhpUmU0Vk9CX0Vkc1NfU3JYc21PcFhmQXJHaFo0cDRyallaWnpGZ0QxSEo4ZXB0Q2NiQWtCZnBsTktVMTBzRWcxbFlpLTQ4Q0Y2eFZpR0VPbWh3bmYwSXVnRGM0?oc=5",
+    "source": "Global Market Insights Inc.",
     "date": "2026-11-06",
     "category": "tech",
     "tag": "tech",
