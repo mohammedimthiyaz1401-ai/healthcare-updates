@@ -1,17 +1,5 @@
 [
   {
-    "id": "e8bef9a7e6b6",
-    "title": "Train collision in Egypt's Giza kills four, injures 88 others: Health Ministry",
-    "description": "Authorities said they had launched an investigation into the cause of the crash, which occurred in Giza's Al-Ayyat area, the site of Egypt's worst-ever rail disaster",
-    "url": "https://www.thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece",
-    "source": "The Hindu Health",
-    "date": "2026-11-08",
-    "category": "launches",
-    "tag": "launch",
-    "tag_label": "Launch",
-    "priority": "medium"
-  },
-  {
     "id": "35cff7ad262c",
     "title": "AstraZeneca India to Launch Datverzo as Q2 Revenue Rises 30% - eHealth Magazine",
     "description": "Source: eHealth Magazine",
@@ -36,11 +24,11 @@
     "priority": "medium"
   },
   {
-    "id": "ac52f43d299b",
-    "title": "Dimension NXG Launches OJAS Forward Deployed Engineering to Take Hospital AI From Pilot to Patient, Six Months Ahead of India's Data Protection Deadline - Business Standard",
-    "description": "Source: Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNZGZ1bC1yRTFIVERsVm9tWjRXVUQybVEySjN4Z3EyeURkWjAybGQwajF6YUhMREl5VG9ldW5sVDVNdEJ1U1dvRWF6YzBrbERXYUgzV0ZPdXRMQWlUTzBzRlUxSF9ueFVtRnlqYXAyaTFBTHp3QVJvTkNsWk1aZkl0VExiMGQwemdCbjZ0QlljZXl0UFFVZFFMbW1BZTJFdzdsbWl2UHBaNW43QUZHb24zQk1QSVpQSjVlSWpaRXI2THNQSkZsY2g5V21JT3pVcDRrRzF6dlB5QUw0bHV3SDNlc2wyTGhQZFVlODNZUERJM0JNZHc3bkEwN2ctdUNVNFpid2tneDBRdWV6YjJxa0VsWU00RFBraUtXUmdrZmN6ZnY2akNyNTBKdzFZUUIwREg0cHUtYWJ2VUxIbmw4M3ZqNEVucHFEWUNuX25mdkFZZ096Z9IB1wJBVV95cUxQZTNVTzI5ajRLZ05mRnBPV2FKS1RjMDRZSEY5U0JWal82blZTelhvSkZCLU8xR1A1MUNZdm1vem1IVVlHSEdQME4teEp1WUhXMFBFVVFjMG03RnNkSXBQa2NwT29MYmREaUZuaThJLVIwZDEwTUh5Q2s1LTJfSGI2MFZuMkg0NGlCLWxkQ1NUbHBmTUhIYkhUNUtTYmdlQWVvdGxLdlRLTW91NWdUYnlaVm1Pd20xa3RTNUgzbmF0RldhZmZESDRBQm0zRGtkUW5iekN6dFFZMm1ZOF9kSlhEaEExWjFfczhxTktMT2lpMHl0ZGItajlxWEo5ak0waG14cXdMUEVUV3NGblJHVFF4U3RFVmx3UzhnbHpQVnpvVGxtdzJnVjI2cENIRFhxbHhiUXd1SUl2TEJUYWR3VTltdG1XSlBiSXR2Y0NuVjB5ZmlpVERmdzlJ?oc=5",
-    "source": "Business Standard",
+    "id": "09e2650e0d29",
+    "title": "Dimension NXG Launches OJAS Forward Deployed Engineering - eHealth Magazine",
+    "description": "Source: eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KTExnd3ZuWDNKelZZMkFzb3E2UVVTd3B1bFdRZFQxRGtHb2VVTE1BYUF3U1F3WUdQR0dsNzNTZFByWV8zY1JZbmhnZXBUbHA5eDZZbmV3djNlaFdycGJ4enFOTThZVmZqX2tRaU5vci0?oc=5",
+    "source": "eHealth Magazine",
     "date": "2026-11-08",
     "category": "launches",
     "tag": "launch",
@@ -53,6 +41,18 @@
     "description": "Source: Apollo Hospitals",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaDNJeU9weHV1Um9kbHpIMXViMEMwWEkxdnpOZXR4ZFNFSmVrWHV5WXctQXVXUjhRVEtUTG9wd3RHbDd6eGR3d0c2WUw3NV9yTFlIS01WS1FCZ2pTSXFEZ3NPZHRoaEY0RkNLZWlBTnZDcWZjZ1MzZ3ZZUGdwWXRnME8wTVgxcnVaeEg1WnZWblZ6NkE4WmpDd0RyLTBPZkNBMDRRWnpjSVVWVGg0S1lPbjdYN2RKZ2lVdG5jQ0hyZVFvb3Z3YTRZaGo1S0JCVl9USjVWQURLb1hEd0hqWk5VMFZwbVlQRVJTek5rYXYwR1p4N1k?oc=5",
     "source": "Apollo Hospitals",
+    "date": "2026-11-08",
+    "category": "launches",
+    "tag": "launch",
+    "tag_label": "Launch",
+    "priority": "medium"
+  },
+  {
+    "id": "a9cef61bc0e1",
+    "title": "Sarvodaya Healthcare launches new hospital in Mathura - Medical Buyer",
+    "description": "Source: Medical Buyer",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVFMckJQbzFuYXNXV19ySDdQcFBmdnU3NUFtNUFuNzQzWENGUnJZdnFJVFprM1pFRGlfZGEzSVdWYjhxVnBEaThpSVV4cFpUcnhLQldYMFdFSXdiN0NpZTJZNnRmM1owT1JOU3NUbkYzcldKclZCS3UyajNoMXQ5Y3ByMlBqckFo?oc=5",
+    "source": "Medical Buyer",
     "date": "2026-11-08",
     "category": "launches",
     "tag": "launch",
