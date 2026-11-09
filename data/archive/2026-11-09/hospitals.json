@@ -1,5 +1,17 @@
 [
   {
+    "id": "e3491a3656ae",
+    "title": "Krakow shooting suspect dies: Poland police",
+    "description": "The gunman was wounded in a shootout with police and had been in critical condition in hospital",
+    "url": "https://www.thehindu.com/news/international/krakow-shooting-suspect-dies-poland-police/article71681652.ece",
+    "source": "The Hindu Health",
+    "date": "2026-11-09",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
     "id": "95838ec23fa3",
     "title": "AI adoption, data governance take centre stage at CII Hospital Tech 2026 - Express Healthcare",
     "description": "Source: Express Healthcare",
@@ -29,6 +41,18 @@
     "description": "Source: The New York Times",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkc2S1Zlc0pCdDl6NjZnTl9zNXZQZnZaNTF1d3lkazNqZkJCSFhLaHNXT1ZZcTNQeFdNdzJ1S1FNeVNuSDNPcmFfQUxMbzdHLWhBQVpTd1BiYXp6d1VoRUVwX2xqVWlQWHdDU0tHRDZyQTdVZzJXUUs4a2czZ1BlM0J0aFRLcm9nUDNDTW5rZndjQQ?oc=5",
     "source": "The New York Times",
+    "date": "2026-11-09",
+    "category": "hospitals",
+    "tag": "hospital",
+    "tag_label": "Hospital",
+    "priority": "medium"
+  },
+  {
+    "id": "d3ea0ba4b66b",
+    "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5",
+    "source": "Nature",
     "date": "2026-11-09",
     "category": "hospitals",
     "tag": "hospital",
