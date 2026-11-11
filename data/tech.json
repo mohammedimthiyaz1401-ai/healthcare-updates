@@ -1,31 +1,5 @@
 [
   {
-    "id": "18fd0a752b9d",
-    "title": "Amrita Hospital Launches RetinaAI App, Opens National Medical Technology Innovation Hub - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDRFRDhrbExpcy1oQmp2UkFCSzNTYXYxd1ByZWM4d2FYNDJOc2s1Z3NtajJZTkJwdF9UcEVFbHh6N2hHV29IR1BFQl81eXc0UTQ3UXFDWkJSVzJxN2h5ODVnS0lBM2xfVFU2R2xmQXluN2U1dUV3ZVk2eEQydlpEYW1uNGtBTUJqRGtwX0pJNFNCRmFMOWNiaWZkd3dJR1JxZGFZWVBZcHJ4LVduUWVqSW9jbXpzd3VpNy1ndA?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "dcc45fc0a83c",
-    "title": "AI-enabled virtual mental health startup Siggy launches from stealth - Fierce Healthcare",
-    "description": "Source: Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVptQ2FBMzBBU1RON0RrQ0xNZ25CV1Y3VEQwZWs4QVBhMjFmTEtNNjRsajFETXN5cmpyVzRnaTVua3BXQXBULUxGcUMtX2VDQ0o3N1Uwd1BqYTcxX1VPenhEeHh2STRSLWNzMlpxTmJFdXdmRlNtRDFYZkcyQTRNd3hobE41S0VJSFBjRFY5V09TT0ZhQklyTERjZk43RTdCRjlDWnVObXVoVjUtLVh5Mg?oc=5",
-    "source": "Fierce Healthcare",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
     "id": "aa4e20aac30e",
     "title": "Towards autonomous medical artificial intelligence agents - Nature",
     "description": "Source: Nature",
@@ -50,6 +24,19 @@
     "tag_label": "AI / ML",
     "priority": "medium",
     "subcategory": "ai"
+  },
+  {
+    "id": "dcc45fc0a83c",
+    "title": "AI-enabled virtual mental health startup Siggy launches from stealth - Fierce Healthcare",
+    "description": "Source: Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVptQ2FBMzBBU1RON0RrQ0xNZ25CV1Y3VEQwZWs4QVBhMjFmTEtNNjRsajFETXN5cmpyVzRnaTVua3BXQXBULUxGcUMtX2VDQ0o3N1Uwd1BqYTcxX1VPenhEeHh2STRSLWNzMlpxTmJFdXdmRlNtRDFYZkcyQTRNd3hobE41S0VJSFBjRFY5V09TT0ZhQklyTERjZk43RTdCRjlDWnVObXVoVjUtLVh5Mg?oc=5",
+    "source": "Fierce Healthcare",
+    "date": "2026-11-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
   },
   {
     "id": "580de742576f",
@@ -83,6 +70,19 @@
     "description": "Source: IQVIA",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZRGZ0VWw1enBvdU52NFVTcU5Ga00yNlBBUnNfbXB1Z1hXQUxjaHA0TjYwdnJyRTZBWnl0TmlySDF0Vk1YYlpZdVpNX0JUQVdzcDZfR1gxdnRqcEVKckY2azRUMi1lcE82NGZmMEEwSjRTTkFIRVV1QV9WRkM?oc=5",
     "source": "IQVIA",
+    "date": "2026-11-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "137c2eb20802",
+    "title": "MedTech for All: Driving Accessible, Affordable & Quality Healthcare - CII Blog",
+    "description": "Source: CII Blog",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXFMcnpSOTVrLVJSbnpkMy1pV0M3R3huVU9yN2hOQXFUM2c5NDAySWg1VlN2VW5JNW1FdmJtbUJlYjJxNVlYVmM2d1JBMUFwQ2J0NUJDWHdZVmdMU050LWVvekF2LVpua0JWRmxOaUQyekRCYXZ1UlJjemVXMzFjV0djbXpTTG5nMS1Dcw?oc=5",
+    "source": "CII Blog",
     "date": "2026-11-11",
     "category": "tech",
     "tag": "tech",
@@ -135,19 +135,6 @@
     "description": "Source: Medical Buyer",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFhhN2FIenFTMzNSTlI2SWZSWVViQi00SlE3RUdrTFhCMDhKejFhcGRyQTBneXhPblhTa25SSUdXQ3JlQTBtWlQ3Y3pDMzZfcGJWcm9jSWpabnNNeFJ0Z3dpdm5xQWxKazM0SHAxZmJOVlZpTVZkVW96ZUFzMVJQUTRyaEhwYUJlWVJPYkd2NEFiWmlEMW9mTnB6LV80UkNmcV9BN25UVWE5QQ?oc=5",
     "source": "Medical Buyer",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "137c2eb20802",
-    "title": "MedTech for All: Driving Accessible, Affordable & Quality Healthcare - CII Blog",
-    "description": "Source: CII Blog",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXFMcnpSOTVrLVJSbnpkMy1pV0M3R3huVU9yN2hOQXFUM2c5NDAySWg1VlN2VW5JNW1FdmJtbUJlYjJxNVlYVmM2d1JBMUFwQ2J0NUJDWHdZVmdMU050LWVvekF2LVpua0JWRmxOaUQyekRCYXZ1UlJjemVXMzFjV0djbXpTTG5nMS1Dcw?oc=5",
-    "source": "CII Blog",
     "date": "2026-11-11",
     "category": "tech",
     "tag": "tech",
@@ -221,10 +208,10 @@
     "subcategory": "startup"
   },
   {
-    "id": "bc8187551fce",
-    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "id": "a55d30fc5111",
+    "title": "AI in Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
     "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcW5GM2FSUTdUd3ZuNmM4ZG01ZGhsU1BSRzlvcVVFZ25BMG82UC1ZWFhyTjRycGVua19qVjR0Rmg2TXNUdV9PdXlqTEFpNlowaDRDdU9PM3B4OW45UXpQMEw5TmQxZF9uc0VFMw?oc=5",
     "source": "Precedence Research",
     "date": "2026-11-11",
     "category": "tech",
@@ -265,6 +252,19 @@
     "description": "Source: Grand View Research",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVG1lZlRmdm12YXZxbjY0aXliTlIyYzZUOExjTFZkcFVNZGc3WDhydWthc1hocV9BYlRkbWlNa281VTl0UWdRcEVaOFc4Yng0WTNmOHRsOGxTYWJfdG91SzZCa3ZNZ0h1RndzLUZkaFRmOUhXWlRkaVpYSTBfcWJGdDJn?oc=5",
     "source": "Grand View Research",
+    "date": "2026-11-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
+    "id": "bc8187551fce",
+    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "description": "Source: Precedence Research",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
+    "source": "Precedence Research",
     "date": "2026-11-11",
     "category": "tech",
     "tag": "tech",
@@ -338,6 +338,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "12f507511ea9",
+    "title": "Govt Advances Personalised Medicine Through Genomics and Precision Therapies - The Indian Practitioner",
+    "description": "Source: The Indian Practitioner",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpwdHVpbDN2MDYyTUp5LTAyajZ3UkhXVThsQnFycUpUX1o4RDBRZW1XRWVzTHBkWF9NYW9PZmQwaGRoMmhUUTVZeGw0WFhJZkpwN3Z6NFR6UXRmcjc3V0pFVS1rX2M4UWwwbkhZanhHRjBSdWtlTjFDcjJ4N3lEWWFqQmFrdmN1Q093VVJlelFSS1VzeWhBLTc1aWswdjdOZ2VzaFQ3WGkxN1Y3akdmUw?oc=5",
+    "source": "The Indian Practitioner",
+    "date": "2026-11-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "29180101239d",
     "title": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - DD News",
     "description": "Source: DD News",
@@ -349,6 +362,19 @@
     "tag_label": "Genomics",
     "priority": "medium",
     "subcategory": "genomics"
+  },
+  {
+    "id": "6efd610d7831",
+    "title": "Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wR0FVVnY0NXYwaURXUkJPZjVxeHFmZjc2REFWTTk4eU1RdlIxaDhiYkh2TEhKdHVwdnhBalhpU1FjdldrV1k3MUxWdVI5aldHUG5PaFRIWVVLa3V2UlVZ?oc=5",
+    "source": "Nature",
+    "date": "2026-11-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   },
   {
     "id": "97f090e1f222",
@@ -369,32 +395,6 @@
     "description": "Source: Spherical Insights",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5",
     "source": "Spherical Insights",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "214826a59996",
-    "title": "Personalized Genomics Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pM29WZ0RQa0hUNVBHcEJzNW9TcDBrOUZEbll1VEE4U2JRNkZpYS1jakJJSUt4RHd3U01kMkdHaXhMY0I3R3ZsM3dudEVZQVBjQjNFTWQ2WVBRNGxIYldNM2lSNFM0WEpUMjFGRi1xbk8?oc=5",
-    "source": "Precedence Research",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "2960fe71c7d2",
-    "title": "Precision Medicine Market Size, Share, Growth Report, 2034 - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aUHRpNVAtakdZSmlCNHVick9na3phRWVCdk1QSUZ0dTNRb0wxOGZvajdQd1RkZElTTkZHak53OGRzSVpQNE9tQU95eXV6c1BkM0x2LXcxMEZ2U0JneFlzUDNlVmlzNDhEUFZLMDdqQnJqU084LXoyY180QlE?oc=5",
-    "source": "Fortune Business Insights",
     "date": "2026-11-11",
     "category": "tech",
     "tag": "tech",
@@ -481,19 +481,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "9743e013ab70",
-    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
-    "description": "Source: Tracxn",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
-    "source": "Tracxn",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
     "id": "ac6f3b0ff0d3",
     "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
     "description": "Source: Digital in Asia",
@@ -546,6 +533,19 @@
     "subcategory": "startup"
   },
   {
+    "id": "4c8effe0cd58",
+    "title": "Between June 08 and June 13, 2026, as many as 23 Indian startups from diverse sectors raised over $244 million in funding from investors. These sectors include Robotics, Wealthtech, Quick Commerce, Deeptech, Fitness, Retail, Healthcare, AI, Fintech, EV, - Instagram",
+    "description": "Source: Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vVVcycFJySEg1SG5fcGRaeFF5Ml9rY1Nvdkc3ZXJfeWJycjFFcUt4X3ZuaHpERks1MzJoRThiQkRNZEk5M2s5ZTRoWTRKUFNQamc?oc=5",
+    "source": "Instagram",
+    "date": "2026-11-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
     "id": "68278b594801",
     "title": "Wearable Fitness Tracker Market Size, Share, Trends 2036 - Future Market Insights",
     "description": "Source: Future Market Insights",
@@ -585,11 +585,11 @@
     "subcategory": "medtech"
   },
   {
-    "id": "ac7a23adfd54",
-    "title": "CES 2026 Wearables Market Overview: From One-device Solutions to Specialization - Counterpoint Research",
-    "description": "Source: Counterpoint Research",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGxlVWtKbUQtVlpXYjRBSHJRQTFqbXdpLXg0Ny1HOTZDTHZwYnlPLUtybXRCRE1KVV9UTDY1b3Z4Zi13NEZEbUpzRGE5V1ZaVWF4ZEZNcmxaU0ozYVNRX0lhVktmdGZQcTNrTEF6czBnb1ZtOGFTcHlVdUdtQXM4ZTlZR2psZw?oc=5",
-    "source": "Counterpoint Research",
+    "id": "64bffccc493b",
+    "title": "Global Surge in Demand for Smart Wearables - EMJ",
+    "description": "Source: EMJ",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWFoUmZWXzRfb3NoRDRfUnZpeGpoaHNuVnlIaWdybkVIWUdwMlhlekxER1BLQmoyQmFpSHNERm9BbTd5c2tSRUUxTmt5ZGZ4MnNTME5CclcwWmNtSUlfbUNLR0k2all6cHpfS29NaUhTRFhuTjNma3N3TFBsc1JZSm9TclZQeGMzWWF3YVdaMWtqOWt1anN2VEdB?oc=5",
+    "source": "EMJ",
     "date": "2026-11-11",
     "category": "tech",
     "tag": "tech",
@@ -598,11 +598,24 @@
     "subcategory": "medtech"
   },
   {
-    "id": "64bffccc493b",
-    "title": "Global Surge in Demand for Smart Wearables - EMJ",
-    "description": "Source: EMJ",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWFoUmZWXzRfb3NoRDRfUnZpeGpoaHNuVnlIaWdybkVIWUdwMlhlekxER1BLQmoyQmFpSHNERm9BbTd5c2tSRUUxTmt5ZGZ4MnNTME5CclcwWmNtSUlfbUNLR0k2all6cHpfS29NaUhTRFhuTjNma3N3TFBsc1JZSm9TclZQeGMzWWF3YVdaMWtqOWt1anN2VEdB?oc=5",
-    "source": "EMJ",
+    "id": "198de43ae616",
+    "title": "Wearable Medical Devices Market Size | Forecast Report [2034] - Fortune Business Insights",
+    "description": "Source: Fortune Business Insights",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEhNbHB6ekJLbUlYbkNoRmlIZmtwMjZNRU1QMGFXYVd0NVNZYVFRcHpmcWM3RmJ0WUZoeDNiZzNOMkFXcHJoLTVnYXRSYzU3Z2hkNVNZRUVCT296M01leVo4c0RBQWYtYVNjMUlCWWw2NWZoMDFzcXR1WWt2TGN1STcwcFNvN1RzY0RwcEVScTRMd2tTMkx2UWpzOA?oc=5",
+    "source": "Fortune Business Insights",
+    "date": "2026-11-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "3af33c9bf3bc",
+    "title": "Wearable Medical Devices Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "description": "Source: Precedence Research",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iMGlDYS1vTXBNcXVsWTg4eDFJQ3ZfRDFIZnYxajJOX253VkRIMXJ6ai1ZQ3dIUUFSdHBTOTJvLW9oNXlVMHRfX1NkRHlnMHBTN21OTnJHOFA2N0NtVXBHYVcySDJiWlJwTjNDd0NlSTNPWlk?oc=5",
+    "source": "Precedence Research",
     "date": "2026-11-11",
     "category": "tech",
     "tag": "tech",
