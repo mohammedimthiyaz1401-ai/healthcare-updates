@@ -13,6 +13,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "dcc45fc0a83c",
+    "title": "AI-enabled virtual mental health startup Siggy launches from stealth - Fierce Healthcare",
+    "description": "Source: Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVptQ2FBMzBBU1RON0RrQ0xNZ25CV1Y3VEQwZWs4QVBhMjFmTEtNNjRsajFETXN5cmpyVzRnaTVua3BXQXBULUxGcUMtX2VDQ0o3N1Uwd1BqYTcxX1VPenhEeHh2STRSLWNzMlpxTmJFdXdmRlNtRDFYZkcyQTRNd3hobE41S0VJSFBjRFY5V09TT0ZhQklyTERjZk43RTdCRjlDWnVObXVoVjUtLVh5Mg?oc=5",
+    "source": "Fierce Healthcare",
+    "date": "2026-11-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
     "id": "aa4e20aac30e",
     "title": "Towards autonomous medical artificial intelligence agents - Nature",
     "description": "Source: Nature",
@@ -31,19 +44,6 @@
     "description": "Source: www.pib.gov.in",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaGNiLVdsYmtwYm50aDRvZk5WVXpuU2tqUDFrdjMyT20yTkRvQWs1cXRlSEFPZXBMMnRadlA4Nlg0a3BvSGFXejlyUE5ZSEg0bFFrS3JSZ3dIaEFGY1JwXzZoWllnMWU0?oc=5",
     "source": "www.pib.gov.in",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
-    "id": "e315b60bf885",
-    "title": "New research into the use of Artificial Intelligence within health and care professions - The Health and Care Professions Council",
-    "description": "Source: The Health and Care Professions Council",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdkE4QlR6MnVKTlk2LVEwbC1qSWdpbkJuWjlSbFNGLUQyemFSdENDUFdJSjU3TjY0dFVHcWNwZXk0akpMUVphSWhIY1FLalFNVUhUbzItWUtEcFZhRVBhS09lNnVNM3NPM1hrT3NFbmpXNkxsNmpKVHZsR25oQTItT21TQjZDNXZMeHB2bHdsaE9BLXkydlA2cWVIYVFxX3dPOEZuenMxYlBYcDQ2bjVocElGSXh1czJpa285djVudEt1RnV5UHhKVjVERm9HQzhVNTFLNQ?oc=5",
-    "source": "The Health and Care Professions Council",
     "date": "2026-11-11",
     "category": "tech",
     "tag": "tech",
@@ -221,10 +221,10 @@
     "subcategory": "startup"
   },
   {
-    "id": "a55d30fc5111",
-    "title": "AI in Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "id": "bc8187551fce",
+    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
     "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcW5GM2FSUTdUd3ZuNmM4ZG01ZGhsU1BSRzlvcVVFZ25BMG82UC1ZWFhyTjRycGVua19qVjR0Rmg2TXNUdV9PdXlqTEFpNlowaDRDdU9PM3B4OW45UXpQMEw5TmQxZF9uc0VFMw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
     "source": "Precedence Research",
     "date": "2026-11-11",
     "category": "tech",
@@ -265,19 +265,6 @@
     "description": "Source: Grand View Research",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVG1lZlRmdm12YXZxbjY0aXliTlIyYzZUOExjTFZkcFVNZGc3WDhydWthc1hocV9BYlRkbWlNa281VTl0UWdRcEVaOFc4Yng0WTNmOHRsOGxTYWJfdG91SzZCa3ZNZ0h1RndzLUZkaFRmOUhXWlRkaVpYSTBfcWJGdDJn?oc=5",
     "source": "Grand View Research",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "bc8187551fce",
-    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
-    "source": "Precedence Research",
     "date": "2026-11-11",
     "category": "tech",
     "tag": "tech",
@@ -494,6 +481,19 @@
     "subcategory": "startup"
   },
   {
+    "id": "9743e013ab70",
+    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
+    "description": "Source: Tracxn",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
+    "source": "Tracxn",
+    "date": "2026-11-11",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
     "id": "ac6f3b0ff0d3",
     "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
     "description": "Source: Digital in Asia",
@@ -546,19 +546,6 @@
     "subcategory": "startup"
   },
   {
-    "id": "4c8effe0cd58",
-    "title": "Between June 08 and June 13, 2026, as many as 23 Indian startups from diverse sectors raised over $244 million in funding from investors. These sectors include Robotics, Wealthtech, Quick Commerce, Deeptech, Fitness, Retail, Healthcare, AI, Fintech, EV, - Instagram",
-    "description": "Source: Instagram",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vVVcycFJySEg1SG5fcGRaeFF5Ml9rY1Nvdkc3ZXJfeWJycjFFcUt4X3ZuaHpERks1MzJoRThiQkRNZEk5M2s5ZTRoWTRKUFNQamc?oc=5",
-    "source": "Instagram",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Robotics",
-    "priority": "medium",
-    "subcategory": "robotics"
-  },
-  {
     "id": "68278b594801",
     "title": "Wearable Fitness Tracker Market Size, Share, Trends 2036 - Future Market Insights",
     "description": "Source: Future Market Insights",
@@ -598,19 +585,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "198de43ae616",
-    "title": "Wearable Medical Devices Market Size | Forecast Report [2034] - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEhNbHB6ekJLbUlYbkNoRmlIZmtwMjZNRU1QMGFXYVd0NVNZYVFRcHpmcWM3RmJ0WUZoeDNiZzNOMkFXcHJoLTVnYXRSYzU3Z2hkNVNZRUVCT296M01leVo4c0RBQWYtYVNjMUlCWWw2NWZoMDFzcXR1WWt2TGN1STcwcFNvN1RzY0RwcEVScTRMd2tTMkx2UWpzOA?oc=5",
-    "source": "Fortune Business Insights",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "ac7a23adfd54",
     "title": "CES 2026 Wearables Market Overview: From One-device Solutions to Specialization - Counterpoint Research",
     "description": "Source: Counterpoint Research",
@@ -629,32 +603,6 @@
     "description": "Source: EMJ",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWFoUmZWXzRfb3NoRDRfUnZpeGpoaHNuVnlIaWdybkVIWUdwMlhlekxER1BLQmoyQmFpSHNERm9BbTd5c2tSRUUxTmt5ZGZ4MnNTME5CclcwWmNtSUlfbUNLR0k2all6cHpfS29NaUhTRFhuTjNma3N3TFBsc1JZSm9TclZQeGMzWWF3YVdaMWtqOWt1anN2VEdB?oc=5",
     "source": "EMJ",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "e0f57ab01001",
-    "title": "US FDA to limit regulation of health and fitness wearables, commissioner says - Reuters",
-    "description": "Source: Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOTZjY0FlTTJJUEFSNzlVRjBXd2o3THg3dFZpQzFNUjNhc3pMUElXLW1ZcUJEemllYzhZSHRlcWFvZ1ZBdktadlNpZFUzUFhNdjRjV1FybnpRYW9aTk1ubl8tczNkbVZjV09QNHNoWUdXMnJNSVo4MHRFbnc3ZTU2cFZyZ3A0LW01c2VFdGQzWDdVeHV4bFk4b1pzTnBaY2tzbGF6ZDRGaXJsck1NUDVsaFM0M3JLUkttZ084bGdOelN5bnlkRXdVbGtrWHI4dmxNZlh5ZQ?oc=5",
-    "source": "Reuters",
-    "date": "2026-11-11",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "3af33c9bf3bc",
-    "title": "Wearable Medical Devices Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iMGlDYS1vTXBNcXVsWTg4eDFJQ3ZfRDFIZnYxajJOX253VkRIMXJ6ai1ZQ3dIUUFSdHBTOTJvLW9oNXlVMHRfX1NkRHlnMHBTN21OTnJHOFA2N0NtVXBHYVcySDJiWlJwTjNDd0NlSTNPWlk?oc=5",
-    "source": "Precedence Research",
     "date": "2026-11-11",
     "category": "tech",
     "tag": "tech",
