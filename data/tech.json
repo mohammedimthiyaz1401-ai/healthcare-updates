@@ -26,6 +26,19 @@
     "subcategory": "ai"
   },
   {
+    "id": "738ab4b02ec2",
+    "title": "Transforming Healthcare Delivery Through Artificial Intelligence - www.pib.gov.in",
+    "description": "Source: www.pib.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zVG9nOGlHV1JXRWloc1MxeHQ0VDVXZWlXbVdVQTZKRkJzWjE4UlVwTmtaVy1PUzU5M2V0OUJUOXQ3UEgzODFJaGdyeHNqeGxxNU9fcGNjbFkwYXJDUWRDam5zbDA0Mk5KaDlBbXlRQk1xV18xMDI0RWRn?oc=5",
+    "source": "www.pib.gov.in",
+    "date": "2026-11-16",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
     "id": "aa4e20aac30e",
     "title": "Towards autonomous medical artificial intelligence agents - Nature",
     "description": "Source: Nature",
@@ -130,19 +143,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "b559416e9cf9",
-    "title": "India's Next MedTech Success Story Will Be Built on Innovation, Not Just Manufacturing | India Pharma Expo 2027 - eHealth Magazine",
-    "description": "Source: eHealth Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaTlRbWVXOVZmYmJycEtyTklCVmV1WGZKX1NmaFBTakV6X3EyMksyMGtjeDhYTWlNbERPR3VuVWhVbjlVSTNUUVh2SzNTZjI1SXFFSC1pVDdMdHRnbjloSHc3V09sRkljYlk1ZVVuQm4xbk1LakhrdGhtTDNhbFI5WElaRzZkME12cTRqM2VpbV9TMjA4Rnl5ZG9RdHg0Skk3dFFVSEJEcVZ6dWJfOXNCdzlqZUJsTS1qb3FNSHVqLTlYc2wwTkVHU0lpM2c1T0JwV1dZdG5wbWpwWTR1azk0RFJR?oc=5",
-    "source": "eHealth Magazine",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
     "id": "93bce9f3f44e",
     "title": "Indian Medical Parliamentarians’ Forum Organises National Policy Summit on ‘Swasth Bharat Se Saksham Bharat’ to Reimagine MedTech Access in India - TheWire.in",
     "description": "Source: TheWire.in",
@@ -174,6 +174,19 @@
     "description": "Source: www.pib.gov.in",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCU0syYTVGS1JuYlowOFNwQmVzajFYa2tNd2xmZ2NBV0JKeW1yZGwtaFJUSGtZenFORmNvMWxUNUNOMHJFdnZucWdhWnR1aW1pNkF4b0UtaXlISDZGVy1ERkF0NGFTOEdpaG45UGRaLVdhTW1kUmlMUlpnMA?oc=5",
     "source": "www.pib.gov.in",
+    "date": "2026-11-16",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "b962d6bb18dd",
+    "title": "AI and MedTech Driving Healthcare Innovation 2026 | - The Indian Practitioner",
+    "description": "Source: The Indian Practitioner",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1NoZVIxNE5Xc2JpRWNQQ05FRmxOOVYwdjNfMFJ4OVhiOFVxa3dCTkZvWnRRd1RSQkl0WFlMVFJ3VTZZMU9HaFhWWmIwSE01Nlc4R1dMX2I3ZnBWT2pxV0dNeDQtbjAyZFF1M2hwQnZsbEl4ZElGd0JqVmtfRUdycmNpYjVXQlAwMW5oVw?oc=5",
+    "source": "The Indian Practitioner",
     "date": "2026-11-16",
     "category": "tech",
     "tag": "tech",
@@ -325,6 +338,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "86229fc23241",
+    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - News On AIR",
+    "description": "Source: News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5ZbTgtaG1jaGhzSlMwRFhfT0JzUnJ2OXh5d2V3c09WTm1nQmxoV0lLS2FvRHZ4dXZQbVU4ajVnNkkzYzlKWTh6YkFRSTMtTUV3UHExVzZKR1RCTDI3QVZNRElTaWROaUgyRld2MmhXVFBBSmhTVDJtdTYxMnBGeXhVbjZ4ZzZfazlRU0RBRkVqSFMzcnNEeXAwSFk2bWVvZkllcUNGOE1Sd3d0aElUcHJ2VW9mRlNz?oc=5",
+    "source": "News On AIR",
+    "date": "2026-11-16",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "3bf260e915e0",
     "title": "Precision Medicine Will Shape Future of Healthcare, Says Dr. Jitendra Singh - DD India",
     "description": "Source: DD India",
@@ -382,19 +408,6 @@
     "description": "Source: BioSpace",
     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU3RCNlk1RTROdXp0RnVYbnNQM2JFYXlvMlNMU3ZHQkJPa3lrcTNiX2M5V095YkRnaHpHU2FaZk83Rm1KMHluV0VZZUJjaWhvZmVxS2VDcFFmLVFUU0d6QURKWlNZREVWZ09kSXF1Wjl3b1NLTHhaYWYyS0Y3WU54OE5wYUhfMFVZNndGc1hUWldmM0l4bnN2Q1NTdmFhWGVqX0diNjJFRWNHRmVlMGdoQ3BUcHlXazdEdUVFT2VfSGtnamhNTkFQc21zQXRWNFRGZlFBaXVUdDRvdUxIQ1BweWRjd0x2OEhnaFIxVXpMUmczU29RN0dIbzF1QWstZEF1UlJoeERB?oc=5",
     "source": "BioSpace",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Genomics",
-    "priority": "medium",
-    "subcategory": "genomics"
-  },
-  {
-    "id": "86229fc23241",
-    "title": "Union Minister Jitendra Singh says India is entering a new era of genomics and gene therapy - News On AIR",
-    "description": "Source: News On AIR",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5ZbTgtaG1jaGhzSlMwRFhfT0JzUnJ2OXh5d2V3c09WTm1nQmxoV0lLS2FvRHZ4dXZQbVU4ajVnNkkzYzlKWTh6YkFRSTMtTUV3UHExVzZKR1RCTDI3QVZNRElTaWROaUgyRld2MmhXVFBBSmhTVDJtdTYxMnBGeXhVbjZ4ZzZfazlRU0RBRkVqSFMzcnNEeXAwSFk2bWVvZkllcUNGOE1Sd3d0aElUcHJ2VW9mRlNz?oc=5",
-    "source": "News On AIR",
     "date": "2026-11-16",
     "category": "tech",
     "tag": "tech",
@@ -507,6 +520,19 @@
     "subcategory": "startup"
   },
   {
+    "id": "68e56a21d0aa",
+    "title": "Between October 19 and October 24, 2026, as many as 19 Indian startups from diverse sectors raised over $211 million in funding from investors. These sectors include Logistics, AI, Defencetech, Jewellery, Healthtech, Fashion, Fintech, Spacetech, HRtech, D - Instagram",
+    "description": "Source: Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9maERPWk56dWtnc2J1bzVUbzdlNWdDZFFFeXlRLVFnckVEcmNHN1VXaFAzTWdFN1hiLXVJck1BSDdPNl9GWmJRckRzNzl5am15U2c?oc=5",
+    "source": "Instagram",
+    "date": "2026-11-16",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
     "id": "09187759d863",
     "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - YourStory.com",
     "description": "Source: YourStory.com",
@@ -520,37 +546,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "ac6f3b0ff0d3",
-    "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
-    "description": "Source: Digital in Asia",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
-    "source": "Digital in Asia",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
     "id": "52b5190ffc48",
     "title": "Top 30 Funded Healthtech Startups In Bengaluru (2026) - Inc42",
     "description": "Source: Inc42",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWNGcm00UnJDS2xqbktFWXg4YldUQVQzS0Zfc0RyTE1JYUQ2VGpYMHJObDRLNEljbks3aXpnb0cxYnM3Snh2NWVLOW9HbUljWFhFNG52RFJvZmNaSDFHeHBRUWQzZU05NEEwVUJvSm1CNFRPWXlGVzBRc3diTW1VeWhn?oc=5",
     "source": "Inc42",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
-    "id": "a5cbcda6fc61",
-    "title": "Between October 05 and October 10, 2026, as many as 27 Indian startups from diverse sectors raised over $116 million in funding from investors. These sectors include Healthtech, Lending, Deeptech, AI, D2C, Electronics, Jewellery, Proptech, QSR, Fintech, F - Instagram",
-    "description": "Source: Instagram",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zaklXYVFJSXR2ZkF6NHdyTm81ZF80MVZuemRqUlhFWVZ4UWtXS1VacGJhRG9IZDZnaW85Y0lPOGZQcU5HbGlCblA0QmF1dXpzWVE?oc=5",
-    "source": "Instagram",
     "date": "2026-11-16",
     "category": "tech",
     "tag": "tech",
@@ -572,6 +572,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "a5cbcda6fc61",
+    "title": "Between October 05 and October 10, 2026, as many as 27 Indian startups from diverse sectors raised over $116 million in funding from investors. These sectors include Healthtech, Lending, Deeptech, AI, D2C, Electronics, Jewellery, Proptech, QSR, Fintech, F - Instagram",
+    "description": "Source: Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zaklXYVFJSXR2ZkF6NHdyTm81ZF80MVZuemRqUlhFWVZ4UWtXS1VacGJhRG9IZDZnaW85Y0lPOGZQcU5HbGlCblA0QmF1dXpzWVE?oc=5",
+    "source": "Instagram",
+    "date": "2026-11-16",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
     "id": "19e529f74804",
     "title": "Top 30 Funded Healthtech Startups In Gurugram (2026) - Inc42",
     "description": "Source: Inc42",
@@ -583,109 +596,5 @@
     "tag_label": "Startup",
     "priority": "medium",
     "subcategory": "startup"
-  },
-  {
-    "id": "d38d0e24f973",
-    "title": "India’s Wearable Medical Device Market: Growth Potential Across Hospitals and Homes - IBEF",
-    "description": "Source: IBEF",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTNadjJhbnJKZS1oVVJkOXRVQnlGazVCay0wZzRYa0ZDUTVnZUZ0V2ZvdEZVQk9PY2RTSmJlZXNiWWJtZlF2OWdsbnA5NjFXM21mTEQ1N1R1TmpPYXdrdGNPWUVOWGZZbkcxQnJXQXJDQmp0VEhmd0ZZUlNMWkRrX1h6QjkxbExKWGhDSlZSM1BYZ0s3RlB3bkwxSXROOHN2Sk1OU2xCenVFNEI3Qmc?oc=5",
-    "source": "IBEF",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "68278b594801",
-    "title": "Wearable Fitness Tracker Market Size, Share, Trends 2036 - Future Market Insights",
-    "description": "Source: Future Market Insights",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVN2eTJYSzFYamtqeEU0Z05yQkJDMXY1a2NHNTZYdnZNMWxhTF9ON1B0bU02N3JvLWdNRDlXdWxKMzl2SFVOeGdXaGQ3T29aZzBHODRFNmdTX2QzWjZhQkFqSE95S3ZwcGtXbVhrRE00WURDSDlSUFN1eWQwSmh4bTFUNA?oc=5",
-    "source": "Future Market Insights",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "e206b371e0f3",
-    "title": "Wearable devices help build healthy habits, but cannot replace doctors - India Today",
-    "description": "Source: India Today",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmRrc3VrekZBRkFzQ2s3N0MzT19iZFBPSzFfODQ5a1dCQmtFWml4SU8tcnRyZk1MQVQ0S0l2dnRVcHhXOExtbFNmNFhnRUdVeWVtTmRFdVdwaU1JMXlmbGVGc3ZFTGo4UTdqSHB4MThMWUVObjlFcjIwY0RYVGtVdGIxUEVvaHJjRmZzV0lfRTZXQ21FdGR5WHg4Z3NJVUxFbW91dm1vbm0zNDhDM1FpRlRQcFlsUmczWTJocV9mdkhDU0NMY3F0aVln0gHPAUFVX3lxTE85R2pJc25uZWhINTZ1dG1HRDFLVzlLbGxEVDFpSVVnTTMtMkVEd2kyMTRMQ052aFd0NU4yekJjdXBSR2hSX01ZQmIteVREX2VCMG80RkxfalFrZG04ODJTR1JGY2prR3A0WWxLc0xLMDhSX2xJV2RUdHEzM1UtaXZtQ1BNb3RzdS1wcVRMWVJGZWRxS3BMNWlQdHNMT1p0TXh6TVUtZ2pFWU5QakV5ZXhwOE1vSkhxT2MyaXhSU19xX05JdzhlN052T2JkaXRzSQ?oc=5",
-    "source": "India Today",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "64bffccc493b",
-    "title": "Global Surge in Demand for Smart Wearables - EMJ",
-    "description": "Source: EMJ",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWFoUmZWXzRfb3NoRDRfUnZpeGpoaHNuVnlIaWdybkVIWUdwMlhlekxER1BLQmoyQmFpSHNERm9BbTd5c2tSRUUxTmt5ZGZ4MnNTME5CclcwWmNtSUlfbUNLR0k2all6cHpfS29NaUhTRFhuTjNma3N3TFBsc1JZSm9TclZQeGMzWWF3YVdaMWtqOWt1anN2VEdB?oc=5",
-    "source": "EMJ",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "198de43ae616",
-    "title": "Wearable Medical Devices Market Size | Forecast Report [2034] - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEhNbHB6ekJLbUlYbkNoRmlIZmtwMjZNRU1QMGFXYVd0NVNZYVFRcHpmcWM3RmJ0WUZoeDNiZzNOMkFXcHJoLTVnYXRSYzU3Z2hkNVNZRUVCT296M01leVo4c0RBQWYtYVNjMUlCWWw2NWZoMDFzcXR1WWt2TGN1STcwcFNvN1RzY0RwcEVScTRMd2tTMkx2UWpzOA?oc=5",
-    "source": "Fortune Business Insights",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "3af33c9bf3bc",
-    "title": "Wearable Medical Devices Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iMGlDYS1vTXBNcXVsWTg4eDFJQ3ZfRDFIZnYxajJOX253VkRIMXJ6ai1ZQ3dIUUFSdHBTOTJvLW9oNXlVMHRfX1NkRHlnMHBTN21OTnJHOFA2N0NtVXBHYVcySDJiWlJwTjNDd0NlSTNPWlk?oc=5",
-    "source": "Precedence Research",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "7daea82105f3",
-    "title": "Drone Delivery in Indian Healthcare: The New Lifeline to Reach the Remote? - Nasscom",
-    "description": "Source: Nasscom",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUh1SHhVZ1hvLU1yWXNPVXBNVDlJVFlwaG92cVpxVUxDOGZFY3d2ZlNXUUtVRE5RWER2QVFObWhldFdVeWlzd2s4OEtaZGZGX0VlTXNJdnJNV1A0eUFYX2xwWm8zaDhMUW5UNjBzSURnb0tGdE5ZZWNPcFp5MTFPMmhHWjJGZS1mZ2FIWEEzNk04Tl96OG8telhJS0RfVXNvZnBBMThEYnR4TWJ2ZEg5NElFaw?oc=5",
-    "source": "Nasscom",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
-    "id": "6308ee03bd26",
-    "title": "Medical Drone Delivery Services Market Size, Report 2035 - Global Market Insights Inc.",
-    "description": "Source: Global Market Insights Inc.",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcXJwa21HNndqc2poSENvcVZWQld2eHVhQVJjTkh0X3lPMWFKbkNzTjhpUmU0Vk9CX0Vkc1NfU3JYc21PcFhmQXJHaFo0cDRyallaWnpGZ0QxSEo4ZXB0Q2NiQWtCZnBsTktVMTBzRWcxbFlpLTQ4Q0Y2eFZpR0VPbWh3bmYwSXVnRGM0?oc=5",
-    "source": "Global Market Insights Inc.",
-    "date": "2026-11-16",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   }
 ]
