@@ -24,6 +24,18 @@
     "priority": "medium"
   },
   {
+    "id": "a936d0a901ec",
+    "title": "PIB Backgrounder - www.pib.gov.in",
+    "description": "Source: www.pib.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclZmc1pfd3NCUzZNQmpaX2FMcWlZTTk1c08wQ3lTLUZNLWxwQ3FvQTJVVkJ5ZEtxMHdzZzJwX0Nna0YwNVhfVWFpalBLZ0FJRUJBXzBpMGd2YnV0RHUtWXlfYjFmRkZkc3UzSk84UDY5RmkzN3VqMi1YV2tyLTJaTFJESTk0ZnA1dFE?oc=5",
+    "source": "www.pib.gov.in",
+    "date": "2026-11-17",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "0159ec524c37",
     "title": "Budget 2026 aims to position India as global healthcare hub - kpmg.com",
     "description": "Source: kpmg.com",
@@ -60,35 +72,11 @@
     "priority": "medium"
   },
   {
-    "id": "926e1db894e9",
-    "title": "India’s Health Transformation - www.pib.gov.in",
-    "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjTmR2WWNDXzU3YTdZaE13UEZUeEVpWk1hMFpNY29NNHlqTGVZc2NOdWJHY285Q1pKM2N0V0xiSzlGUXJsRUxsWERwbE9faFZWbjUxbG4wTHdYb21KUkhIQ2V2V1AtYnlNSjBDTjExX1Y1dkFLRGZMSHNR?oc=5",
-    "source": "www.pib.gov.in",
-    "date": "2026-11-17",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "d0ded6ea74a6",
     "title": "India - Commonwealth Fund",
     "description": "Source: Commonwealth Fund",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOXy1CTl95aWR5UlFjdTdoeVJNaVZHQXpOZVJOQmRNa0thTng1M0l6d3ZlZUUzbzE5UWZHSTJkeFV5S0E3YlJqMVBOdWJhdHBZaVVlb3FGV0oyTzFEMzJ1WmxRYWZOVUppbmZ3SVBUbGZPNC03b1p4bjdJaUJZaUN1Y055M0luNEdSdHZv?oc=5",
     "source": "Commonwealth Fund",
-    "date": "2026-11-17",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "f162a787f7a1",
-    "title": "Dr. Mansukh Mandaviya Chairs 198th Meeting of Employees' State Insurance Corporation (ESIC) at New Delhi - www.pib.gov.in",
-    "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81dFZwbllsa2wzN3BoWThNRUlISmc1TmxOUERxYTBaV2hybk1MVGVNczhLWjZlb3N6ZTByb2ljSjlmemtXTG1DOXAwOHQ1MlMxWmhhbXh3X0xrRkloWk5YTWRwNlFuand0ellzWmtGZ2VHcnJNSDE3Z2tB?oc=5",
-    "source": "www.pib.gov.in",
     "date": "2026-11-17",
     "category": "central",
     "tag": "central",
@@ -108,6 +96,18 @@
     "priority": "medium"
   },
   {
+    "id": "10e6ea0a0317",
+    "title": "Best Pharma Sector Mutual Funds 2026 - Groww",
+    "description": "Source: Groww",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aRFBqYkJQd0FvR19jaDRoV0ZGa29RXzFPRjI0NUdYVFZaNmdLNVM2LUpmYXIyOW1oYlBZNGRJOERPYmRYaS1VakhIR21zZUhPNDIwVG4zNG5MQQ?oc=5",
+    "source": "Groww",
+    "date": "2026-11-17",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "2264b1b81282",
     "title": "Union Health Ministry Releases The National Health Accounts Estimates for India 2022-23 - www.pib.gov.in",
     "description": "Source: www.pib.gov.in",
@@ -120,34 +120,22 @@
     "priority": "medium"
   },
   {
-    "id": "885347eaefd3",
-    "title": "Introducing ChatGPT Health - OpenAI",
-    "description": "Source: OpenAI",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NN182QVdKeERlaTBWeVNNdTlUY19MNGVZZ1VzeEVhY3FIU1d2SHRLejJpMENpbnFWclYyZTFkb2NWR21Lc1NCVkUwZXVIdGhHeUxTV3RyWkd5WnFIRnJUNFhB?oc=5",
-    "source": "OpenAI",
-    "date": "2026-11-17",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "448721564dec",
-    "title": "Affordable and Accessible Healthcare for All - pib.gov.in",
-    "description": "Source: pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkRkY3A5NEMxQkFVd0hHVEprZ3V1Wmw1MWNheEl2SkE3TnlEb0ExZVEwY2hUTXBvZzlsZE96ZkdZMlR2RjVTY3hZekV2UThiUmJuSmd4djUwV1h2TnJ4a2t0RHpKVXZRN0VWajNfMTFRQzd6cUo4XzFMLWxzd1ppRmhteE1tMHlndFdYYjJxX090bWR3LTcxLUpB?oc=5",
-    "source": "pib.gov.in",
-    "date": "2026-11-17",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "75c00ffb4189",
     "title": "Press Note Details: Press Information Bureau - www.pib.gov.in",
     "description": "Source: www.pib.gov.in",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdERZQ1dFNEZ2TXB6dVpJeHYwZG9zTlptcEZpSU1Dbm04eloxVXlyR2R4SDdGN1RaQnNNWVI2aHdDQl9nUHdONlBhR2dsa1JsRGVzbnVoS3JTbERQeVBUS1RVblFZeEk0d3FOa3Bzc2xycXdTbU9nMzJJU2MtZHVBU2tXUnloUFFhQXdZ?oc=5",
+    "source": "www.pib.gov.in",
+    "date": "2026-11-17",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "b2624840fee9",
+    "title": "Affordable and Accessible Healthcare for All - www.pib.gov.in",
+    "description": "Source: www.pib.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXUlp1V1NZZUJjbS1fOWNjdXZfUjBUOFVCX0ZPbWtyX3I3Y3kzNGctVFlUeTVhR0tPS2hrZlgzM3VaX004eFlWQ1IzaFZ6QlBLcThyc25hM1FRTWYxUUprUjJKTF9NS3Y2eHRwQ1FjVUd1T1dUcGc?oc=5",
     "source": "www.pib.gov.in",
     "date": "2026-11-17",
     "category": "central",
@@ -228,18 +216,6 @@
     "priority": "medium"
   },
   {
-    "id": "bde0362a10c8",
-    "title": "Prioritising Healthcare for a Viksit Bharat 2047 - www.pib.gov.in",
-    "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FTzNBSDMwa015c0o4Zm9oTmpQSWNzM0ZJeEdwdGMxRDFmVjNxSlp1Q1QzZEZKVk85b29ZV05kLUZhQXBhX2NfTUlWRDBZMzBYMzc0a3Fpc0dlWkpZNGpBc3Zmd0ZPaHZzOGQyV29GUXVrVjNGWUlabWl3?oc=5",
-    "source": "www.pib.gov.in",
-    "date": "2026-11-17",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
     "id": "e109232f8799",
     "title": "HLTH 2026: Viz.ai, Wolters Kluwer partner on platform integration - Fierce Healthcare",
     "description": "Source: Fierce Healthcare",
@@ -269,6 +245,30 @@
     "description": "Source: Fierce Healthcare",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYW5SbUVRNTZWcF9IN2d1S0xzV1VlRE5GTHlweDVlZFlBc2dVOXVVN2FBVkl0di00VVdnREtoUGEzcFYyS1lCNmJQUW5zSG9FdTl5QWFabEFXTHpra2ZWTl85YmU2ZDNfOG5mOUhwVlNLMzRuRG9KdDdJclc1NXRmcGVQS2pBRjhQMkFJVTJDb0pyZmhrWmNCc242UjFKVUpUc004ZHhPRjBFS2MzZ09LMkI4dUN2ZHJoWUtJUzhaTVRsNjV6dGFwZl9mSWs?oc=5",
     "source": "Fierce Healthcare",
+    "date": "2026-11-17",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "115923e7f4de",
+    "title": "Healthcare national providers joined at AMTZ to host CAHOTECH 2026 - Pharmabiz.com",
+    "description": "Source: Pharmabiz.com",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96VDRUdkpINHFfWnNVU1VPM3BoYm92Y1RnS2VVQVZFZ0RmVW5feG9LWklMVmliQ1ZkZG1Db09oRDMydGU3ci1mdlBLM2ZFQ3FEV2JOdDNYM2Y4UEo4QkR3ZFBFZmRRWEhGakpB?oc=5",
+    "source": "Pharmabiz.com",
+    "date": "2026-11-17",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "3014e102e991",
+    "title": "India progressing towards one of the world’s largest genomic databases, says Union Minister Dr Jitendra Singh - News On AIR",
+    "description": "Source: News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaTRDeFd0Rm1DVFNRVVprR2dVbFhxckdXUDdDZjBDMC1QT2l5RDJiQ2M4LXE4bC03bVBmeEpCNG1EWXg0Q0sweV9XUDNYb1V1bE4xV3p4S2gzbTNWWk9NWkVNeXZyZ0RCVDNhMGV2NXRGcVN6M3N4eUJBZXE1RGdRN21jdWZOSFdpcXFEWmZkendmYmRzLXJ5aTRNMm14dDdLd2dJM2ZwSnhsc1BzVzJ0RlFhcTlqVnhBbGhfOFpkSUNmQW5iN2VVZTVDa00tdw?oc=5",
+    "source": "News On AIR",
     "date": "2026-11-17",
     "category": "central",
     "tag": "central",
@@ -336,6 +336,30 @@
     "priority": "medium"
   },
   {
+    "id": "9ac9e6a9f151",
+    "title": "Intelligent therapeutic robotic-assisted surgery as the next frontier of precision oncology - Frontiers",
+    "description": "Source: Frontiers",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObGZsVHFkUko2bVhOTFdya1dfaVQ5d2FBXzVoVDN5cGVkM1p0OW9JVTFlRGR2Y3h1M0hmZWFsNWxhUW9FbzRHSUpJNklVUFBUa3NlOUdJWGtKVGxiZXhTZWdySW1Qd2Nyc1IzLW9HYy02cHBOZ0hDenVMbjJjNF9vOVNGOXJQYV9DN3JxVHlB?oc=5",
+    "source": "Frontiers",
+    "date": "2026-11-17",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "f816fbf95079",
+    "title": "NKSquared Lead USD 2.7 Mn Funding in Health-Tech Startup Biopeak - Entrepreneur India",
+    "description": "Source: Entrepreneur India",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0J6MnU1VG5XcGpJRmVUTGhzVW9PaW5NSldKdk1WUlJVVGNSRktGaVB4VzFQb2xmYnFzeUNHbDJVVFRnMEhsRy03MkM5dzJ0cExaSWo4Q1lvdHZYVlJvb0VXcG8zRjZKYmdoZjFvb3pTcHpudlJrZkh6OHVGbXl5aUV2TlEwbXItZTlwV1dhV2M2Tjg5Qm9aMXVpOUVkRUJ3U1BOZmxtN0xXN0xMaEtoOU9jdzQwREk?oc=5",
+    "source": "Entrepreneur India",
+    "date": "2026-11-17",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
     "id": "bea1af589855",
     "title": "Indian billionaire, doctors spar over $900 brain blood-flow tracker Temple - Reuters",
     "description": "Source: Reuters",
@@ -384,10 +408,10 @@
     "priority": "medium"
   },
   {
-    "id": "877c74954900",
-    "title": "India’s Health Transformation - www.pib.gov.in",
+    "id": "2ec30f14d385",
+    "title": "Affordable and Accessible Healthcare for All - www.pib.gov.in",
     "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjTmR2WWNDXzU3YTdZaE13UEZUeEVpWk1hMFpNY29NNHlqTGVZc2NOdWJHY285Q1pKM2N0V0xiSzlGUXJsRUxsWERwbE9faFZWbjUxbG4wTHdYb21KUkhIQ2V2V1AtYnlNSjBDTjExX1Y1dkFLRGZMSHNR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rTDc2bksyZUtISnEwRjlyWTZzcXNQeGtCVFFXWXYzcE1tQkxrbWdWZlZtdnVhNWJ0VHpMRklmUVg1YlZDeFZzR1RhdVBDS2N0T2JKQXg4NEpRRjJJWk9ZNFZ3cHhZQlRxWTM2bUdTYXVDVmxFNFE?oc=5",
     "source": "www.pib.gov.in",
     "date": "2026-11-17",
     "category": "central",
@@ -408,35 +432,11 @@
     "priority": "medium"
   },
   {
-    "id": "06a26a9f83c6",
-    "title": "Logistics Revolution in India: Drones & Hyperlocal Supply - IBEF",
-    "description": "Source: IBEF",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa096YXdObkRUUnBpNnEtZGFsVEpLbV9jLVZoWTVnZy01dXpMSC1lVkVSbnpwVUhCX0RPdWZKalp0eTMydXotOUZyUHBVWDBPdjlCaGxCVDVIRzhCZXlnM2R6bUI0X2FpYjRId29uSzdpWl9CbUxjZnIyZDhqdUpDcF9Fdi1zeWZwUkY0RXRvZVRLbEx2M1ZPSzdHTHkwU2xpMTYzOGxtSXpMQ2d3MHEyQmlKTk41dGpNUTNyRDJMYlkxdFFoNHlfNzc4UzhjQWNUaFE?oc=5",
-    "source": "IBEF",
-    "date": "2026-11-17",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "2ec30f14d385",
-    "title": "Affordable and Accessible Healthcare for All - www.pib.gov.in",
+    "id": "877c74954900",
+    "title": "India’s Health Transformation - www.pib.gov.in",
     "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rTDc2bksyZUtISnEwRjlyWTZzcXNQeGtCVFFXWXYzcE1tQkxrbWdWZlZtdnVhNWJ0VHpMRklmUVg1YlZDeFZzR1RhdVBDS2N0T2JKQXg4NEpRRjJJWk9ZNFZ3cHhZQlRxWTM2bUdTYXVDVmxFNFE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjTmR2WWNDXzU3YTdZaE13UEZUeEVpWk1hMFpNY29NNHlqTGVZc2NOdWJHY285Q1pKM2N0V0xiSzlGUXJsRUxsWERwbE9faFZWbjUxbG4wTHdYb21KUkhIQ2V2V1AtYnlNSjBDTjExX1Y1dkFLRGZMSHNR?oc=5",
     "source": "www.pib.gov.in",
-    "date": "2026-11-17",
-    "category": "central",
-    "tag": "central",
-    "tag_label": "National",
-    "priority": "medium"
-  },
-  {
-    "id": "78c4ee3a6a73",
-    "title": "Pilots On Using Drones To Deliver Medical Services - https://www.fintechbiznews.com/",
-    "description": "Source: https://www.fintechbiznews.com/",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbE9VUTFsZ0xyRXZWaU0ydTAzUGRjM25adWNFY2dNVURXVW5uUWg0R0hZZjY5aXdZbjRvemZ1djFMbXBfcmVOd3p5bkp2b2c1LVRvTEsyeDFoTjdqdFowX3oybVpZRkxvNFYzNmtNLXZVZm9YSk1hMG43LUFFTkg5SEY1YmhDbExIMU9ydFhVS1Z1V3dCWHMta0lMODA?oc=5",
-    "source": "https://www.fintechbiznews.com/",
     "date": "2026-11-17",
     "category": "central",
     "tag": "central",
@@ -449,6 +449,30 @@
     "description": "Source: World Economic Forum",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hRWRoZXhrMU1SUEdVcUN6dTQ4RmcxRzFlY3BSSXNzWWEwUHEwbWtNVHdlYm9lYlZSdU5vdlRRWjBhWVBKQ1BqMlhTazV6eGdLUkFlM09rd0ZTcXhhY0FFWm41ZUJrN3Ro?oc=5",
     "source": "World Economic Forum",
+    "date": "2026-11-17",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "06a26a9f83c6",
+    "title": "Logistics Revolution in India: Drones & Hyperlocal Supply - IBEF",
+    "description": "Source: IBEF",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa096YXdObkRUUnBpNnEtZGFsVEpLbV9jLVZoWTVnZy01dXpMSC1lVkVSbnpwVUhCX0RPdWZKalp0eTMydXotOUZyUHBVWDBPdjlCaGxCVDVIRzhCZXlnM2R6bUI0X2FpYjRId29uSzdpWl9CbUxjZnIyZDhqdUpDcF9Fdi1zeWZwUkY0RXRvZVRLbEx2M1ZPSzdHTHkwU2xpMTYzOGxtSXpMQ2d3MHEyQmlKTk41dGpNUTNyRDJMYlkxdFFoNHlfNzc4UzhjQWNUaFE?oc=5",
+    "source": "IBEF",
+    "date": "2026-11-17",
+    "category": "central",
+    "tag": "central",
+    "tag_label": "National",
+    "priority": "medium"
+  },
+  {
+    "id": "78c4ee3a6a73",
+    "title": "Pilots On Using Drones To Deliver Medical Services - https://www.fintechbiznews.com/",
+    "description": "Source: https://www.fintechbiznews.com/",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbE9VUTFsZ0xyRXZWaU0ydTAzUGRjM25adWNFY2dNVURXVW5uUWg0R0hZZjY5aXdZbjRvemZ1djFMbXBfcmVOd3p5bkp2b2c1LVRvTEsyeDFoTjdqdFowX3oybVpZRkxvNFYzNmtNLXZVZm9YSk1hMG43LUFFTkg5SEY1YmhDbExIMU9ydFhVS1Z1V3dCWHMta0lMODA?oc=5",
+    "source": "https://www.fintechbiznews.com/",
     "date": "2026-11-17",
     "category": "central",
     "tag": "central",
