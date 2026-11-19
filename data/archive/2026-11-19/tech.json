@@ -26,6 +26,19 @@
     "subcategory": "medtech"
   },
   {
+    "id": "738ab4b02ec2",
+    "title": "Transforming Healthcare Delivery Through Artificial Intelligence - www.pib.gov.in",
+    "description": "Source: www.pib.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zVG9nOGlHV1JXRWloc1MxeHQ0VDVXZWlXbVdVQTZKRkJzWjE4UlVwTmtaVy1PUzU5M2V0OUJUOXQ3UEgzODFJaGdyeHNqeGxxNU9fcGNjbFkwYXJDUWRDam5zbDA0Mk5KaDlBbXlRQk1xV18xMDI0RWRn?oc=5",
+    "source": "www.pib.gov.in",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
     "id": "aa4e20aac30e",
     "title": "Towards autonomous medical artificial intelligence agents - Nature",
     "description": "Source: Nature",
@@ -182,6 +195,19 @@
     "subcategory": "medtech"
   },
   {
+    "id": "6ada2a5ca679",
+    "title": "Telemedicine Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
+    "description": "Source: Fortune Business Insights",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWQ3SWFqc3hNVTRsV1gxWmw1WDA4eF9SY0FrVUQ0YTFUbXJMcW5vUHBlM2twNnkxendCdEtta3lyc1JXd3JqaS0yYjl5bXZlSE1Jak9MN3VwX1VSaUNoWXY4cVZ1a3BFS2pJbnBfQW1oNW9wUUh3TWd0RjZyWUVHcEJzM09xZFliOVU4?oc=5",
+    "source": "Fortune Business Insights",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "1803d0286055",
     "title": "India’s Healthcare Revolution Through Telemedicine - IBEF",
     "description": "Source: IBEF",
@@ -208,37 +234,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "a55d30fc5111",
-    "title": "AI in Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "id": "bc8187551fce",
+    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
     "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcW5GM2FSUTdUd3ZuNmM4ZG01ZGhsU1BSRzlvcVVFZ25BMG82UC1ZWFhyTjRycGVua19qVjR0Rmg2TXNUdV9PdXlqTEFpNlowaDRDdU9PM3B4OW45UXpQMEw5TmQxZF9uc0VFMw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
     "source": "Precedence Research",
-    "date": "2026-11-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "6ada2a5ca679",
-    "title": "Telemedicine Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWQ3SWFqc3hNVTRsV1gxWmw1WDA4eF9SY0FrVUQ0YTFUbXJMcW5vUHBlM2twNnkxendCdEtta3lyc1JXd3JqaS0yYjl5bXZlSE1Jak9MN3VwX1VSaUNoWXY4cVZ1a3BFS2pJbnBfQW1oNW9wUUh3TWd0RjZyWUVHcEJzM09xZFliOVU4?oc=5",
-    "source": "Fortune Business Insights",
-    "date": "2026-11-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "4d6ab1bc880d",
-    "title": "22 Telemedicine Companies to Know 2026 - Built In",
-    "description": "Source: Built In",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aMFhpX21zUmJ3SzdlOUdLM0lieDhOcEFFRDltakUzTlhVRHp1VDBHVzFneFdodVcybWpVYkZGc1A2X0hDZklQamNhMXN0dzFNaUN3ZFZFVnZ0REZzbnAtSA?oc=5",
-    "source": "Built In",
     "date": "2026-11-19",
     "category": "tech",
     "tag": "tech",
@@ -273,11 +273,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "bc8187551fce",
-    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
-    "source": "Precedence Research",
+    "id": "42abccca25db",
+    "title": "10 Top Telemedicine Companies and Startups to Watch in 2026 - StartUs Insights",
+    "description": "Source: StartUs Insights",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFFtenNBemh0bkh1OTZGX1BESGpSMjB1THZsZGZ4TzlGcXd5OEx2RVhiT205SGNPOGUwSy1YcjVZMUlvUGxpZ2J4dndhWENCSUJiMXF4OWlNaFlFVTFvaDljSmoyeTJ1dEZtelZQN3NhbEFHeW9RVkprVzFyQWs2Q1FBbw?oc=5",
+    "source": "StartUs Insights",
     "date": "2026-11-19",
     "category": "tech",
     "tag": "tech",
@@ -299,11 +299,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "b0d2e161bd34",
-    "title": "Ministry of Tribal Affairs, CSIR and IGIB Organized Workshop on “BIRSA 101” — India’s First Indigenous CRISPR-Based Gene Therapy for Sickle Cell Disease - www.pib.gov.in",
-    "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83MktjNFBOTlZZUEpCUmJ5YktBQmRBSEoxNi10Q2diMG5rYjBaMFZEa25vMENTMzJxTVphMnNHbFRPVnUzQWlWcV9ueV9scnNEZW9lVU02Ym9qWTgzM1BQMDM0T2VqdDho?oc=5",
-    "source": "www.pib.gov.in",
+    "id": "7c3c3683a3f1",
+    "title": "India Entering Era of Personalised and Precision Medicine Driven by Genomics, AI, and Biotechnology: Dr. Jitendra Singh - pib.gov.in",
+    "description": "Source: pib.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwYmw4eHg1ZjBiZ1lDeHZpVk9HV3FXaVVpeG9DbjFrSUZ3WFItWkI1RjJMTGNQcEtNZEE2TDd5SG1UVndCaWIzd2xpUTYzcE9JbVBmN2V6emJRVUtMT0NKX2VoQnBTbUhLSVVNMnM4aTNIRHdkUHpMT3hB?oc=5",
+    "source": "pib.gov.in",
     "date": "2026-11-19",
     "category": "tech",
     "tag": "tech",
@@ -364,6 +364,19 @@
     "subcategory": "genomics"
   },
   {
+    "id": "b0d2e161bd34",
+    "title": "Ministry of Tribal Affairs, CSIR and IGIB Organized Workshop on “BIRSA 101” — India’s First Indigenous CRISPR-Based Gene Therapy for Sickle Cell Disease - www.pib.gov.in",
+    "description": "Source: www.pib.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83MktjNFBOTlZZUEpCUmJ5YktBQmRBSEoxNi10Q2diMG5rYjBaMFZEa25vMENTMzJxTVphMnNHbFRPVnUzQWlWcV9ueV9scnNEZW9lVU02Ym9qWTgzM1BQMDM0T2VqdDho?oc=5",
+    "source": "www.pib.gov.in",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Genomics",
+    "priority": "medium",
+    "subcategory": "genomics"
+  },
+  {
     "id": "712788389102",
     "title": "GenomeIndia and the Future of Precision Medicine in India - orfonline.org",
     "description": "Source: orfonline.org",
@@ -401,6 +414,19 @@
     "tag_label": "Genomics",
     "priority": "medium",
     "subcategory": "genomics"
+  },
+  {
+    "id": "3c4c88c39aa9",
+    "title": "How Delhi-NCR Is Revolutionising Cardiac Surgery With Robotics - Rediff",
+    "description": "Source: Rediff",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JhSjl1TzFINHhrXzhFb3RueXBTeXgzRDdEMUtWOWFiVzFYQy1LcnVsTWZlS083VkRDZEtxNE4xZ2lMMTdUVDFGM3NJRmhNQlJjc0czVE13a0Y1MHZERnpjRktvOXozMkhSaGxnRkVDd19YLU1QeE1Zd1JHQ0dPdE45VmJIWlkydWI5a3FYNzJIa1JfNTNDLWg5UlNzRmFGQlVCZVVSZXR5ZnJUSlJ5YWYzSDMxbmxo0gG7AUFVX3lxTE1JYWVMc05NbENoR0VSOHZETktpVHh4RTRScFgtUUtkZ3ZNZTVZcmExVzBmYjdqazlOdGlNWXdIS2paR1ktYk9kUmlRbWlfVHRnejh0Q3hYUG1JaWI3c3RyNXBsYkdzMzR2YnVySE1Mc3YtRllOQWxlbl9UVV8tSTJuSU4xanZMb2RoSkRMZnM4eUxfR045THM2ZGNlQXlxOTkyOUVxeHlHc1RSR3NMZ1Y0N1Fwb29FeUJqalU?oc=5",
+    "source": "Rediff",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
   },
   {
     "id": "41f854c9b1a8",
@@ -533,24 +559,24 @@
     "subcategory": "startup"
   },
   {
+    "id": "d6fa2b7b3445",
+    "title": "Top 10 HealthTech Startups in India - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQmRoQ2IySTJLUFBfd01iZzl1Zjl6SkZQbnVGbFJjbmZBOVZJX05OTFBqLUlOa3lFeWQ4aGF5OXF6T01YRWo1TjFKbm5LRF92MWJnRlkxcHpzV0V3ZXUyTnJNSDFhX3pHSDFPU0xjZzlxa1VnRENEdQ?oc=5",
+    "source": "Digital Health News",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "a5cbcda6fc61",
     "title": "Between October 05 and October 10, 2026, as many as 27 Indian startups from diverse sectors raised over $116 million in funding from investors. These sectors include Healthtech, Lending, Deeptech, AI, D2C, Electronics, Jewellery, Proptech, QSR, Fintech, F - Instagram",
     "description": "Source: Instagram",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zaklXYVFJSXR2ZkF6NHdyTm81ZF80MVZuemRqUlhFWVZ4UWtXS1VacGJhRG9IZDZnaW85Y0lPOGZQcU5HbGlCblA0QmF1dXpzWVE?oc=5",
     "source": "Instagram",
-    "date": "2026-11-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
-  },
-  {
-    "id": "19e529f74804",
-    "title": "Top 30 Funded Healthtech Startups In Gurugram (2026) - Inc42",
-    "description": "Source: Inc42",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHNieXdtd0JWVFN1bjNzZ09URWc5VFNidDBYdTJZNk52RTY4YUFHQTF3RXpLaVVjMjBRd0dRX3I3Q19sMFBmUFdWZjFzNlQ0M1BCR19hZXpNckJxQ1ZhRDhaTEFaaVJWaVNKU21ya1VtcTUyMS04VlpJVm9La1ZwVA?oc=5",
-    "source": "Inc42",
     "date": "2026-11-19",
     "category": "tech",
     "tag": "tech",
@@ -598,6 +624,19 @@
     "subcategory": "medtech"
   },
   {
+    "id": "64bffccc493b",
+    "title": "Global Surge in Demand for Smart Wearables - EMJ",
+    "description": "Source: EMJ",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWFoUmZWXzRfb3NoRDRfUnZpeGpoaHNuVnlIaWdybkVIWUdwMlhlekxER1BLQmoyQmFpSHNERm9BbTd5c2tSRUUxTmt5ZGZ4MnNTME5CclcwWmNtSUlfbUNLR0k2all6cHpfS29NaUhTRFhuTjNma3N3TFBsc1JZSm9TclZQeGMzWWF3YVdaMWtqOWt1anN2VEdB?oc=5",
+    "source": "EMJ",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
     "id": "ac7a23adfd54",
     "title": "CES 2026 Wearables Market Overview: From One-device Solutions to Specialization - Counterpoint Research",
     "description": "Source: Counterpoint Research",
@@ -611,16 +650,42 @@
     "subcategory": "medtech"
   },
   {
-    "id": "64bffccc493b",
-    "title": "Global Surge in Demand for Smart Wearables - EMJ",
-    "description": "Source: EMJ",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWFoUmZWXzRfb3NoRDRfUnZpeGpoaHNuVnlIaWdybkVIWUdwMlhlekxER1BLQmoyQmFpSHNERm9BbTd5c2tSRUUxTmt5ZGZ4MnNTME5CclcwWmNtSUlfbUNLR0k2all6cHpfS29NaUhTRFhuTjNma3N3TFBsc1JZSm9TclZQeGMzWWF3YVdaMWtqOWt1anN2VEdB?oc=5",
-    "source": "EMJ",
+    "id": "3af33c9bf3bc",
+    "title": "Wearable Medical Devices Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "description": "Source: Precedence Research",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iMGlDYS1vTXBNcXVsWTg4eDFJQ3ZfRDFIZnYxajJOX253VkRIMXJ6ai1ZQ3dIUUFSdHBTOTJvLW9oNXlVMHRfX1NkRHlnMHBTN21OTnJHOFA2N0NtVXBHYVcySDJiWlJwTjNDd0NlSTNPWlk?oc=5",
+    "source": "Precedence Research",
     "date": "2026-11-19",
     "category": "tech",
     "tag": "tech",
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
+  },
+  {
+    "id": "d6829cb41551",
+    "title": "Top 10: Wearable Devices - Healthcare Digital",
+    "description": "Source: Healthcare Digital",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PWXdQRmhaMVJfU29aTDFMajYxYkFmMEpQb1R5dEIyd3FKN3QteWRkZWtRX3U3Sm8xLXRzLTlYNmE5blhNc3Rhb1ZQcEV0cjR3WmZGRGZrVHJLREhPWHdGbWxhdVhVOEQwbHNoRGE0ckpscDg?oc=5",
+    "source": "Healthcare Digital",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
+    "id": "7daea82105f3",
+    "title": "Drone Delivery in Indian Healthcare: The New Lifeline to Reach the Remote? - Nasscom",
+    "description": "Source: Nasscom",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUh1SHhVZ1hvLU1yWXNPVXBNVDlJVFlwaG92cVpxVUxDOGZFY3d2ZlNXUUtVRE5RWER2QVFObWhldFdVeWlzd2s4OEtaZGZGX0VlTXNJdnJNV1A0eUFYX2xwWm8zaDhMUW5UNjBzSURnb0tGdE5ZZWNPcFp5MTFPMmhHWjJGZS1mZ2FIWEEzNk04Tl96OG8telhJS0RfVXNvZnBBMThEYnR4TWJ2ZEg5NElFaw?oc=5",
+    "source": "Nasscom",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
   }
 ]
