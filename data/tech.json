@@ -26,19 +26,6 @@
     "subcategory": "medtech"
   },
   {
-    "id": "738ab4b02ec2",
-    "title": "Transforming Healthcare Delivery Through Artificial Intelligence - www.pib.gov.in",
-    "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zVG9nOGlHV1JXRWloc1MxeHQ0VDVXZWlXbVdVQTZKRkJzWjE4UlVwTmtaVy1PUzU5M2V0OUJUOXQ3UEgzODFJaGdyeHNqeGxxNU9fcGNjbFkwYXJDUWRDam5zbDA0Mk5KaDlBbXlRQk1xV18xMDI0RWRn?oc=5",
-    "source": "www.pib.gov.in",
-    "date": "2026-11-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
     "id": "aa4e20aac30e",
     "title": "Towards autonomous medical artificial intelligence agents - Nature",
     "description": "Source: Nature",
@@ -247,6 +234,19 @@
     "subcategory": "telehealth"
   },
   {
+    "id": "4d6ab1bc880d",
+    "title": "22 Telemedicine Companies to Know 2026 - Built In",
+    "description": "Source: Built In",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aMFhpX21zUmJ3SzdlOUdLM0lieDhOcEFFRDltakUzTlhVRHp1VDBHVzFneFdodVcybWpVYkZGc1A2X0hDZklQamNhMXN0dzFNaUN3ZFZFVnZ0REZzbnAtSA?oc=5",
+    "source": "Built In",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "6324b93fae2b",
     "title": "Telehealth and Telemedicine Market Report 2026-2031, By Function, Application, and Geo - MarketsandMarkets",
     "description": "Source: MarketsandMarkets",
@@ -265,19 +265,6 @@
     "description": "Source: Grand View Research",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVG1lZlRmdm12YXZxbjY0aXliTlIyYzZUOExjTFZkcFVNZGc3WDhydWthc1hocV9BYlRkbWlNa281VTl0UWdRcEVaOFc4Yng0WTNmOHRsOGxTYWJfdG91SzZCa3ZNZ0h1RndzLUZkaFRmOUhXWlRkaVpYSTBfcWJGdDJn?oc=5",
     "source": "Grand View Research",
-    "date": "2026-11-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "42abccca25db",
-    "title": "10 Top Telemedicine Companies and Startups to Watch in 2026 - StartUs Insights",
-    "description": "Source: StartUs Insights",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFFtenNBemh0bkh1OTZGX1BESGpSMjB1THZsZGZ4TzlGcXd5OEx2RVhiT205SGNPOGUwSy1YcjVZMUlvUGxpZ2J4dndhWENCSUJiMXF4OWlNaFlFVTFvaDljSmoyeTJ1dEZtelZQN3NhbEFHeW9RVkprVzFyQWs2Q1FBbw?oc=5",
-    "source": "StartUs Insights",
     "date": "2026-11-19",
     "category": "tech",
     "tag": "tech",
@@ -416,19 +403,6 @@
     "subcategory": "genomics"
   },
   {
-    "id": "018870359d6f",
-    "title": "Robotics Integration Is Transforming Global Surgical Care - The American College of Surgeons",
-    "description": "Source: The American College of Surgeons",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUtxdEYzT0VIOXFybG02R0VWOHV5ZnhSN2hWSEprbDRubUhnY2JyblB6VDU2enZ1N2tBM1lXYmtMNWplN3NrcFNfa0ZuT1BQTHVyM2hobmpYRjl4Y2wxT0VWTXlYc1BqaThWTmJFUDZPTUllbHo2MHNSdUd5R09oMTJ3a1VuaDZnOXdONFZMVkVGS1JjbTJaQ1N5ODFjcnV3ek5iOFo5M1R1ajM4UWVzMVRObFJ0TVJHRkFyM2lGZVFMQVZyVlRNX2l0NFVRWXdyUWVjcENLYmI0ZWNfdFhnMEtNaWZGS0xkTmw3M2hDcEEtNjdyQ3NGSC05Qmw4RGJ4OFF5d0NnVWhyUVdzVkxWa0FuTlVmUHc?oc=5",
-    "source": "The American College of Surgeons",
-    "date": "2026-11-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Robotics",
-    "priority": "medium",
-    "subcategory": "robotics"
-  },
-  {
     "id": "41f854c9b1a8",
     "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - TheWire.in",
     "description": "Source: TheWire.in",
@@ -442,11 +416,37 @@
     "subcategory": "robotics"
   },
   {
+    "id": "018870359d6f",
+    "title": "Robotics Integration Is Transforming Global Surgical Care - The American College of Surgeons",
+    "description": "Source: The American College of Surgeons",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUtxdEYzT0VIOXFybG02R0VWOHV5ZnhSN2hWSEprbDRubUhnY2JyblB6VDU2enZ1N2tBM1lXYmtMNWplN3NrcFNfa0ZuT1BQTHVyM2hobmpYRjl4Y2wxT0VWTXlYc1BqaThWTmJFUDZPTUllbHo2MHNSdUd5R09oMTJ3a1VuaDZnOXdONFZMVkVGS1JjbTJaQ1N5ODFjcnV3ek5iOFo5M1R1ajM4UWVzMVRObFJ0TVJHRkFyM2lGZVFMQVZyVlRNX2l0NFVRWXdyUWVjcENLYmI0ZWNfdFhnMEtNaWZGS0xkTmw3M2hDcEEtNjdyQ3NGSC05Qmw4RGJ4OFF5d0NnVWhyUVdzVkxWa0FuTlVmUHc?oc=5",
+    "source": "The American College of Surgeons",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
     "id": "6dd8dbdf3b64",
     "title": "Surgical Robotics Special Report - MassDevice",
     "description": "Source: MassDevice",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5Zzc5TnJYTGUzXzFhR1ZRUE5BRjlZS2ZYUkNLXzBVcjRsaEluNUU2T3lrdmMtNDhIbG54Z3VnRldyb09zUnpMZFdEYWh0LUVqV0V4UnI5cldqOVk3dUpWQzY1dXY1aERQRUR6ZGNnZjBVZ3c?oc=5",
     "source": "MassDevice",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
+    "id": "e6a2e4145702",
+    "title": "Asia Pacific Surgical Robots Market Report 2026-2031, By Product, Application, and Geo - MarketsandMarkets",
+    "description": "Source: MarketsandMarkets",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHF5amYyLVh2a0E0TWtWazFhampTRkZUOGI5c21lOFQ2Zk53cEM5MThOWGFtd210Q1lUT0tJRERRb05nS2tfdTM1OFRFdXNtTmluU3UyYml6aVRBbWhoRXhmVmVDTnlELTlwcW1lbFFyY19OTTdCOUs5ekgyZ2pzWHU0Rm9TT0gxc0VvTDRLZGhhMkNhWmNUUlF0R3h0MGFF?oc=5",
+    "source": "MarketsandMarkets",
     "date": "2026-11-19",
     "category": "tech",
     "tag": "tech",
@@ -481,6 +481,19 @@
     "subcategory": "startup"
   },
   {
+    "id": "9743e013ab70",
+    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
+    "description": "Source: Tracxn",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
+    "source": "Tracxn",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
     "id": "09187759d863",
     "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - YourStory.com",
     "description": "Source: YourStory.com",
@@ -494,6 +507,19 @@
     "subcategory": "startup"
   },
   {
+    "id": "ac6f3b0ff0d3",
+    "title": "Healthtech in Asia 2026: The Digital Health Leap - Digital in Asia",
+    "description": "Source: Digital in Asia",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW5Ub2xtYkM2d1lITU1vWUJmSWpjR2EwS1F0ME1wandtNEh2OGRBZVpMc2VuVDUtam1obVhiUWJhYUtxck1kWDFtcGJxOG9MdzJ5WFl1bjJPNzg?oc=5",
+    "source": "Digital in Asia",
+    "date": "2026-11-19",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "52b5190ffc48",
     "title": "Top 30 Funded Healthtech Startups In Bengaluru (2026) - Inc42",
     "description": "Source: Inc42",
@@ -505,19 +531,6 @@
     "tag_label": "Startup",
     "priority": "medium",
     "subcategory": "startup"
-  },
-  {
-    "id": "d6fa2b7b3445",
-    "title": "Top 10 HealthTech Startups in India - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQmRoQ2IySTJLUFBfd01iZzl1Zjl6SkZQbnVGbFJjbmZBOVZJX05OTFBqLUlOa3lFeWQ4aGF5OXF6T01YRWo1TjFKbm5LRF92MWJnRlkxcHpzV0V3ZXUyTnJNSDFhX3pHSDFPU0xjZzlxa1VnRENEdQ?oc=5",
-    "source": "Digital Health News",
-    "date": "2026-11-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Telehealth",
-    "priority": "medium",
-    "subcategory": "telehealth"
   },
   {
     "id": "a5cbcda6fc61",
@@ -598,42 +611,16 @@
     "subcategory": "medtech"
   },
   {
-    "id": "3af33c9bf3bc",
-    "title": "Wearable Medical Devices Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iMGlDYS1vTXBNcXVsWTg4eDFJQ3ZfRDFIZnYxajJOX253VkRIMXJ6ai1ZQ3dIUUFSdHBTOTJvLW9oNXlVMHRfX1NkRHlnMHBTN21OTnJHOFA2N0NtVXBHYVcySDJiWlJwTjNDd0NlSTNPWlk?oc=5",
-    "source": "Precedence Research",
+    "id": "64bffccc493b",
+    "title": "Global Surge in Demand for Smart Wearables - EMJ",
+    "description": "Source: EMJ",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWFoUmZWXzRfb3NoRDRfUnZpeGpoaHNuVnlIaWdybkVIWUdwMlhlekxER1BLQmoyQmFpSHNERm9BbTd5c2tSRUUxTmt5ZGZ4MnNTME5CclcwWmNtSUlfbUNLR0k2all6cHpfS29NaUhTRFhuTjNma3N3TFBsc1JZSm9TclZQeGMzWWF3YVdaMWtqOWt1anN2VEdB?oc=5",
+    "source": "EMJ",
     "date": "2026-11-19",
     "category": "tech",
     "tag": "tech",
     "tag_label": "MedTech",
     "priority": "medium",
     "subcategory": "medtech"
-  },
-  {
-    "id": "d6829cb41551",
-    "title": "Top 10: Wearable Devices - Healthcare Digital",
-    "description": "Source: Healthcare Digital",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PWXdQRmhaMVJfU29aTDFMajYxYkFmMEpQb1R5dEIyd3FKN3QteWRkZWtRX3U3Sm8xLXRzLTlYNmE5blhNc3Rhb1ZQcEV0cjR3WmZGRGZrVHJLREhPWHdGbWxhdVhVOEQwbHNoRGE0ckpscDg?oc=5",
-    "source": "Healthcare Digital",
-    "date": "2026-11-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "MedTech",
-    "priority": "medium",
-    "subcategory": "medtech"
-  },
-  {
-    "id": "7daea82105f3",
-    "title": "Drone Delivery in Indian Healthcare: The New Lifeline to Reach the Remote? - Nasscom",
-    "description": "Source: Nasscom",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUh1SHhVZ1hvLU1yWXNPVXBNVDlJVFlwaG92cVpxVUxDOGZFY3d2ZlNXUUtVRE5RWER2QVFObWhldFdVeWlzd2s4OEtaZGZGX0VlTXNJdnJNV1A0eUFYX2xwWm8zaDhMUW5UNjBzSURnb0tGdE5ZZWNPcFp5MTFPMmhHWjJGZS1mZ2FIWEEzNk04Tl96OG8telhJS0RfVXNvZnBBMThEYnR4TWJ2ZEg5NElFaw?oc=5",
-    "source": "Nasscom",
-    "date": "2026-11-19",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
   }
 ]
