@@ -1,16 +1,16 @@
 [
   {
-    "id": "1d4a536f9c20",
-    "title": "How is AI in healthcare being regulated in the UAE? - International Bar Association | IBA",
-    "description": "Source: International Bar Association | IBA",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40R2x5VjZCRTNFVWszaWFSRUMwV1JUb1R5RmxZT1pnTUp5M05qcEU1b0ZIcUZjVnRKNGpCbXc2OVQtZktRU2EtZURneWtaRGVqN1NQb1kzQ1J5cFJyc2hKTg?oc=5",
-    "source": "International Bar Association | IBA",
+    "id": "89e39c1acdd9",
+    "title": "Enhancing the resilience of remote patient monitoring and hospital-at-home systems: a digital-twin-based framework - Nature",
+    "description": "Source: Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JZmNYVzdLSVNoQ3pocWVQbFlOS29oaXQ2cjI5UTduSzl6WGhBYjJhNzU0LURlVllUNmtTQVo2VEZhVEp2cjlIRWpiY0YxRjBESWR1enNGUmtnN01ndFBJ?oc=5",
+    "source": "Nature",
     "date": "2026-11-22",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "AI / ML",
+    "tag_label": "Telehealth",
     "priority": "medium",
-    "subcategory": "ai"
+    "subcategory": "telehealth"
   },
   {
     "id": "45cb57879b6d",
@@ -31,19 +31,6 @@
     "description": "Source: Pew Research Center",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkNia1hLMUlZLUZrTy1fNkwzMGRINUprOWlhM0hraWtXeW1seG1vWWlhX0gyREFCU0xHQVBacGM1RWh5ZHczTVVncUlaNEtjZU56d0VxNXBsR251LVNVT1BTcVRpYWl6dFBtZmttSlFweEtXVlNFUng5U0hOMmJJZDVyT0ZlZGFBd1FkdUx2a29sN2ZXZ200ZzlkemlQSEhudjZJQk5mSURVeG1nWUN0emsyajJMcktnS2tqXzF3?oc=5",
     "source": "Pew Research Center",
-    "date": "2026-11-22",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "AI / ML",
-    "priority": "medium",
-    "subcategory": "ai"
-  },
-  {
-    "id": "738ab4b02ec2",
-    "title": "Transforming Healthcare Delivery Through Artificial Intelligence - www.pib.gov.in",
-    "description": "Source: www.pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zVG9nOGlHV1JXRWloc1MxeHQ0VDVXZWlXbVdVQTZKRkJzWjE4UlVwTmtaVy1PUzU5M2V0OUJUOXQ3UEgzODFJaGdyeHNqeGxxNU9fcGNjbFkwYXJDUWRDam5zbDA0Mk5KaDlBbXlRQk1xV18xMDI0RWRn?oc=5",
-    "source": "www.pib.gov.in",
     "date": "2026-11-22",
     "category": "tech",
     "tag": "tech",
@@ -234,11 +221,11 @@
     "subcategory": "startup"
   },
   {
-    "id": "6ada2a5ca679",
-    "title": "Telemedicine Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
-    "description": "Source: Fortune Business Insights",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWQ3SWFqc3hNVTRsV1gxWmw1WDA4eF9SY0FrVUQ0YTFUbXJMcW5vUHBlM2twNnkxendCdEtta3lyc1JXd3JqaS0yYjl5bXZlSE1Jak9MN3VwX1VSaUNoWXY4cVZ1a3BFS2pJbnBfQW1oNW9wUUh3TWd0RjZyWUVHcEJzM09xZFliOVU4?oc=5",
-    "source": "Fortune Business Insights",
+    "id": "a55d30fc5111",
+    "title": "AI in Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "description": "Source: Precedence Research",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcW5GM2FSUTdUd3ZuNmM4ZG01ZGhsU1BSRzlvcVVFZ25BMG82UC1ZWFhyTjRycGVua19qVjR0Rmg2TXNUdV9PdXlqTEFpNlowaDRDdU9PM3B4OW45UXpQMEw5TmQxZF9uc0VFMw?oc=5",
+    "source": "Precedence Research",
     "date": "2026-11-22",
     "category": "tech",
     "tag": "tech",
@@ -247,11 +234,11 @@
     "subcategory": "telehealth"
   },
   {
-    "id": "bc8187551fce",
-    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
-    "description": "Source: Precedence Research",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
-    "source": "Precedence Research",
+    "id": "6ada2a5ca679",
+    "title": "Telemedicine Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
+    "description": "Source: Fortune Business Insights",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWQ3SWFqc3hNVTRsV1gxWmw1WDA4eF9SY0FrVUQ0YTFUbXJMcW5vUHBlM2twNnkxendCdEtta3lyc1JXd3JqaS0yYjl5bXZlSE1Jak9MN3VwX1VSaUNoWXY4cVZ1a3BFS2pJbnBfQW1oNW9wUUh3TWd0RjZyWUVHcEJzM09xZFliOVU4?oc=5",
+    "source": "Fortune Business Insights",
     "date": "2026-11-22",
     "category": "tech",
     "tag": "tech",
@@ -291,6 +278,19 @@
     "description": "Source: StartUs Insights",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFFtenNBemh0bkh1OTZGX1BESGpSMjB1THZsZGZ4TzlGcXd5OEx2RVhiT205SGNPOGUwSy1YcjVZMUlvUGxpZ2J4dndhWENCSUJiMXF4OWlNaFlFVTFvaDljSmoyeTJ1dEZtelZQN3NhbEFHeW9RVkprVzFyQWs2Q1FBbw?oc=5",
     "source": "StartUs Insights",
+    "date": "2026-11-22",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
+    "id": "bc8187551fce",
+    "title": "Telemedicine Market Companies, Size & Trends 2026-2035 - Precedence Research",
+    "description": "Source: Precedence Research",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b25EQk9wTlhXRUgzUjFQZDJfelZVcnJSVHVoQUtKclAyb1ZVdE1EeE8xWlpqbXdtQkRDbVFjMHNsUWtNbFVKQ29ab1ZmbmFDMXR2bXB6VjBkcHpQLWNWbHI0TXQ?oc=5",
+    "source": "Precedence Research",
     "date": "2026-11-22",
     "category": "tech",
     "tag": "tech",
@@ -416,6 +416,32 @@
     "subcategory": "genomics"
   },
   {
+    "id": "3c4c88c39aa9",
+    "title": "How Delhi-NCR Is Revolutionising Cardiac Surgery With Robotics - Rediff",
+    "description": "Source: Rediff",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JhSjl1TzFINHhrXzhFb3RueXBTeXgzRDdEMUtWOWFiVzFYQy1LcnVsTWZlS083VkRDZEtxNE4xZ2lMMTdUVDFGM3NJRmhNQlJjc0czVE13a0Y1MHZERnpjRktvOXozMkhSaGxnRkVDd19YLU1QeE1Zd1JHQ0dPdE45VmJIWlkydWI5a3FYNzJIa1JfNTNDLWg5UlNzRmFGQlVCZVVSZXR5ZnJUSlJ5YWYzSDMxbmxo0gG7AUFVX3lxTE1JYWVMc05NbENoR0VSOHZETktpVHh4RTRScFgtUUtkZ3ZNZTVZcmExVzBmYjdqazlOdGlNWXdIS2paR1ktYk9kUmlRbWlfVHRnejh0Q3hYUG1JaWI3c3RyNXBsYkdzMzR2YnVySE1Mc3YtRllOQWxlbl9UVV8tSTJuSU4xanZMb2RoSkRMZnM4eUxfR045THM2ZGNlQXlxOTkyOUVxeHlHc1RSR3NMZ1Y0N1Fwb29FeUJqalU?oc=5",
+    "source": "Rediff",
+    "date": "2026-11-22",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Robotics",
+    "priority": "medium",
+    "subcategory": "robotics"
+  },
+  {
+    "id": "96ad02e864a8",
+    "title": "Apollo Spectra Hospital Jaipur Unveils Meril’s MISSO Robotic-Assisted Surgery System - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnBNbFZ1NG9ZUmpYQXJ6VVNmUC1QNlgwa0k4R0JrcWhMS0Q1ZERFUGgwSnZJRGY0TkE3czRTNHlHQklvdFk0YUxuOFQyenJKQUFZY0g2TzFZLWhRMGNNbmctWkhQamdCVVg1OXZNdXJscDFRWlp3VG9Ta1FjMnd0dmVpN1Ftd011NFN2WDBHSkp1SXBROEFwYm1Qb2Q5dzVzSnJxNE1rV2Y5WDZlSXY2MkJ3R2NGamVhU0E?oc=5",
+    "source": "Digital Health News",
+    "date": "2026-11-22",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
+  },
+  {
     "id": "41f854c9b1a8",
     "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5 - TheWire.in",
     "description": "Source: TheWire.in",
@@ -494,6 +520,19 @@
     "subcategory": "startup"
   },
   {
+    "id": "9743e013ab70",
+    "title": "HealthTech - 2026 Market & Investments Trends - Tracxn",
+    "description": "Source: Tracxn",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5HeFpCdDhpVlVKbDIyQjJjS2llN3A3a0RSYndVRmt0cmxSYzIzYUpFZmVMNGlzZGJQa3g1WTU0Mjd1dkxvWC16dEctOFdXNEhUNFpOQ2VGRGVPWUxrYlFGYWtualVfVjlIbndyYWZaZjdsekx4VkljVFpUMGxsSDZvcnhwTUxCdGZpZWln?oc=5",
+    "source": "Tracxn",
+    "date": "2026-11-22",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Startup",
+    "priority": "medium",
+    "subcategory": "startup"
+  },
+  {
     "id": "09187759d863",
     "title": "How ISB DLabs’ I-HEAL is rewiring access for healthtech startups in India - YourStory.com",
     "description": "Source: YourStory.com",
@@ -505,6 +544,19 @@
     "tag_label": "Startup",
     "priority": "medium",
     "subcategory": "startup"
+  },
+  {
+    "id": "a3cae6126313",
+    "title": "India's Digital Health Funding Tracker: What Got Funded in July 2026 - Digital Health News",
+    "description": "Source: Digital Health News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5BdEVWZHVPX1dDZFZxQmdJZlMxQV8zdmNCRzZHNmduTE5EYUM0LWhwUjYwMHdDMkJ6ODdROWZ3NU1kNzl4ajdUZHpMRDFZamNCU3dwVnFOMkYydE9pbTJpbm9TRU4tTWs2UUlsbTBEd1FCdEkza0QtTEoyVlNrQXFYaERZZlFOWkxzR0dpUXNjY3oydXY0VklWenVmRzNRWkdF?oc=5",
+    "source": "Digital Health News",
+    "date": "2026-11-22",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "Telehealth",
+    "priority": "medium",
+    "subcategory": "telehealth"
   },
   {
     "id": "ac6f3b0ff0d3",
@@ -546,30 +598,17 @@
     "subcategory": "startup"
   },
   {
-    "id": "d6fa2b7b3445",
-    "title": "Top 10 HealthTech Startups in India - Digital Health News",
-    "description": "Source: Digital Health News",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQmRoQ2IySTJLUFBfd01iZzl1Zjl6SkZQbnVGbFJjbmZBOVZJX05OTFBqLUlOa3lFeWQ4aGF5OXF6T01YRWo1TjFKbm5LRF92MWJnRlkxcHpzV0V3ZXUyTnJNSDFhX3pHSDFPU0xjZzlxa1VnRENEdQ?oc=5",
-    "source": "Digital Health News",
+    "id": "e824341ebb0e",
+    "title": "India’s ₹10,000 crore startup fund opens door for health tech and MedTech innovation - Medical Buyer",
+    "description": "Source: Medical Buyer",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUN3akJYOGw1N0pWaW05aVJ3MDVjdzBSR1pieV9lSE9zOWRUQ0toX3kxWDVKR0RaZ2NMUUt1dldXWThiRk83MHhOM1JhUVR1c2M3MVpNZ3lYRFQ5YmVxMGxQc1FQSUpKYmhBUkg2VHZjUUpjaVNUS21qZ05BZjhRaVRQRHlNZ2EwRkVKZVAtRXg4VXNHR1ZmbHk1ZEdfQXNVV3RwNXMzdG1QTm9jUGtudUc1VmRVU2dGZXc?oc=5",
+    "source": "Medical Buyer",
     "date": "2026-11-22",
     "category": "tech",
     "tag": "tech",
-    "tag_label": "Telehealth",
+    "tag_label": "MedTech",
     "priority": "medium",
-    "subcategory": "telehealth"
-  },
-  {
-    "id": "19e529f74804",
-    "title": "Top 30 Funded Healthtech Startups In Gurugram (2026) - Inc42",
-    "description": "Source: Inc42",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHNieXdtd0JWVFN1bjNzZ09URWc5VFNidDBYdTJZNk52RTY4YUFHQTF3RXpLaVVjMjBRd0dRX3I3Q19sMFBmUFdWZjFzNlQ0M1BCR19hZXpNckJxQ1ZhRDhaTEFaaVJWaVNKU21ya1VtcTUyMS04VlpJVm9La1ZwVA?oc=5",
-    "source": "Inc42",
-    "date": "2026-11-22",
-    "category": "tech",
-    "tag": "tech",
-    "tag_label": "Startup",
-    "priority": "medium",
-    "subcategory": "startup"
+    "subcategory": "medtech"
   },
   {
     "id": "d38d0e24f973",
@@ -637,11 +676,37 @@
     "subcategory": "medtech"
   },
   {
+    "id": "e0f57ab01001",
+    "title": "US FDA to limit regulation of health and fitness wearables, commissioner says - Reuters",
+    "description": "Source: Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOTZjY0FlTTJJUEFSNzlVRjBXd2o3THg3dFZpQzFNUjNhc3pMUElXLW1ZcUJEemllYzhZSHRlcWFvZ1ZBdktadlNpZFUzUFhNdjRjV1FybnpRYW9aTk1ubl8tczNkbVZjV09QNHNoWUdXMnJNSVo4MHRFbnc3ZTU2cFZyZ3A0LW01c2VFdGQzWDdVeHV4bFk4b1pzTnBaY2tzbGF6ZDRGaXJsck1NUDVsaFM0M3JLUkttZ084bGdOelN5bnlkRXdVbGtrWHI4dmxNZlh5ZQ?oc=5",
+    "source": "Reuters",
+    "date": "2026-11-22",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "MedTech",
+    "priority": "medium",
+    "subcategory": "medtech"
+  },
+  {
     "id": "7daea82105f3",
     "title": "Drone Delivery in Indian Healthcare: The New Lifeline to Reach the Remote? - Nasscom",
     "description": "Source: Nasscom",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUh1SHhVZ1hvLU1yWXNPVXBNVDlJVFlwaG92cVpxVUxDOGZFY3d2ZlNXUUtVRE5RWER2QVFObWhldFdVeWlzd2s4OEtaZGZGX0VlTXNJdnJNV1A0eUFYX2xwWm8zaDhMUW5UNjBzSURnb0tGdE5ZZWNPcFp5MTFPMmhHWjJGZS1mZ2FIWEEzNk04Tl96OG8telhJS0RfVXNvZnBBMThEYnR4TWJ2ZEg5NElFaw?oc=5",
     "source": "Nasscom",
+    "date": "2026-11-22",
+    "category": "tech",
+    "tag": "tech",
+    "tag_label": "AI / ML",
+    "priority": "medium",
+    "subcategory": "ai"
+  },
+  {
+    "id": "6308ee03bd26",
+    "title": "Medical Drone Delivery Services Market Size, Report 2035 - Global Market Insights Inc.",
+    "description": "Source: Global Market Insights Inc.",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcXJwa21HNndqc2poSENvcVZWQld2eHVhQVJjTkh0X3lPMWFKbkNzTjhpUmU0Vk9CX0Vkc1NfU3JYc21PcFhmQXJHaFo0cDRyallaWnpGZ0QxSEo4ZXB0Q2NiQWtCZnBsTktVMTBzRWcxbFlpLTQ4Q0Y2eFZpR0VPbWh3bmYwSXVnRGM0?oc=5",
+    "source": "Global Market Insights Inc.",
     "date": "2026-11-22",
     "category": "tech",
     "tag": "tech",
