@@ -1,17 +1,5 @@
 [
   {
-    "id": "6ebba1176b80",
-    "title": "Supreme Court Pushes for Pharma Marketing Regulation - Frontline Magazine",
-    "description": "Source: Frontline Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkVsc2p1SE5NSEsxak5NSE45Z0hURVlWLUt2QlB2aHoxSG1XNVRJUXF6TzZKQml6eXBEQ1o3OVdjbVJoZzhoalM3Sm1uQUFVcUlOa1FlLVpsYVNYYm03RWp0cWJNc2FYVURUemN6bUxVTXlQVWJHN19lSHl6bklNNDIxN05UMk0wOWxrRTMySlhPTU1CNzdVRTZFSmdiNjcxU2VyTXp2ZG4zdTDSAbIBQVVfeXFMT0Eyay1qMUZMVk1BZmdJWFk3YnQwLWpneTFPanVnNHlzemJFZm1ESUVQLW00bjNDUks4RHktMURFemdnVUlDb0tzbHBCTWVUTDk4d0ZNNWNrdFAwWHYzakk4aGhqZmtXWGpLV2ZvbHAtajQ4TU1HT0hYWEJ1eHlySDhBLTlfdG50Q0lQQWNFWVNNWVJ2U082bWhYWGNYc2ozQ2ZXb0FtdFdpVTNEdWZGRzNfZw?oc=5",
-    "source": "Frontline Magazine",
-    "date": "2026-11-23",
-    "category": "regulations",
-    "tag": "regulation",
-    "tag_label": "Regulation",
-    "priority": "medium"
-  },
-  {
     "id": "1ed3e916aa10",
     "title": "Indian court rejects bid to release hunger-striking activist from hospital - Al Jazeera",
     "description": "Source: Al Jazeera",
@@ -24,11 +12,11 @@
     "priority": "medium"
   },
   {
-    "id": "d0f629db5f78",
-    "title": "Philips Future Health Index 2026: AI is already saving clinicians time and delivering measurable impact in healthcare - Philips",
-    "description": "Source: Philips",
-    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdUwzdXZoY3Rid2diTUl4ZUd4aHlESXpKTDIwcXhSakhoYkQ0dWN5dWtra2o3U18wRElLcDUwUXlWNTNBSGhYbXBhcTRuWGRORnRjdFlEaVRoYlQ5VHFqVVlaNlh6djM5QkdtTjU3TUVDbnliSF9XdFJsUnJTZVJoOTdweDNLRE9LeEN5ZFpHSUhNOWRWOUNNaE53UTZRbmZUdFhjU3o4RlZBYi1rbWc2bmRCME9Rb0VEeUx2QUtSVkdUQ3VsdXBsTXp0dWFBT3hTQkx0RndnRmZQZFI0QkdjUW9vLUxYeWllMkoxOWJvcGFZN0oxdDFiRUx0NjdHeHE2QUlWNER3ZElETmRWei1OZVN2UUVMVC0zY0dEZmhR?oc=5",
-    "source": "Philips",
+    "id": "7f91e5355752",
+    "title": "Police shift fasting Indian activist to hospital against his will - Reuters",
+    "description": "Source: Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG5mUHd5MG1YMndrXy15VXBUWVJKb01USzh0czVERjBmSXAteG5DeW4yV2xZVlpFX3EwT0pOWU9EV29GX2N6enc3WUZTNnlTbDNYajdHTldxRXR1SjU5UXJLdVJaTFlUcUhBUS0xNXBzWGxNMTRXN3l4ZUprT3ZlMGNXT2lWZldkWTc2Z2p1UDJ5SjdPQVRIdThXcDhnTGNGZ2lZQ1NR?oc=5",
+    "source": "Reuters",
     "date": "2026-11-23",
     "category": "regulations",
     "tag": "regulation",
@@ -36,11 +24,11 @@
     "priority": "medium"
   },
   {
-    "id": "d7e214a092ea",
-    "title": "Digital first primary care in NHS England: evaluating alignment with patient-centered care and implications for future practice - Frontiers",
-    "description": "Source: Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjZDc084Mk9UUFJsSmxVdXFkdUtpME4wRlNwMWZza3RHcHotdmxXZXgtLW02Zjhha3VUYjVuWXJ0bDBNVGpzcllMZmphU1NtdE40d3pybmEwdmdZcHliMVU0al9tYURNTEpmVnY0aFJtUGlCc3pVN001S1Y5bEFfZmV2azhYOE12bUJYMnRVaTk2b2M4Tmhz?oc=5",
-    "source": "Frontiers",
+    "id": "d0f629db5f78",
+    "title": "Philips Future Health Index 2026: AI is already saving clinicians time and delivering measurable impact in healthcare - Philips",
+    "description": "Source: Philips",
+    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdUwzdXZoY3Rid2diTUl4ZUd4aHlESXpKTDIwcXhSakhoYkQ0dWN5dWtra2o3U18wRElLcDUwUXlWNTNBSGhYbXBhcTRuWGRORnRjdFlEaVRoYlQ5VHFqVVlaNlh6djM5QkdtTjU3TUVDbnliSF9XdFJsUnJTZVJoOTdweDNLRE9LeEN5ZFpHSUhNOWRWOUNNaE53UTZRbmZUdFhjU3o4RlZBYi1rbWc2bmRCME9Rb0VEeUx2QUtSVkdUQ3VsdXBsTXp0dWFBT3hTQkx0RndnRmZQZFI0QkdjUW9vLUxYeWllMkoxOWJvcGFZN0oxdDFiRUx0NjdHeHE2QUlWNER3ZElETmRWei1OZVN2UUVMVC0zY0dEZmhR?oc=5",
+    "source": "Philips",
     "date": "2026-11-23",
     "category": "regulations",
     "tag": "regulation",
